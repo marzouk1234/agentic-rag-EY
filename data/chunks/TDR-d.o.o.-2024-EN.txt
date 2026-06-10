@@ -1,0 +1,319 @@
+
+===== CHUNK 0 =====
+--- Page 1 ---
+
+Name and registered office of a single subsidiary 
+undertaking which has published the report on income 
+tax information of an undertaking that is not governed 
+by the law of a Member State
+TDR d.o.o.
+Obala Vladimira Nazora 1
+52210 Rovinj
+Republic of Croatia
+Name of the ultimate parent of the group / of the 
+standalone undertaking British American Tobacco p.l.c
+Country where the ultimate parent has its registered 
+office United Kingdom
+Financial Year – start date 2024-01-01
+Financial Year – end date 2024-12-31
+Reporting currency GBP
+Is the information in the report based on reporting 
+instructions used for tax purposes, pursuant to Section 
+III, Parts B and C, of Annex III to Council Directive 
+2011/16/EU as implemented in the national law?
+Yes
+REPORT ON CORPORATE INCOME TAX INFORMATION
+for the year ending 31 December 2024
+British American Tobacco Group
+Section 1 – General information
+
+
+--- Page 2 ---
+
+===== CHUNK 1 =====
+Tax jurisdiction Country code Revenues Profit (loss) before 
+income tax
+Income tax paid – on 
+cash basis
+Income tax accrued – 
+current year
+Accumulated 
+earnings Number of employees
+Austria AT                    93,318,777                      4,527,030                          598,337                      1,150,189                    3,429,384                                   31 
+Belgium BE                    95,942,093                      8,005,823                      4,635,611                      3,134,552 -                  3,318,559                                   90 
+Bulgaria BG                  111,443,891                      4,505,563                          407,407                                    -   -                27,325,640                                 110 
+Croatia HR                  238,921,706                    20,949,394                            80,036                      2,361,486                  20,669,071                              1,304
+
+===== CHUNK 2 =====
+Croatia HR                  238,921,706                    20,949,394                            80,036                      2,361,486                  20,669,071                              1,304 
+Cyprus CY                          120,913                            33,442                                    -                                      -   -                  1,770,978                                    -   
+Czechia CZ                  189,329,263                      7,827,961                      2,241,195                      3,548,260 -                  4,576,540                                 255 
+Denmark DK                  241,850,169                    41,655,592                    26,382,430                    17,918,632            1,210,753,834                                 158
+
+===== CHUNK 3 =====
+Denmark DK                  241,850,169                    41,655,592                    26,382,430                    17,918,632            1,210,753,834                                 158 
+Estonia EE                      1,533,978 -                       133,819                                    -                              27,592 -                  2,689,527                                      2 
+Eswatini SZ                              7,804 -                       125,692                                    -                                      -   -                     161,188                                    -   
+Fiji FJ                    60,301,567                    36,806,688                      9,341,110                      9,259,349                  26,367,674                                 151
+
+===== CHUNK 4 =====
+Fiji FJ                    60,301,567                    36,806,688                      9,341,110                      9,259,349                  26,367,674                                 151 
+Finland FI                    30,040,121                          464,071                                    -                                      -   -                  2,798,252                                   12 
+France FR                  246,331,592                      7,996,191                      3,462,055                      2,382,843                    9,941,568                                 227 
+Germany DE               1,349,928,067                  221,316,384                    67,242,900                    54,948,558                471,661,728                                 758
+
+===== CHUNK 5 =====
+Germany DE               1,349,928,067                  221,316,384                    67,242,900                    54,948,558                471,661,728                                 758 
+Greece GR                    78,877,526                      1,646,882                      1,288,377                          837,432                    3,786,319                                   97 
+Hungary HU                  190,660,952                    37,595,091                      3,225,821                      3,988,708                  76,586,068                              1,007 
+Ireland IE                    32,641,135                      6,966,332                          980,498                      1,595,965                  61,627,532                                   22 
+Italy IT                  620,804,726                  105,917,292                      8,778,535                    16,224,330                541,926,457                                 570
+
+===== CHUNK 6 =====
+Italy IT                  620,804,726                  105,917,292                      8,778,535                    16,224,330                541,926,457                                 570 
+Latvia LV                      3,681,425 -                       433,781                              7,603                            28,944 -                  4,886,561                                      5 
+Lithuania LT                      5,409,804 -                         48,415                                    -                              16,929 -                     362,310                                      6 
+Luxembourg LU                    57,840,211                      3,978,495 -                       417,206                            90,643                    1,173,240                                    -
+
+===== CHUNK 7 =====
+Malaysia MY                  263,717,849                    47,546,514                    11,904,146                    13,231,204                  99,432,211                              1,322 
+Malta MT                    18,707,592                      1,443,917                          176,787                          470,197                    2,632,235                                   11 
+Netherlands (the) NL                  193,906,383                    20,709,144                      6,406,120                    13,235,307            2,801,459,612                                   90 
+Norway NO                  191,572,313                    68,721,712                    18,963,696                    14,993,051                  54,288,855                                   37
+
+===== CHUNK 8 =====
+Norway NO                  191,572,313                    68,721,712                    18,963,696                    14,993,051                  54,288,855                                   37 
+Panama PA                    44,753,325                      6,366,177                            86,717                            90,064                  48,697,484                                      3 
+Poland PL                  612,671,678                    58,230,928                      9,913,225                      6,823,905 -                48,232,899                              3,288 
+Portugal PT                                    -   -                         21,723                                    -                                      -                            60,134                                    -
+
+===== CHUNK 9 =====
+Romania RO                  994,117,596 -                321,523,806                    12,012,628                    13,097,417 -             331,928,723                              3,319 
+Samoa WS                    17,027,512                      9,847,724                      2,640,650                      2,674,650                    3,780,567                                   37 
+Slovakia SK                    35,478,784                      4,659,874                          520,285                                    -                                    -                                      -   
+Spain ES                  238,041,768                      1,009,803                      3,534,995                      2,569,496                  10,020,327                                 259
+
+===== CHUNK 10 =====
+Spain ES                  238,041,768                      1,009,803                      3,534,995                      2,569,496                  10,020,327                                 259 
+Sweden SE                  344,093,507                    89,563,858                    10,825,845                    18,198,531                140,333,158                                 342 
+Trinidad and Tobago TT                    77,175,119                    32,235,514                      9,289,877                      9,823,531                  49,114,036                                 217 
+Turkey TR                  808,939,877                  136,393,468                    24,347,277                    21,555,756                168,406,314                              1,357 
+Viet Nam VN                  323,849,639                    57,206,809                    10,617,535                      9,264,491                  54,572,959                                 260
+
+===== CHUNK 11 =====
+Viet Nam VN                  323,849,639                    57,206,809                    10,617,535                      9,264,491                  54,572,959                                 260 
+           51,233,928,690               3,596,905,356               1,592,407,576               2,273,674,980        130,914,160,111                            33,307 
+Section 2 – Overview of information on a country-by-country basis
+All other tax jurisdictions (aggregated basis)
+
+===== CHUNK 12 =====
+--- Page 3 ---
+
+===== CHUNK 13 =====
+Member State or tax 
+jurisdiction Country code Name of each entity undertaking in the Member State or tax jurisdiction Brief description of the nature of activities in the Member State or tax 
+jurisdiction
+Austria AT British American Tobacco (Austria) GmbH Sales, Marketing or Distribution / Administrative, Management or Support 
+Services
+Belgium BE British American Tobacco Belgium NV Holding or Managing Intellectual Property / Sales, Marketing or Distribution
+Bulgaria BG British American Tobacco Trading EOOD Sales, Marketing or Distribution
+Croatia HR BAT HRVATSKA doo
+Croatia HR Hrvatski Duhani d.d.
+Croatia HR iNovine d.d.
+Croatia HR TDR d.o.o
+Cyprus CY BAT (Cyprus) Limited
+Cyprus CY Rothmans (Middle East) Limited
+Czechia CZ British American Tobacco (Czech Republic) sro Sales, Marketing or Distribution / Administrative, Management or Support 
+Services
+Denmark DK British American Tobacco Denmark A/S (House of Prince AS)
+Denmark DK Precis (1789) Denmark A/S
+
+===== CHUNK 14 =====
+Services
+Denmark DK British American Tobacco Denmark A/S (House of Prince AS)
+Denmark DK Precis (1789) Denmark A/S
+Estonia EE British American Tobacco Estonia AS Administrative, Management or Support Services
+Eswatini SZ British American Tobacco Swaziland (Pty) Ltd Sales, Marketing or Distribution
+Fiji FJ Central Manufacturing Company Pte Limited
+Fiji FJ Rothmans of Pall Mall (Fiji) Pte Limited
+Finland FI British American Tobacco Finland Oy Sales, Marketing or Distribution
+France FR British American Tobacco France SAS
+France FR Carreras France SAS
+Germany DE BATIG Gesellschaft fur Beteiligungen mbH
+Germany DE British American Tobacco (Industrie) GmbH
+Germany DE British-American Tobacco (Germany) GmbH
+Germany DE Quantus GmbH
+Greece GR British American Tobacco Hellas SA Sales, Marketing or Distribution
+Hungary HU BAT Pécsi Dohánygyár Korlátolt Felelosségu Társaság Holding or Managing Intellectual Property / Manufacturing or Production /
+
+===== CHUNK 15 =====
+Hungary HU BAT Pécsi Dohánygyár Korlátolt Felelosségu Társaság Holding or Managing Intellectual Property / Manufacturing or Production / 
+Sales, Marketing or Distribution / Holding shares or other equity instruments
+Ireland IE Carroll Group Distributors Limited
+Ireland IE PJ Carroll & Company Ltd
+Ireland IE Rothmans of Pall Mall (Ireland) Ltd
+Italy IT BAT Trieste S.p.A.
+Italy IT British American Tobacco Italia SPA
+Section 3 – List of entities and activities
+Manufacturing or Production / Sales, Marketing or Distribution / Holding 
+shares or other equity instruments
+Holding or Managing Intellectual Property / Manufacturing or Production / 
+Sales, Marketing or Distribution / Administrative, Management or Support 
+Services / Internal Group Finance / Dormant
+Sales, Marketing or Distribution / Holding shares or other equity instruments
+Holding or Managing Intellectual Property / Sales, Marketing or Distribution / 
+Holding shares or other equity instruments
+
+===== CHUNK 16 =====
+Holding or Managing Intellectual Property / Sales, Marketing or Distribution / 
+Holding shares or other equity instruments
+Sales, Marketing or Distribution / Holding shares or other equity instruments
+Holding or Managing Intellectual Property / Manufacturing or Production / 
+Sales, Marketing or Distribution / Administrative, Management or Support 
+Services / Holding shares or other equity instruments
+Sales, Marketing or Distribution / Holding shares or other equity instruments 
+/ Dormant
+Holding or Managing Intellectual Property / Manufacturing or Production / 
+Sales, Marketing or Distribution
+
+===== CHUNK 17 =====
+--- Page 4 ---
+
+===== CHUNK 18 =====
+Member State or tax 
+jurisdiction Country code Name of each entity undertaking in the Member State or tax jurisdiction Brief description of the nature of activities in the Member State or tax 
+jurisdiction
+Latvia LV British American Tobacco Latvia SIA Administrative, Management or Support Services
+Lithuania LT UAB British American Tobacco Lietuva Administrative, Management or Support Services
+Luxembourg LU British American Tobacco Belgium NV - Belgium PE
+Luxembourg LU British American Tobacco Brands (Switzerland) Limited
+Malaysia MY BAT ASPAC Service Centre Sdn Bhd
+Malaysia MY British American Tobacco (Malaysia) Berhad
+Malaysia MY British American Tobacco GSD (Kuala Lumpur) Sdn Bhd
+Malaysia MY British American Tobacco Malaysia Foundation
+Malaysia MY Commercial Marketers and Distributors Sdn Bhd
+Malaysia MY Tobacco Importers & Manufacturers Sdn Bhd
+Malta MT British American Tobacco (Malta) Limited
+Malta MT Central Cigarette Company Limited
+
+===== CHUNK 19 =====
+Malaysia MY Tobacco Importers & Manufacturers Sdn Bhd
+Malta MT British American Tobacco (Malta) Limited
+Malta MT Central Cigarette Company Limited
+Malta MT Rothmans Of Pall Mall (Malta) Limited
+Netherlands (the) NL Aruba Properties BV
+Netherlands (the) NL B.A.T. Nederland B.V.
+Netherlands (the) NL B.A.T. Netherlands Finance BV
+Netherlands (the) NL British American Tobacco European Operations Centre BV
+Netherlands (the) NL British American Tobacco Exports BV
+Netherlands (the) NL British American Tobacco Holdings (Australia) BV
+Netherlands (the) NL British American Tobacco Holdings (Malaysia) BV
+Netherlands (the) NL British American Tobacco Holdings (South Africa) BV
+Netherlands (the) NL British American Tobacco Holdings (The Netherlands) BV
+Netherlands (the) NL British American Tobacco Holdings (Venezuela) BV
+Netherlands (the) NL British American Tobacco Holdings (Vietnam) BV
+Netherlands (the) NL British American Tobacco International (Holdings) BV
+
+===== CHUNK 20 =====
+Netherlands (the) NL British American Tobacco Holdings (Vietnam) BV
+Netherlands (the) NL British American Tobacco International (Holdings) BV
+Netherlands (the) NL Molensteegh Invest BV
+Netherlands (the) NL Precis (1790) BV
+Netherlands (the) NL Rothmans Far East BV
+Netherlands (the) NL Rothmans International Holdings BV
+Netherlands (the) NL Rothmans Tobacco Investments BV
+Netherlands (the) NL Rothmans UK Holdings BV
+Norway NO British American Tobacco Norway AS Sales, Marketing or Distribution
+Panama PA BAT Caribbean SA
+Panama PA British American Tobacco Central America SA
+Panama PA British American Tobacco Panama S.A.
+Panama PA Tabacalera Istmena SA
+Sales, Marketing or Distribution / Holding shares or other equity instruments 
+/ Dormant
+Holding or Managing Intellectual Property / Manufacturing or Production / 
+Sales, Marketing or Distribution / Administrative, Management or Support 
+Services / Holding shares or other equity instruments / Other
+Sales, Marketing or Distribution / Dormant
+
+===== CHUNK 21 =====
+Sales, Marketing or Distribution / Administrative, Management or Support 
+Services / Holding shares or other equity instruments / Other
+Sales, Marketing or Distribution / Dormant
+Holding or Managing Intellectual Property / Manufacturing or Production / 
+Sales, Marketing or Distribution / Administrative, Management or Support 
+Services / Internal Group Finance / Holding shares or other equity 
+instruments / Dormant / Other
+Sales, Marketing or Distribution / Administrative, Management or Support 
+Services
+
+===== CHUNK 22 =====
+--- Page 5 ---
+
+===== CHUNK 23 =====
+Member State or tax 
+jurisdiction Country code Name of each entity undertaking in the Member State or tax jurisdiction Brief description of the nature of activities in the Member State or tax 
+jurisdiction
+Poland PL BAT DBS Poland sp. Z.o.o.
+Poland PL British American Tobacco Polska SA
+Poland PL British American Tobacco Polska Trading Sp Z.o.o
+Poland PL Chic Sp.z o.o.
+Poland PL eSmoking Institute Sp.z o.o.
+Poland PL eSmoking Liquids Sp.z o.o.
+Poland PL Nicoventures Poland sp. Zoo
+Portugal PT British American Tobacco Espana SA - Spain PE
+Portugal PT COTAPO Empreendimentos Commerciais e Industriais S.A.
+Portugal PT Sociedade Unificada de Tabacos Limitada
+Romania RO BRITISH AMERICAN GBS RECRUITMENT S.R.L.
+Romania RO British American Shared Services (Europe) SRL
+Romania RO British American Tobacco (Romania) Investments SRL
+Romania RO British American Tobacco (Romania) Trading SRL
+
+===== CHUNK 24 =====
+Romania RO British American Shared Services (Europe) SRL
+Romania RO British American Tobacco (Romania) Investments SRL
+Romania RO British American Tobacco (Romania) Trading SRL
+Samoa WS British American Tobacco Company (Samoa) Limited Manufacturing or Production / Sales, Marketing or Distribution
+Slovakia SK BAT (Czech Republic)s.r.o - Slovak PE Sales, Marketing or Distribution
+Spain ES British American Tobacco Espana SA Sales, Marketing or Distribution
+Sweden SE British American Tobacco Sweden AB
+Sweden SE Fiedler & Lundgren AB
+Sweden SE Niconovum AB
+Trinidad and Tobago TT The West Indian Tobacco Company Limited Manufacturing or Production / Sales, Marketing or Distribution
+Turkey TR British American Tobacco Exports BV - Netherlands PE
+Turkey TR British American Tobacco Tutun Mamulleri Sanayi ve Ticaret AS
+Vietnam VN BAT Vietnam Limited - United Kingdom PE
+Vietnam VN Branch of Vina - BAT Joint Venture Company Limited at HCMC
+Vietnam VN British American Tobacco -Vinataba (JV)
+
+===== CHUNK 25 =====
+Vietnam VN BAT Vietnam Limited - United Kingdom PE
+Vietnam VN Branch of Vina - BAT Joint Venture Company Limited at HCMC
+Vietnam VN British American Tobacco -Vinataba (JV)
+Vietnam VN East Asia Area Services Company Limited
+Vietnam VN Vina - BAT Joint Venture Company  Limited
+Research and Development / Holding or Managing Intellectual Property / 
+Manufacturing or Production / Sales, Marketing or Distribution
+Manufacturing or Production / Sales, Marketing or Distribution
+Manufacturing or Production / Sales, Marketing or Distribution / 
+Administrative, Management or Support Services / Dormant
+Holding or Managing Intellectual Property / Manufacturing or Production / 
+Sales, Marketing or Distribution / Administrative, Management or Support 
+Services / Holding shares or other equity instruments / Dormant / Other
+Sales, Marketing or Distribution / Holding shares or other equity instruments 
+/ Dormant
+Manufacturing or Production / Sales, Marketing or Distribution /
+
+===== CHUNK 26 =====
+Sales, Marketing or Distribution / Holding shares or other equity instruments 
+/ Dormant
+Manufacturing or Production / Sales, Marketing or Distribution / 
+Administrative, Management or Support Services
+
+===== CHUNK 27 =====
+--- Page 6 ---
+
+Section 4 – Omitted information
+Information omitted (if any) for this financial year:
+Not the case
+Information omitted in previous financial years, which is disclosed in this financial year (if any):
+Not the case

@@ -1,0 +1,867 @@
+
+===== CHUNK 0 =====
+--- Page 1 ---
+
+ 
+ 
+Fonds pour  
+la promotion des 
+études préalables 
+études transversales 
+évaluations 
+ 
+Groupe de recherche et 
+d’échanges technologiques 
+Préparer les termes de 
+référence d’une évaluation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Daniel NEU 
+GRET 
+
+
+--- Page 2 ---
+
+===== CHUNK 1 =====
+Cette petite note est destinée à aider ceux et celles qui doivent  contribuer à l’élaboration des 
+termes de ré férences d’une évaluation. La dive rsité des démarches évaluatives, de leur objet 
+et de leur contexte rend un peu illusoi re l’élaboration d’un texte « généraliste » adapté à tous 
+les cas de figure. 
+Celui qui suit se réfère surtout à des démarc hes d’évaluation externe d’opération de dévelop-
+pement. (Ces évaluations, généralement réalisées sous la fo rme de mission s de quelque s se-
+maines, impliquent trois acteurs : un commanditaire, un évaluateur et un  maître d’œuvre de 
+l’opération évaluée)1. 
+I. LA COMMANDE D’UNE PRESTATION SUR MESURE 
+1. Quoi ? Qui ? quand ? et Pourquoi ? 
+On appelle généralement « termes de références » le document de quelques pages qui permet 
+au commanditaire d’une évaluation de passer commande à un évaluateur, et de lui expli-
+quer ce qu’il veut et pourquoi il le veut.
+
+===== CHUNK 2 =====
+au commanditaire d’une évaluation de passer commande à un évaluateur, et de lui expli-
+quer ce qu’il veut et pourquoi il le veut. 
+La rédaction de ce document est une des premières étape de la mise  en oeuvre d’une éva-
+luation. Elle conclut une phase de réflexion et d’animation préalable qui permet de formaliser 
+les attentes qui sont à l ’origine de la comm ande de l ’évaluation. Elle prépare la deuxième 
+étape de la mise en œuvre, l ’élaboration de la note méthodologique (2). Cette dernière sera  
+rédigée par l’évaluateur (ou par les candidats évaluateurs dans le cas d’un appel d’offres). Elle 
+permettra à ce dernier d’expliquer en détail au commanditaire la méthode et la démarche qu’il 
+compte utiliser pour réaliser le travail qui va lui être confié. 
+Même dans le cas d ’une auto évaluation, mieux vaut séparer l’élaboration des termes de réfé-
+rences et la rédaction d ’une note m éthodologique. La distinction entre le « qu’est-ce q u’on
+
+===== CHUNK 3 =====
+Même dans le cas d ’une auto évaluation, mieux vaut séparer l’élaboration des termes de réfé-
+rences et la rédaction d ’une note m éthodologique. La distinction entre le « qu’est-ce q u’on 
+veut faire » et le « comment va-t-on le faire » est une règle méthodologique assez  saine. 
+La responsabilité de l’élaboration des termes de références incombe donc au commandi-
+taire de l’évaluation. C’est souvent un des maîtres d’ouvrage de l’opération évaluée. Il peut y 
+associer d’autres acteurs, le maître d’œuvre, ses partenaires, les acteurs locaux impliqués... La 
+préparation des term es de référence devient alors un exercice collectif parfois com plexe. Cet 
+exercice sera une des étapes clefs des évaluations dites participatives. En théorie, le futur éva-
+luateur ne doit pas intervenir à ce stade. Si le commanditaire a besoin d’aide, cette préparation 
+demande quelques notions sur l’évaluation, il peut faire appel à un autre « professionnel ». La
+
+===== CHUNK 4 =====
+luateur ne doit pas intervenir à ce stade. Si le commanditaire a besoin d’aide, cette préparation 
+demande quelques notions sur l’évaluation, il peut faire appel à un autre « professionnel ». La 
+déontologie interdit alors à ce dernier de participer directement à l’évaluation. 
+La rédaction des termes de références doit permettre au commanditaire d’être lui même au 
+clair sur ce qu’il attend de l’évaluation, et de communiquer avec les futurs évaluateurs. 
+ 
+1 Nota : Les bailleurs institutio nnels et les org anismes qui financent des éval uations, comme, en France, le F3E, 
+imposent souvent leur propre grille pour la ré daction des termes de références des évaluations. Il faut d onc se 
+référer spécifiquement à ces grilles dès lors qu’ils sont parties prenantes de l’évaluation. On trouvera en annexe 
+la grille proposée actuellement par le F3E. 
+2 CF. le schéma « les différentes étapes d’une évaluation » en annexe à cette note 
+ 2
+
+===== CHUNK 5 =====
+--- Page 3 ---
+
+===== CHUNK 6 =====
+Comme toute comm ande d’un service « sur mesure », les term es de références doiven t être 
+clairs, fidèles, complets, et cohérents. 
+ Clairs, l’évaluateur doit évidemment pouvoir comprendre la commande pour la satisfaire. 
+ Fidèles, les termes de références traduisent effectivement les attentes du commanditaires et 
+informent objectivement les candidats évaluateurs de l’opération à évaluer et de son contexte. 
+ Complets, les termes de références doivent contenir tous les éléments nécessaires pour bâtir 
+une note méthodologique de qualité. 
+ Cohérents, les objectifs d’une évaluation doivent être cohérents entre eu x et cohérents avec 
+les moyens prévus pour la réaliser. Les term es de références pêchent souvent par manque de 
+cohérence :  
+- Les commanditaires « pluriels » ne réussissent pas toujours à faire la synthèse des 
+objectifs et des points de vue divergents des différentes catégories de personnes ou
+
+===== CHUNK 7 =====
+cohérence :  
+- Les commanditaires « pluriels » ne réussissent pas toujours à faire la synthèse des 
+objectifs et des points de vue divergents des différentes catégories de personnes ou 
+d’institutions qu’ils rassemblent. Ils se contentent souve nt d’en faire la somme. 
+Cette somme n’a aucune raison d’être spontanément cohérente. 
+- Pluriels ou singuliers, les commanditaires éprouvent souvent des difficultés à choi-
+sir leurs pri orités et à évaluer le tem ps de travail nécessaire pour satisfaire leur 
+commande. Ils fixent alo rs aux évaluations des objectifs contradictoires avec les 
+moyens dont ils disposent. 
+« La qualité d’une évaluation dépend à 50% de celle de ces termes de références », dit-on 
+souvent. Ceux-ci  vont être déterminant dans le dialogue commanditaire/évaluateur. Ils consti-
+tuent le principal, voire le seul élément dont l’évaluateur va disposer pour élaborer sa méthode
+
+===== CHUNK 8 =====
+souvent. Ceux-ci  vont être déterminant dans le dialogue commanditaire/évaluateur. Ils consti-
+tuent le principal, voire le seul élément dont l’évaluateur va disposer pour élaborer sa méthode 
+et sa dém arche. Il sera so uvent choisi en fonc tion de ses réactions aux term es de références,  
+notamment dans le cas d’appel d’offres. 
+2. Un document qui comporte trois grands éléments 
+Pour satisfaire son c ommanditaire, l’évaluateur a d ’abord besoin de com prendre globalement 
+le travail qui lui est demandé, ensuite de connaître en détail les attentes qu ’il doit satisfaire,  
+enfin pouvoir tenir compte des contraintes qui lui seront imposées. 
+Les termes de références sont donc, en général, organisés en trois grandes parties, même si la 
+diversité des projets et des modes d’évaluation ne permet pas de proposer un « plan type »3. 
+ 
+Ö Une présentation générale des constituants de l’évaluation 
+- La présentation rapide du contexte et donc la nature de l’évaluation commanditée.
+
+===== CHUNK 9 =====
+Ö Une présentation générale des constituants de l’évaluation 
+- La présentation rapide du contexte et donc la nature de l’évaluation commanditée. 
+- Une description détaillée de l’objet à évaluer (en particulier des acteurs qui y sont 
+associés). 
+- Une présentation des attentes du commanditaire et des objectifs de l’évaluation. 
+- Les références constitutives de l’évaluation. 
+ 
+3 CF note 1 ci-dessus : Ce s trois élé ments ne  correspondent pas forcé ment aux grande s parties des plan s ty pes 
+imposés par les partenaires financiers des évaluations. Celui demandé par le F3E par exemple distingue d’une 
+part ce qui concerne le « projet » et d’autre part ce qui concerne l’évaluation. Mais on y retrouve les principaux 
+éléments listés ci-dessus. 
+ 3
+
+===== CHUNK 10 =====
+--- Page 4 ---
+
+===== CHUNK 11 =====
+Ö Des précisions sur le contenu de l a commande (les q uestions évaluatives, les élém ents de 
+méthodes) 
+- Les principales questions évaluatives, et des principaux critères d’évaluations. 
+- Les indications sur les méthodes souhaitées. 
+- Les attentes particulières en terme de restitution et de rendu. 
+ 
+Ö Des précisions sur les aspects pratiques de l’évaluation 
+- L’organisation de l ’interface commanditaire / évalué / évaluateur (interlocuteurs, 
+éventuels comité de pilotage). 
+- Les principales contraintes (durée totale, durée des différentes phases, contraintes  
+de calendrier). 
+- La composition de l’équipe d’évaluation (nombre et profil des évaluateurs). 
+- Le budget disponible. 
+- Les rendus attendus (le contenu des rapports, leurs caractéristiques techniques, leur 
+processus de validation). 
+- D’éventuelles précisions contractuelles (qui peuvent constituer un document à part 
+dans le cas d’appel d’offres).
+
+===== CHUNK 12 =====
+processus de validation). 
+- D’éventuelles précisions contractuelles (qui peuvent constituer un document à part 
+dans le cas d’appel d’offres). 
+Des annexes peuvent être jointes aux documents rédigés pour apporter plus de précisions sur 
+l’objet évalué. 
+II. LES PRINCIPAUX ELEMENTS DES TERMES DE REFERENCES 
+1. La présentation générale des constituants l’évaluation 
+Pour être complète, cette présentation devrait comporter quatre courts paragraphes. 
+1.1 L’introduction : la présentation synthétique du contexte et de la nature de 
+l’évaluation 
+En quelques lignes, ce chapitre va situer l ’évaluation et en présenter succinctement les princi-
+paux éléments. Ceux-ci seront ensuite décrits plus en détails. 
+Le commanditaire 
+Selon le contexte et la per sonnalité du commanditaire, il peut être nécessaire qu’il commence 
+par se présenter très succinctement. 
+L’objet évalué, sa nature et ses principales caractéristiques
+
+===== CHUNK 13 =====
+Selon le contexte et la per sonnalité du commanditaire, il peut être nécessaire qu’il commence 
+par se présenter très succinctement. 
+L’objet évalué, sa nature et ses principales caractéristiques 
+L’évaluation peut porter sur un projet , une institut ion, un programm e, un dispositif, des élé-
+ments de politique… 
+ 4
+
+===== CHUNK 14 =====
+--- Page 5 ---
+
+===== CHUNK 15 =====
+Cet objet peut être caractérisé rapidem ent par sa localisation, son antériorité, son âge, ses dif-
+férents prota gonistes, son cadre institutionnel, ses différentes phases, leurs durées et  leurs 
+budgets… 
+Un événement, une finalité, quelques objectifs, ou des enjeux majeurs, expliquent souvent une 
+grande partie de sa « personnalité ». 
+Le contexte, le positionnement, les protagonistes de l’évaluation 
+L’évaluation peut s’insérer dans un processu s prévu à l’ avance, correspondre à une pratique 
+systématique, ou au contraire avoir été déclenchée pour faire face à un événement imprévu. 
+Elle peut se dérouler pen dant, à la fin, quelques te mps après un projet ou un programme. Elle 
+peut intervenir à une étape particulière d ’un processus ou c orrespondre à u n tournant dans la 
+vie d’une l’institution ou du développement d’un dispositif… 
+Elle peut correspondre à la volonté d ’un seul commanditaire ou traduire la décision collective
+
+===== CHUNK 16 =====
+vie d’une l’institution ou du développement d’un dispositif… 
+Elle peut correspondre à la volonté d ’un seul commanditaire ou traduire la décision collective 
+de plusieurs acteurs qui se situent différemm ent par rapport à l ’action (co-financeur, m aître 
+d’ouvrage, maître d’ œuvre) ou à l ’institution évaluée (ils en sont m embres, associés,  
+clients…). 
+Les attentes principales du commanditaire, les caractéristiques principales de 
+l’évaluation 
+Une évaluation peut être  comm anditée pour guide r des décisio ns opé rationnelles (l’arrêt, la 
+poursuite, la réorientation d’une intervention). Elle peut s’insérer dans une d émarche de capi-
+talisation ou de réflexion  stratégique. Elle peut être déclenchée pour apporter des am éliora-
+tions très cib lées ou des é clairages précis sur le s aspects particuliers d ’un projet, ou du fonc-
+tionnement d’une institution. 
+En fonction de ce contexte ou de ses attentes, le commanditaire peut avoir ou non des à priori
+
+===== CHUNK 17 =====
+tionnement d’une institution. 
+En fonction de ce contexte ou de ses attentes, le commanditaire peut avoir ou non des à priori 
+de méthodes (plus ou m oins participatives, impliquant la participation à telle étape de tel par-
+tenaire…), d es contraintes majeures (de dates, de collaboration, de mode de validation…). 
+1.2 La définition précise de l’objet à évaluer et du champ de l’évaluation 
+Les termes de références doivent fournir à l ’évaluateur les inform ations indispensables pour 
+préparer son travail et rédiger sa proposition méthodologique. Ce paragraphe doit donc détail-
+ler les élé ments de la présentation init iale, par exe mple : la gé ographie, les objectifs, le s ac-
+teurs, l ’histoire, la stratégie, les m oyens, l ’organisation, les g randes pha ses, les p rincipaux 
+résultats4… 
+Le commanditaire doit, par ailleurs, définir précisément le cham p de l ’évaluation. Une ligne 
+suffit quand ce cham p est évident, lo rsqu’il correspond à un objet aux lim ites précises : un
+
+===== CHUNK 18 =====
+Le commanditaire doit, par ailleurs, définir précisément le cham p de l ’évaluation. Une ligne 
+suffit quand ce cham p est évident, lo rsqu’il correspond à un objet aux lim ites précises : un 
+projet, une institution… Mais ce n’ est pas toujours le cas. L ’objet en question peut comporter 
+de multiples facettes (quand une évaluation porte sur un «  processus » de développement » ou 
+sur un programm e constitué par un m ontage co mplexe de d ifférents projets). L’ évaluation 
+peut, au contraire, être cir conscrite à un seul aspect de l’objet à évaluer, ou à l’examen de ce-
+lui-ci sous un angle particulier. 
+ 
+4 Le « copier coller » du document de proj et initial est ici à  utiliser avec circonspection. Les développements qui 
+permettent de convaincre un bailleur (ou une instance de décision interne) de soutenir un projet ne sont pas for-
+cément ceux qui permettent d’informer un évaluateur de la réalité d’une opération. 
+ 5
+
+===== CHUNK 19 =====
+--- Page 6 ---
+
+===== CHUNK 20 =====
+La définition du cham p de l’évaluation (ce que l ’évaluateur devra réellement considérer pour 
+faire son tra vail d ’analyse) dem ande donc parfo is quelques précisions sup plémentaires. Ce  
+champ, bien évidemment, devra être c ohérent avec les m oyens mobilisés pour l’évaluation et 
+l’étendue des questions évaluatives posées. 
+1.3 Les objectifs détaillés de l’évaluation et les attentes du commanditaire 
+Les objectifs et les attentes 
+Le premier c hapitre « présentation synthétique » aura décrit de f açon très succincte l’objectif 
+de l ’évaluation. L ’évaluateur a besoi n d ’en savoir plus.  Les objectifs du commanditaire ne  
+seront atteints que s’ils sont explicitement énoncés dans les termes de références… Au-delà de 
+cette lapalissade, il est difficile de guider la rédaction de la présentation détaillée de ces objec-
+tifs. En général les évaluations de projets ou de programmes répondent à trois t ypes de préoc-
+cupations :
+
+===== CHUNK 21 =====
+tifs. En général les évaluations de projets ou de programmes répondent à trois t ypes de préoc-
+cupations : 
+x Une appréciation générale : de la qualité du travail accompli et des résultats obtenus. 
+x Des préoccupations opérationnelles : quelles suites donner à l’action ? 
+x Des préocc upations stratégiques : quelles leçons tirer po ur am éliorer les stratégies  
+d’interventions des institutions concernées ? 
+La rédaction de ce court paragraphe  ressem ble à un exercice « d’arbre à objectif » d e 
+l’évaluation. Il s’ agit de  détailler un, deux ou à l a rigueur trois « objectifs principaux » en 
+quelques objectifs spécifiques. 
+Il peut arriver que le co ntexte de l’évaluation soit très spécifique et très cont raignant, et qu’il 
+soit déterminant pour en com prendre les tenants et les aboutissants. Il est alors nécessaire de  
+le décrire plus en détail que dans la brève introduction. 
+Et quelques précisions 
+D’autres informations peuvent figurer à ce paragraphe :
+
+===== CHUNK 22 =====
+le décrire plus en détail que dans la brève introduction. 
+Et quelques précisions 
+D’autres informations peuvent figurer à ce paragraphe : 
+L’évaluateur sera d ’autant plus à même d’éclairer des choix ou des décisions qu ’il connaîtra 
+les processus de mise en débat puis de décisions de « l’après évaluation ». Ces processus peu-
+vent donc être évoqués dans les Termes de référence.  
+Le commanditaire peut préciser aux év aluateurs la nature des conclusions qu’il attend d’eux : 
+il peut se contenter d’analyses ou d’opinions argumentées, exiger des « jugements », attendre 
+des recommandations d’orientation, vouloir des propositions stratégiques, demander des pro-
+positions très concrètes sur quelques points précis. 
+Les commanditaires peuvent faire part de leurs hypothèses ou de celles qu’ils ont déjà recueil-
+lies, sur les « qualités » de l’objet à évaluer. Il est rare que les personnes associées à la p répa-
+
+===== CHUNK 23 =====
+Les commanditaires peuvent faire part de leurs hypothèses ou de celles qu’ils ont déjà recueil-
+lies, sur les « qualités » de l’objet à évaluer. Il est rare que les personnes associées à la p répa-
+ration de l’évaluation d’une opération, qu’elles soient impliquées dans sa conduite ou son sui-
+vi, ne formulent pas, consciemment ou inconsciemment, des hypothèses ou des doutes sur ses 
+défauts, ses qualités, ses enseignem ents. L’explicitation de ces hypothèses ne gênera pas les 
+évaluateurs, au contraire5. 
+ 
+5 Cette opinion n’est pas forcément partagée par tous les professionnels de l’évaluation. 
+ 6
+
+===== CHUNK 24 =====
+--- Page 7 ---
+
+===== CHUNK 25 =====
+1.4 L’explicitation des références constitutives de l’évaluation 
+L’exercice d’évaluation est, pour une bonne part, un exercice de com paraison entre une réfé-
+rence « objective » et une image de la réalité produite au cours de l’évaluation. Le commandi-
+taire a (selon nous) son mot à dire dans le choix de cette « référence objective ». Selon l’objet 
+et la nature de l’évaluation, cette référence peut être des normes propres au commanditaire, ou 
+fixées par les «  règles de l’art », ou encore définies en fonction  d’un contexte particulier. Les 
+documents constitutifs d’une institution, d’un dispositif ou d’une politique, les documents qui 
+décrivent un projet font partie de ces  références, en particulier, pour ces derniers, « le cadre 
+logique ». 
+Il peut arriv er qu ’un «  document projet » initial ne puisse  pa s servir de référence pou r une  
+évaluation. Ce document peut avoir été rédigé de façon trop im précise ou trop irréaliste. Des
+
+===== CHUNK 26 =====
+Il peut arriv er qu ’un «  document projet » initial ne puisse  pa s servir de référence pou r une  
+évaluation. Ce document peut avoir été rédigé de façon trop im précise ou trop irréaliste. Des 
+conditions objectives peuvent expliquer que le pro jet n’a pas pu se déro uler comme prévu. Il 
+est alors nécessaire de reconstruire a posteriori cette référence « initiale », et en particulier de 
+rebâtir « le tableau logique » 6 ou le cadre logique du projet. 
+Ce travail de reconstruction appartient en théorie a u commanditaire, qui doit signaler dans les 
+terme de références qu ’il a effectué ce travail a p osteriori (et expliquer les raisons qui l ’ont 
+pousser à le faire)7. 
+2. Des précisions sur le contenu de la commande : les questions 
+évaluatives, et les éléments de méthodes 
+Le passage des objectifs à la définition du processu s d’une évaluation implique deux types de 
+travail, deux types de démarche. Il faut :
+
+===== CHUNK 27 =====
+évaluatives, et les éléments de méthodes 
+Le passage des objectifs à la définition du processu s d’une évaluation implique deux types de 
+travail, deux types de démarche. Il faut : 
+1. Traduire les objectifs généraux de l ’évaluation en questions évaluatives ou en « domaine 
+de qualité » de plus en plus précis, puis en critères ou en hypothèse, puis en indicateurs. 
+2. Définir des méthodes de collecte et d e traitement de l’information puis de restitution et de 
+validation des conclusions de l’étude. 
+Qui doit con cevoir ces d eux démarches ? Dans ce travail de c onception, où finit le travail du 
+commanditaire rédigeant les term es de références, où comm ence celui de l’évaluateur prépa-
+rant sa note méthodologique ? 
+Tout est po ssible. Le co mmanditaire peut définir des indicate urs et choi sir dans le dét ail les 
+méthodes qu’il désire voir mettre en œuvre, jusqu ’à transformer l’évaluateur en simple enquê-
+
+===== CHUNK 28 =====
+Tout est po ssible. Le co mmanditaire peut définir des indicate urs et choi sir dans le dét ail les 
+méthodes qu’il désire voir mettre en œuvre, jusqu ’à transformer l’évaluateur en simple enquê-
+teur. Il peut se contenter de cinq ou six questions évaluatives et d’indications méthodologiques 
+succinctes, et faire confiance à l’intuition et au professionnalisme de son prestataire. 
+En fait, il a intérêt à fixer lui-m ême les gr andes lignes de ces deux dém arches pour avo ir la 
+certitude que les évaluate urs vont bien répondre à ses attentes. Mais il ne doit pas alle r trop 
+ 
+6 Le tableau l ogique est une présentation synthétique des différents objectifs, résultats, activités et moyens prévus 
+pour un projet donné. 
+7 L’évaluateur ne devrait pas intervenir dans ce travail de reconstruction. Lorsque celui-ci n écessite l’intervention 
+d’un tiers facilitateur, en toute rigueur, ce tiers devrait intervenir avant la ré daction des TDR… Mais ce n’est
+
+===== CHUNK 29 =====
+d’un tiers facilitateur, en toute rigueur, ce tiers devrait intervenir avant la ré daction des TDR… Mais ce n’est 
+pas toujours possible. Lorsque l’évaluateur doit lui même effectuer cette reconstruction en début d’évaluation, 
+celle-ci devrait faire l’objet d’une validation, préalable à un ajustement de la note méthodologique. 
+ 7
+
+===== CHUNK 30 =====
+--- Page 8 ---
+
+===== CHUNK 31 =====
+loin dans la précision pour profiter des deux qualités attendues de ces derniers, la com pétence 
+et l’indépendance. 
+Le commanditaire doit d’autre part proposer des t ermes de références cohé rents. Ses att entes 
+doivent être proportionné es à se s moyens. Il ne  peut pas, en  général, vérifier cet élém ent de 
+cohérence sans s’interroger sur les méthodes et les démarches qui permettront aux évaluateurs 
+de répondre aux questions évaluatives qu’il a lui-même formulées. 
+2.1 L’explicitation des attentes en questions évaluatives ou en « domaine de 
+qualité », la déclinaison de celles-ci, jusqu’au principaux critères 
+d’évaluations 
+Des objectifs et des attentes aux questions évaluatives 
+Le commanditaire doit détailler là ses objectifs et ses attentes et les traduire en questions éva-
+luatives ou en « domaines de qualité ». 
+Comment ? La gamme des évaluations est trop é tendue pour imaginer une méthode univer-
+selle destinée à choisir et formuler les bonnes questions évaluatives.
+
+===== CHUNK 32 =====
+luatives ou en « domaines de qualité ». 
+Comment ? La gamme des évaluations est trop é tendue pour imaginer une méthode univer-
+selle destinée à choisir et formuler les bonnes questions évaluatives. 
+On peut suggérer trois méthodes complémentaires : 
+1. Le commanditaire peut avoir des attentes précises : les conclusions de l’évaluation doivent 
+éclairer la suite de l’action, enrichir une réflexion stratégique en cours, s’intégrer dans une 
+démarche de capitalisation construite. Il n’a alors qu’à décliner ses propres interrogations 
+ou hypothèses. Rien ne lui interdit de passer la co mmande d’une évaluation très ciblée. Il 
+peut, dans cette configuration, partir des points de vues des acteurs et observateurs les plus 
+impliqués dans l ’action ou dans ces dém arches. Il les recueillera et les «  cultivera » a u 
+cours de rapides « brain storming » réunissant si possible quelques personnes positionnées 
+très différemment par rapport à l’objet de l’évaluation.
+
+===== CHUNK 33 =====
+cours de rapides « brain storming » réunissant si possible quelques personnes positionnées 
+très différemment par rapport à l’objet de l’évaluation. 
+2. Le commanditaire veut plutôt m esurer la qualité globale de l ’action, sans attente très pré-
+cise à priori. Il décline les « grands critères » habituellem ent appliqués pour évaluer ce  
+type d’action en référence à « son cadre logique initial » : p ertinence, cohérence, effi-
+cience etc. I l s’interroge sur la façon d’examiner ces critères en fonction des spécificité s 
+de l’objet évalué. 
+3. Il peut essa yer de com biner ces deux  approches. Un « projet » peut s’apprécier selon au 
+moins cinq points de vue : 
+ 
+1 La grille de lecture classique 
+Pertinence 
+Cohérence 
+Efficience 
+Efficacité et résultat 
+Impact 
+Viabilité 
+ 2 Des centres d’intérêts a priori 
+Genre 
+Bonne Gouvernance 
+Environnement 
+Innovation 
+Lutte contre la pauvreté 
+L’évolution des acteurs de l a société  
+civile. 
+      Etc.
+
+===== CHUNK 34 =====
+Impact 
+Viabilité 
+ 2 Des centres d’intérêts a priori 
+Genre 
+Bonne Gouvernance 
+Environnement 
+Innovation 
+Lutte contre la pauvreté 
+L’évolution des acteurs de l a société  
+civile. 
+      Etc. 
+ 
+ 3 Une combinaison d’objectifs différents  
+ 8
+
+===== CHUNK 35 =====
+--- Page 9 ---
+
+===== CHUNK 36 =====
+Un impact concret sur des situations matériel-
+les 
+Des processus institutionnels 
+Des éléments de recherche méthodologique 
+Des objectifs stratégiques au sein d’un pro-
+cessus d’ensemble 
+Notamment en terme de partenariat 
+ 
+4 Une organisation et un dispositif 
+En différents volets thématiques 
+S’adressant à des publics - cibles diffé-
+rents 
+Mettant en œu vre des techniques différen-
+tes 
+Répartie sur des zones  géographiques dif-
+férentes 
+Associant différents acteurs assumant dif-
+férentes fonctions 
+ 
+ 5 Un processus, un déroulement 
+L’analyse du contexte et identification des 
+contraintes 
+La définition d’une stratégie (et ses diffé-
+rents aspects)  
+La mise en œuvre  (et ces différents élé-
+ments) 
+Le dispositif de pilotage et de suivi éva-
+luation 
+Etc… 
+ 
+Chaque point de vue correspond à  une grille de lecture. Le comm anditaire peut commencer 
+par s’interroger sur les é léments qu’il souhaite privilégier au sein de chac une de ces grilles
+
+===== CHUNK 37 =====
+Etc… 
+ 
+Chaque point de vue correspond à  une grille de lecture. Le comm anditaire peut commencer 
+par s’interroger sur les é léments qu’il souhaite privilégier au sein de chac une de ces grilles  
+pour ensuite les combiner au sein de questions évaluatives spécifiques. 
+Par exemple si le commanditaire atte nd surtout la  validation de ses choix de stratégie ou de 
+méthode lors d’une évaluation à mi-parcours, il privilégiera les  questions d e pertinence et de 
+cohérence (grille 1). Ce choix am ènera souvent à revisiter les étapes de conception du projet 
+(grille 5). Son principal intérêt peut concerner l ’émergence de nouveaux a cteurs de la société 
+civile (grille 2). Il fera alors porter plus spécifiquem ent l’évaluation sur les objectifs institu-
+tionnels (grille 3) et sur les volets (grille 4) les plus dire ctement liés  à cette catégorie 
+d’objectif. 
+Cet exercice de combinaison des priorités de lectur e sera plus facile et plus rapide, il do nnera
+
+===== CHUNK 38 =====
+d’objectif. 
+Cet exercice de combinaison des priorités de lectur e sera plus facile et plus rapide, il do nnera 
+des résultats plus c ohérents, s’il s’appuie sur une  présentation synthétique des objectifs, des 
+principaux choix stratégiques et de s grands éléments de l ’organisation du projet. Théorique-
+ment un « cadre logique », ou plutôt un « arbre des objectifs» bien fait, perm et une telle pré-
+sentation, d’où l’intérêt de partir de cet outil, quitte à le reconstituer a posteriori. 
+Des questions évaluatives aux critères et aux indicateurs 
+Le comman ditaire peut indiquer les hypothèses e t les crit ères et indicateu rs qu’il souhaite 
+voir privilégier dans la façon de rép ondre aux questions éval uatives qu’il a posées. Il  peut 
+aussi laisser ce travail à l’évaluateur et attendre la note méthodologique de celui-ci. 
+ 9
+
+===== CHUNK 39 =====
+--- Page 10 ---
+
+===== CHUNK 40 =====
+2.2 La méthodologie 
+Un minimum de précisions est indispensable 
+Les indications méthodologiques qui figurent dans les termes de références répondent en gé-
+néral à plusieurs objectifs : 
+- Informer les évaluateurs des source s d’informations disponibles (documents et personn es 
+ressources) et s’assurer qu’ils vont les utiliser. 
+- Veiller à ce que tous les interlocuteurs « politiquement importants » seront bien concernés 
+par l’évaluation. 
+- Insister sur le caractère participatif, lorsqu ’il y  a lieu ou trad uire des objectifs annexes  
+formulés en terme de transfert de compétences ou d’appropriation des résultats. 
+- Cadrer le travail de l’évaluateur. Il y a parfois des évidences entre les questions évaluati-
+ves et des éléments de méthodes. 
+- Permettre un minimum de cohérence entre les attentes de l ’évaluation et les  moyens que 
+l’on envisa ge d ’y con sacrer (pour quantifier le tem ps q ue l ’évaluateur devraient
+
+===== CHUNK 41 =====
+- Permettre un minimum de cohérence entre les attentes de l ’évaluation et les  moyens que 
+l’on envisa ge d ’y con sacrer (pour quantifier le tem ps q ue l ’évaluateur devraient 
+« raisonnablement » mettre pour faire le travail,  le commanditaire a parfois besoin de dé -
+finir et de quantifier les grandes phases du travail). 
+Les principaux éléments de méthodes 
+Les commanditaires fixent souvent la nature et la durée des prin cipales étapes de l’évaluation 
+(une phase d ’étude bibliographique et de contact au siège, la re ncontre des principaux parte-
+naires dans la capitale, la phase de terrain, une phase de restitution dans la capitale, etc.). 
+Lorsque l’objet à évaluer est vaste, les term es de références peuvent préciser la «  réduction » 
+qu’ils souhaitent voir appliquer par l ’évaluateur (deux pays sur trois, un village sur quatre, un 
+partenaire de telle catégorie sur trois… ). L’évaluateur pourra réagir à la pertinence de ces pro-
+positions.
+
+===== CHUNK 42 =====
+partenaire de telle catégorie sur trois… ). L’évaluateur pourra réagir à la pertinence de ces pro-
+positions. 
+Ils peuvent indiquer leur préférence pour certaines catégories de méthodes (plus ou moins 
+participatives), souhaiter connaître l ’opinion de certains de leu rs partenaires, exiger certaines 
+données quantitatives… 
+Ces indications de m éthode peuvent ne pas se li miter aux investigations mais inclure les pha-
+ses de restitution intermédiaires ou finales. 
+Le caractère « participatif » au-delà de la méthode d’investigation 
+Lorsque l’évaluation s’inscrit dans un  processus de partenariat entre les acteurs associés à la  
+mise en œuvre d ’un p rojet, ou lorsqu ’elle rép ond à des attentes exprim ées en term e 
+d’apprentissage, la façon dont les différentes pa rties prenantes de l ’évaluation vont être asso-
+ciées à son  déroulement, puis aux débats qui vont marquer ses conclusions, n’est pas qu ’une
+
+===== CHUNK 43 =====
+d’apprentissage, la façon dont les différentes pa rties prenantes de l ’évaluation vont être asso-
+ciées à son  déroulement, puis aux débats qui vont marquer ses conclusions, n’est pas qu ’une 
+question de  « méthode » d’ investigation. Le comm anditaire peut avoir, et faire part,  
+d’exigences particulières en la matière. 
+ 10
+
+===== CHUNK 44 =====
+--- Page 11 ---
+
+===== CHUNK 45 =====
+3. Les aspects pratiques 
+3.1 L’organisation de l’interface commanditaire / évalué / évaluateur 
+Une évaluation se déroule souvent selon un proc essus itératif : vérification des attentes du  
+commanditaire, premier travail biblio graphique, ajustement de la méthode prévue, validation  
+de l’échantillonnage prévu, etc.. Dans le cas d’évaluations importantes, le commanditaire peut 
+souhaiter maîtriser ce processus en prévoy ant une série de rendez-vous, en désignant claire-
+ment des interlocuteurs au sein de so n organisation, en prévoyant des processus de validation 
+des étapes intermédiaires du travail. 
+Cela implique la mise en place de com ités de pilotage lorsque le commanditaire est pluriel ou 
+(et) que la démarche suivie veut être participative. 
+3.2 Les principales contraintes (durée totale, durée des différentes phases, 
+calendrier…) 
+La durée prévue doit être cohérente avec les éléments de méthodologie imposés par les termes
+
+===== CHUNK 46 =====
+3.2 Les principales contraintes (durée totale, durée des différentes phases, 
+calendrier…) 
+La durée prévue doit être cohérente avec les éléments de méthodologie imposés par les termes 
+de références. Le calendrier doit tenir compte des contraintes du projet (disponibilité des équi-
+pes, contraintes particuliè res climatiques (possibilités de déplacem ents, calendriers agricoles, 
+calendrier hydraulique… ) et de celles du c ommanditaire (calendrier des prises de décisions, 
+délais de mise en œuvre de l’évaluation…). 
+Ce calendrier peut préciser les périodes et la durée des grandes ph ases prévue s pour 
+l’évaluation : lancement, phase terrain, réunions a vec les pilotes de l ’évaluation (lancement, 
+bilan intermédiaire, restitution finale), date de remise des rapports provisoires et définitifs…. 
+3.3 La composition de l’équipe d’évaluation 
+La nature de l ’objet à évaluer, parfois sa géograph ie, souvent des questions évaluatives parti-
+
+===== CHUNK 47 =====
+3.3 La composition de l’équipe d’évaluation 
+La nature de l ’objet à évaluer, parfois sa géograph ie, souvent des questions évaluatives parti-
+culières déterm inent les com pétences qu’ il est nécessaire de réunir au sein de l ’équipe 
+d’évaluation. La diversité de ces compétences et le rapport entre le volume de travail (exprimé 
+en homme /mois ou homme / semaine) et la durée optimum de la mission fixent le nombre de 
+consultants à réunir. Des objectifs particuliers (démarches participatives, transferts de com pé-
+tences) annexés à l’évaluation peuvent ajouter des contraintes à la définition de la composition 
+de l’équipe. 
+Attention à force de chercher des moutons à cinq pattes, on se retrouve souvent avec des mou-
+tons qui ne marchent que sur trois. Les moutons à cinq pattes sont par ailleurs rarement dispo-
+nibles du jour au lendemain. 
+3.4 Le budget disponible 
+Il est rare que les comm anditaires ne fixent pas un budget  plafond aux évaluations qu ’ils
+
+===== CHUNK 48 =====
+nibles du jour au lendemain. 
+3.4 Le budget disponible 
+Il est rare que les comm anditaires ne fixent pas un budget  plafond aux évaluations qu ’ils 
+commanditent. (Ils ne l’annoncent pas toujours dans le cas d’ appel d’offres en espérant tirer 
+les prix ve rs le bas.) Ce plafond doit évidemment être cohérent avec le volu me de travail at-
+tendu. Pour être parfaitement claires les indications budgétaires doivent préciser qui du  projet 
+évalué ou de la mission d’évaluation prendra en charge certains frais (les transports locaux, les 
+frais de réunions liés aux restitutions…). 
+ 11
+
+===== CHUNK 49 =====
+--- Page 12 ---
+
+===== CHUNK 50 =====
+3.5 Les rendus attendus 
+Les commanditaires fixent souvent la nature des d ocuments qu’ils attendent des évaluate urs, 
+un ou plusieurs rapports ou notes de synthèse selon le déroulement, la durée et la com plexité 
+de l’évaluation. Ils peuve nt exiger certaines annexes. Ils précisent en général la façon dont il  
+vont valider le rapport d ’évaluation, exigeant souvent un rapport provisoire qu’ils commente-
+ront pour obtenir ensuite un rapport définitif. 
+Ils exigent e n général de s notes d ’étapes pour marquer les pri ncipaux rendez-vous entre les 
+évaluateurs et les instances de pilotage de l’ évaluation. Une telle note est souvent exigée lors 
+de la restitution de l’étape de terrain. Ces notes sont bien utiles, y compris pour les évaluateurs 
+lorsque l’évaluation est complexe et susceptible de devenir conflictuelle. 
+Les commanditaires institutionnels donnent souvent des indications formelles assez précises, y
+
+===== CHUNK 51 =====
+lorsque l’évaluation est complexe et susceptible de devenir conflictuelle. 
+Les commanditaires institutionnels donnent souvent des indications formelles assez précises, y 
+compris sur le plan des rapports q u’ils attendent. Dans la m esure où un rapport d’évaluation 
+doit faciliter un processus de décisions, ils exigent logiquement à la fois une sy nthèse et un  
+résumé. 
+Les termes de références peuvent également fixer des modalités de restitution, intermédiaires, 
+en fin de m ission, à la re mise du rapport provisoir e… Ces re stitutions peuvent se déroul er en 
+petit comité de décideurs ou faire l ’objet d’une véritable animation qui permet aux diff érents 
+partenaires d’un projet de réagir aux conclusions des évaluateurs. 
+3.6 D’éventuelles précisions contractuelles 
+Les termes de références peuvent égalem ent contenir des précisions sur le contrat ou les m o-
+dalités de contractualisations entre le commanditaire et l’évalué. Mais ces questions font sou-
+
+===== CHUNK 52 =====
+Les termes de références peuvent égalem ent contenir des précisions sur le contrat ou les m o-
+dalités de contractualisations entre le commanditaire et l’évalué. Mais ces questions font sou-
+vent l’objet d’un document à part. 
+Lorsque le commanditaire procède par appel d’offres restreint pour choisir son évaluateur, ce 
+document doit donner des indications sur le contenu de la note méthodologique qu ’il attend 
+des candidats. 
+III. COMMENT S’Y PRENDRE POUR REDIGER DES TERMES DE 
+REFERENCES ? 
+Premier conseil : rédiger vos termes de références comm e vous le sentez et méfiez vous des 
+recettes toutes faites, y compris de celle qui vous est proposée ci-après. Celle-ci ne vaut qu e 
+pour des évaluations externes conçu es sous la form e « classique » d’une ou deux missions 
+courtes. Elle a le tort de présenter l’exercice comme du « prêt à porter », alors qu’encore une 
+fois, il s’agit de « sur mesure ».
+
+===== CHUNK 53 =====
+courtes. Elle a le tort de présenter l’exercice comme du « prêt à porter », alors qu’encore une 
+fois, il s’agit de « sur mesure ». 
+La recette qui suit vous propose de réd iger des termes de références selon le plan présenté ci-
+dessus. Mais elle propose une chronologie d’écriture différente de l’ordre de présentation des 
+différents chapitres. 
+ 12
+
+===== CHUNK 54 =====
+--- Page 13 ---
+
+===== CHUNK 55 =====
+1. 1 ère étape, formuler des objectifs cohérents qui répondent à vos 
+attentes 
+1.1 Aboutir à une première version des questions évaluatives, après avoir formulé 
+clairement vos attentes et vos objectifs 
+a) Commencez par bien clarifier les attentes de votre organisation par rapport à cette évalua-
+tion. Vérifiez que ces attentes sont cohérentes avec une démarche évaluative, et avec celle 
+que vous envisagez. 
+b) Traduisez ces attentes en rédigeant les objectifs que vous assignez à cette évaluation. Evi-
+tez d’en rédiger un trop grand nom bre. Au-delà de quatre objectifs vous courrez le risque 
+d’une démarche peu cohérente. Efforc ez-vous de rédigez chaque objectif en cinq à dix li-
+gnes maximum. Si vous êtes plus long, vous risquez de ne pas être clair. 
+Vous êtes trop long ? C’est peut-être que vous intégrez déjà vos questions évaluatives dans 
+la définition de vos objectifs… Ce n ’est pas très grave, m ais vous serez plus clair si vous  
+distinguez mieux ces deux étapes.
+
+===== CHUNK 56 =====
+la définition de vos objectifs… Ce n ’est pas très grave, m ais vous serez plus clair si vous  
+distinguez mieux ces deux étapes. 
+c) Hiérarchisez ces objectifs. 
+d) Déclinez chacun d’entre eux sous la forme de questions évaluatives, en suivant si possible 
+la même règle : pas trop de questions évaluatives par objectif, pas plus de quelques lignes 
+par questions évaluatives. 
+1.2 Vérifiez la cohérence entre cette première version de vos objectifs et les 
+moyens dont vous disposez pour l’évaluation 
+e) Vérifiez l ’ordre de grandeur des m oyens do nt vo us disposez ; traduisez a pproximative-
+ment le budget dont vous disposez, en nombre de jours ou de semaines d’évaluateurs selon 
+deux ou trois hypothèses (évaluateurs « Nord », évaluateurs « Sud »… ). 
+f) A partir d e vos que stions évaluatives, im aginez rapidem ent le déroulem ent d e 
+l’évaluation : Qui les évaluateurs devront-ils rencontrer, enquêter ou faire enquêter ? Que
+
+===== CHUNK 57 =====
+f) A partir d e vos que stions évaluatives, im aginez rapidem ent le déroulem ent d e 
+l’évaluation : Qui les évaluateurs devront-ils rencontrer, enquêter ou faire enquêter ? Que 
+devront-ils visiter, quelles données de vront-ils collecter ?…   Mêm e si vous n ’êtes pas un 
+spécialiste de l ’évaluation, vous pou vez bâtir un ou deux sc énario grossi èrement coh é-
+rents. 
+g) Estimez très grossièrement le temps nécessaire aux évaluateurs selon ces scénarios. Fixez-
+vous une fourchette assez large. 
+h) Comparez vos deux estimations (cf. e) et g) ci-dessus). 
+- Si toutes les deux se situent dans le mêm e ordre de grandeur, vous avez gagné le droit 
+de passer à l’étape suivante. 
+- Si non, vous devez retournez aux étapes b) et c). Reformulez vos objectifs ou laissez  
+tomber les moins importants d’entre eux, selon l a hiérarchie que vous av ez déjà éta-
+blie. Ajustez vos ambitions à vos moyens. 
+ 13
+
+===== CHUNK 58 =====
+--- Page 14 ---
+
+===== CHUNK 59 =====
+2. 2 ème étape, une présentation des constituants de l’évaluation claire et 
+cohérente avec vos objectifs 
+Vous avez donc déjà rédigé le point « 13 » du plan que nous vous proposons de suivre. Il vous 
+reste à écrire les points «  11 » l’introduction, « 12 » la description de l ’objet à évaluer et 
+« 14 » les références de l’évaluation ». 
+Mieux vaut commencer la rédaction par le 12. 
+2.1 La présentation de l’objet à évaluer 
+Les objets à évaluer et les objectifs d es évaluations sont si di vers qu’il serait bien présom p-
+tueux de proposer une recette adaptée à tous les cas de figure. 
+En règle générale, méfiez vous de l ’abus de l ’usage de la fonction « copier - coller ». Vous 
+avez souvent déjà de m ultiples documents de prése ntation de votre projet, le document initial 
+qui vous a perm is de convaincre des partenaires financiers, des com ptes-rendus d ’activités 
+annuels ou de fin de phases nécessaire s à la supervision de l ’action… Mais c hacun a été écrit
+
+===== CHUNK 60 =====
+qui vous a perm is de convaincre des partenaires financiers, des com ptes-rendus d ’activités 
+annuels ou de fin de phases nécessaire s à la supervision de l ’action… Mais c hacun a été écrit  
+pour un obje ctif bien précis. Aucun l ’a été pour un évaluateur. Celui-ci aur a besoin de com -
+prendre rapidement la logique du projet. Il devr a disposer des principales informations néces-
+saires pour préparer une note méthodologique qui lui perm ette de traiter v os objectifs. Tout 
+cela ne devra pas être trop  long à lire. Une douzaine ou une quinzaine de pages semble le bon 
+format pour des termes de références. La présentation de l’objet à évaluer ne doit pas occuper, 
+en ordre de grandeur, pl us de la m oitié de ces douze ou qui nze pages. Plus c ’est souvent 
+trop… Mais l’exception peut confirmer la règle. 
+Un petit travail spécifique est donc nécessaire : 
+i) Rédigez une présentation courte et synthétique de l’objet à évaluer (Si c’est un projet : son
+
+===== CHUNK 61 =====
+trop… Mais l’exception peut confirmer la règle. 
+Un petit travail spécifique est donc nécessaire : 
+i) Rédigez une présentation courte et synthétique de l’objet à évaluer (Si c’est un projet : son 
+contexte, son histoire et les acteurs con cernés, « l’arbre à objectif », des éléments de bud-
+get, les principales phases, dispositifs, les activités, les résultats. 
+j) Identifiez les élé ments spécifiques nécessaires à l ’évaluateur en fonction de vos objectifs 
+et des premières formulations de vos questions  évaluatives. Certains élé ments quantitatifs 
+sont parfoi s indispensables (le nom bre de partena ires, l ’aire g éographique concernée, le 
+volume des réalisations). 
+k) Développez la présentation générale que vous venez de rédig er en fonction de ces élé -
+ments, ou com plétez là par les paragraphes né cessaires (v oire une ou deux annexes 
+« quantitatives »). 
+2.2 L’introduction et vos « références »
+
+===== CHUNK 62 =====
+ments, ou com plétez là par les paragraphes né cessaires (v oire une ou deux annexes 
+« quantitatives »). 
+2.2 L’introduction et vos « références » 
+l) L’introduction doit être courte (une page environ). Elle doit per mettre aux lecteur s 
+d’entrer rapidement dans le sujet et d e comprendre la logique de la dém arche évaluative. 
+Sa rédaction ne pose pas de difficultés particulières (Cf. plan proposé ci-dessus). C’est un 
+exercice de synthèse « classique ». 
+m) L’explicitation des « références » à utiliser lors de l’évaluation doit être limitée aux infor-
+mations indispensables.  Les principes ou po stulats fond ateurs et la philosoph ie 
+d’intervention de votre Organisation, les principaux axes qui o nt guidé la conception du 
+projet peuvent faire partie de ces « références ». Mais un document préparatoire à une éva-
+ 14
+
+===== CHUNK 63 =====
+--- Page 15 ---
+
+===== CHUNK 64 =====
+luation n’est pas un outil de communication destiné à diffuser ces principes et cette philo-
+sophie. 
+3. Dernières étapes le détail du contenu et les aspects pratiques 
+Vous avez donc rédigé la première partie de vos termes de références et décrit les constituants 
+de l’évaluation. Chemin faisant, vous avez déjà formulé au moins « au brouillon », vos princi-
+pales questi ons évaluati ves et les élém ents essentiels de la méthode que vous su ggérerez à 
+l’évaluateur. 
+Le plus dur est donc fait. 
+n) Avant d’aller plus loin, si vous êtes e n avance sur votre planning, faites relire cette pre-
+mière partie par une autre personne. Un œil extérieur est souve nt bien utile pour vérifier la 
+clarté et la cohérence d’un texte, et mieux vaut s’assurer de ces qualités avant de détailler 
+la suite.  
+o) La suite ne présente pas de difficult és de rédaction particulières, sa uf si vous souhaitez 
+décliner très en détail les questions évaluatives, et faire des pro positions de critères et de
+
+===== CHUNK 65 =====
+o) La suite ne présente pas de difficult és de rédaction particulières, sa uf si vous souhaitez 
+décliner très en détail les questions évaluatives, et faire des pro positions de critères et de 
+méthodes détaillées à vos futurs éval uateurs. Il vous faut alors un m inimum de connais-
+sances sur les démarches évaluatives. 
+p) Les aspects pratiques que vous devez détailler po ur prévoir l’organisation de l’évaluation 
+ne sont pas très différents de ceux  que vous avez à prévoir p our n’importe qu’elle autre 
+mission d’appui ou de suivi. Vous avez déjà l’ordre de grandeur de votre budget (Cf. point 
+e) ci-dessus) (gardez vous une petite marge de négociation). Les scénario grossiers que 
+vous avez (cf. point f) ci-dessu s peuvent vous aider à identifier vos contraintes de logisti-
+que et de calendrier. 
+ 15
+
+===== CHUNK 66 =====
+--- Page 16 ---
+
+annexe 1 
+ 
+Les différentes étapes d’une évaluation 
+ 
+ 
+ 
+ 
+Le choix des 
+évaluateurs 
+  
+La décision  
+L’élaboration des 
+termes de réfé-
+rences 
+La collecte et le 
+traitement des 
+données 
+La préparation 
+matérielle de 
+l’évaluation 
+La négociation de
+la note        mé-
+thodologique 
+ 
+La restitution L’élaboration des 
+hypothèses de 
+jugement 
+La rédaction du 
+rapport        pro-
+visoire 
+L’accompagne
+ment de la 
+prise de déci-
+sion 
+La rédaction du 
+rapport définitif
+ 
+La validation 
+ 16

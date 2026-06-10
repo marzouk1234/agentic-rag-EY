@@ -1,0 +1,702 @@
+
+
+--- Page 1 ---
+
+European X-Ray Free-Electron Laser Facility GmbH 
+Albert-Einstein-Ring 19 
+22761 Hamburg 
+Germany 
+XFEL.EU TN-2013-004-01 
+TECHNICAL NOTE 
+European XFEL 
+Post-TDR Description 
+ 
+February 2013 
+W. Decking and T. Limberg 
+for the DESY XFEL Project Group 
+
+
+--- Page 2 ---
+
+ 
+February 2013 XFEL.EU TN-2013-004-01 
+2 of 22 European XFEL Post-TDR Description 
+Contents 
+1 Introduction ....................................................................................................... 3 
+2 Design Changes ................................................................................................ 4 
+2.1 Injector and Bunch Compression System ................................................ 4 
+2.2 Changed Injector and e-Beam Parameters ....................................... 5 
+2.3 Linac ......................................................................................................... 6 
+2.3.1 Tunnel Temperature Stabilization .................................................. 7 
+2.4 Undulator Position and Lengths ............................................................... 8 
+3 Regions and Components ............................................................................. 10 
+3.1 Laser Heater ........................................................................................... 10 
+3.2 Bunch Compression Chicanes ............................................................... 10 
+3.3 Collimation and Feedback Section ......................................................... 12 
+3.3.1 Collimator ..................................................................................... 12 
+3.3.2 Collimator Section ........................................................................ 12 
+3.4 Diagnostics ............................................................................................. 13 
+3.5 Pulse Repetition Rate, Bunch Frequencies and Patterns and  
+Beam Distribution .............................................................................. 14 
+3.6 Personal Protection System (PPS) ........................................................ 17 
+4 Upgrades ......................................................................................................... 18 
+4.1 X-ray FEL Upgrades ............................................................................... 18 
+4.1.1 Seeding schemes ......................................................................... 18 
+4.1.2 Harmonic Lasing .......................................................................... 18 
+4.1.3 Circular Polarization ..................................................................... 19 
+4.2 Beam Parameter Variations along Bunch Train ..................................... 20 
+4.2.1 Electron Beam Optics .................................................................. 20 
+4.2.2 rf System Regulation .................................................................... 20 
+ 
+ 
+
+
+--- Page 3 ---
+
+ 
+XFEL.EU TN-2013-004-01 February 2013 
+European XFEL Post-TDR Description 3 of 22 
+1 Introduction 
+This document lists and describes design changes of the European XFEL 
+with respect to the Technical Design Report (TDR), points out regions or 
+components which are worked out and documented in much more detail than 
+in the TDR and, finally, gives an overview of possible upgrades which are 
+presently discussed.  
+We go through these points and describe them briefly and compile a list 
+which points to the EDMS identifiers of the detailed documents. 
+
+
+--- Page 4 ---
+
+ 
+February 2013 XFEL.EU TN-2013-004-01 
+4 of 22 European XFEL Post-TDR Description 
+2 Design Changes 
+2.1 Injector and Bunch Compression System 
+The design of the bunch compression system was changed for the sake of 
+necessary cost-savings: the 3rd harmonic rf system is reduced in strength 
+and length by a factor of three and moves into the injector building. That 
+makes an additional bunch compression chicane (named BC0) at the end of 
+the dogleg necessary. 
+ 
+Fig. 1: Side view of the Injector-Bunch Compression area 
+Table 1: New R56 ranges and beam energy settings (Ref. 1) 
+ R56 range 
+[mm) 
+Bending Angle 
+[deg) 
+Bmin 
+[T) 
+Bma x 
+[T) 
+BC0 
+(130 MeV) 
+ 
+0, 30–90 
+ 
+0, 5.67–9.82 
+ 
+0, 0.08 
+ 
+0.149 
+BC 
+(700 MeV) 
+ 
+20–80 
+ 
+1.93–3.86 
+ 
+0.16 
+ 
+0.31 
+BC2 
+(2.4 GeV) 
+ 
+10–60 
+ 
+1.36–3.34 
+ 
+0.38 
+ 
+0.93 
+ 
+ 
+Owing to the fact that the beam has to traverse the dogleg with a 
+considerable energy chirp, the optical design of the dogleg had to be redone 
+in order to improve its chromatic properties (Ref. 21). 
+
+
+--- Page 5 ---
+
+ 
+XFEL.EU TN-2013-004-01 February 2013 
+European XFEL Post-TDR Description 5 of 22 
+2.2 Changed Injector and e-Beam 
+Parameters 
+Different from table 4.3.1 in the TDR all cavities of the first rf module are 
+run at the same gradient of about 18 MV/m. The beam energy downstream 
+of the 3rd harmonic rf system is about 130 MeV. 
+More important, recent measurements at the Photo-Injector Test Stand in 
+Zeuthen (PITZ) and the experiences with beam transport at the LCLS 
+prompted a revision of e-beam parameters and charge scope (Ref. 2). 
+Table 2: Modified parameter set for the e-beam 
+ TDR New Parameter Set 
+Electron Energy 17.5 GeV 10.5/14/17.5 GeV 
+Bunch charge 1 nC 0.02–1 nC 
+Peak current 5 kA 5 kA 
+Slice emittance < 1.4 mm mrad 0.4–1.0 mm mrad 
+Slice energy spread 1.5 MeV 4–2 MeV 
+Shortest SASE wavelength 0.1 nm 0.05 nm 
+Pulse repetition rate 10 Hz 10 Hz 
+Bunches per pulse 3000 2700 
+ 
+The new parameter set enlarges the photon energy range of the facility 
+(Fig. 2, Ref. 9), but puts a strain on different sub-systems, especially for 
+operation with very low charge. All beam diagnostics are affected as well as 
+the rf stabilization and the beam-stabilizing feedback systems. 
+As a rule, we extended the 1 nC-case specifications down to 0.1 nC and set a 
+limit to the deterioration in performance for even lower charges (see for 
+instance Ref. 3). 
+
+
+--- Page 6 ---
+
+ 
+February 2013 XFEL.EU TN-2013-004-01 
+6 of 22 European XFEL Post-TDR Description 
+ 
+Fig. 2: Photon energy range of the European XFEL 
+ 
+2.3 Linac 
+In the TDR the XFEL main linac consisted of 100 modules installed 
+downstream of the last bunch compressor, yielding a maximum energy of 
+20 GeV. The operating energy of 17.5 GeV could be reached with a gradient 
+of 20.3 MV/m and two RF stations (8 modules) off. Due to financial reasons 
+the number of modules was reduced to 84, reaching the operating energy of 
+17.5 GeV at a gradient of 23.4 MV/ m with one RF station (4 modules) off. 
+The tunnel and lattice layout leaves space for the installation of 12 additional 
+modules. 
+The repetition rate was changed from 5 MHz to 4.5 MHz in order to be 
+compatible to FLASH-I/II. 
+
+
+--- Page 7 ---
+
+ 
+XFEL.EU TN-2013-004-01 February 2013 
+European XFEL Post-TDR Description 7 of 22 
+Table 3: Linac RF parameters 
+Quantity TDR Parameters New Parameters 
+electron energy 17.5/20 GeV 10.5/4/17.5 GeV 
+macro pulse repetition rate 10 Hz 10 Hz 
+RF pulse length (flat top) 600 µs 600 µs 
+bunch repetition frequency within pulse 5.0 MHz 4.5 MHz 
+beam power 550 kW 500 kW 
+# of 1.3 GHz modules 
+Injector  
+Linac 1 
+Linac 2 
+Linac 3 
+ 
+1 
+4 
+12 
+100 
+ 
+1 
+4 
+12 
+84 
+accelerating gradient for 17.5 GeV 20.3 MV/m  
+(with 8 modules off) 
+23.4 MV/m  
+(with 4 modules off) 
+# of 10 MW multi-beam klystrons 30 26 
+average klystron power 
+(for 0.03 mA beam current at 17.5 GeV) 
+5.2 MW 5.2 MW 
+ 
+2.3.1 Tunnel Temperature Stabilization 
+Careful modeling of temperature distribution before and after interrupting rf 
+operation, for instance for machine access, showed that the recovery time to 
+a stable temperature profile is too long. In the transition time, rf stability will be 
+low and tuning will be difficult if not impossible. 
+ 
+ 
+
+
+--- Page 8 ---
+
+ 
+February 2013 XFEL.EU TN-2013-004-01 
+8 of 22 European XFEL Post-TDR Description 
+ 
+Fig. 3: Component temperatures and heat loads entering temperature simulations of 
+the XFEL linac tunnel. 
+A distributed electric heating system will be installed which relatively precisely 
+replaces the heat impact of the rf system if that is switched off (Ref. 8). This 
+system reduces the temperature change to less than a degree Celsius, as 
+specified by the rf regulation. 
+ 
+2.4 Undulator Position and Lengths 
+Changes of the layout for undulators SASE 1 and SASE 2 (Ref. 4): The 
+beginning of SASE2 is moved downstream by 26.6 m, leaving additional 
+space of 46.6 m for seeding and/or other beam manipulation schemes in the 
+tunnel and shaft. At the proposed undulator length (see below) behind the 
+undulator space remains for 18 undulator segments. 
+The beginning of SASE 1 is moved downstream by 66.6 m to match the 
+distance from the undulator to the following electron bend. 
+Both undulator FODO channels shall be of the same length of 35 half cells 
+equipped with undulators and intersections. 
+The layout of undulator SASE 3 is not changed. 
+
+
+--- Page 9 ---
+
+ 
+XFEL.EU TN-2013-004-01 February 2013 
+European XFEL Post-TDR Description 9 of 22 
+Table 4: Start and end positions, # of undulator units and available space for future 
+upgrades 
+ Start 
+Undulator 
+Maximum 
+extension 
+# of FODO half 
+cells equipped 
+Maximum possible # 
+of FODO half cells 
+SASE 1 2238 2564 35 53 
+SASE 2 2198 2524 35 53 
+SASE 3 2797 3026 22 37 
+(65 if extended 
+upstream) 
+ 
+Source Point Position: 
+The x-ray source position has been defined now to be about 15 m before the 
+end of the undulators. Since the source position determines the photon beam 
+transport and, in particular, the focusing schemes and therefore the focal spot 
+sizes at the instruments, this source position shall be kept as fix as possible. 
+This requires different undulator settings for FEL operation with different 
+saturation length, e.g. for different photon energy or using different bunch 
+charge. Also the future implementation of self- seeding shall respect this 
+requirement. 
+
+
+--- Page 10 ---
+
+ 
+February 2013 XFEL.EU TN-2013-004-01 
+10 of 22 European XFEL Post-TDR Description 
+3 Regions and Components 
+3.1 Laser Heater 
+In the laser heater, a laser beam traveling with the electron beam through an 
+undulator magnet increases the width of the energy distribution of the 
+electrons, thus damping the so-called ‘micro-bunching’ instability. In Fig. 4, 
+four (grey) dipole magnets form a chicane to align the laser with the e-beam, 
+the undulator (yellow) in their midst. 
+The laser heater is a contribution in kind by the Vetenskapsrädet (Swedish 
+Research Council) (see Ref. 7). 
+ 
+Fig. 4: 3-D model of the Laser Heater 
+ 
+3.2 Bunch Compression Chicanes 
+Fig. 5 shows a technical drawing of a bunch compression chicane. They all 
+consist of four dipole magnets with wide gaps and a vacuum chamber with a 
+width of 400 mm, so that different settings for the longitudinal dispersion R56 
+can be achieved without mechanically moving parts (Ref. 1). 
+
+
+--- Page 11 ---
+
+ 
+XFEL.EU TN-2013-004-01 February 2013 
+European XFEL Post-TDR Description 11 of 22 
+ 
+Fig. 5: Side view and top view of the XFEL bunch compressor chicane BCl  
+ 
+Fig. 6: Photo of an XFEL bunch compressor chicane dipole magnet 
+ 
+
+
+--- Page 12 ---
+
+ 
+February 2013 XFEL.EU TN-2013-004-01 
+12 of 22 European XFEL Post-TDR Description 
+3.3 Collimation and Feedback Section 
+3.3.1 Collimator 
+Collimator design for the European XFEL is done. The device is in the 
+prototyping stage at the BINP. Different collimation apertures can be moved 
+into the path of the beam. 
+ 
+Fig. 7: Collimator for the XFEL 
+Collimators will be installed in the bunch compression magnet chicanes to 
+assist energy collimation. 
+3.3.2 Collimator Section 
+The present layout of the collimation section allows for very flexible beam 
+optics (Ref. 6). Beta function variation by adjusting matching and phase 
+shifter quadrupole magnets can accommodate low tolerance optics for 
+commissioning, beam measurements and fine tuning of energy and amplitude 
+collimation depth. 
+Vertical adjustments of the magnets can be used to vary the longitudinal 
+dispersion R56 between 1 mm and -1 mm. 
+
+
+--- Page 13 ---
+
+ 
+XFEL.EU TN-2013-004-01 February 2013 
+European XFEL Post-TDR Description 13 of 22 
+ 
+Fig. 8: Side view of the ‘dog leg’, where the electron beam collimators are positioned. 
+The vertical height is about 2.5 m 
+ 
+3.4 Diagnostics 
+The diagnostic system is now expected to perform for a bunch charge range 
+from 0.02 nC to 1 nC. The performance of the different components will fulfill 
+the original specifications between 0.1 nC and 1 nC. At lower charges, BPM 
+resolution will get worse by a factor of 2 (‘knob’ BPMs) to 5 (cavity BPMs), 
+beam profile measurements should not be affected. 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 14 ---
+
+ 
+February 2013 XFEL.EU TN-2013-004-01 
+14 of 22 European XFEL Post-TDR Description 
+ 
+  
+  
+ 
+ 
+ 
+Fig.9: Upper row: Beam Position Monitor, Charge monitor, dark current monitor. 
+Lower row: Screen monitor, transverse deflecting rf structure, beam loss monitor  
+All diagnostic components are prototyped or in pre-series, detailed 
+descriptions in Ref. 10-15. 
+ 
+3.5 Pulse Repetition Rate, Bunch Frequencies 
+and Patterns and Beam Distribution 
+The RF pulse repetition rate is 10 Hz. Many systems are laid out to also work 
+at 25 Hz for a future upgrade. Operation at 25 Hz might require lowering the 
+pulse length. In addition, an upgrade of the electron gun cooling capabilities is 
+required. 
+The bunch repetition frequency within the RF pulse is n* 111 ns resp. 
+9 MHz/n with n ≥ 2. This bunch pattern will be produced by the gun laser. 
+Table 5 gives an overview of initially available modes. 
+ 
+
+
+--- Page 15 ---
+
+ 
+XFEL.EU TN-2013-004-01 February 2013 
+European XFEL Post-TDR Description 15 of 22 
+Table 5: Bunch patterns as produced by the injector laser 
+n 
+bunch spacing 
+[ns) 
+bunch repetition 
+frequency [MHz) 
+bunches in 
+600 /ls train1 
+2 222 4.5 2700 
+9 1000 1 600 
+90 10000 0.100 60 
+– – – 1 
+ 
+In the TDR, the operation of the XFEL foresees a constant beam loading in 
+the linac, i.e., a train of bunches is with equal bunch spacing and charge. 
+Bunch distribution into the two beam lines Elbe (SASE2, ...) and Alster 
+(SASE1, SASE3) is obtained with a 10 Hz repetition rate flat top kicker that 
+essentially divides the bunch train in two parts, the first being distributed into 
+the Alster branch. A fast bunch kicker is capable of aborting single bunches 
+out of a pulse into a dedicated beam dump before the separation in the Elbe 
+and Alster branches. 
+Although this system is very flexible, certain restrictions apply: 
+ Each dump is rated to 300 kW or approx. 1700 bunches at 1 nC. 
+ The fast kicker can only kick up to 1500 bunches per 10 Hz pulse. 
+ Diagnostic, feedback and machine protection systems need to get 
+information about the bunch pattern well in advance of every pulse. The 
+distribution of this information will be handled by the timing system 
+(Ref. 19). 
+SASE3 was foreseen to use the spent beam from SASE1 for lasing. This 
+connects the radiation performance of SASE3 to the operation mode of 
+SASE1 and might at certain conditions even prevent lasing in SASE3. 
+                                                
+1 Number of bunches in the train can be reduced by shortening the laser burst. 
+
+
+--- Page 16 ---
+
+ 
+February 2013 XFEL.EU TN-2013-004-01 
+16 of 22 European XFEL Post-TDR Description 
+A more independent operation of SASE3 is possible with bunches that have 
+not lased in SASE1. This can be achieved by: 
+ Opening the SASE1 undulator (very slow) 
+ Applying a DC bump with standard steering magnets (10 Hz switching 
+frequency) 
+ Applying a fast orbit perturbation within a bunch to allow parts of the train 
+to lase in SASE3 and others in SASE1. This could be achieved most 
+easily with a dedicated fast kicker magnet in front of SASE1. This magnet 
+is not part of the present XFEL hardware. Nevertheless, other means 
+might be sufficient to achieve the same goal like the misuse of feedback 
+kickers or beam distribution kickers or an energy change in connection 
+with dispersive orbits in the undulator. 
+Because of the complex interplay of timing, feedbacks and machine 
+protection systems the commissioning and development of the beam 
+distribution is envisioned in stages with a first estimate of the elapsed time in 
+between the stages 
+1 Distribution with a DC magnet and operation of one branch only. 
+2 Distribution with flat top kicker but no bunch pattern selection by fast 
+kicker (1. + 12 month). 
+3 Bunch pattern selection for Alster and Elbe branch with fast kicker (1. + 15 
+month). 
+4 Operation of SASE3 with ‘fresh’ bunches (not defined yet). 
+
+
+--- Page 17 ---
+
+ 
+XFEL.EU TN-2013-004-01 February 2013 
+European XFEL Post-TDR Description 17 of 22 
+3.6 Personal Protection System (PPS) 
+The personnel protection system has been detailed (Ref. 5). This includes the 
+definition of accessible areas and access conditions and the design and later 
+installation of the necessary hardware to secure the accessible areas from 
+persons to enter or respectively beams to enter when people are present. 
+Some parts of the accelerator can be operated when downstream areas are 
+accessed. Beam entering these areas is prevented by redundant deflecting 
+systems, in general a combination of an electromagnet and a moveable 
+permanent magnet. At the beginning of each photon beam line T6–T10 a 
+permanent magnet dipole will be installed to prevent electrons to enter these 
+beam lines. 
+
+
+--- Page 18 ---
+
+ 
+February 2013 XFEL.EU TN-2013-004-01 
+18 of 22 European XFEL Post-TDR Description 
+4 Upgrades 
+4.1 X-ray FEL Upgrades 
+4.1.1 Seeding schemes 
+4.1.1.1 Self-Seeding 
+To provide self-seeding for an hard-X-ray FEL, a relatively simple scheme for 
+was proposed: replace an undulator module with a magnet chicane which 
+guides the electron beam around a crystal inserted into the straight-ahead 
+path of the photon beam. The photon beam, after its spectral content is 
+filtered by the crystal, seeds the FEL process in the following undulator 
+modules, producing, at the undulator exit, an X-ray pulse with a much 
+narrower spectrum than that of the un-seeded FEL. 
+The scheme has been successfully tested at the LCLS and is, appropriately 
+modified, proposed for the European XFEL (Ref. 17). 
+For self-seeding in the soft X-ray regime, grating monochromators are used 
+instead of the crystal(s). Tests are planned at the LCLS for August–
+September 2013, a similar scheme for the European XFEL is proposed 
+(Ref. 18). 
+4.1.2 Harmonic Lasing 
+By suppressing the first harmonic wavelength of a SASE FEL, the third 
+harmonic builds up to a strength comparable to the first. This could be 
+exploited either to increase photon energy, or operate the European XFEL at 
+beam energies low enough to allow cw-operation and still deliver 1 Å 
+wavelength via the 3rd harmonic (Ref. 16). 
+
+
+--- Page 19 ---
+
+ 
+XFEL.EU TN-2013-004-01 February 2013 
+European XFEL Post-TDR Description 19 of 22 
+4.1.3 Circular Polarization 
+There is the User Consortium proposal by the Budker Institute of Nuclear 
+Physics (INP) to upgrade the SASE3 soft X-ray beam line with a set of 
+afterburner electromagnetic undulators to provide variable polarization (linear 
+and circular). This modification will allow studies of the electronic structure 
+and excitations in solids and liquids as well as magnetism and magnetic 
+structures, including their dynamics. 
+The upgrade will be compatible with the burst mode capability of the facility. 
+Switching the polarization will be done on the train frequency level (5–10 Hz). 
+The consortium proposes the following deliverables 
+ Budker INP is going to provide an elliptically polarized electromagnetic 
+undulator with fast polarization switching. The undulator will be installed 
+downstream the SASE3 long undulator line and use a micro-bunched 
+electron beam to generate coherent radiation. 
+ Budker INP is going to perform research and development of the 
+separation of linear polarized radiation from the main long undulator and 
+radiation from the elliptically polarized undulator. 
+ After approval of the feasibility study by XFEL.EU, Budker INP is going to 
+send a separate proposal for the mechanical design, manufacturing, 
+installation and commissioning of the separation system. 
+ Budker INP is responsible for the undulator commissioning. It includes 
+achieving the project parameters of the undulator field and a reliable 
+operation of the undulator on-site. 
+
+
+--- Page 20 ---
+
+ 
+February 2013 XFEL.EU TN-2013-004-01 
+20 of 22 European XFEL Post-TDR Description 
+4.2 Beam Parameter Variations along Bunch 
+Train 
+Varying electron beam parameters like charge, bunch length or energy within 
+the bunch train is planned to be part of the machine development phase 
+which follows the commissioning. 
+Different problems arise and are under study: 
+4.2.1 Electron Beam Optics 
+Bunches with different charge densities see different effective focusing, due 
+to the space charge forces. That can result in beam loss and/or background 
+problems. Furthermore, there is a given optimal beam envelope in the 
+undulator to achieve maximum power in the SASE photon pulse. If the optics 
+difference between the different bunch species becomes too big, only one of 
+them will lase efficiently. 
+We are studying this problem, which is complicated by the fact that we are 
+dealing with non-linear optic effects, with the help of start-to-end simulations 
+(Ref. 20). 
+4.2.2 rf System Regulation 
+The rf system regulation must cope with a bunch train, which, different to 
+section 3.5, does not have constant beam loading along the rf pulse. 
+Furthermore, rf phases and amplitudes have to be changed on very short 
+time scales to allow for different bunch lengths or energies along the train. 
+Studies at FLASH are under way to explore the practicability of this approach. 
+
+
+--- Page 21 ---
+
+ 
+XFEL.EU TN-2013-004-01 February 2013 
+European XFEL Post-TDR Description 21 of 22 
+A Reference Documents and EDMS 
+Identifiers 
+Ref. # Subject Title of Note 
+EDMS ID 
+or other reference 
+1 BC Chicanes Bunch Compressor Chicane 
+Specification 
+D00000001658531 
+2 e-Beam 
+Parameters 
+Baseline Electron Beam 
+Parameters 
+D00000003317421 
+3 BPM Specification Performance Specifications 
+for the European XFEL BPM 
+System 
+D00000001767781 
+D00000002604261 
+4 Change Request of 
+Undulator Beam Line 
+Layout 
+SASE and SASE2 position 
+and length change 
+D00000002031861 
+5 Personal 
+Interlock 
+Personal Interlock Beam Line 
+Components 
+D00000002795141 
+6 Collimation 
+Section 
+V.Balandin, R.Brinkmann, 
+W.Decking and N.Golubeva, 
+TESLA-FEL 2007-05 
+D00000001073531 
+7 Laser Heater TA 4 – Uppsala University, 
+9.07.2010 
+D00000002102441 
+8 Linac Temperature 
+Stabilization 
+Presentation H.-J. Eckoldt: 
+Temperature in XTL 
+D00000002060381 
+9 New Photon energy 
+range 
+Presentation 
+T. Tschentscher: Update on 
+X-ray layout and parameters 
+D00000002164331 
+10 Technical description 
+Charge Monitor 
+System 
+  
+11 Technical description 
+Beam Position 
+Measurement System 
+  
+12 Technical description 
+Beam Loss Monitor 
+System 
+Conceptual Design 
+Description for the BLM 
+System for XFEL 
+D00000001969661 
+13 Technical description 
+Dark Current Monitor 
+System 
+CDR – WP 7 – Dark Current 
+Monitor System, XFEL 
+Conceptual Design Review 
+D00000001851211 
+
+
+--- Page 22 ---
+
+ 
+February 2013 XFEL.EU TN-2013-004-01 
+22 of 22 European XFEL Post-TDR Description 
+Ref. # Subject Title of Note 
+EDMS ID 
+or other reference 
+14 Technical description 
+Screen Monitor 
+System 
+  
+15 Technical description 
+Transverse Deflecting 
+rf Structure 
+  
+16 Harmonic 
+Lasing 
+Harmonic lasing in X-ray 
+FELs 
+D00000003099751 
+17 Self-Seeding 
+Hard X-Rays 
+Extension of Self- Seeding to 
+Hard X-Rays $>$ 0 keV 
+as a Way to Increase User 
+Access at the European 
+XFEL 
+DESY 11-224 
+18 Self-Seeding 
+Soft X-Rays 
+Self-Seeding Scheme for the 
+Soft X-Ray Line in European 
+XFEL 
+DESY 12-034 
+19 Timing System XFEL Timing System 
+Specification 
+D00000003185391 
+20 Simultaneous XFEL 
+operation with different 
+bunch charges 
+Injector Optimization for 
+Simultaneous Operation with 
+Different Bunch Charges 
+http://www.desy.de/xfel- 
+beam/talksbyperson.html#akot_evgenij 
+21 XFEL Injector 
+Dogleg 
+Large Energy Acceptance 
+Dogleg for the XFEL Injector 
+IPAC2011: WEPC007 
+ 
+ 

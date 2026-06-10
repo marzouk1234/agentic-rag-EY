@@ -1,0 +1,659 @@
+
+
+--- Page 1 ---
+
+Acta Orthopædica Belgica, Vol. 82 - 3 - 2016
+Low back pain is one of the most common symptom 
+with high cost for the public health. When conserva-
+tive treatment fails, patients are heading to surgical 
+treatment. Instead of lumbar arthrodesis, we can of-
+fer an alternative that will keep the intervertebral 
+mobility : Total disc replacement (TDR) by prosthe-
+sis. Many studies have published good results rate 
+over 80%, since first implantation in 1984. Believing 
+in keeping the mobility, we promote TDR since 2002.
+This retrospective study review 345 patients with two 
+years follow-up. The outcomes show 81% of good and 
+really good results, according to gain of improvement 
+on VAS and ODI scores.  We report 6.88% of compli-
+cations for the abdominal approach and 4.57% for 
+the device, without harmful complication. Same re-
+sults are obtained in case of postdiscectomy syn-
+drome.
+Keywords : low back pain ; total disc replacement ; 
+lumbar disc prosthesis.
+INTRODUCTION
+Low back pain is one of the most common symp-
+toms in the general population, one symptom which 
+has a cost for  public health because of the impact   
+on the personal, social and professional life. The in-
+cidence of the low back pain has been increasing 
+over the year
+ (13). 
+In the past years, the surgical treatment for this 
+pathology when the conservative treatment failed 
+was to replace the disc by either a fusion or prosthe-
+sis (motion).
+The fusion has been the gold standard treatment 
+for a long time and still is the popular option but in 
+the past years the TDR has been winning on popu-
+larity. Yet, the subject is controversial in the spine 
+surgery.
+Several studies have shown the higher efficiency 
+of cages and prosthesis over the PLIF which cause 
+more stiffness and stress on the adjacent level. 
+Some meta-analyses comparing fusion to TDR 
+concluded on the safety and the efficiency of the 
+TDR
+ (19). Those have shown that TDR has slightly 
+better results than fusion (8,14).
+For our clinic center, after the performance of the 
+first results, we promoted the TDR for those patients 
+with chronic lumbosciatic symptoms instead of the 
+traditional body fusion.
+We would choose the TDR rather than the ar-
+throdesis (ALIF) because we believe in keeping the 
+mobility of the degenerated level like for other de-
+No benefits or funds were received in support of this study.
+The authors report no conflict of interests. 
+Acta Orthop. Belg., 2016, 82, 440-455
+A retrospective review of 345 patients with lumbar TDR in two years follow-up 
+over 10 years of practice in one Belgian clinical center : Results
+Julie Bastien, Yves Lecomte, Serge WiLLems
+From the Department of Orthopaedic Surgery, Clinique de l’Espérance Montegnée,CHC-Liège, Belgium
+ORIGINAL STUDY
+n Julie Bastien, MD, orthopaedic assistant fellow UCL.
+n Yves Lecomte, MD, orthopaedic surgeon.
+n Serge Willems, MD, orthopaedic surgeon, master course 
+UCL.
+ 
+Department of Orthopaedic Surgery, Clinique de l’Espérance 
+Montegnée, CHC-Liège, Belgium.
+Correspondance : Julie Bastien, Department of Orthopaedic 
+Surgery, Clinique de l’Espérance Montegnée CHC-Liège.
+E-mail : jujubastien@gmail.com
+© 2016, Acta Orthopædica Belgica.
+bastien-.indd   440 27/09/16   08:48
+
+
+--- Page 2 ---
+
+441 j. Bastien, y. Lecomte, s. WiLLems 
+Acta Orthopædica Belgica, Vol. 82 - 3 - 2016
+generative osteoarticular pathologies (ex : Hip - > 
+Total Hip Replacement, Knee - > Total Knee Re-
+placement).
+But the economical aspect is interfering with the 
+selection of the best treatment. Indeed, in our coun-
+try the cage is less expensive than the prosthesis. 
+Patients are reimbursed for one prosthesis under 
+certain  condition (proof by discography for in-
+stance). 
+In this article, we’ll review 345 files of patients 
+who were operated by TDR (2 types of prosthesis, 
+one surgeon) for Degenerative disc disease (DDD), 
+postdiscectomy, since January 2002 until December 
+2012.
+History
+The concept of discal prosthesis has been de-
+scribed for the first time in 1966 by Fernström
+ (4). 
+The German surgeon K. Buttner-Janz designed 
+the first SB Charité prosthesis which was implanted 
+for the first time in Septembre1984  (3). In France, 
+The Prodisc prosthesis was developed by Thierry 
+Marnay in 1987.
+Since 2000 and over the years, those prostheses 
+have shown a great success in Europe and in the 
+USA.
+Today, we have more than 13 years of practice 
+and good experiences with the Prodisc-L device in 
+our clinic center with 500 patients and more to 
+come.
+Physiopathology
+We know from our anatomy knowledge that, in 
+healthy lumbar disc, only the outer third of the disc 
+is innervated. However, discs taken out from low 
+back pain patient were analyzed and the inner third 
+was innervated as well suggesting the role of in-
+growth nerve in the disc could be the origin of the 
+chronic low back pain
+ (6). It would be the inflamma-
+tory reaction from the conflict between the nucleus 
+and the annulus fibrosus which would stimulate the 
+Nerve Growth factor (NGF) and initiate the nerve 
+ingrowth into the disc. This new innervation would 
+be the cause of chronic low back pain as the NGF 
+stimulate the nerve growth, the nerve has a hyper-
+sensitivity to NGF which cause hyperalgia due to an 
+inflammatory reaction (feedback positif effect by 
+the NGF), studied on mice
+ (9).
+As we remove the disc, we take out the origin of 
+the pain replacing the disc by an arthrodesis’s cage 
+or a prosthesis depending on the philosophy we be-
+lieve in. We decided to believe in motion to keep 
+the mobility of the lumbar segment and to preserve 
+the adjacent level and the sagittal balance as well.
+METHOD AND MATERIALS
+The Total Disc Replacement (TDR) is one of the sur-
+gical treatment we use for low back pain caused by DDD, 
+post-discectomy, disc-arthrosis in our clinic center. 
+We reviewed all the patient files since January 2002 to 
+December 2012.
+The objective of the review is to acknowledge that 
+TDR is an efficient and safe procedure in a cohort of 345 
+patients.
+Those patients had low back pain for at least 6 months 
+and tried different conservatory treatments as physiother-
+apy, kinesitherapy, infiltration but without improvement 
+of the pain. Most of them have quit their job because the 
+pain was not bearable. It is an economic factor that  
+should not be neglected.
+Before the surgery, an X-Ray and an MRI of the lum-
+bar segment have been asked. For those who have one 
+degenerative disc, we would perform  a discography to 
+confirm the pain is discogenic.
+For those patients with several degenerated disc in the 
+MRI, we would as well perform a discography to confirm 
+the level of the painful disc. As already known, a radio-
+graphic degenerated disc could most of the time be as-
+ymptomatic
+ (12).
+For those women of a certain age, we would ask for an 
+osteodensitometry to eliminate the possibility of osteo-
+porosis which is a contraindication for the TDR.
+It should be known that in Belgium a discography is 
+mandatory to be reimbursed for a prothesis which is one 
+of the reasons why this controversial procedure is being 
+done.
+The data of the review are a preoperative  Oswestry 
+Disability Index (ODI) Questionnaires and VAS and a 
+postoperative ODI and VAS  3 months, 6 months and 2 
+years after the surgery. We measure the efficiency of the 
+TDR by those data.
+A regular lumbar X-Ray is taken at D-1 post-op, 
+3 months, 6 months. At 1 year post-op a dynamic X-Ray 
+bastien-.indd   441 27/09/16   08:48
+
+
+--- Page 3 ---
+
+Acta Orthopædica Belgica, Vol. 82 - 3 - 2016
+ LumBar tdr 442
+(extension/ flexion) is taken to measure the angle of the 
+remaining mobility of the operated level. The angle is 
+measured from the upper endplate of the lower lumbar 
+vertebrae and the lower endplate of the upper lumbar 
+ vertebrae. We made the inventory of all the patients who 
+had post-operative complication either due to the anterior 
+approach or the prosthesis itself.
+As the review is retrospective since 2002 we didn’t get 
+all the data on 345 patients. We took out from the review 
+the files which did not have at least one ODI (N = 22) and 
+VAS (N = 16) value in pre-op and post-op for the pain 
+evaluation. We kept all 345 for the other data as compli-
+cations, indications, mean of age, mean of gender, levels 
+study, etc.
+Surgical technique :
+All the procedures were performed by retroperitoneal 
+anterior approach in French position by the same ortho-
+pedic surgeon. For the L5-S1 level, the incision would be 
+on the median line under the umbilicus leading by the 
+fluoroscopy. For the L4-L5, the incision would be on the 
+median line around the umbilicus and under leading by 
+the fluoroscopy (Fig. 1).
+Most of the time, the L5-S1 level is approach by the 
+RIGHT side of the white abdominal line and because of 
+the arterial iliac bifurcation the L4-L5 level or above 
+would be approached by the LEFT side of the white ab-
+dominal line. For the L4-L5 level, we would carefully 
+ask for an angioscanner to visualize the iliac vessels bi-
+furcation before surgery. It is usually not necessary for 
+the L5-S1 level. 
+This retroperitoneal anterior approach is a non-inva-
+sive way to approach the spine as the tissues are not cut 
+but separated by surgical tampons in the sliding layer. 
+(“plan de glissement”). When we finally got to the spine 
+itself, small veins and small artery usually are right on 
+the disc in the median line on L5-S1. Iliac collateral veins 
+sometimes need to be ligated because the left iliac vein is 
+going to be isolated to have a good access to the disc on 
+L4-L5. It provides the careless rip of the left iliac vein 
+which could be a source of a major blood loss (one case 
+in our study without consequences). The presence of a 
+vascular surgeon in the clinic is requested, and needs to 
+be close by in case something goes wrong. 
+We slowly access the spine on the painful disc. A con-
+trol of the lumbar level by fluoroscopy is performed and 
+then we can proceed on the discectomy with care and put 
+the prosthesis in place. A fluoroscopic control of the 
+prosthesis in AP view and lateral view is performed dur-
+ing the operation to assure that the implant is not too pos-
+terior or to avoid a lateral misalignment which could re-
+sult in a neurological complication by compression. 
+The material we work with is Prodisc-L (Synthes) 
+(N = 335) and M6 ( SpinalKinetics) (N = 10).
+RESULTS
+The age range of our reviewed population ranges 
+from 21 to 64 years old. The mean is 44 years old. 
+The patients distribution is 204 women (59%) 
+and 141 men (41%).
+All patients had low back pain for at least 6 
+months with or without pseudosciatica. They re-
+ceived a conservative treatment which was not suf-
+ficient before heading to surgery. 
+In the choice of indication, we identified several 
+etiologies as disc-arthrosis/DDD (72%), post-dis-
+cectomy (24%), disc herniation (2%), adjacent seg-
+ment failure (ASF) (2%).
+80% of the patients were operated on one level, 
+18% on two levels and 2% on 3 levels. 
+Most of the time the concerned disc is L5-S1 
+(60%) then L4-L5 (16%), L3-L4 (3%), L2-L3 (1%). 
+In the study, knowing it is a retrospective analyze 
+of 345 patients, only 323 of them filled up the ODI 
+Fig. 1
+bastien-.indd   442 27/09/16   08:48
+
+
+--- Page 4 ---
+
+443 j. Bastien, y. Lecomte, s. WiLLems 
+Acta Orthopædica Belgica, Vol. 82 - 3 - 2016
+In preoperative time, the distribution of the ODI 
+data is centered at 50% and the mean of VAS distri-
+bution is 75%.
+form (2 years post-op) and 329 of them evaluated 
+their pain on the VAS (unfortunately it is a global 
+ODI and VAS, we didn’t ask one for the back pain 
+and one for the leg pain).
+Fig. 2
+Fig. 3
+bastien-.indd   443 27/09/16   08:48
+
+
+--- Page 5 ---
+
+Acta Orthopædica Belgica, Vol. 82 - 3 - 2016
+ LumBar tdr 444
+Fig. 4
+Fig. 5
+bastien-.indd   444 27/09/16   08:48
+
+
+--- Page 6 ---
+
+445 j. Bastien, y. Lecomte, s. WiLLems 
+Acta Orthopædica Belgica, Vol. 82 - 3 - 2016
+But we wanted to know what was the impact and 
+the gain of improvement for each patient. For every 
+patient, we calculated the gain between before and 
+after surgery. We put all those data on a graph which 
+we divided in 4 groups : improvement of 0-45% 
+(Bad results), improvement of 45-65% ( mixed re-
+sults), improvement of 65%-85% (good results), 
+improvement over 85% (really good results).
+As we can observe on the graph below, if we 
+ focus on the ODI score data, 81% of the patients 
+Both of the ODI and VASgraphs have similarity 
+on the distribution, most of the patient are close to 
+the mean, with a normal distribution.
+Then, in postoperative time (2 years after sur-
+gery), the majority is moving to the left side of the 
+graph on both data which illustrate well the efficien-
+cy of the procedure.
+Visually, we can acknowledge the strong tenden-
+cy of a good improvement of the pain reduction and 
+the quality of life as well (ODI) in general.
+Fig. 6
+Fig. 7
+bastien-.indd   445 27/09/16   08:48
+
+
+--- Page 7 ---
+
+Acta Orthopædica Belgica, Vol. 82 - 3 - 2016
+ LumBar tdr 446
+For those patients who have more than 85% gain 
+on quality of life which is 53% of the patients they 
+went back to work, stopped taking painkiller pills, 
+and some of them who were doing sport before 
+started doing sport again. They are having a low 
+back painless life at a two-year follow-up.
+have good and really good results. This is similar to 
+the VAS results (82%) (Fig. 6).
+10% have bad results.
+If we split the results in more categories (Fig. 10, 
+Fig. 11), we have a better idea of the distribution of 
+the results.
+Fig. 8
+Fig. 9
+bastien-.indd   446 27/09/16   08:48
+
+
+--- Page 8 ---
+
+447 j. Bastien, y. Lecomte, s. WiLLems 
+Acta Orthopædica Belgica, Vol. 82 - 3 - 2016
+2. A 43 years old man operated on 3 discs with Pro-
+disc-L obtained very good results after 7 years 
+(pain free, practicing  sport, 3 prostheses mobi-
+lity : 37°) (Fig. 14-Fig. 18).
+Clinical examples
+1. A 36 years old woman operated on January 2002 
+with a Prodisc L5-S1 obtained very good results 
+after 12 years (pain free, prosthesis mobility : 
+14°, no wear debris ) (Figs. 12, 13).
+Fig. 10
+Fig. 11
+bastien-.indd   447 27/09/16   08:48
+
+
+--- Page 9 ---
+
+Acta Orthopædica Belgica, Vol. 82 - 3 - 2016
+ LumBar tdr 448
+Fig. 12-13
+Fig. 14, 15, 16
+bastien-.indd   448 27/09/16   08:48
+
+
+--- Page 10 ---
+
+449 j. Bastien, y. Lecomte, s. WiLLems 
+Acta Orthopædica Belgica, Vol. 82 - 3 - 2016
+Fig. 17, 18
+Fig. 19
+bastien-.indd   449 27/09/16   08:48
+
+
+--- Page 11 ---
+
+Acta Orthopædica Belgica, Vol. 82 - 3 - 2016
+ LumBar tdr 450
+Fig. 20
+Fig. 21
+bastien-.indd   450 27/09/16   08:48
+
+
+--- Page 12 ---
+
+451 j. Bastien, y. Lecomte, s. WiLLems 
+Acta Orthopædica Belgica, Vol. 82 - 3 - 2016
+Fig. 22
+Fig. 23
+bastien-.indd   451 27/09/16   08:48
+
+
+--- Page 13 ---
+
+Acta Orthopædica Belgica, Vol. 82 - 3 - 2016
+ LumBar tdr 452
+abdominal wall hematomas and 10 retroperitoneal 
+lymphatic seroma required reoperation for drain-
+age. We recall 1 uretheral stenosis and 1 case of    
+diastasis recti. 
+Regarding the device, we have identified 3 mobi-
+lizations of implant (less than 2 mm) 4 mobiliza -
+tions of PE (less than 4 mm), 6 impactions of the 
+implant in the bone (identified on the X-ray, all 
+were asymptomatic), 3 cases of sciatica because of 
+a postero-lateral bone fragment due to the plugging 
+of the device, 2 cases of vertebrae fissure without 
+consequences in the course of a 2 levels operation 
+only.
+In total, we have for the abdominal approach 
+6.88% of complications but only 2 cases were per-
+manent. And for the device we have 4.57% of com-
+plications with 5 surgical revisions without conse-
+quences afterwards : 3 surgicel revisions were 
+performed because of a sciatic pain in the leg caused 
+by a bone fragment expulsed in the canal which was 
+taken out in one case by anterior approach and in 
+two cases by posterior approach. One surgical revi-
+sion  was performed because of a sciatic pain in the 
+Postdiscectomy cases
+In the 345 files, 81 patients underwent discecto -
+my surgery before TDR. We proceeded the same 
+way to analyze the ODI and VAS results.
+The percentage of gain on post-discectomy is 
+83% for ODI and 83% for VAS which is slightly 
+comparable to the overall result of the 345 patients 
+(which includes post-discectomy cases).
+Based on the results we have, we don’t think the 
+post-discectomy is a contraindication to a prosthesis 
+and we could say that it is as safe and effective as 
+for other indications.
+Complications :
+In our review, one procedure has been stopped 
+because of a hemorrhage following an iliac vein 
+wound, and another procedure as well because of 
+the tissue fibrosis. 
+2 retrograde ejaculations were reversible after 3 
+months due to an irritation of the superior 
+ hypogastric plexus. 6 retroperitoneal hematomas, 2 
+Fig. 24
+bastien-.indd   452 27/09/16   08:48
+
+
+--- Page 14 ---
+
+453 j. Bastien, y. Lecomte, s. WiLLems 
+Acta Orthopædica Belgica, Vol. 82 - 3 - 2016
+Different studies  (2,7,11,15,17) have published 
+good results rate over 80%. Other studies, compar -
+ing prosthesis versus arthrodesis, have shown that 
+the prosthesis is slightly better than the fu-
+sion (1,16,18,20).
+The major indication of the TDR is DDD which 
+is as the name sais correctly a degenerative disease 
+of the disc. That implies an evolution of the disease 
+through the years, one disc after another perhaps the 
+spine can be damage from cervical to lumbar. So, 
+the pain can come back in another disc if the disease 
+is progressing. 
+In our review, the L5-S1 is the most painful disc. 
+We had cases of 2 or 3 levels surgery which have 
+good outcomes.
+The prosthesis will it be without risk at all ? How 
+many years before starting to significant complica -
+tions ? When researching  the literature for TDR 
+complication, we didn’t find so many articles. One 
+case report was interesting regarding a reoperation 
+of a Maverick device with metallosis, they removed 
+it  and did an interbody fusion. No complication
+ (5). 
+In some meta-analyses we find different data re-
+garding  complications in TDR, but it is not well 
+described. The complication rate published in a me-
+ta-analysis is 5.8%
+ (8).
+In our review, we can say that we have a reason-
+able percentage of complication of 6.88% for the 
+abdominal approach and 4.57% regarding the de-
+vice with only 5 patients who underwent surgery 
+again (over 345 patients).
+In case of facet arthropathy and adjacent level 
+disease, is the TDR doing any good ? Few patients 
+of ours had an infiltration in the facet joint years 
+later after TDR but we didn’t recall the exact num-
+ber as it was not a criteria of analysis in the review. 
+In case of previous discectomy, in our experi -
+ence, there is no difference either for the abdominal 
+approach or the implant procedure. The quality of 
+life and the pain level  are improving as well. This is 
+supported by Leahy et al
+ (10). They compare two 
+groups of patient, one with previous discectomy and 
+the other which didn’t have this surgery. The results 
+have shown that the outcome of TDR in a post-
+discectomised patient is not compromised. 
+leg caused by a misalignment of the prosthesis. And 
+one last surgical revision was due to an acute lum-
+bar pain in post-operatory recovery (18 months after 
+surgery) caused by a dislocation of the polyethy-
+lene, in this case we decided to replace the prosthe-
+sis by an arthrodesis by cage by an anterior approach 
+which did not cause problems. 
+Please note that metallosis has been described in 
+a case report regarding the Maverick disc prosthe-
+sis
+ (5). It needed to be removed for persistent pain 
+caused by motion between the endplate and the 
+prosthesis. During the surgery they found metallosis 
+around this metal-metal device which would be dra-
+matic if it would reach  the canal.
+In our study, the devices used are not a metal-
+metal prosthesis but a metal-PE-metal (Prodisc, 
+M6). As far as we were able to follow our patients 
+we don’t recall having any problem of the sort 
+which is  comforting.
+In our knowledge, no infection cases or neuro-
+logical cases has been identified. But 2 cases of un-
+explained neuropathy of the inferior limbs (0.5%) 
+with negative EMG were non-reversible. There was 
+no improvement of the symptoms even years later.
+We acknowledge during the recovery a short pe-
+riod of time during which some patients present 
+what we call a redistraction syndrome. It expresses 
+a pseudosciatic symptom likely as an aspecific 
+stretching painfull sensation in the posterior surface 
+of the buttock and thigh uni- or bilateraly, symptom 
+which disappears after a month, and without conse-
+quences.
+DISCUSSION
+In the past years, the surgical treatment for the 
+low back pain regarding the indications when the 
+conservative treatment failed is to replace the disc 
+by either a cage (fusion) or prosthesis (motion) even 
+though the PLIF stays an option as well. 
+The fusion has been the gold standard treatment 
+for a long time and still is the popular option but in 
+the past years the TDR seems to win on popularity. 
+Yet, the subject still remains controversial in the 
+spine surgery today. Some questions remain unan-
+swered and make surgeons uncertain of the safety 
+and efficiency of the TDR procedure. 
+bastien-.indd   453 27/09/16   08:48
+
+
+--- Page 15 ---
+
+Acta Orthopædica Belgica, Vol. 82 - 3 - 2016
+ LumBar tdr 454
+4. Fernström U. Arthroplasty with intercorporeal endo-
+porsthesis in herniated disc and in painfull disc. Act Chir 
+Scand 1966 : 355 (suppl) : 154-159.
+5. François J, Coessens R, Lauweryns P. Early removal of a 
+Maverick disc prosthesis : surgical findings and morpho-
+logical changes. Acta Orthop Belg 2007 Feb ; 73 : 122-7.
+6.  Freemont AJ. Nerve ingrowth into diseased intervertebral 
+disc in chronic, The Lancet 1997, 350 : 178-181.
+7. Guyer RD, McAfee PC, Banco RJ et al. Prospective, 
+randomized, multicenter Food and Drug Administration 
+investigational device exemption study of lumbar total disc 
+replacement with the CHARITE artificial disc versus 
+lumbar fusion : Five-year follow-up. Spine J 2009 ; 9 : 374-
+86.
+8. Jiangbo Wei. Comparison of artificial total disc replace -
+ment versus fusion for lumbar degenerative disc disease : a 
+meta-analysis of randomized controlled trials.  Internation-
+al Orthopaedics (SICOT) 2013 ; 37 : 1315-1325.
+9. Kazuhisa T. Resolving Discogenic pain. Eur Spine J 
+2008 ; 17 : S428-S431.
+10. Leahy M, Zigler JE, Ohnmeiss DD, Rashbaum RF, 
+Sachs BL. Comparison of results of total disc replacement 
+in postdiscectomy patients versus patients with no previous 
+lumbar surgery. Spine 2008 ; 33 : 1690-31, 1694-5.
+11. Lemaire JP, Carrier H, Sariali el H et al. Clinical and 
+radiological outcomes with the Charite artificial disc : A 
+10-year minimum follow-up. J Spinal Disord Tech 2005 ; 
+18 : 353-9
+12. Malhar N. Kumar, Frederic Jacquot, Hamilton Hall. 
+Long term follow-up of functional outcomes and 
+radiographic changes at adjavent levels following lumbar 
+spine fusion for degenerative disc disease. Eur Spine J 
+2001 ; 10 : 309-313.
+13. Manchikanti L, Singh V, Falco FJ, Benyamin RM, 
+Hirsch JA. Epidemiology of low back pain in adults. 
+Neuromodulation : Technology at the Neural Interface 
+Special Issue : Chronic Pain : A Comprehensive Overview, 
+2014 ; 3-10.
+14. Min J R, Sheng-Sheng C. Artificial total disc replacement 
+versus fusion for lumbar degenerative disc disease : a meta-
+analysis for randomized controlled trials. Arch Orthop 
+Trauma Surg 2014 ; 134 : 149-158.
+15. Siepe CJ, Heider F, Wiechert K et al. Mid- to long-term 
+results of total lumbar disc replacement : A prospective 
+analysis with 5- to 10-year follow-up. Spine J 2014 ; 14 : 
+1417-31.
+16. Skold C, Tropp H, Berg S. Five-year follow-up of total 
+disc replacement compared to fusion : A randomized 
+controlled trial. Eur Spine J 2013 ; 22 : 2288-95.
+17. Tropiano P, Huang RC, Girardi FP et al. Lumbar total 
+disc replacement. Seven to eleven-year follow-up. J Bone 
+Joint Surg Am 2005 ; 87 : 490-6.
+18. Wei J, Song Y, Sun L et al. Comparison of artificial total 
+disc replacement versus fusion for lumbar degenerative 
+disc disease : A meta-analysis of randomized controlled 
+trials. Int Orthop 2013 ; 37 : 1315-25
+So having a previous surgery in the diseased disc 
+doesn’t influence the outcome.
+CONCLUSION
+Even though this study is retrospective, after 
+10 years of practice in the TDR field, we are confi-
+dent to assess it is a safe and efficient procedure 
+with high level of recovery, as long as the surgeon 
+is careful during the retroperitoneal approach and 
+choosing the right material. Even so, no one is shel-
+tered of any complication during the anterior ap-
+proach either to place a cage or prosthesis. The 
+choice of preserving the ROM is a question of phi-
+losophy even though meta-analyses comparing in-
+terbody fusion and TDR described TDR as the first 
+choice. In case of failure in TDR, they recommend 
+then to perform an interbody fusion
+ (8). 
+We have 81% of good results on two-years fol-
+low-up in more than 10 years of practice. We have 
+good results as well on postdiscectomy patients. 
+None of the complications were threatening life as 
+far as we were able to follow our patient. No cases 
+of wear debris were reported to us until today in our 
+patients. We didn’t identified so far some alteration 
+of the implant or the adjacent bone on the few pa-
+tients operated in the early ‘00. Those could be 
+treated on a long-term follow-up review in a further 
+study. 
+Weakness of the article  : Retrospective study ; 
+the co-writer is the surgeon himself.
+REFERENCES
+1. Berg S, Tropp H. Results from a randomized controlled 
+study between total disc replacement and fusion compared 
+with results from a spine register. SAS J 2010 ; 4 : 68-74.
+2. Bertagnoli R, Yue JJ, Shah RV et al. The treatment of 
+disabling single-level lumbar discogenic low back pain 
+with total disc arthroplasty utilizing the ProDisc prosthesis : 
+A prospective study with 2-year minimum follow-up. Spine 
+2005 ; 30 : 2230-6.
+3. Buttner-Janz K Schellnack K, Zippel H, Conrad P. Ex-
+perience and results with SB-Charite lumbar intervertebral 
+endoprosthesis. Z Klin Med 1988 ; 43 : 1785-1789.
+bastien-.indd   454 27/09/16   08:48
+
+
+--- Page 16 ---
+
+455 j. Bastien, y. Lecomte, s. WiLLems 
+Acta Orthopædica Belgica, Vol. 82 - 3 - 2016
+Administration investigational device exemption study of 
+the ProDisc-l total disc replacement versus circumferential 
+arthrodesis for the treatment of single-level degenerative 
+disc disease. J Neurosurg Spine 2012 ; 17 : 493-501.
+19. Wu Y, Zhu Y, Han X. A meta-analysis of artificial total 
+disc replacement versus fusion for lumbar degenerative 
+disc disease. Eur Spine J 2010 ; 19 : 1250-1261.
+20. Zigler JE, Delamarter RB. Five-year results of the 
+prospective, randomized, multicenter, Food and Drug 
+bastien-.indd   455 27/09/16   08:48

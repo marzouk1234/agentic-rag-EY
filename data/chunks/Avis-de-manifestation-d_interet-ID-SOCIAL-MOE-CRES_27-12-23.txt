@@ -1,0 +1,131 @@
+
+===== CHUNK 0 =====
+--- Page 1 ---
+
+===== CHUNK 1 =====
+REPUBLIQUE TUNISIENNE 
+Ministère des Technologies de la Communication 
+Programme De Transformation Digitale Pour Des Services Publics Orientés Citoyens « GovTech » 
+ Prêt No. BRD-89870   
+Manifestations d’intérêt :TN-MTCTD-377103-CS-QCBS    
+Développement et mise en place d’un nouveau Système d’Information de l’Identifiant Social au profit du 
+Centre de Recherches et d’Etudes Sociales (CRES). 
+Le Gouvernement de la République Tunisienne a reçu un prêt de la Banque Mondiale pour financer le programme de  
+Transformation digitale pour des services publics orientés citoyens « GovTech » dont les ministères bénéficiaires sont : le  
+Ministère de la Fonction Publique, le Ministère des Affaires Sociales, le Ministère de l’Eduction et le Ministère de la Santé  
+Publique. Les informations relatives au programme « GovTech » peuvent être consultées sur le site du MTC à l’adresse suivante
+
+===== CHUNK 2 =====
+Publique. Les informations relatives au programme « GovTech » peuvent être consultées sur le site du MTC à l’adresse suivante 
+: https://www.mtc.gov.tn/   Le MTC a l’intention d’utiliser une partie du montant de ce prêt pour effectuer les paiements au titre 
+d’un Consultant (firme) en vue du développement et la mise en place d’un nouveau Système d’Information de l’Identifiant 
+Social au profit du Centre de Recherches et d’Etudes Sociales (CRES).   
+La durée d’exécution des prestations est de 12 mois.   
+Les services comprennent :   
+- L’élaboration du Plan d’Assurance Qualité,   
+- Le diagnostic de l’existant et l’analyse des besoins,   
+- L’élaboration des spécifications fonctionnelles et techniques,   
+- La conception générale et détaillée,  
+-  La réalisation de la solution,   
+- La mise en œuvre de la solution,   
+- La formation et le transfert de compétences, 
+-  L’assistance technique après le déploiement.
+
+===== CHUNK 3 =====
+-  La réalisation de la solution,   
+- La mise en œuvre de la solution,   
+- La formation et le transfert de compétences, 
+-  L’assistance technique après le déploiement.   
+Les Termes de Référence (TDR) détaillés peuvent être téléchargé gratuitement par tout Soumissionnaire intéressé directeme nt 
+sur le site du Ministère des Technologies de la Communication : https://www.mtc.gov.tn/   
+Le Ministère des technologies de la communication invite les firmes de consultants éligibles (« consultants ») à manifester leur 
+intérêt. Les consultants intéressés doivent fournir les informations indiquant qu’ils ont les qualifications et l'expérience requises 
+pour exécuter les Services (brochures, références concernant l’exécution de contrats analogues, expérience dans des conditions 
+semblables, disponibilité des connaissances nécessaires parmi le personnel, etc.). 
+Les critères d’analyse des dossiers sont donnés dans le tableau suivant :   
+Critères   Poids   Barème de notation
+
+===== CHUNK 4 =====
+Les critères d’analyse des dossiers sont donnés dans le tableau suivant :   
+Critères   Poids   Barème de notation   
+Solidité de l'entreprise   30      
+1. Domaine d'activité : Le soumissionnaire doit être un cabinet de 
+consultants expérimenté opérant dans le domaine de la pratique de 
+l’ingénierie informatique, le développement des systèmes 
+d’information et le conseil en technologie.   
+10   Domaine d'activité consulting, ingénierie informatique, 
+développement SI, conseil en IT ou équivalent (10 pts)   
+2. Moyens humains (effectif et qualification)   
+  
+05  Nombre de collaborateurs (05 pts) :    
+- Inférieur à 15 : (2 pts)   
+- Plus que 15 : (5 pts)   
+(En cas de groupement, prendre le cumul)   
+15 Cadres (ingénieur bac + 5 ou équivalent) (15 pts) :  
+- Inférieur à 05 : (05 pts)   
+- Entre 05 et 10 : (10 pts)   
+- Plus que 10 : (15 pts)     
+Références 70      
+1.  Références Missions Similaires (de même nature et/ou degrés 
+de complexité, gestion de base de données)
+
+===== CHUNK 5 =====
+- Entre 05 et 10 : (10 pts)   
+- Plus que 10 : (15 pts)     
+Références 70      
+1.  Références Missions Similaires (de même nature et/ou degrés 
+de complexité, gestion de base de données)   
+30   2<= Nbr<= 4 : (15 pts)   
+Nbr >=5 : (30 pts)   
+(En cas de groupement, prendre le cumul)
+
+===== CHUNK 6 =====
+--- Page 2 ---
+
+===== CHUNK 7 =====
+2.  Missions de conception et de développement des systèmes 
+informatiques avec un grand compte (gouvernemental et/ou 
+privé)    
+20   2<= Nbr<= 4: (10 pts)   
+Nbr >=5: (20 pts)   
+(En cas de groupement, prendre le cumul)   
+3.  Missions de conception et de développement des systèmes 
+informatiques avec une architecture SOA   
+20   2<= Nbr<= 4: (10 pts)   
+Nbr >=5: (20 pts)   
+(En cas de groupement, prendre le cumul)   
+Total   100 points      
+  
+Ne seront prises en compte que les références pour des missions complètement achevées durant les 06 dernières années (à   partir 
+de l’année 2017) ; uniquement les soumissionnaires qui auront obtenu la note minimale de 50 points seront retenu au niveau de 
+la liste restreinte.  
+L'attention des consultants intéressés est attirée sur la section III, paragraphes, 3.14, 3.16 et 3.17 du « Règlement de passation des
+
+===== CHUNK 8 =====
+la liste restreinte.  
+L'attention des consultants intéressés est attirée sur la section III, paragraphes, 3.14, 3.16 et 3.17 du « Règlement de passation des 
+marchés pour les emprunteurs sollicitant le financement de projets d’investissement (FPI) » de la Banque mondiale, version juillet 
+2016 mis à jour en Novembre 2017 et Aout 2018 (« Règlement de passation des marchés »), énonçant la politique de la Banque 
+mondiale en matière de conflits d'intérêts.    
+Les consultants peuvent s'associer avec d'autres consultants pour renforcer leurs qualifications, mais doivent indiquer clairement si 
+l'association prend la forme d'une coentreprise et / ou d'une sous-consultance. Dans le cas d'une coentreprise, tous les partenaires de 
+la coentreprise seront conjointement et solidairement responsables de la totalité du contrat, s'ils sont sélectionnés.   
+Un consultant sera sélectionné conformément à la méthode Sélection Fondée sur la Qualité et Le Cout (SFQC) énoncée dans le
+
+===== CHUNK 9 =====
+Un consultant sera sélectionné conformément à la méthode Sélection Fondée sur la Qualité et Le Cout (SFQC) énoncée dans le 
+Règlement de passation des marchés de la Banque.   
+De plus amples informations peuvent être obtenues par Email (web@tunisia.gov.tn)  ou à l'adresse ci-dessous pendant les heures de 
+bureau.   
+Adresse : 88, Avenue Mohamed V 1002 Tunis, Tunisie  
+Étage/bureau : N°102 
+Ville : Tunis   
+Code postal : 1002    
+Les manifestations d’intérêts peuvent être envoyer par voie électronique à l’adresse suivante  : (Web@tunisia.gov.tn) ou déposer 
+directement au bureau d’ordre central du ministère des Technologies de la communication ou par voie postal à l’adresse ci-dessous : 
+ 
+Unité de gestion du Projet GOVTECH 
+Ministère des Technologies de la communication, 
+Adresse : 88, Avenue Mohamed Ⅴ 1002 Tunis, Tunisie » 
+ 
+Et ce, au plus tard le 07 février 2024 à 11h00 (heure Tunis).

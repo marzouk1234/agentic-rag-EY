@@ -1,0 +1,325 @@
+
+
+--- Page 1 ---
+
+  
+ 
+ 
+SRK Consulting (Canada) Inc. 
+2200–1066 West Hastings Street 
+Vancouver, BC  V6E 3X2 
+ 
+T: +1.604.681.4196 
+F: +1.604.687.5532 
+ 
+vancouver@srk.com 
+www.srk.com 
+ 
+Memo 
+To: Will Brits, Wentzel Coetzer Client: Cabot Corporation 
+From: Bruce Murphy Project No: 1CC041.000 
+Cc: John Egan (Cabot Corporation) Date: June 25, 2014 
+Subject: TDR and Triaxial Geophone Installation Project – Safety Aspects 
+ 
+1 Project Description 
+The project is intended to install monitoring equipment within drillholes drilled into the crown 
+pillar above the East Main Zone, from a barge on the lake. The monitoring equipment 
+includes two Time Domain Reflectometry (TDR) cables and a seismic triaxial geophone. The 
+intent is to drill three holes, one for each instrument (Figure 1 – Figure 3). 
+The TDR’s are to be installed by SRK personnel assisted by Tanco’s selected drilling 
+contractor.  The geophone install will be under the supervision of ESG (Seismic System 
+Supplier) - a representative from which needs to be present during installation. Table 1 
+provides a list of drillholes. 
+Table 1: Drillholes 
+Proposed 
+Hole ID 
+Easting 
+(ft) 
+Northing 
+(ft) 
+Lake 
+Elev. 
+(ft) 
+Target 
+Depth 
+(ft) 
+Azi. 
+( ̊ ) 
+Dip  
+( ̊ ) Purpose Hole 
+Size 
+SRK14-05 10050 9740 1082 150 135 -55 TDR install hole NQ 
+SRK14-06 10280 9720 1082 170 220 -55 TDR install hole NQ 
+SRK14-07 9845 9870 1080 71 0 -90 
+Vertical hole for 
+triaxial geophone 
+sensor install 
+HQ 
+ 
+1.1 Project Purpose 
+The Geotechnical Mining Review Board (GMRB) recommended that TDR cables should be 
+installed from surface into the crown pillar above the current Fall of Ground (FOG) to help 
+monitor the occurrence of failure (dilation on joints/faults). These will also help to assess the 
+depth of failure if additional falls do occur within the 14N FOG area.  
+Following a SRK review of the accuracy of the seismic system and discussions with ESG, 
+they recommended the addition of a triaxial geophone closer to surface in the East Main Zone 
+Area. This geophone and the improved 3D velocity model mayl help improve the location 
+accuracy and enable a better understanding of the micro-seismic data – which could possibly 
+provide an indication of potential instability.  
+BM 1CC041 000_Tanco_TDR and Triaxal Geophone Installation Memo_20140625_bm.docx  June 2014 
+ 
+
+
+
+--- Page 2 ---
+
+SRK Consulting  Page 2 
+ 
+1.2 Project Objective 
+Further enhancing the crown rockmass monitoring system will help manage the risk to 
+personnel by increasing the monitoring capability in the 14N FOG area, and by being able to 
+understand rock mass changes, exhibited as seismicity, that may occur in the East Main Zone 
+and the West Zone. 
+2 Project Risk 
+Two potential project risks have been identified: 1) drilling into the mine resulting in potential 
+flooding, and 2) stability impacts on the crown pillar as a result of the proposed drilling. T he 
+mitigation measures to manage these risks are discussed in the separate sections below. 
+2.1 Project Risk – Drilling into the mine (flooding) 
+The drillholes have been designed to stop short of the current excavation, just as was 
+undertaken in the recent crown pillar exploration program. The same practises will be 
+followed to prevent a major occurrence of water in-rush into the mine. Figure 4 shows the 
+details of the water to rock seal procedure that serves to reduce the likelihood, to acceptable 
+levels, of the lake water entering into the drill hole. If a hole-through to the underground does 
+occur, the fact that the drillhole system has been isolated from the lake, that a plug can be 
+installed into the hole, and the hole can then be grouted, will reduce the risk of mine flooding 
+to reasonably acceptable levels.  
+The stoping distance of +20 ft back from the excavation should address the lake level 
+fluctuation and reduce the risk related to breakthrough as a result of scan and ho le-surveying 
+inaccuracy. Set-up on the drilling for collaring of the drill hole and the checking of the 
+orientation during drilling will help manage the risk related to drilling accuracy. 
+The Rodren Drilling procedure to deal with the breakthrough hazard is attached in Appendix 
+A. The risk of breakthrough is real and it is that procedure, which aims to mitigate the risk of 
+lake water and underground interaction.  
+2.2 Project Risk – Impact on crown pillar 
+The two TDR monitoring holes are being drilled into the FOG area. These will likely have a 
+limited impact on the stability of the existing FOG. The benefits of having the TDR cables 
+installed far outweigh the risks related to the impact of the drilling. Drilling water and vibrations 
+could induce some localised instability if there is breakthrough into the excavation, especially 
+since the excavation is unsupported. This would occur in the currently “restricted zone” and is 
+unlikely to affect currently accepted mine safety levels.  
+The same drilling practises as those used in the recent crown pillar geotechnical drilling 
+program will be employed, as discussed above and attached. These successfully drilled into 
+similar rocks, under similar conditions, using currently accepted practice  
+The proposed drilling contractor has previously drilled holes off barges on unfrozen lakes and 
+has drilled holes into the same crown pillar area recently. They understand the risks related to 
+this type of drilling and are, in our opinion, capable of managing the associated risks.  
+BM 1CC041 000_Tanco_TDR and Triaxal Geophone Installation Memo_20140625_bm.docx  June 2014 
+ 
+
+
+--- Page 3 ---
+
+SRK Consulting  Page 3 
+ 
+When the TDR drill holes are drilled into the 14N FOG area an underground spotter should be 
+used to monitor the occurrence of any water ingress or potential instability in the excavation 
+back. This would need to be undertaken at a safe distance from the break-through point, from 
+a point deemed safe by mine personnel, having reviewed the drill hole orientation and 
+potential hole-through point, following measurements made where the drill hole is adequately 
+cased and set into the bedrock. 
+ 
+BM 1CC041 000_Tanco_TDR and Triaxal Geophone Installation Memo_20140625_bm.docx  June 2014 
+ 
+
+
+--- Page 4 ---
+
+SRK Consulting  Page 4 
+ 
+ 
+Figure 1:  Plan view showing lake edge, void, and sub-vertical to vertical faults. SRK14-07 is the vertical hole for triaxial geophone sensor install. SRK14-05 and 
+SRK14-06 are TDR install holes. 
+BM 1CC041 000_Tanco_TDR and Triaxal Geophone Installation Memo_20140625_bm.docx  June 2014 
+ 
+
+
+--- Page 5 ---
+
+SRK Consulting  Page 5 
+ 
+ 
+ 
+Figure 2:  SRK14-05 and SRK14-06 are the holes required for installation of the TDR cables above the 14N FOG. 
+ 
+BM 1CC041 000_Tanco_TDR and Triaxal Geophone Installation Memo_20140625_bm.docx  June 2014 
+ 
+
+
+--- Page 6 ---
+
+SRK Consulting  Page 6 
+ 
+ 
+ 
+Figure 3:  SRK14-07 is a vertical hole for the installation of the triaxial geophone. 
+Toe of drillhole at 
+1009’ elevation 
+BM 1CC041 000_Tanco_TDR and Triaxal Geophone Installation Memo_20140625_bm.docx  June 2014 
+ 
+
+
+--- Page 7 ---
+
+SRK Consulting  Page 7 
+ 
+ 
+Figure 4:  Water to rock sealing procedure. 
+ 
+BM 1CC041 000_Tanco_TDR and Triaxal Geophone Installation Memo_20140625_bm.docx  June 2014 
+ 
+
+
+--- Page 8 ---
+
+SRK Consulting  Page 8 
+ 
+ 
+ 
+ 
+ 
+SRK Consulting (Canada) Inc. 
+ 
+ 
+ 
+ 
+ 
+      
+Bruce Murphy,  
+Principal Consultant 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer— SRK Consulting (Canada) Inc. has prepared this document for Cabot Corporation. Any use or decisions by 
+which a third party makes of this document are the responsibility of such third parties. In no circumstance does SRK 
+accept any consequential liability arising from commercial decisions or actions resulting from the use of this report by a 
+third party.  
+The opinions expressed in this document have been based on the information available to SRK at the time of preparation. 
+SRK has exercised all due care in reviewing information supplied by others for use on this project. Whilst SRK has 
+compared key supplied data with expected values, the accuracy of the results and conclusions from the review are 
+entirely reliant on the accuracy and completeness of the supplied data. SRK does not accept responsibility for any errors 
+or omissions in the supplied information, except to the extent that SRK was hired to verify the data. 
+ 
+BM 1CC041 000_Tanco_TDR and Triaxal Geophone Installation Memo_20140625_bm.docx June 2014 
+
+
+--- Page 9 ---
+
+ 
+Appendix A:  Rodren Drilling Procedure 
+ 
+
+
+--- Page 10 ---
+
+Tanco Site Specific - Break Through of Borehole Into Mine 
+Facility: Written By: Approved By: Date Created: Date of Last 
+Revision 
+Rodren Drilling Ian Wilson Rod Cyr Feb 19, 2014 Feb 19, 2014 
+ 
+Hazards Present: PPE or Devices  Required: Additional Training Required: 
+Drop Drill rods into mine Monitor of Drill Bit Location First Aid  
+Overhead hazard to miners Communication with mine Eng.  
+Loss to process Accurate Planning of drill hole  
+Crushing injuries to drill crew Standard drill guarding  
+ Standard Drilling PPE   
+ 
+Safe Work Procedure: 
+ 
+1. This has been done in the past and is always a real possibility when working above old or 
+current mine sites. The problem becomes prevalent when the drill crew is unaware and 
+unprepared.   
+2. Knowledge of the ground below is absolutely necessary. In the past this situation arose, the 
+crew was not prepared for this to happen and lost the core barrel plus drill rods and damaged 
+the drill head costing approximately $12,000.00 damage.  
+3. The hole was easily plugged from surface using a safety plug and then cementing the hole 
+back to lake bottom. 
+a.  Possible Risks 
+i. Drop rods onto workers or operating equipment. 
+ii. Damage to drill equipment. 
+iii. Crushing injuries to drill crew. 
+Keys to being Prepared: 
+1. Communication and hole planning is extremely important. Information must be 
+communicated from the hole planner (Tanco) to the drill crew, making them 
+aware at what depth they may encounter the mine. 
+2. Accurate count of hole depth must be checked and double-checked. Measure this 
+distance from the top of the ice, subtracting stickup, and keep this information 
+available for both shifts. 
+3. When re-chucking ensure NOT to use the Clamp Lock feature of the Discovery drill, it 
+is important to always have hold of your drill string by either the top or the bottom 
+clamp.  
+4. Supervisor will make himself available during times where break through may be 
+likely; supervisor will alert Mining supervisor of times when break-though may occur, 
+and suggest that work in the likely area is stopped, and equipment is moved to 
+prevent accidents underground.  
+5. Driller and supervisor ensure proper steps are taken throughout hole plugging 
+process. 
+In the even of a break though: 
+1. Water pressure will drop to zero. 
+2. Head Pressure will drop to zero. 
+3. Immediately notify supervisor, Mine Security and all on drill site personnel of the situation.  
+4. Pull drill rods. 
+5. Attach Safety Plug / or go down open rod to a location 6 – 10 feet above break-though, Install 
+safety plug. Pull back 20’ – 30’ pour cement down borehole, and slowly pump down the hole 
+with a wiper.  
+6. In the event that water is still entering the mine site, install additional plugs above break 
+though area and stop water.  
+7. Do not remove drill from collar until it is confirmed that the hole has been plugged and that 
+BM Appendix A.docx  June 2014 
+ 
+
+
+--- Page 11 ---
+
+water entering mine site has stopped. 
+ 
+ 
+ 
+ 
+If an emergency situation occurs while conducting this task, or there is an equipment 
+malfunction, engage the emergency stop and follow the lock out procedure  
+ 
+REPORT ANY HAZARDOUS SITUATIONS TO YOUR SUPERVISOR 
+ 
+Guidance Documents/Standards: 
+ 
+MB Workplace Safety & Health Act & Regulations: 
+  
+ 
+This Safe Work Procedure will be reviewed any 
+time the task, equipment or materials change and 
+at a minimum of every three years 
+Reviewed By WSH Committee: 
+ 
+ 
+Date:  
+ 
+ 
+ 
+ 
+ 
+ 
+BM Appendix A.docx  June 2014 
+ 
+
+
+--- Page 12 ---
+
+ 
+ 
+BM Appendix A.docx  June 2014 
+ 

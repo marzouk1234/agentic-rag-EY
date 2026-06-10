@@ -1,0 +1,130 @@
+
+
+--- Page 1 ---
+
+
+ 
+Client: Adresse de livraison:
+Portable:
+Devis Commande
+SDR #1 #2 #3 #4 #5 #6 #7
+A (mm)
+B (mm)
+L (mm)
+C20/C30
+Quantité
+*Longueur standard du conduit = 1500mm 
+BDR90-H H / V BDR90-V
+A (mm)
+B (mm)
+C (mm)
+C20/C30
+Quantité
+BDR45-H H / V BDR45-V
+A (mm)
+B (mm)
+C20/C30
+Quantité
+TDR A (mm)
+B (mm)
+C (mm)
+L (mm)
+C20/C30
+Quantité
+RDR A (mm)
+B (mm)
+C (mm)
+D (mm)
+E (mm)
+F (mm)
+L (mm)
+C20/C30
+Quantité Si les valeurs E et F ne sont pas spécifiées 
+= CENTRIQUE
+Si les valeurs E et F ne sont pas spécifiées  
+= CENTRIQUE
+COUVERCLE #1 #2 #3 #4 #5 #6 #7
+A (mm)
+B (mm)
+C20/C30
+Quantité:
+© 2025 CAIROX BELGIUM. Tous droits réservés
+
+
+
+--- Page 2 ---
+
+RV #1 #2 #3 #4 #5 #6 #7
+A (mm)
+B (mm)
+ØD (mm)
+L (mm)
+E (mm)
+F (mm)
+X (mm)
+M (mm)
+0/C20/C30
+Quantité
+M = 50 mm en standard
+ X = 30 mm en standard
+Si la valeur X est spécifiée, 
+la valeur L sera plus longue. 
+Si les valeurs E et F ne sont pas 
+spécifiées = CENTRIQUE
+VDR-H
+H / V VDR-V
+A (mm)
+B (mm)
+D (mm)
+E (mm)
+L (mm)
+C20/C30
+Quantité
+UTR 45° #1 #2 #3 #4 #5 #6 #7
+B (mm)
+H (mm)
+C20/C30
+Quantité
+DAD-R #1 #2 #3 #4 #5 #6 #7
+A (mm)
+B (mm)
+Quantité
+SOD-R #1 #2 #3 #4 #5 #6 #7
+A (mm)
+B (mm)
+Quantité
+Quantité Quantité
+Profils de conduits d'air
+Clames d'assemblage Profils de conduits d'air
+Mousse autocollante Profils d'angle
+Bande adhésive alu Profils d'angle
+Boulons avec écrous
+Tiges filetées M8
+Rails de montage crantés Vis à béton M8
+Rails de montage crantés
+Boulons + écrous GT Kit d'étanchéité (gris)
+Supports en L
+Accessoires Accessoires
+THA M8 L= 1m
+HCCS 06L35M8 (100pcs)
+HLC (100pcs)
+SL (3m) 
+SKC (200pcs)
+GAS 15 x 6 mm (10 x 10m)
+ALUTAPE 40 - 75 mm
+MR20 - L=2m
+MR-GT 41x21 L=2m - 2,0
+MR-GT 41x41 L=3m - 2,0
+SDD 400
+KPL-D 20 (L=3M)
+KPL-D 30 (L=3M)
+SFX-20/3 
+SFX-30/3
+BNU M8x25
+Dimensions A x B = Dimensions du conduit SDR
+Dimensions A x B = Dimensions du conduit SDR
+	 SLNB-GT M8 L=40 (100pcs)
+SLN M8
+Rail de montage
+Ecrous coulissants
+Glissières pour profils

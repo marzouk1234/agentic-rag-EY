@@ -1,0 +1,395 @@
+
+
+--- Page 1 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+BELLA II is coordinated by RedCLARA. 
+ 
+BELLA II is co-funded by the European Union. 
+ 
+ 
+Terms of Reference for the Provision of Consultancy 
+Services for the Design and Management of 
+Investment Consortia for the BELLA II Project 
+ 
+Background and Context 
+Over the course of its twenty years of existence, together with the national networks comprising its 
+membership, RedCLARA has contributed to the construction and deployment of a powerful digital 
+platform to support the work of universities and research centres across the region. The individuals 
+and institutions who both individually and collectively have contributed to this effort strongly 
+believe in the primus inter pares  role of education, science, and innovation in sustaining and 
+promoting the economic and social development of our countries. Multiple accomplishments have 
+been achieved over the years, such as the successful implementation of over twelve major projects 
+supported by various institutions and organizations such as the European Commission, the Inter -
+American Development Bank, ECLAC , and the OAS, as well as the creation and support of 
+organizations that now independently but significantly complement the role of RedCLARA, such as 
+SCALAC, La Referencia, and LACNET. 
+Nevertheless, despite the significance of these achievements, the most important one has been the 
+ability to establish and maintain enduring cooperation among the majority of countries in the 
+region. With a great diversity of conditions and resources, these countries have managed to forge a 
+common agenda and a governance model that have served as the foundation and support for their 
+work. 
+In recent years, we have significantly expanded our infrastructure with very strong support from the 
+European Commission for the BELLA project. With BELLA we have reached a very important 
+milestone, guaranteeing a direct high-capacity connection through th e EllaLink cable that directly 
+connects Europe to Latin America. It should be noted that the significance of this connectivity is not 
+the infrastructure itself, but what this infrastructure represents in terms of the willingness and 
+openness to cooperation between both continents. The digital divide that concerns us so deeply is 
+not only an infrastructure gap, but also primarily a knowledge gap.  
+This knowledge is essential to mobilize creativity and innovation in all areas of society. In this sense, 
+RedCLARA is expanding its scope, aspiring to play a central role in leveraging digital transformation 
+technologies to address and find solutions to so me of the problems and major challenges we face 
+today.  
+BELLA II is the project currently being implemented by RedCLARA with the support and co-financing 
+of the Directorate of International Alliances of the European Union (DG -INTPA). The general 
+objective of the BELLA II project is to strengthen and expand the Latin American and Caribbean 
+
+
+--- Page 2 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+BELLA II is coordinated by RedCLARA. 
+ 
+BELLA II is co-funded by the European Union. 
+ 
+ 
+digital ecosystem, facilitating relationships and sharing among Latin American, Caribbean, and 
+European companies, research centres, educational institutions, and academic networks, to 
+contribute to the achievement of the region's strategic goals, with a f ocus on strengthening 
+education, science, technology, and innovation. 
+Its specific goals are: 
+1. To design, build, and operate digital infrastructure capable of guaranteeing the proper 
+connectivity of Peru, Costa Rica, Guatemala, El Salvador, and Honduras with the rest of the 
+BELLA infrastructure, particularly with the submarine cable connecting Europ e with Latin 
+America since 2021. Depending on a feasibility analysis, community priorities, and the 
+availability of economic resources, the project also considers the possibility of its expansion 
+to some of the following countries: Caribbean nations, Mexic o, Belize, Bolivia, Paraguay, 
+and Uruguay. 
+2. To increase the adoption and use of digital transformation technologies to develop digital 
+research and education solutions. 
+3. To intensify cooperative relations with European digital education and research ecosystems 
+to promote the exchange of knowledge, access to best practices, and the creation of the 
+dialogue spaces necessary for the design, formulation, and execution of innovative research 
+and education projects. 
+4. To collaborate with European Union initiatives such as the EU-LAC Digital Alliance to develop 
+capabilities in the application of digital transformation technologies to foster innovation in 
+the public and private sectors. 
+In this context, BELLA II must undertake a series of procurement and investment processes to 
+maximize the use of available resources in accordance with the methods and procedures accepted 
+by the European Union. 
+ 
+Expected Connectivity Results of the BELLA II Project 
+The BELLA II project plans to invest a total budget of 28 million euros towards, among other 
+objectives, developing a secure and resilient optical backbone network capable of supporting links 
+of at least 20 Gbps in Latin America and the Caribbean, connecting Peru, San Salvador (El Salvador), 
+Tegucigalpa (Honduras), Guatemala City (Guatemala), and San José (Costa Rica) with the rest of the 
+BELLA infrastructure, and the possibility of its extension to the Caribbean (such as Dominican 
+Republic, Trinidad and Tobago, and Jamaica), Paraguay, Bolivia, Mexico, Belize, and Uruguay. 
+The new BELLA Project proposal (BELLA II) seeks to extend the current digital backbone connecting 
+Latin America with the European Union at least to Peru, Costa Rica, Guatemala, El Salvador, and 
+Honduras, offering low-cost high-speed connectivity to foster economic growth, better services, and 
+greater commitment to the private sector, while promoting innovation, education, and the 
+strengthening of research. Depending on the availability of economic resources or third -party 
+contributions, the connection may be extended to include some of the following countries: 
+
+
+--- Page 3 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+BELLA II is coordinated by RedCLARA. 
+ 
+BELLA II is co-funded by the European Union. 
+ 
+ 
+Dominican Republic, Jamaica, Cuba, Trinidad and Tobago, Mexico, Belize, Bolivia, Paraguay, and 
+Uruguay. The final scope will depend on the amount of third-party investment we are able to secure 
+during the first year of the project. 
+One of the major challenges of the project is the lack of infrastructure in several of the target 
+countries. In Central America and the Caribbean, for instance, the existing ICT infrastructure is 
+insufficient to support the social and economic development of their countries. Specifically, the fibre 
+optic infrastructure is inadequate and highly concentrated, leading to higher prices and a market 
+dominated by a handful of companies. Additionally, these few major companies lack incentives to 
+collaborate with smaller companies to expand coverage and capillarity.  
+The BELLA II project wishes to establish a new model based on the design of a set of incentives that 
+can transform this non -cooperative and zero -sum situation into a positive -sum scenario. We are 
+convinced that establishing a neutral space where all stakeholders can derive additional benefits 
+will ultimately reduce the risks of exploitation by a dominant player. 
+The project will promote the development of a shared infrastructure involving various stakeholders 
+(the dominant telecommunications providers, but also the multiple smaller companies that own 
+infrastructure and provide services to local communities). We will explore and compare technical, 
+legal, and organizational solutions applied in other regions, for example, the shared use of dark fibre 
+owned by electricity companies and other facilities, connecting to existing Internet Exchange Points 
+(IXPs) to distrib ute backbone connectivity to end users, the use of other complementary 
+technologies such as Wi-Fi 6, 5G or satellite, the deployment of sub-river cables, and many others. 
+With this approach, we hope to ensure that a greater number of end users will benefit from the 
+investment, contributing to an increase in capillarity and coverage, which is essential for extending 
+the projects’ benefits to a larger population. 
+To achieve this goal, we will use the open strategic dialogues (OSD) methodology to conduct a 
+collaborative design process involving all stakeholders. This process will establish the foundations 
+for the creation of one or more neutral consortia including, among others, national research and 
+education networks, universities, research centres, telecommunications operators, infrastructure 
+owners, investors, development banks, national public institutions, regional agencies, and 
+communities. 
+During the design process, we will identify the  risks, challenges, and difficulties perceived by 
+participants and how to solve them. This process will serve as the basis for obtaining additional 
+contributions to the project and guaranteeing the sustainability and expansion of the initial 
+infrastructure. The first phase will conclude with the signing of consortium agreements with all 
+shareholders and stakeholders, establishing governance and participation rules. The partners who 
+sign the consortium agreement  will define and establish a  steering committee to provide 
+governance throughout the project's duration and to  establish governance rules for the operation 
+and maintenance of the new infrastructure beyond its completion. 
+ 
+
+
+--- Page 4 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+BELLA II is coordinated by RedCLARA. 
+ 
+BELLA II is co-funded by the European Union. 
+ 
+ 
+The consortium coordinated by RedCLARA will manage all investment strategies for creating and 
+expanding the new connectivity infrastructure that this project wishes to produce. The connectivity 
+backbone will connect Lima (Peru), Guatemala City (Guatemala),  Tegucigalpa (Honduras), San 
+Salvador (El Salvador), San José (Costa Rica), and Panama City (Panama), and, depending on the 
+analysis of priorities and availability of resources, will incorporate some of the following countries: 
+Santo Domingo (Dominican Rep ublic), other Caribbean Islands, Mexico, Belize, Paraguay, Bolivia, 
+and Uruguay. 
+The final topology will depend on the availability of infrastructure, but in all cases, it will provide a 
+resilient connectivity service based on fibre optic IRU agreement s (default solution), with BELLA's 
+current infrastructure and with the submarine cable point of presence in Fortaleza.  
+The network of the default solution will be comprised of fibre  optic infrastructure. RedCLARA and 
+its consortium partners will provide a capacity IRU with at least 20  Gbps and scalable. The initial 
+capacity will be used to connect the target countries with Europe via the BELLA submarine cable. As 
+capacity scales over time, partners and investors of the consortium will be responsible for allocating 
+additional capacities based on future needs and projects. After its implementation, the 
+infrastructure will be operated and maintained by the consortia. In addition to capacity, RedCLARA 
+and its consortium partners will oversee the deployment of layer 2 and 3 equipment to offer IP 
+services. 
+The consortium aims to facilitate collaboration among governments, academia, and the private 
+sector for the development of projects funded through their participation. This initiative seeks to 
+leverage participants’ various experiences and resources to pro mote innovation and sustainable 
+development. 
+Consortium partners will explore alternative connectivity solutions in cases where the available 
+infrastructure is unable to provide a cost -effective service. This assessment may include other 
+technologies, operating models, and contractual agreements that  may provide the best second 
+option for a capacity IRU. The reason for this open model is the lack of infrastructure in the target 
+countries. Whatever the case, the acquired solution must be as close as possible to the level of 
+service, security, and resiliency provided through a fibre optic IRU. 
+In the consortium agreements, RedCLARA will reserve part of the deployed infrastructure to be used 
+exclusively by National Research and Education Networks (NRENs) and their members (universities 
+and research centres). The consortium will guarantee the main tenance and operation of the 
+infrastructure in compliance with the corresponding service level agreements, and, in compensation 
+for the funding provided through the project, will provide these services to RedCLARA and the 
+NRENs at no cost during the lifespan of the deployed infrastructure. 
+The project will seek to build a consortium -maintained telecommunications infrastructure, as 
+described above, ideally involving one or more telecommunications operators and other investors 
+and stakeholders, guaranteeing fast response times and a high Mean Time Between Failures (MTBF). 
+Maintenance costs will be included in the initial acquisition/agreement and will support the 
+
+
+--- Page 5 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+BELLA II is coordinated by RedCLARA. 
+ 
+BELLA II is co-funded by the European Union. 
+ 
+ 
+sustainability of the Caribbean and Latin American countries targeted by this project. The project 
+will be responsible for procuring the necessary equipment to use the infrastructure, as well as the 
+best solution that is selected. A redundant service is required to guarantee resilience, given that all 
+institutions currently rely on the use of ICT infrastructure and any interruption can lead to 
+dissatisfaction among students/researchers. 
+The selected operators/partners will be encouraged to expand their infrastructure in the region. 
+Thus, in addition to generating connectivity between education and research networks, operators 
+will have the possibility of interconnecting and exchanging ser vices with other operators across 
+borders, therefore generating new business options. 
+Synergy with Latin American and Caribbean operators will generate the necessary capillarity by 
+allowing alternative ways to interconnect current operators, increasing regional infrastructure and  
+therefore increasing competitiveness. 
+ 
+Beyond Connectivity 
+BELLA II also seeks to identify and develop capabilities that leverage connectivity to allow the 
+development of other platforms and services within its digital ecosystem. These other services or 
+platforms create added value that integrates other technologi es such as high -performance 
+computing, artificial intelligence, and cloud services, as well as applications and services that use 
+these platforms for their operation. The role of the investment consortium is to catalyse  the 
+economic value of these initiatives and allow their use to attract additional resources and 
+investments from all sectors of society. 
+With the objective of identifying projects and initiatives of regional interest that can take advantage 
+of BELLA connectivity for their implementation and deployment, RedCLARA has been identifying 
+innovative projects that integrate the use of technologies such as blockchain, Earth observation 
+data, high-performance computing, the Internet of Things, and others, to provide solutions to the 
+enormous challenges faced by the region. Throughout this process, we discovered community 
+initiatives for agricultural m anagement, tools , and technologies to manage fish farming, projects 
+and initiatives aimed at providing education and training in rural areas, and many others, which 
+have been integrated into the portfolio of projects that are being developed by BELLA and take 
+connectivity far beyond the notion of meaningful connectivity to what we have termed 
+“connectivity with meaning.” 
+In a similar vein, we have started to organize ideathons and hackathons that will allow us to  
+systematically produce innovations that enhance the value of the investment consortia we intend 
+to implement. This will allow us to build a broad menu of actions that will address the interests of 
+all stakeholders. 
+ 
+
+
+--- Page 6 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+BELLA II is coordinated by RedCLARA. 
+ 
+BELLA II is co-funded by the European Union. 
+ 
+ 
+Objectives 
+• To benchmark consortium investment models to identify the best practices in this area. 
+• To analyse different alternatives or consortium models that might  be used in the BELLA II 
+project, considering its intention to promote cooperation efforts between the private 
+sector, governments, multilateral banks, academia, and communities. 
+• To design the communication and marketing strategy required to inform and invite 
+potential stakeholders to participate in the investment consortium or consortia. 
+• To encourage and promote alliances between governments, academia, and the private 
+sector in the context of, and through their participation in, these consortia. 
+• To identify funding strategies for the consortium or consortia. 
+• To support in an initial pilot phase during which an investment consortium will be created 
+based on the criteria specified above. 
+ 
+Scope of the Consultancy 
+• To conduct a review of best practices regarding the establishment or creation of investment 
+consortia for both public and private funding of projects aimed at promoting digital 
+transformation processes in Latin America and the Caribbean in alliance with Europe. 
+• Using these best practices as a foundation, to prepare a report with recommendations on 
+the alternatives for the establishment of these consortia and potential governance 
+structures and funding mechanisms. 
+• To analyse and propose the most convenient strategy regarding the number of consortia to 
+be created and the variables to be considered for making these decisions. 
+• To support in the identification of potential consortia participants (globally and with special 
+emphasis on Europe and Latin America and the Caribbean). 
+• To support in the development and implementation of an open strategic dialogue on the 
+proposed investment consortia model. 
+• To support in the negotiation process with the stakeholders interested in participating in 
+the consortium or consortia for their incorporation. 
+• To support in the process for the creation of the consortium or consortia. 
+• To support in the design and deployment of a marketing and communication strategy to 
+promote awareness of the consortia model and the possible participation options for 
+potential consortia members. 
+• To ensure effective coordination and communication between consortium members. 
+• To support in the consortia model's pilot phase. 
+ 
+Deliverables 
+• A report on best practices for the creation of public -private investment consortia and a 
+report on a strategy for approaching potential investors. 
+
+
+--- Page 7 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+BELLA II is coordinated by RedCLARA. 
+ 
+BELLA II is co-funded by the European Union. 
+ 
+ 
+• A report on possible models for the establishment, funding, and governance of the 
+consortia. 
+• Recommendations on the number of consortia and variables to be considered when 
+defining the number and scope of these consortia. 
+• A report on possible participants in the various consortia and an engagement model. 
+• A document for conducting interviews, dialogues, and other similar activities aimed at 
+clarifying and completing the design of the investment consortium model. 
+• A communication and marketing strategy. 
+• A final report on the process for the creation of the consortia. 
+• A final report on the pilot phase of the consortia. 
+ 
+Methodology 
+The methodology is based on the open strategic dialogues (OSD) strategy. The open strategic 
+dialogue methodology is available at the following link.  
+The research on best practices must include primary and secondary sources of information, in a 
+proportion to be defined by the consultant or consulting firm. 
+ 
+Timeline 
+The consultancy will have a duration of 6 months. The timeline to be followed in the development 
+of the activities will be included in the consulting firm's proposal, and its quality and detail will be 
+considered in the selection of the winning proposal. 
+ 
+Reports and Communication 
+The project executing team and the consulting firm are expected to collaborate closely, so 
+continuous communication is expected between both parties throughout the duration of the 
+consultancy. Both parties will agree on the corresponding reports and their delivery dates once the 
+project has started. 
+ 
+Evaluation Criteria 
+Proposals for the provision of these consultancy services will be evaluated based on: 
+• Experience of the consultant or the consulting firm and the consulting team in the design of 
+governance models for co-investment projects. 
+• Quality of the proposal submitted for its evaluation. 
+• A competitive dialogue between bidders will be conducted to facilitate a standardized 
+comparison between them. 
+
+
+--- Page 8 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+BELLA II is coordinated by RedCLARA. 
+ 
+BELLA II is co-funded by the European Union. 
+ 
+ 
+Confidentiality 
+All information to be handled by this consultancy will be treated in strict confidentiality. 
+ 
+Terms and Conditions 
+Even though the project will involve continuous communication  between the consulting firm and 
+RedCLARA, the deliverables  will be reviewed and must be accepted . The aim is to ensure that 
+RedCLARA is satisfied with the quality and completeness of the results. The consultancy will be paid 
+in three instalments, as described below: 
+• 30% of the total amount at the start of the consultancy. 
+• 30% three months after the start of the consultancy. 
+• 40% at the closing of the consultancy and once all its products have been formally accepted. 
+ 
+Submission of Proposals 
+Proposals must be submitted via email before midnight (23:59 GMT-4), 28 May 2024. 
+Send your proposal to BELLAII.Consultorias@redclara.net. Please include the following text in the 
+email subject line: TdR-BELLAII-A003. 
+Questions will be received until May 23 at 23:59 GMT-4. 

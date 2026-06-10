@@ -1,0 +1,1051 @@
+
+===== CHUNK 0 =====
+--- Page 1 ---
+
+===== CHUNK 1 =====
+TdR pour une vérification des dépenses 
+ Annexe 1 - Contexte du mandat / Informations essentielles 
+Décembre 2021                                Page 1/21 
+ 
+ 
+TERMES DE RÉFÉRENCE POUR UNE  
+VÉRIFICATION DES DÉPENSES D’UN CONTRAT DE SUBVENTION 
+DANS LE CADRE DE L’ACTION EXTERNE DE L’UNION 
+EUROPÉENNE 
+S’il existe un numéro de demande de prestations de service 
+ <numéro de la demande>  
+ 
+ Comment utiliser ce modèle de termes de référence:  
+ (Ces instructions s’appliquent également à l’annexe 1)  
+ Insérer les informations demandées entre les <...>  
+ Choisir, le cas échéant, le texte optionnel surligné en gris entre [...], ou le supprimer 
+ Supprimer toutes les instructions en jaune et la présente zone de texte  
+ 
+Les présents termes de référence s’appliquent à la vérification des dépenses déclarées dans les 
+rapports financiers dans le cadre des contrats suivants: 
+1) Numéro de contrat1et intitulé de l’action : <…>  
+[2) Numéro de contrat2 et intitulé de l’action : <…>
+
+===== CHUNK 2 =====
+rapports financiers dans le cadre des contrats suivants: 
+1) Numéro de contrat1et intitulé de l’action : <…>  
+[2) Numéro de contrat2 et intitulé de l’action : <…> 
+<Le cas échéant, indiquer les autres contrats/rapports> 
+Des informations détaillées sont fournies sur la page de couverture de l’annexe 1.  
+  
+                                                      
+1 Contrat pour lequel le rapport financier soumis à vérification est émis. Le contrat établi avec le vérificateur des dépenses sera 
+appelé «contrat de vérification». 
+2 Contrat pour lequel le rapport financier soumis à vérification est émis. Le contrat établ i avec le vérificateur des dépenses sera 
+appelé «contrat de vérification».
+
+===== CHUNK 3 =====
+--- Page 2 ---
+
+===== CHUNK 4 =====
+TdR pour une vérification des dépenses 
+ Annexe 1 - Contexte du mandat / Informations essentielles 
+Décembre 2021                                Page 2/21 
+ 
+Table des matières 
+ 
+ 
+1 INTRODUCTION ......................................................................................................................... 3 
+2 OBJECTIFS ET CONTEXTE ..................................................................................................... 3 
+3 NORMES ET ETHIQUE ............................................................................................................. 3 
+4 EXIGENCES VISANT LE VERIFICATEUR DES DEPENSES ............................................. 4 
+4.1 PRINCIPES GENERAUX ......................................................... ERROR! BOOKMARK NOT DEFINED. 
+4.2 QUALIFICATIONS, EXPERIENCE ET COMPOSITION DE L’EQUIPEERROR! BOOKMARK NOT DEFINED. 
+4.2.1 Qualifications et expérience .................................................. Error! Bookmark not defined.
+
+===== CHUNK 5 =====
+4.2.1 Qualifications et expérience .................................................. Error! Bookmark not defined. 
+4.2.2 Composition de l’équipe ........................................................ Error! Bookmark not defined. 
+4.2.3 Catégories de personnel/d’experts ........................................ Error! Bookmark not defined. 
+4.2.4 Curriculums vitæ (CV) ........................................................... Error! Bookmark not defined. 
+5 CHAMP D’APPLICATION ........................................................................................................ 4 
+5.1 CONTRATS ET RAPPORTS FINANCIERS COUVERTS PAR LES PRESENTS TERMES DE REFERENCE ..... 4 
+5.2 CONDITIONS D’ELIGIBILITE DES DEPENSES .................................................................................. 4 
+6 PROCESSUS DE VERIFICATION ET METHODOLOGIE .................................................. 4
+
+===== CHUNK 6 =====
+6 PROCESSUS DE VERIFICATION ET METHODOLOGIE .................................................. 4 
+6.1 PREPARATION DE LA VERIFICATION ............................................................................................ 4 
+6.2 REUNION PREPARATOIRE, TRAVAIL SUR LE TERRAIN, EXAMEN DOCUMENTAIRE ......................... 5 
+6.2.1 Contexte du mandat, signification, analyse des risques, échantillonnage ............................. 5 
+6.2.2 Travail sur le terrain / examen documentaire ....................................................................... 6 
+6.2.3 Note de fin de mission et réunion de clôture .......................................................................... 6 
+6.2.4 Lettre complémentaire ........................................................... Error! Bookmark not defined. 
+6.2.5 Documentation et informations de vérification ..................................................................... 6
+
+===== CHUNK 7 =====
+6.2.5 Documentation et informations de vérification ..................................................................... 6 
+6.3 ÉTABLISSEMENT DU RAPPORT ..................................................................................................... 6 
+6.3.1 Structure et contenu du rapport ............................................................................................. 6 
+6.3.2 Résultats de la vérification des dépenses et recommandations.............................................. 7 
+6.3.3 [Réunion de fin de mission avec le pouvoir adjudicateur ...... Error! Bookmark not defined. 
+6.3.4 [Accès aux pièces justificatives .............................................. Error! Bookmark not defined. 
+7 AUTRES QUESTIONS ................................................................................................................ 7 
+7.1 [PROCEDURE CONTRADICTOIRE ET SUIVI ............................ ERROR! BOOKMARK NOT DEFINED.
+
+===== CHUNK 8 =====
+7.1 [PROCEDURE CONTRADICTOIRE ET SUIVI ............................ ERROR! BOOKMARK NOT DEFINED. 
+7.2 SOUS-TRAITANCE ........................................................................................................................ 7 
+8 ANNEXES ..................................................................................................................................... 7
+
+===== CHUNK 9 =====
+--- Page 3 ---
+
+===== CHUNK 10 =====
+TdR pour une vérification des dépenses 
+ Annexe 1 - Contexte du mandat / Informations essentielles 
+Décembre 2021                                Page 3/21 
+ 
+ 
+1 Introduction 
+Le présent document et les annexes énumérées à l’article  8 sont les termes de référence 
+(«TdR») sur la base  desquels le coordinateur (le terme «coordinateur» désigne le bénéficiaire 
+identifié comme le coordinateur dans les conditions particulières)  accepte d’engager «le 
+vérificateur des dépenses» afin qu’il procède à une vérification des dépenses déclarées. 
+Lorsqu’il est fait référence à l’administration contractante  dans les présents TdR, il s’agit de 
+< la Commission européenne ou nom d’une autre administration contractante >, qui a signé le 
+contrat de subvention avec le bénéficiaire et fournit les subventions. L’administration 
+contractante n’est pas partie à cet accord. 
+Ces TdR deviendront partie intégrante du contrat conclu entre le coordinateur et le vérificateur 
+des dépenses.
+
+===== CHUNK 11 =====
+contractante n’est pas partie à cet accord. 
+Ces TdR deviendront partie intégrante du contrat conclu entre le coordinateur et le vérificateur 
+des dépenses. 
+Ils s’appliquent aux vérifications des dépenses contractées par le coordinateur et couvrent la 
+vérification des dépenses encourues au titre des contrats financés par l’Union européenne (UE) 
+qui sont indiqués sur la page de couverture. 
+2 Objectifs et contexte 
+Le vérificateur des dépenses doit:  
+- mettre en œuvre les procédures convenues qui sont énumérées à l’annexe 2 et 
+- fournir des rapports à partir du modèle figurant à l’annexe  3 qui étaieront les conclusions 
+de l’administration contractante sur l’éligibilité des dépenses déclarées et le suivi qui en 
+découle. 
+La vérification des dépenses sera effectuée sous la forme [Choisir une option ou les deux d’un 
+examen documentaire et/ou d’un travail sur le terrain au lieu indiqué à l’annexe 1.] 
+Le vérificateur des dépenses ne fournira pas d’avis d’audit.
+
+===== CHUNK 12 =====
+examen documentaire et/ou d’un travail sur le terrain au lieu indiqué à l’annexe 1.] 
+Le vérificateur des dépenses ne fournira pas d’avis d’audit.  
+3 Normes et éthique 
+Le vérificateur des dépenses exécute ce mandat dans le respect: 
+ de la norme internationale de services connexes , t he International Standard on Related 
+Services ("ISRS") 4400 applicable aux missions d e procédures convenues relatives aux 
+informations financières, telles que publiée par l’IFAC; 
+ du Code de déontologie des comptables professionnels de l'IFAC,  élaboré et publié par le 
+Conseil international pou r les normes éthiques des comptables ( International Ethics 
+Standards Board for Accountants  - IESBA) de l’IFAC. Ce Code é tablit des principes 
+éthiques fondamentaux pour les auditeurs portant sur l’intégrité, l’objectivité, 
+l’indépendance, la compétence et l a diligence professionnelle, la confidentialité, le 
+comportement professionnel et les normes techniques.
+
+===== CHUNK 13 =====
+l’indépendance, la compétence et l a diligence professionnelle, la confidentialité, le 
+comportement professionnel et les normes techniques.  
+Bien que l’ISRS  4400 ne prévoie pas l’indépendance comme critère pour les missions sur 
+des procédures convenues, le coordinateur exige que le vérifica teur des dépenses soit 
+indépendant d u coordinateur et se conforme aux exigences d’indépendance du code 
+d’éthique de l’IFAC pour comptables professionnels.
+
+===== CHUNK 14 =====
+--- Page 4 ---
+
+===== CHUNK 15 =====
+TdR pour une vérification des dépenses 
+ Annexe 1 - Contexte du mandat / Informations essentielles 
+Décembre 2021                                Page 4/21 
+ 
+4 Exigences visant le vérificateur des dépenses 
+En acceptant les présents TdR, le vérificateur des dépenses confirme qu’il remplit au moins 
+l’une des conditions suivantes: 
+ le vérificateur des dépenses est membre d’un organ e ou un institut national de comptabilité 
+ou d'audit  qui est, lui-même, membre de l a Fédération internationale des comptables 
+(International Federation of Accountants, - IFAC); 
+ le vérificateur des dépenses est membre d’un organ e ou un institut national de comptabilité 
+ou d'audit. Bien que l’organisme ne soit pas membre de IFAC, le vérificateur des dépenses 
+s’engage à réaliser cette véri fication des dépenses conformément aux normes de l’IFAC et 
+à la déontologie indiqués dans les présents TdR; 
+ le vérificateur des dépenses est inscrit comme contrôleur légal des comptes au registre
+
+===== CHUNK 16 =====
+à la déontologie indiqués dans les présents TdR; 
+ le vérificateur des dépenses est inscrit comme contrôleur légal des comptes au registre 
+public d’un organ isme de supervision publi que dans un État m embre de l’UE, 
+conformément aux principes de supervision publique exposés dans la directive  2006/43/CE 
+du Parlement européen et du Conseil 3 (ceci s’applique aux auditeurs et cabinets d’audit 
+établis dans un État membre de l’UE).  
+ le vérificateur des dépenses est inscrit comme contrôleur légal des comptes au registre 
+public d’un organ isme de supervision publi que dans un pays tiers, et ce registre applique 
+les principes de supervision publique exposés dans la législation du pays concerné (ce ci 
+s’applique aux auditeurs et cabinets d’audit établis dans un pays tiers). 
+5 Champ d’application 
+5.1 Contrats et rapports financiers couverts par les présents termes de référence 
+Le(s) contrat(s) et les rapports financiers soumis à cette vérification des dépenses sont
+
+===== CHUNK 17 =====
+5 Champ d’application 
+5.1 Contrats et rapports financiers couverts par les présents termes de référence 
+Le(s) contrat(s) et les rapports financiers soumis à cette vérification des dépenses sont 
+indiqués sur la page de couverture et à l’annexe 1. 
+5.2 Conditions d’éligibilité des dépenses 
+Les conditions d’éligibilité sont stipulées dans les contrats (avenants compris) fournis à 
+l’annexe 1. 
+6 Processus de vérification et méthodologie 
+6.1 Préparation de la vérification 
+Le vérificateur des dépenses doit préparer la vérification et convenir de son calendrier 
+d’exécution, notamment pour le travail sur le terrain (le cas échéant) (voir l’article 6.2 pour les 
+délais maximums applicables). Le vérificateur des dépenses s’assurera ensuite auprès du 
+coordinateur que le ou les lieux indiqués à l’annexe  1 sont exacts et que les pièces 
+justificatives pertinentes ainsi que le personnel clé seront disponibles pendant la vérification.
+
+===== CHUNK 18 =====
+justificatives pertinentes ainsi que le personnel clé seront disponibles pendant la vérification. 
+                                                      
+3 Directive 2006/43/CE du Parlement européen et du Conseil du 17  mai 2006 concernant les contrôles légaux 
+des comptes annuels et des comptes consolidés et modifiant les directives  78/660/CEE et 83/349/CEE du 
+Conseil, et abrogeant la directive 84/253/CEE du Conseil.
+
+===== CHUNK 19 =====
+--- Page 5 ---
+
+===== CHUNK 20 =====
+TdR pour une vérification des dépenses 
+ Annexe 1 - Contexte du mandat / Informations essentielles 
+Décembre 2021                                Page 5/21 
+ 
+6.2 Réunion préparatoire, travail sur le terrain, examen documentaire 
+[Le coordinateur prévoit une réunion préparatoire avec le vérificateur des dépenses qui aura 
+lieu Choisir une option ou les deux  par conférence téléphonique ou à <le nom et l’adresse du 
+lieu de la réunion doivent être clairement indiqués>]. 
+Le travail sur le terrain ou l’examen documentaire débutera dès que possible et au plus tard 
+<nombre> jours calendrier après la signature du contrat de vérification ou après la date de 
+disponibilité du rapport financier (c’est -à-dire du rapport financier, des pièces justificatives et 
+des autres informations pertinentes). 
+6.2.1 Contexte du mandat, signification, analyse des risques, échantillonnage 
+Les procédures du vérificateur des dépenses doivent notamment consister à:
+
+===== CHUNK 21 =====
+des autres informations pertinentes). 
+6.2.1 Contexte du mandat, signification, analyse des risques, échantillonnage 
+Les procédures du vérificateur des dépenses doivent notamment consister à: 
+ acquérir une compréhension suffisante du contexte du mandat, notamment des conditions 
+contractuelles, du coordinateur  et des lois et réglementations a pplicables de la CE qui sont 
+énoncées à l’article  5 ci -dessus (Champ d’application). Le vérificateur des dépenses devra 
+accorder une attention particulière aux dispositions contractuelles concernant les aspects 
+suivants: 
+o la documentation, l’archivage et la tenue de registres concernant les dépenses  et 
+les recettes; 
+o l’éligibilité des dépenses et recettes; 
+o les règles de marché public et d’origine dans la mesure où ces conditions sont 
+ pertinentes pour déterminer l’éligibilité des dépenses; 
+o la gestion des actifs (gestion et contrôle des actifs immobilisés, par exemple  de 
+l’équipement);
+
+===== CHUNK 22 =====
+pertinentes pour déterminer l’éligibilité des dépenses; 
+o la gestion des actifs (gestion et contrôle des actifs immobilisés, par exemple  de 
+l’équipement); 
+o la gestion de la caisse et des comptes bancaires (trésorerie); 
+o la gestion des salaires et du temps de travail; 
+o l’information comptable (incluant l’utilisation des taux de change) et  financière 
+sur les dépenses et les recettes; et 
+o les contrôles internes et notamment les contrôles internes financiers.  
+ 
+Cette compréhension devra être suffisante pour détecter et évaluer les risques d’erreurs ou 
+d’inexactitudes significatives (qu’il s’agisse d’erreurs ou de fraudes) parmi les dépenses et les 
+recettes déclarées dans le rapport financier afin de déterminer la  taille et la structure de 
+l’échantillon de dépenses à tester; cette compréhension devra être suffisante également pour 
+mettre au point et exécuter d’autres procédures de vérification;   
+ effectuer une analyse des risques (annexe 2).
+
+===== CHUNK 23 =====
+mettre au point et exécuter d’autres procédures de vérification;   
+ effectuer une analyse des risques (annexe 2). 
+Le résultat de l’analyse des risques doit être clairement exposé dans le rapport de vérification 
+(annexe 3, section 2.1); 
+ déterminer la taille de l’échantillon. 
+Afin de déterminer quelle est l’inexactitude ou l’erreur significative globale, le vérificateur des 
+dépenses a ppliquera un seuil de signification de 2  % du montant total des dépenses brutes 
+déclarées avec un niveau de confiance de 95 %; 
+ établir l’échantillon et choisir les postes de dépenses individuels à tester (annexe 2).
+
+===== CHUNK 24 =====
+--- Page 6 ---
+
+===== CHUNK 25 =====
+TdR pour une vérification des dépenses 
+ Annexe 1 - Contexte du mandat / Informations essentielles 
+Décembre 2021                                Page 6/21 
+ 
+Le lien entre l’évaluation des risques e t la taille et la composition de l’échantillon ainsi que la 
+méthode d’échantillonnage (statistique/non statistique) doivent être clairement indiqués dans 
+le rapport de vérification (annexe 3, section 2.2). 
+6.2.2 Travail sur le terrain / examen documentaire 
+La principale tâche du travail sur le terrain ou de l’examen documentaire consistera à effectuer 
+les tests de corroboration (annexe  2, section 2). Les informations essentielles sur le processus 
+de test devront être fournies dans le rapport de vérification (annexe 3, section 4). 
+6.2.3 Note de fin de mission et réunion de clôture 
+À la fin du travail sur le terrain ou de l’examen documentaire, le vérificateur des dépenses 
+rédigera une note de fin de mission et organisera une réunion de clôture avec l e coordinateur
+
+===== CHUNK 26 =====
+À la fin du travail sur le terrain ou de l’examen documentaire, le vérificateur des dépenses 
+rédigera une note de fin de mission et organisera une réunion de clôture avec l e coordinateur 
+afin d e discuter des résultats de la vérification, de recueillir les premières observations de 
+l’entité déclarante et de convenir d’informations supplémentaires à fournir ultérieurement. [ Si 
+l’entité déclarante n’est pas l’administration contractante  ayant ordonné la vérification des 
+dépenses, le représentant de la Commission chargé de l’audit sera invité à assister à la réunion 
+de clôture.] 
+6.2.4 Documentation et informations de vérification  
+Les preuves à utiliser pour l’exécution des procédures prévues à l’annexe  2 correspondent à 
+toutes les informations financières et non financières permettant d’examiner les dépenses 
+déclarées dans le rapport financier.  
+Le vérificateur des dépenses assortit les points importants de justificatifs qui serviront à étayer
+
+===== CHUNK 27 =====
+déclarées dans le rapport financier.  
+Le vérificateur des dépenses assortit les points importants de justificatifs qui serviront à étayer 
+le rapport d’observations factuelles et à garantir que le travail a été réalisé dans le respect de 
+l’ISRS 4400 et des présents TdR. 
+6.3 Établissement du rapport 
+6.3.1 Structure et contenu du rapport 
+L’utilisation du modèle de rapport de vérification des dépenses (tableaux annexés inclus) 
+figurant à l’annexe 3 des présents termes de référence est obligatoire. 
+Si le champ d’application de la vérification couvre des rapports financiers concernant 
+différents contrats, un rapport spécifique séparé devra être établi pour chaque contrat. 
+Le rapport doit fournir les informations essentielles sur le contrat et indiquer les résultats de 
+l’analyse des risques ainsi que ses conséquences sur l’échantillonnage. Le rapp ort doit 
+également donner un aperçu des tests de corroboration et présenter exhaustivement les
+
+===== CHUNK 28 =====
+l’analyse des risques ainsi que ses conséquences sur l’échantillonnage. Le rapp ort doit 
+également donner un aperçu des tests de corroboration et présenter exhaustivement les 
+informations sur les éléments compris dans la population des dépenses et dans l’échantillon. 
+Enfin, le rapport doit exposer en détail les résultats auxquels a ab outi l’exécution des 
+procédures convenues. 
+Le rapport doit être rédigé en <langue>. 
+Le vérificateur des dépenses soumettra un projet de rapport au coordinateur dans un délai de < 
+nombre de jours ouvrables à indiquer par le coordinateur >  jours ouvrables après la fin du 
+travail sur le terrain ou de l’examen documentaire  afin de recevoir les commentaires dans  un 
+délai de < nombre de jours ouvrables à indiquer par le coordinateur > jours ouvrables. Passé ce 
+délai, le vérificateur des dépenses fournira le ra pport final au coordinateur dans  un délai de <
+
+===== CHUNK 29 =====
+--- Page 7 ---
+
+===== CHUNK 30 =====
+TdR pour une vérification des dépenses 
+ Annexe 1 - Contexte du mandat / Informations essentielles 
+Décembre 2021                                Page 7/21 
+ 
+nombre de jours ouvrables à indiquer par le coordinateur >  jours ouvrables à compter de la 
+réception des commentaires (le cas échéant). 
+6.3.2 Résultats de la vérification des dépenses et recommandations 
+Les observations factuelles seront communiquées sous la forme et selon les critères indiqués 
+dans le  modèle de rapport de vérification des dépenses (annexe  3). L’exposé des résultats 
+présentera la norme appliquée (par exemple l’article  xx des conditions générales du contrat), 
+les faits et l’analyse du vérificateur des dépenses.  
+Le rapport de vérification devra comprendre toutes les observations financières effectuées par 
+le vérificateur des dépenses, quel que soit le montant en cause. Les modifications apportées 
+aux observations financières entre le projet de rapport et le rapport final à la suite de la
+
+===== CHUNK 31 =====
+le vérificateur des dépenses, quel que soit le montant en cause. Les modifications apportées 
+aux observations financières entre le projet de rapport et le rapport final à la suite de la 
+procédure de consultation devront être clairement indiquées, dans l’ordre où elles ont été 
+effectuées. 
+7 Autres questions 
+7.1 Sous-traitance 
+Le vérificateur des dépenses ne recourra pas à la sous -traitance sans l’autorisation écrite 
+préalable du coordinateur. 
+8 Annexes 
+Annexe 1 – Contexte du mandat / Informations essentielles 
+Annexe 2 – Lignes directrices relatives à l’analyse des risques et aux procédures de 
+vérification 
+Annexe 3 – Modèle de rapport de vérification des dépenses
+
+===== CHUNK 32 =====
+--- Page 8 ---
+
+===== CHUNK 33 =====
+TdR pour une vérification des dépenses 
+ Annexe 1 - Contexte du mandat / Informations essentielles 
+Décembre 2021                                Page 8/21 
+ 
+ 
+Annexe 1 : Contexte du mandat / Informations essentielles 
+ 
+Résumé du contrat4 et du rapport 
+[Annexe à remplir par le coordinateur] 
+ 
+Informations relatives au contrat de subvention 
+Numéro de référence et date du contrat de 
+subvention 
+< Référence du contrat de subvention auprès 
+de l’administration contractante > 
+Intitulé du contrat de subvention  
+Pays  
+Coordinateur < nom et adresse complets du coordinateur, 
+conformément au contrat de subvention > 
+Bénéficiaire(s) et entité(s) affiliée(s) < nom et adresse complets du ou des 
+bénéficiaires et de la ou des entités affiliées, 
+conformément au contrat de subvention > 
+Date de début de la période d’exécution de 
+l’action 
+ 
+Date de fin de la période d’exécution de 
+l’action 
+ 
+Rapport(s) financier(s) soumis à vérification: <JJ/MM/AAAA-JJ/MM/AAAA>
+
+===== CHUNK 34 =====
+Date de début de la période d’exécution de 
+l’action 
+ 
+Date de fin de la période d’exécution de 
+l’action 
+ 
+Rapport(s) financier(s) soumis à vérification: <JJ/MM/AAAA-JJ/MM/AAAA> 
+< JJ/MM/AAAA-JJ/MM/AAAA> 
+< JJ/MM/AAAA-JJ/MM/AAAA> 
+Montant total reçu à ce jour de l’administration 
+contractante par le coordinateur 
+< Montant total reçu au jj.mm.aaaa > 
+Montant total de la demande de paiement [< Indiquer le montant total du paiement 
+demandé conformément à l’annexe V des 
+conditions particulières des contrats de 
+subvention (demande de paiement au titre d’un 
+contrat de subvention dans le cadre des actions 
+extérieures de l’Union européenne) > 
+Administration contractante [< Indiquer le nom, la fonction/le titre, le 
+numéro de téléphone et l’adresse électronique 
+de la personne de contact auprès de 
+l’administration contractante>. 
+(à remplir uniquement si la Commission n’est 
+pas l’administration contractante.)] 
+Commission européenne < Indiquer le nom, la fonction/le titre, le
+
+===== CHUNK 35 =====
+l’administration contractante>. 
+(à remplir uniquement si la Commission n’est 
+pas l’administration contractante.)] 
+Commission européenne < Indiquer le nom, la fonction/le titre, le 
+numéro de téléphone et l’adresse électronique 
+de la personne de contact au sein de la 
+délégation de l’Union européenne auprès du 
+pays concerné ou, le cas échéant, au siège > 
+Auditeur < Nom et adresse du cabinet d’audit et 
+noms/fonctions des auditeurs > 
+ 
+                                                      
+4 Contrat pour lequel le rapport financier soumis à vérification est établi. Le contrat passé avec le vérificateur des dépenses sera 
+appelé «contrat de vérification».
+
+===== CHUNK 36 =====
+--- Page 9 ---
+
+===== CHUNK 37 =====
+TdR pour une vérification des dépenses 
+ Annexe 1 - Contexte du mandat / Informations essentielles 
+Décembre 2021                                Page 9/21 
+ 
+ 
+ 
+C Rapport financier (annexe 1.1) 
+Rapport 
+financier 
+12. Quel est, approximativement, le nombre d’opérations de 
+dépenses qui ont été déclarées / devraient être déclarées 
+dans le rapport financier? 
+ 
+13. Quelle est la ventilation de ces opérations (par exemple 
+dépenses en capital, dépenses d'exploitation, honoraires, 
+coûts simplifiés, indemnités journalières, etc.)? Les 
+opérations sont-elles peu nombreuses/nombreuses de 
+grande/faible valeur? 
+ 
+14. Dans quelle mesure les opérations liées au projet ont-
+elles été effectuées en espèces?   
+<large, moyenne, faible> 
+A Logistique 
+Objet Question Réponse 
+ 
+Lieux 1. Où le coordinateur et les autres bénéficiaires et entités 
+affiliées conservent-ils les documents comptables? 
+ 
+2. Où  le coordinateur et les autres bénéficiaires et entités
+
+===== CHUNK 38 =====
+Lieux 1. Où le coordinateur et les autres bénéficiaires et entités 
+affiliées conservent-ils les documents comptables? 
+ 
+2. Où  le coordinateur et les autres bénéficiaires et entités 
+affiliées conservent-ils les originaux des pièces 
+justificatives? 
+ 
+3. Où les activités prévues par le contrat ont-elles été 
+exécutées? 
+ 
+4. Où peut-on trouver les principaux membres du personnel 
+chargé de la mise en œuvre du projet pour leur demander 
+des informations et des explications? 
+ 
+ 
+Langues 5. Quelle est la langue du contrat?  
+6. Quelle est la langue des documents comptables?  
+7. Quelles sont les langues des pièces justificatives?  
+8. Quelles langues sont parlées par les principaux membres 
+du personnel chargés de la mise en œuvre du projet? 
+ 
+B Conditions contractuelles 
+Montant du 
+contrat 
+9. Quel est le montant total du contrat?  
+Contribution 
+de la CE 
+10. Quel est le montant de la contribution de la CE?  
+Autres
+
+===== CHUNK 39 =====
+B Conditions contractuelles 
+Montant du 
+contrat 
+9. Quel est le montant total du contrat?  
+Contribution 
+de la CE 
+10. Quel est le montant de la contribution de la CE?  
+Autres 
+contributions 11. Quelles sont les autres sources de financement 
+(coordinateur compris)? 
+Source 1 / montant 
+Source 2 / montant 
+Source 3 / montant 
+Source 4 / montant 
+Source 5 / montant
+
+===== CHUNK 40 =====
+--- Page 10 ---
+
+===== CHUNK 41 =====
+TdR pour une vérification des dépenses 
+ Annexe 1 - Contexte du mandat / Informations essentielles 
+Décembre 2021                                Page 10/21 
+ 
+15. Dans quelles devises les dépenses ont-elles été 
+effectuées?  
+ 
+16. Dans quelle devise le rapport est-il présenté?   
+ 17. Combien d’autres rapports financiers le coordinateur a-t-
+il déjà présentés dans le cadre de ce contrat? 
+ 
+D Passation des marchés 
+Passation des 
+marchés 
+ 
+18. Combien y-a-til eu de procédures de passation de 
+marchés au cours de la période couverte par le rapport 
+financier? 
+ 
+19. La CE a-t-elle pris part à l’une des procédures de 
+passation de marchés visées à la question 18 (par exemple 
+contrôles ex ante ou dérogations à la règle d’origine)? 
+ 
+20. Dans le cadre du contrat, les travaux ont-ils été réalisés 
+et les fournitures livrées en un point central ou dans des 
+lieux dispersés? 
+ 
+E Vérifications, audits ou suivi antérieurs des contrats  
+Vérifications, 
+audits ou suivi 
+antérieurs
+
+===== CHUNK 42 =====
+et les fournitures livrées en un point central ou dans des 
+lieux dispersés? 
+ 
+E Vérifications, audits ou suivi antérieurs des contrats  
+Vérifications, 
+audits ou suivi 
+antérieurs 
+21. Quelle expérience l’entité avait-elle déjà des contrats de 
+la CE et des réglementations associées?  
+ 
+22. Le cas échéant, combien de rapports financiers déjà 
+présentés ont-ils fait l’objet d’un audit ou d’une vérification 
+par des consultants externes mandatés par le coordinateur? 
+ 
+23. Des travaux de vérification, d’audit ou de suivi autres 
+que ceux visés au point 22 et pertinents dans le cadre de la 
+vérification actuelle, ont-ils eu lieu pour le contrat ou le 
+coordinateur? 
+ 
+24. Des résultats significatifs ont-ils été obtenus dans le 
+cadre des travaux visés aux questions 22 et 23? Si oui, 
+lesquels? 
+ 
+25. Des cas de fraude ou d’irrégularité ont-ils été relevés 
+pour des opérations antérieures avec cette entité 
+particulière?
+
+===== CHUNK 43 =====
+--- Page 11 ---
+
+Termes de référence pour une vérification des dépenses 
+ 
+Version 10-09-2018                                            page 11 de 21    
+ 
+F Coordonnées 
+Coordinateur: <dénomination complète de l’entité> 
+Adresse  Pays  
+Téléphone  Fax  
+Site web  
+Principale personne de contact   
+Annexe 1/<… >.1: Rapport(s) financier(s) à vérifier 
+Annexe 1/<… >.2: Contrat et avenants 
+[Autres documents à envoyer à l’auditeur (par ex. rapports narratifs, rapports d’audit antérieurs)] 
+ 
+  
+
+
+--- Page 12 ---
+
+===== CHUNK 44 =====
+Termes de référence pour une vérification des dépenses 
+ 
+Version Août 2020                                            page 12 de 21    
+TERMES DE RÉFÉRENCE POUR UNE  
+VÉRIFICATION DES DÉPENSES 
+Annexe 2: Lignes directrices relatives à l'analyse des risques et 
+aux procédures de vérification  
+ 
+Table des matières 
+1. ANALYSE DES RISQUES ET DÉTERMINATION DE L’ÉCHANTILLON .......................... 13 
+2. PROCÉDURES DE VÉRIFICATION DES DÉPENSES ............................................................. 13 
+2.1  LES DEPENSES ONT ETE ENGAGEES PAR L’ENTITE ET CONCERNENT L’ENTITE ....................... 13 
+2.2  LES DEPENSES SONT ENREGISTREES DANS LE SYSTEME COMPTABLE DE L’ENTITE DECLARANTE 
+OU DES AUTRES ENTITES AYANT ENGAGE DES DEPENSES ..................................................... 13 
+2.3 LES DEPENSES ONT ETE ENGAGEES PENDANT LA PERIODE D’ELIGIBILITE CONTRACTUELLE . 14 
+2.4 LES DEPENSES ETAIENT INDIQUEES DANS LE BUDGET PREVISIONNEL CONTRACTUEL ........... 14
+
+===== CHUNK 45 =====
+2.3 LES DEPENSES ONT ETE ENGAGEES PENDANT LA PERIODE D’ELIGIBILITE CONTRACTUELLE . 14 
+2.4 LES DEPENSES ETAIENT INDIQUEES DANS LE BUDGET PREVISIONNEL CONTRACTUEL ........... 14 
+2.5 LES DEPENSES NECESSAIRES A LA MISE EN ŒUVRE DES ACTIVITES CONTRACTUELLES SONT 
+RAISONNABLES ET JUSTIFIEES .............................................................................................. 14 
+2.6 LES DEPENSES SONT IDENTIFIABLES ET VERIFIABLES ........................................................... 14 
+2.7 CONFORMITE AUX REGLES DE PASSATION DE MARCHES ET AUX REGLES DE NATIONALITE ET 
+D’ORIGINE ........................................................................................................................... 14 
+2.8 LES DEPENSES SONT CONFORMES AUX EXIGENCES DE LA LEGISLATION FISCALE ET SOCIALE 
+APPLICABLE ......................................................................................................................... 15
+
+===== CHUNK 46 =====
+APPLICABLE ......................................................................................................................... 15 
+2.9 SOUTIEN FINANCIER A DES TIERS (SUBVENTIONS EN CASCADE) ........................................... 15 
+2.10 AUTRES CONDITIONS D’ELIGIBILITE ..................................................................................... 15 
+2.11 CONTROLES SUPPLEMENTAIRES NON INCLUS DANS LA PROCEDURE DE VERIFICATION STANDARD
+ ...................................................................................... ERROR! BOOKMARK NOT DEFINED.
+
+===== CHUNK 47 =====
+--- Page 13 ---
+
+===== CHUNK 48 =====
+Termes de référence pour une vérification des dépenses 
+ 
+Version Août 2020                                            page 13 de 21    
+1. ANALYSE DES RISQUES ET DÉTERMINATION DE 
+L’ÉCHANTILLON 
+ 
+Le vérificateur des dépenses doit évaluer les risques d’erreurs ou d’inexactitudes 
+significatives parmi les dépenses et les recettes déclarées dans le rapport financier afin 
+de déterminer la taille et la structure de l’échantillon de dépenses à examiner 
+conformément aux procédures décrites à la section 2. 
+ 
+Ce travail implique d’évaluer les risques inhérents que: 
+• le rapport financier ne soit pas fiable, c’est-à-dire qu’il ne présente pas, dans tous 
+leurs aspects significatifs, les dépenses réelles engagées et les recettes effectivement 
+perçues conformément aux conditions contractuelles applicables; 
+• les dépenses déclarées dans  le rapport financier n’aient pas, dans tous leurs 
+aspects significatifs, été engagées conformément aux conditions applicables;
+
+===== CHUNK 49 =====
+• les dépenses déclarées dans  le rapport financier n’aient pas, dans tous leurs 
+aspects significatifs, été engagées conformément aux conditions applicables; 
+• les recettes générées par l e coordinateur dans le cadre de l’exécution du contrat 
+ne soient pas déduites des dépenses déclarées conformément aux conditions applicables;  
+• des fraudes et des irrégularités aient eu lieu, susceptibles d’avoir eu une 
+incidence sur les dépenses et/ou les recettes déclarées dans le cadre du contrat. 
+ 
+Le vérificateur des dépenses doit évaluer le risque  inhérent en fonction, notamment, du 
+nombre et de la complexité des transactions, de la complexité des activités prévues par le 
+contrat, du nombre d’entités participant à la mise en œuvre et de l’environnement dans 
+lequel le contrat est exécuté. En outre, le vérificateur des dépenses, en se fondant 
+notamment sur les informations fournies à l’annexe  1 des termes de référence ( contexte
+
+===== CHUNK 50 =====
+lequel le contrat est exécuté. En outre, le vérificateur des dépenses, en se fondant 
+notamment sur les informations fournies à l’annexe  1 des termes de référence ( contexte 
+du mandat / informations essentielles ), prendra en considération le risque de non -
+contrôle, c’est -à-dire la question de savoi r si la conception du système de contrôle 
+interne atténue suffisamment les risques inhérents détectés et s’il est plausible qu’il 
+fonctionne efficacement. 
+ 
+2. PROCÉDURES DE VÉRIFICATION DES DÉPENSES  
+ 
+Le vérificateur des dépenses doit procéder aux contrôle s suivants, sauf s’ils ne sont pas 
+pertinents compte tenu des critères d’éligibilité applicables au type de contrat. Le 
+vérificateur des dépenses est donc tenu d’acquérir une compréhension suffisante de ces 
+exigences afin d'effectuer uniquement les contrôl es pertinents et appliquer correctement 
+les conditions d’éligibilité pertinentes.  
+ 
+2.1  Les dépenses ont été engagées par l’entité et concernent l’entité
+
+===== CHUNK 51 =====
+les conditions d’éligibilité pertinentes.  
+ 
+2.1  Les dépenses ont été engagées par l’entité et concernent l’entité 
+2.2  Les dépenses sont enregistrées dans le système comptable d u 
+coordinateur et des autres bénéficiaires et entités affiliées 
+Les dépenses sont enregistrées dans le système comptable d u coordinateur et des autres 
+bénéficiaires et entités affiliées conformément aux normes comptables applicables et aux 
+pratiques habituelles du coordinateur en matière de comptabilité analytique.
+
+===== CHUNK 52 =====
+--- Page 14 ---
+
+===== CHUNK 53 =====
+Termes de référence pour une vérification des dépenses 
+ 
+Version Août 2020                                            page 14 de 21    
+2.3 Les dépenses ont été engagées pendant la période d’éligibilité 
+contractuelle  
+Les dépenses déclarées dans le rapport financier ont été engagées pendant la période 
+contractuelle de mise en œuvre de l’action, à l’ exception des dépenses relatives aux 
+rapports finaux, à la vérification des dépenses, à l’audit et à l’évaluation. Les dépenses 
+payées après la présentation du rapport financier sont indiquées dans le rapport final 
+avec la date de paiement estimée. 
+2.4 Les dépenses étaient indiquées dans le budget prévisionnel 
+contractuel 
+Les dépenses figurant dans le rapport financier étaient indiquées dans le budget 
+contractuel. 
+Les plafonds budgétaires applicables n’ont pas été dépassés. 
+Les dépenses ont été affectées aux bonnes rubriques du rapport financier. 
+2.5 Les dépenses nécessaires à la mise en œuvre des activités
+
+===== CHUNK 54 =====
+Les plafonds budgétaires applicables n’ont pas été dépassés. 
+Les dépenses ont été affectées aux bonnes rubriques du rapport financier. 
+2.5 Les dépenses nécessaires à la mise en œuvre des activités 
+contractuelles sont raisonnables et justifiées 
+ 
+Selon toute vraisemblance, les dépenses directes et indirectes comprises dans le rapport 
+financier étaient nécessaires à la réalisation des activités contractuelles. 
+ 
+Le montant des postes de dépenses figurant dans le rapport financier est raisonnable et 
+justifié et respecte le principe de bonne gestion financière. 
+2.6 Les dépenses sont identifiables et vérifiables 
+Les dépenses sont étayées par des pièces justificatives suffisantes (par exemple factures, 
+contrats, bons de commande, fiches de paie, feuilles de présence) et par des preuves de 
+paiement.  
+ 
+Lorsque les dépenses ont été réparties, la clé de ré partition appliquée s'est appuyé sur 
+des informations sous-jacentes suffisantes, appropriées et vérifiables.
+
+===== CHUNK 55 =====
+paiement.  
+ 
+Lorsque les dépenses ont été réparties, la clé de ré partition appliquée s'est appuyé sur 
+des informations sous-jacentes suffisantes, appropriées et vérifiables. 
+ 
+Les dépenses sont confirmées par des preuves que les travaux ont été réalisés, les biens 
+reçus ou les services rendus. L’existence d’actifs est vérifiable. 
+2.7 Conformité aux règles de passation de marchés et aux règles de 
+nationalité et d’origine 
+Pour les postes de dépenses concernés, le coordinateur  s'est conformé aux exigences 
+contractuelles en matière de passation de marchés. Les règles contract uelles de 
+nationalité et d’origine ont été appliquées, y compris les règles relatives aux dérogations 
+qui doivent être accordées par la Commission.
+
+===== CHUNK 56 =====
+--- Page 15 ---
+
+===== CHUNK 57 =====
+Termes de référence pour une vérification des dépenses 
+ 
+Version Août 2020                                            page 15 de 21    
+2.8 Les dépenses sont conformes aux exigences de la législation 
+fiscale et sociale applicable 
+Pour les poste s de dépenses concernés, le coordinateur  respecte les exigences de la 
+législation fiscale et sociale (concernant par exemple la part des employeurs à l’impôt, 
+les cotisations de retraite et les cotisations de sécurité sociale). 
+2.9 Soutien financier à des tiers (subventions en cascade) 
+Le soutien financier à des tiers est prévu par les conditions contractuelles et son montant 
+n’excède pas les limites contractuelles. 
+Les dépenses engagées par les tiers répondent aux conditions d’éligibilité pertinentes. En 
+particulier, elles ont été engagées par le tiers et concernent le tiers, elles ont été 
+encourues pendant la période d’éligibilité contractuelle, elles sont nécessaires à la mise
+
+===== CHUNK 58 =====
+particulier, elles ont été engagées par le tiers et concernent le tiers, elles ont été 
+encourues pendant la période d’éligibilité contractuelle, elles sont nécessaires à la mise 
+en œuvre des activités contractuelles et sont identifiables et vérifiables (voir la définition 
+au point 2.6). 
+2.10 Autres conditions d’éligibilité 
+Les droits, impôts et taxes (par exemple la TVA) indiqués dans le rapport financier ne 
+peuvent pas être récupérés par l’entité, sauf dispositions contraires des conditions 
+contractuelles ( système de coûts acceptés). Dans ce dernier cas, ces dépenses sont 
+déclarées séparément et relèvent des dépenses directes éligibles. 
+Des taux de change corrects sont utilisés, le cas échéant. 
+La réserve pour imprévus a été créée conformément aux conditions  contractuelles et son 
+utilisation est autorisée par l’administration contractante. 
+Les coûts indirects n’excèdent pas le pourcentage maximal contractuel des coûts directs
+
+===== CHUNK 59 =====
+utilisation est autorisée par l’administration contractante. 
+Les coûts indirects n’excèdent pas le pourcentage maximal contractuel des coûts directs 
+éligibles et ne comprennent pas de dépenses inéligibles ni de dépenses déjà déclarée s 
+comme directes. 
+Les contributions en nature ne sont pas incluses dans le rapport financier, sauf 
+disposition contraire des conditions contractuelles. 
+Les dépenses spécifiquement considérées comme inéligibles par les conditions 
+contractuelles ne sont pas incluses dans le rapport financier. 
+Les dépenses déclarées dans le cadre des options de coûts simplifiés respectent les 
+exigences contractuelles. 
+Les recettes générées par le coordinateur  dans le cadre de l’exécution du contrat sont 
+déclarées dans le rappo rt financier et sont déduites des dépenses déclarées, sauf 
+disposition contraire des conditions contractuelles.
+
+===== CHUNK 60 =====
+--- Page 16 ---
+
+Termes de référence pour une vérification des dépenses 
+ 
+Version Août 2020                                            page 16 de 21    
+ 
+ 
+ 
+<Annexe 3 : Modèle de>Rapport de vérification des dépenses 
+<À imprimer sur le papier à en-tête de l’auditeur> 
+Rapport de vérification des dépenses dans le cadre d’un contrat de 
+subvention applicable aux actions extérieures de l’Union européenne 
+<Intitulé et numéro du contrat de subvention> 
+Modèle à compléter comme suit par le vérificateur des dépenses:  
+ 
+ Insérer les informations demandées entre les <…> 
+ Choisir, le cas échéant, le texte optionnel surligné en gris entre [...], ou le supprimer 
+ Supprimer toutes les instructions en jaune et la présente zone de texte  
+
+
+--- Page 17 ---
+
+===== CHUNK 61 =====
+Termes de référence pour une vérification des dépenses 
+ 
+Version Août 2020                                            page 17 de 21    
+1. Contexte  
+ 1.1. Brève description de l’action soumise à vérification 
+ 
+Numéro et intitulé du contrat:  
+Type de contrat contrat de subvention 
+Rapport(s) financier(s) soumis à 
+vérification 
+<JJ/MM/AAAA-JJ/MM/AAAA> 
+<JJ/MM/AAAA-JJ/MM/AAAA> 
+<JJ/MM/AAAA-JJ/MM/AAAA> 
+Coordinateur et autres 
+bénéficiaires et entités affiliées 
+<Indiquer le nom du coordinateur et des autres bénéficiaires et entités 
+affiliées et fournir les informations essentielles sur leur forme juridique, 
+leur nationalité, leur taille, leur(s) domaine(s) d’activité 
+principal/principaux et les autres éléments jugés pertinents – 200 mots 
+maximum> 
+Lieu(x) où le contrat est mis en 
+œuvre 
+ 
+Période d’exécution du contrat  
+Stade de la mise en œuvre du 
+contrat 
+<indiquer en cours ou terminé> 
+Objectifs généraux et spécifiques 
+du contrat 
+ 
+Description synthétique des
+
+===== CHUNK 62 =====
+œuvre 
+ 
+Période d’exécution du contrat  
+Stade de la mise en œuvre du 
+contrat 
+<indiquer en cours ou terminé> 
+Objectifs généraux et spécifiques 
+du contrat 
+ 
+Description synthétique des 
+activités, des résultats et du 
+groupe cible  
+<300 mots maximum> 
+ 
+ 
+ 1.2. Informations financières de base sur le contrat (au moment de la 
+vérification) 
+Dépenses 
+Postes budgétaires Dépenses prévues  
+(montant) 
+Dépenses déclarées 
+(montant) 
+Poste budgétaire "…"     
+…     
+Total
+
+===== CHUNK 63 =====
+--- Page 18 ---
+
+Termes de référence pour une vérification des dépenses 
+ 
+Version Août 2020                                            page 18 de 21    
+1.2.1 Contributions  
+Origine de la contribution Contribution prévue 
+(montant) 
+Contribution effective  
+(montant) 
+UE     
+Coordinateur     
+Autres bénéficiaires et entités 
+affiliées     
+…     
+Autre donateur 1     
+…     
+Total     
+ 
+1.2.2 Recettes 
+Types de recette Recettes prévues  
+(montant) 
+Recettes effectives  
+(montant) 
+Type "…"     
+Type "…"     
+…     
+Total     
+ 
+ 
+ 1.3. Rapports financiers vérifiés 
+ 
+Voir l’annexe 3.1. 
+
+
+--- Page 19 ---
+
+===== CHUNK 64 =====
+Termes de référence pour une vérification des dépenses 
+ 
+Version Août 2020                                            page 19 de 21    
+ 2. Analyse des risques 
+ 2.1. Résultat de l’analyse des risques 
+ 
+À partir de l’analyse des risques effectuée conformément aux termes de référence, indiquez 
+succinctement les risques identifiés susceptibles d’avoir une incidence sur le rapport vérifié, sur 
+l’action, le contexte dans lequel celle-ci est mise en œuvre, les bénéficiaires et le groupe cible. 
+<Par ex. action mise en œuvre via de s procédures complexes de passation de marchés, soutien 
+financier à des tiers (subventions en cascade) ou fonds renouvelables, transactions effectuées 
+en plusieurs devises, complexité technique, indice de perception de la corruption élevé, cas 
+d’interférence politique, prédominance des paiements en espèces, nombre de parties 
+concernées, partenaires manquant de capacités administratives, faiblesses notoires des
+
+===== CHUNK 65 =====
+d’interférence politique, prédominance des paiements en espèces, nombre de parties 
+concernées, partenaires manquant de capacités administratives, faiblesses notoires des 
+systèmes de contrôle interne, manque de participation ou de coopération du groupe cible, 
+antécédents de fraude. (300 mots maximum)> 
+Veuillez également indiquer les éventuels facteurs atténuants. 
+<Par ex. travaux d’audit ou de vérification antérieurs, preuves d’un suivi étroit par 
+l’administration contractante, bons résultats obtenus par le partenaire d e mise en œuvre dans 
+le passé, etc. (150 mots maximum)> 
+ 2.2 Conséquences sur l’échantillonnage 
+ 
+Indiquez comment les facteurs de risque identifiés sont reflétés dans la structure et la taille de 
+l’échantillon. 
+<À partir des facteurs de risque identifiés, e xpliquez comment l’échantillon a été choisi (par 
+exemple par échantillonnage statistique/libre, par stratification, etc.), à quel type de
+
+===== CHUNK 66 =====
+<À partir des facteurs de risque identifiés, e xpliquez comment l’échantillon a été choisi (par 
+exemple par échantillonnage statistique/libre, par stratification, etc.), à quel type de 
+transactions la priorité a été accordée (par exemple aux transactions d’un montant supérieur à 
+xx EUR, aux dépenses dé clarées par le co -bénéficiaire XY, aux dépenses de personnel, aux 
+paiements aux bénéficiaires de subventions en cascade, etc.), quel est le ratio de couverture en 
+montant et en nombre de transactions.(200 mots maximum)> 
+ 3. Population des transactions et échantillon 
+ Eléments clés/vue d’ensemble de l’échantillonnage 
+ 
+La taille de l’échantillon a été déterminée sur la base d’un seuil de signification de 2  % du 
+montant total des dépenses déclarées, avec un niveau de confiance de 95  % et en tenant compte 
+de l’analyse des risques présentée ci-dessus.
+
+===== CHUNK 67 =====
+--- Page 20 ---
+
+===== CHUNK 68 =====
+Termes de référence pour une vérification des dépenses 
+ 
+Version Août 2020                                            page 20 de 21    
+Rapport/facture: <indiquez le numéro du rapport/de la facture et les dates de clôture des comptes> 
+ Population Échantillon vérifié 
+Nombre de transactions   
+Valeur des transactions en EUR   
+[Remplir un tableau par rapport financier/facture vérifié(e)] 
+Une liste complète des transactions comprises dans la population doit être jointe à l’annexe 3.3. 
+4. Tests de validation  
+ Brève description de la procédure des tests de validation 
+Conformité aux termes de référence et à la norme internationale de services connexes, the 
+International Standard on Related Services ("ISRS") 4400. 
+<Confirmez que les procédures de test définies à l’annexe  2 des termes de référence ont été 
+pleinement appliquées ou indiquez toute l imitation de leur champ d’application. Confirmez
+
+===== CHUNK 69 =====
+<Confirmez que les procédures de test définies à l’annexe  2 des termes de référence ont été 
+pleinement appliquées ou indiquez toute l imitation de leur champ d’application. Confirmez 
+également que les tests ont été effectués conformément à la norme internationale de services 
+connexes ("ISRS") 4400, missions de procédures convenues relatives aux informations 
+financières (Engagements to pe rform Agreed -upon Procedures regarding Financial 
+Information»). 
+Informations essentielles sur la procédure de test. 
+<Par ex. indiquez si les travaux de vérification ont eu lieu dans les locaux du partenaire chargé 
+de la mise en œuvre, si des représentants qualifiés de l’entité déclarante étaient présents, s’ils se 
+sont montrés coopératifs, si les pièces justificatives étaient disponibles dans leur intégralité, si 
+des documents supplémentaires ont dû être reçus après la mission sur le terrain, si des preuves de
+
+===== CHUNK 70 =====
+des documents supplémentaires ont dû être reçus après la mission sur le terrain, si des preuves de 
+la transmission du matériel sont disponibles, si des contrôles physiques ont été effectués, s’il y a 
+eu des limitations du champ d’application, etc. (300 mots maximum)> 
+ 5. Résumé des résultats 
+ 5.1. Résumé des erreurs détectées 
+ 
+<Description des principaux résultats des tests effectués sur les transactions (par exemple type 
+d’erreurs détectées, type de transactions, étendue géographique, secteur, partenaires chargés de 
+la mise en œuvre, etc.). (200 mots maximum)> 
+ 5.2 Équipe d’audit 
+<Énumérez les noms et catégories des experts employés pour ce rapport.> 
+<Nom et signature du Vérificateur> 
+<Adresse du Vérificateur: cabinet responsable de la vérification> 
+ [pour les rapports finaux <Date de signature> qui est la date de signature du rapport final]
+
+===== CHUNK 71 =====
+--- Page 21 ---
+
+Termes de référence pour une vérification des dépenses 
+ 
+Version Août 2020                                            page 21 de 21    
+ 
+ Annexe 3.1: Rapports financiers fournis par l’entité déclarante 
+ Annexe 3.2: Procédures exécutées 
+ Annexe 3.3: Tableau des transactions - fourni sous forme de fichier 
+Excel 
+ Annexe 3.4: Tableau des erreurs - fourni sous forme de fichier Excel

@@ -1,0 +1,1389 @@
+
+
+--- Page 1 ---
+
+ TDR s auto-clean 
+EU FR 9124759/ 2306 
+ 
+ 
+ 
+MANUEL UTILISATEUR – Version de l'UE 
+ 
+TDR 5 s AC 
+TDR 7 s AC / TDR 7+7 s AC 
+TDR 8 s AC / TDR 8+8 s AC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AVERTISSEMENT 
+Lisez toutes les instructions avant d'utiliser la machine. 
+ 
+
+
+
+--- Page 2 ---
+
+ TDR s auto-clean 
+EU  2 / 33 
+ 
+Original 
+L'original des instructions de ce manuel a été rédigé en anglais.  Les versions dans d'autres langues 
+de ce manuel sont des traductions des instructions d'origine. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONSERVEZ CE MANUEL UTILISATEUR POUR UTILISATION FUTURE ! 
+ 
+ 
+ 
+ 
+ 
+© 2023 Fri-Jado B.V., Oud Gastel, Pays-Bas 
+ 
+Pour la durée et les conditions de la garantie, nous vous conseillons de contacter votre fournisseur.  
+En outre, nous vous référons aux Conditions générales de vente et de livraison disponibles sur simple 
+demande. 
+Le fabricant décline toute responsabilité pour les dommages ou blessures causés par le non-respect 
+de ces réglementations ou des règles d’attention habituelle et relatives aux actions, à l'exploitation, à 
+la maintenance ou aux réparations, même si elles ne sont pas décrites explicitement dans ce manuel. 
+Il est possible que votre unité diffère, dans les détails, de celle décrite dans ce manuel, en raison de 
+notre engag ement constant envers l’amélioration.  De ce fait, les instructions fournies servent 
+simplement de ligne directrice pour l'installation, l'emploi, la maintenance et la réparation de l’unité à 
+laquelle se réfère ce manuel.  Ce manuel a été composé avec l’attention la plus extrême.  Le fabricant 
+ne peut, cependant, pas être tenu pour responsable des erreurs de ce manuel ni pour leurs 
+conséquences.  L’utilisateur reçoit un exemplaire de ce manuel pour son propre usage.  Par ailleurs, 
+tous les droits sont réservés et ce manuel ne saurait être reproduit ou rendu public, en tout ou partie, 
+de quelque manière que ce soit. 
+ 
+Modifications: 
+En cas de modifications sans autorisation de l’unité, toute responsabilité du fabricant est nulle et non 
+avenue. 
+  
+
+
+--- Page 3 ---
+
+ TDR s auto-clean 
+EU  3 / 33 
+ 
+TABLE DES MATIÈRES 
+ 
+1. INTRODUCTION ................................ ................................ ................................ .............. 5 
+1.1 Généralités ................................ ................................ ................................ ....................... 5 
+1.2 Identification de l'unité ................................ ................................ ................................ ...... 5 
+1.3 Pictogrammes et symboles ................................ ................................ ...............................  5 
+1.4 Instructions de sécurité ................................ ................................ ................................ ..... 6 
+1.4.1 Généralités ................................ ................................ ................................ .................. 6 
+1.4.2 Déplacement ................................ ................................ ................................ ............... 7 
+1.5 Hygiène ................................ ................................ ................................ ............................ 7 
+1.6 Entretien et assistance technique ................................ ................................ ..................... 7 
+1.7 Rangement ................................ ................................ ................................ ....................... 7 
+1.8 Mise au rebut ................................ ................................ ................................ .................... 7 
+2. DESCRIPTION DE L'UNITE ................................ ................................ ............................. 8 
+2.1 Description technique ................................ ................................ ................................ ....... 8 
+2.2 Utilisation prévue ................................ ................................ ................................ .............. 8 
+2.3 Accessoires ................................ ................................ ................................ ...................... 8 
+3. INSTALLATION ET PREMIÈRE UTILISATION ................................ ...............................  9 
+3.1 Déballage de l'unité ................................ ................................ ................................ .......... 9 
+3.2 Installation et positionnement ................................ ................................ .......................... 10 
+3.3 Première utilisation ................................ ................................ ................................ ......... 11 
+3.3.1 Odeur métallique ................................ ................................ ................................ ....... 11 
+4. FONCTIONNEMENT ET UTILISATION ................................ ................................ ......... 12 
+4.1 Panneau de commande ................................ ................................ ................................ .. 12 
+4.2 Mise en marche de l'unité ................................ ................................ ...............................  13 
+4.3 Chargement de l'unité ................................ ................................ ................................ ..... 13 
+4.3.1 Chargement de l'unité avec des fourches à viande ................................ .................... 13 
+4.3.2 Chargement de rôtissoire avec broches en V (accessoire) ................................ ........ 14 
+4.3.3 Chargement de l'unité avec des paniers à viande (accessoire) ................................ .. 15 
+4.3.4 Chargement de rôtissoire avec deux types d'accessoires différents .......................... 15 
+4.4 Durée de grill ................................ ................................ ................................ .................. 16 
+4.5 Déchargement des produits ................................ ................................ ............................ 16 
+4.5.1 Retrait des fourches à viande ................................ ................................ .................... 16 
+4.5.2 Retrait de broche en V (accessoire) ................................ ................................ ........... 16 
+4.5.3 Retrait des paniers à viande (accessoires) ................................ ................................  17 
+4.6 Vider le récipient à graisse / le tiroir ................................ ................................ ................ 17 
+4.7 Arrêt de l'unité ................................ ................................ ................................ ................. 17 
+5. FONCTIONNEMENT ................................ ................................ ................................ ...... 18 
+5.1 Début d'un programme ................................ ................................ ................................ ... 18 
+5.2 Heure de départ différée (en option) ................................ ................................ ............... 18 
+5.3 Préchauffage ................................ ................................ ................................ .................. 19 
+
+
+--- Page 4 ---
+
+ TDR s auto-clean 
+EU  4 / 33 
+5.4 Pendant la cuisson ................................ ................................ ................................ ......... 19 
+5.5 Ajout d'une durée additionnelle au programme actif ................................ ........................ 20 
+5.6 Interruption d'un programme ................................ ................................ ........................... 20 
+5.7 Réinitialisation du signal d'alarme ................................ ................................ ................... 20 
+5.8 Mise hors tension ................................ ................................ ................................ ............ 20 
+6. SETTINGS ................................ ................................ ................................ ...................... 21 
+6.1 Généralités ................................ ................................ ................................ ..................... 21 
+6.2 Présentation des paramètres ................................ ................................ .......................... 21 
+6.3 Menu Service ................................ ................................ ................................ .................. 21 
+7. PROGRAM ................................ ................................ ................................ ..................... 22 
+7.1 Généralités ................................ ................................ ................................ ..................... 22 
+7.2 Ajout de programmes ................................ ................................ ................................ ...... 22 
+7.3 Modification de programmes ................................ ................................ ........................... 22 
+7.4 Suppression de programmes ................................ ................................ .......................... 24 
+8. NETTOYAGE ET MAINTENANCE ................................ ................................ ................. 25 
+8.1 Programme de maintenance ................................ ................................ ........................... 25 
+8.2 Nettoyage quotidien ................................ ................................ ................................ ........ 25 
+8.3 Nettoyage hebdomadaire ................................ ................................ ................................  27 
+8.4 Nettoyage manuel supplémentaire................................ ................................ .................. 27 
+9. DYSFONCTIONNEMENTS ET ENTRETIEN ................................ ................................ .. 28 
+9.1 Remplacement le cordon d’alimentation ................................ ................................ ......... 28 
+10. SPÉCIFICATIONS TECHNIQUES ................................ ................................ .................. 29 
+ 
+  
+
+
+--- Page 5 ---
+
+ TDR s auto-clean 
+EU  5 / 33 
+1. INTRODUCTION 
+1.1 Généralités 
+Ce manuel est destiné à l'utilisateur de TDR s AC (Turbo Deli Rotisserie avec fonction de nettoyage). 
+Il décrit les fonctions et commandes tout en fournissant des instructions assurant l'usage le plus 
+efficient en toute sécurité afin de garantir une durée de vie prolongée pour l'unité.  
+ 
+Tous les pictogrammes, symboles et dessins de ce manuel concernent le TDR s AC (EU) modèles. 
+ 
+1.2 Identification de l'unité 
+La plaque d'identification se trouve à l'extérieur de la machine et comprend les données suivantes : 
+• Nom du fournisseur ou du fabricant 
+• Modèle 
+• Numéro de série 
+• Année de construction 
+• Tension 
+• Fréquence 
+• Consommation électrique 
+1.3 Pictogrammes et symboles 
+Dans ce manuel, les pictogrammes et symboles suivants sont utilisés : 
+ 
+ 
+AVERTISSEMENT  
+Des blessures et des dégâts graves de l’unité sont possibles si les instructions ne sont 
+pas respectées avec soin. 
+ 
+ 
+AVERTISSEMENT  
+Tension électrique dangereuse. 
+ 
+ 
+AVERTISSEMENT  
+Risque de blessures du fait des surfaces chaudes. 
+ 
+ 
+Suggestions et recommandations simplifiant les actions indiquées. 
+ 
+ 
+Symbole de recyclage. 
+ 
+ 
+Sens de visualisation du symbole. 
+  
+
+
+
+--- Page 6 ---
+
+ TDR s auto-clean 
+EU  6 / 33 
+1.4 Instructions de sécurité 
+ 
+ 
+AVERTISSEMENT  
+L'extérieur de l'unité peut être très chaud. 
+ 
+ 
+AVERTISSEMENT  
+La charge maximum au sommet de l'unité ne doit jamais dépasser 50 kg. 
+ 
+ 
+AVERTISSEMENT 
+Risque déchaussée glissante: Les déversements peuvent rendre les surfaces 
+glissantes, nettoyer rapidement. 
+ 
+ 
+AVERTISSEMENT  
+Voir les instructions d'installation pour les exigences de mise à la terre. 
+ 
+ 
+AVERTISSEMENT 
+Utilisez toujours les freins des deux roues avant:  
+ 
+1.4.1 Généralités 
+L'utilisateur de l'unité est pleinement responsable du respect des règles et réglementations de sécurité 
+en vigueur. 
+L’unité peut être utilisée uniquement par des personnes qualifiées et agréées.  Quiconque travaille 
+sur ou avec cette unité doit être familiarisé avec le contenu de ce manuel et respecter avec soin toutes 
+les consignes et instructions.  Ne modifiez jamais l’ordre des actions à effectuer. L’encadrement doit 
+former le personnel en fonction de ce manuel et respecter toutes les instructions et réglementations. 
+ 
+Les pictogrammes, autocollants, avertissements et instructions apposés sur l’unité font partie des 
+dispositifs de sécurité. Ils ne doivent jamais être recouverts ou retirés et doivent demeurer clairement 
+visibles pendant tout le cycle de vie de l'unité. 
+Remplacez ou réparez immédiatement les pictogrammes, avertissements et instructions 
+endommagés ou illisibles. 
+ 
+• Pour éviter tout court-circuit, ne nettoyez jamais l'unité avec un jet d'eau.  Pour les instructions 
+de nettoyage, voir la section 8. 
+• Durant le processus de grill, l'unité peut être très chaude. 
+• Lorsque la porte est ouverte, le rotor s'arrête et le chauffage est mis hors tension. 
+• Nettoyez l'unité tous les jours après utilisation afin d'assurer un fonctionnement correct et 
+d'éviter les départs de feu (surchauffe). 
+• Unités empilées : ne traitez pas d'aliments (par exemple, griller) dans une unité pendant le 
+nettoyage automatique de l'autre unité. 
+• Le récipient collecteur graisse doit être vidé régulièrement pour éviter tout débordement. 
+• Cet appareil électrodomestique peut être utilise par des enfants de plus de 8 ans et par des 
+personnes inexpérimentées ou dont les capacités physiques, sensorielles ou mentales sont 
+réduites, à condition que celles -ci soient sous surveillance ou aient reçu les instructions 
+d’utilisation de l’appareil en toute sécurité, dans la compréhension des risques encourus.   
+• Les enfants ne doivent pas jouer avec l’appareil électrodomestique.  
+• Le nettoyage et l’entretien ne doivent pas être effectués par des enfants sans surveillance.  
+
+
+
+--- Page 7 ---
+
+ TDR s auto-clean 
+EU  7 / 33 
+1.4.2 Déplacement 
+Pour déplacer l'unité:  
+• Avant de déplacer l'unité, mettez tout d'abord hors tension en débranchant la fiche de la prise 
+murale puis videz le tiroir à graisse.  Ensuite, laissez l'unité refroidir au moins dix minutes. 
+• Débrancher l'alimentation en eau et le drain. 
+• Unités empilées (7+7 ou 8+8): retirez le bac de récupération des graisses. 
+• L'unité comporte des roulettes qui ne sont pas adaptées au passage des rebords et obstacles 
+de plus de 10 MM.  
+• Pour déplacer l'unité, poussez toujours au centre de l'unité.  Jamais en haut.  Jamais en bas. 
+• Assurez-vous que les roulettes bougent librement et ne touchent jamais le câble d'alimentation. 
+ 
+ 
+1.5 Hygiène 
+La qualité du produit frais dépend toujours de l'hygiène. Spécialement pour les produits grillés. Face 
+au risque de contamination par les salmonelles – spécialement pour les produits volaillers – vous 
+devez vous assurer que les produits grillés ne sont jamais mélangés avec des produits crus. De 
+même, tout contact entre les produits grillés et des mains voire des outils ayant été en contact avec 
+la chair de poulet crue doit être évité en toutes circonstances. 
+Les mains voire les outils ayant été en contact avec la chair de poulet crue doivent être nettoyés 
+scrupuleusement. 
+1.6 Entretien et assistance technique 
+Les schémas électriques de votre unité sont inclus.  En cas de dysfonctionnement, contactez votre 
+fournisseur/agent d’entretien. Assurez-vous de disposer des informations suivantes : 
+• Modèle. 
+• Numéro de série. 
+ 
+Ces données se trouvent sur la plaque d'identification. 
+1.7 Rangement 
+Si l'unité n'est pas utilisée, temporairement, et doit être rangée, respectez les instructions suivantes : 
+• Nettoyez soigneusement l'unité. 
+• Emballez l'unité pour la protéger de la poussière. 
+• Rangez l'unité dans un endroit sec et sans condensation.  
+1.8 Mise au rebut 
+ 
+Mettez la machine au rebut, débarrassée de tous ses composants ou lubrifiants en toute 
+sécurité conformément avec l'ensemble des impératifs locaux et nationaux relatifs à la 
+sécurité et l'environnement. 
+  
+
+
+
+--- Page 8 ---
+
+ TDR s auto-clean 
+EU  8 / 33 
+2. DESCRIPTION DE L'UNITE 
+2.1 Description technique 
+L'unité emploie une combinaison chaleur par convection et  par rayonnement infrarouge direct.   Le 
+rotor est mené par un moteur sans maintenance doté d'une boîte d'engrenages.  Le ventilateur répartit 
+uniformément la chaleur.  Les panneaux de verre bénéficient d'un revêtement reflétant la chaleur pour 
+la conserver à l'intérieur du grill. 
+ 
+Le plaquage de l'unité est en acier inox.  Les pièces de contact produit sont en inox AISI 304.  Le 
+cordon d'alimentation bénéficie d'une fiche au format UE. 
+ 
+Les commandes intelligentes maintiennent la température dans l'unité au niveau réglé par l'opérateur.  
+Durant tout le processus, l'intérieur de l'unité est éclairé par des lampes halogènes.  Les commandes 
+intelligentes offrent une capacité de stockage de nombreux programmes différents.   Chaque 
+programme comprend une phase de préchauffage avec des phases additionnelles pour lesquelles la 
+durée de cuisson et la température sont réglables.  Les communications via USB / WIFI (optionnel) 
+simplifient la lecture, la modification et la création de programmes avec un PC.  Pour ce faire, Fri -
+Jado propose un logiciel spécial. 
+ 
+L'appareil dispose d'un programme de nettoyage automatisé qui nettoie l'unité. 
+ 
+2.2 Utilisation prévue 
+Le TDR s AC a été conçu pour griller les viandes et un semi auto-fonction de nettoyage.  Tout autre 
+usage ne correspond pas à une utilisation prévue.  
+Le fabricant décline toute responsabilité pour des dégâts ou blessures résultant du non-respect (strict) 
+des instruc tions et consignes de sécurité de ce manuel ou de la non -observation des règles de 
+prudence lors de l’installation, de l’utilisation, de la maintenance ou des réparations liées à cette unité 
+et à ses accessoires. 
+ 
+Utilisez l'unité uniquement dans un état technique parfait. 
+2.3 Accessoires 
+ 
+Votre unité contient les accessoires standard suivants: 
+ 
+• Fourches à viande. 
+• Manuel utilisateur. 
+ 
+Pour les accessoires en option, contactez customer.service@frijado.com.  
+ 
+  
+
+
+--- Page 9 ---
+
+ TDR s auto-clean 
+EU  9 / 33 
+3. INSTALLATION ET PREMIÈRE UTILISATION 
+ 
+Tous les matériaux d'emballage utilisées pour cette unité peuvent être recyclés. 
+ 
+Après le déballage, contrôlez l'état de l'unité.  En cas de dégâts, rangez l'emballage et contactez le 
+transporteur dans les 15 jours ouvrables après la réception des marchandises. 
+3.1 Déballage de l'unité 
+ 
+(Unité unique montrée) 
+ 
+1. Déballez l'appareil comme indiqué sur les instructions de déballage sur l'emballage. 
+2. Retirez tous les autres matériaux d’emballage de l’unité. 
+3. Retirez le film protecteur des pièces métalliques. 
+4. Retirez les accessoires standard.  
+
+
+
+--- Page 10 ---
+
+ TDR s auto-clean 
+EU  10 / 33 
+3.2 Installation et positionnement 
+ 
+ 
+AVERTISSEMENT  
+Risque de choc électrique.  Instructions de mise à la terre: connectez l'appareil 
+uniquement à un courant alternatif fourni par une prise murale mise à la terre, avec 
+une tension secteur conforme aux informations indiquées sur la plaque signalétique de 
+l'appareil. 
+Il est de la responsabilité du consommateur de s'assurer que l'installation électrique 
+est conforme aux codes et aux réglementations de câblage nationaux et locaux en 
+vigueur. 
+N'utilisez pas de prise multiple ou de rallonge.  Cela peut entraîner un incendie, un 
+choc électrique ou d'autres blessures. 
+Le non-respect de ces instructions peut entraîner la mort ou des blessures graves 
+ 
+ 
+AVERTISSEMENT 
+Installez l'équipement à l’intérieur sur une surface plane et horizontale.  Un plan incliné 
+temporellement d'un maximum de 5 ° est autorisé. 
+ 
+ 
+Positionnement : 
+• L'utilisateur doit disposer d'une liberté de mouvement suffisante pour utiliser correctement 
+l'unité. 
+• La température ambiante doit être entre 10 et 30°C. 
+• Utilisez des outils de levage et de transport adaptés pour déplacer l'unité. 
+• Employez un niveau à bulle pour placer l'unité à plat et bien de niveau sur une surface solide. 
+Attention au poids de l'unité ! 
+• Prévoyez un dégagement d'au moins 250 mm entre les côtés et les autres unités voire les 
+parois. 
+• L'espace entre l'unité et sa surface de positionnement doit être  dégagé pour assurer une 
+ventilation correcte du compartiment électrique. 
+• Assurez un dégagement d'au moins 500 mm au -dessus de l'unité.  Placer l'appareil sous une 
+hotte est nécessaire. 
+• Si l'unité comporte des roulettes, le sol doit être plan et de niveau. 
+• Les produits dans l’unité doivent être clairement visibles. 
+• Maintenez les enfants à l'écart du côté utilisation de l'unité. 
+Installation : 
+• Fixez l'unité à la structure du bâtiment en utilisant le support d'ancrage, se référer au manuel 
+d'installation.  
+• Une connexion d'eau avec une vanne aérée dotée d'un raccord de ¾ po, avec un débit continu 
+minimum de 15 litres par minute, doit être disponible à proximité de l'unité.  La pression de l'eau 
+doit être entre 200 et 500 kPa (2 et 5 bars), de préférence au moin s 300kPa (3 bar).  Voir le 
+manuel d'installation. 
+
+
+
+--- Page 11 ---
+
+ TDR s auto-clean 
+EU  11 / 33 
+• Utilisez les tuyaux fournis avec la machine. 
+• Une purge ouverte d'un diamètre d'au moins 40 mm doit être disponible à proximité de l'unité.  
+• L'appareil dispose d'une prise secteur et doit être connecté à une prise murale avec une tension 
+secteur appropriée.  La prise murale doit être montée par un électricien certifié. 
+3.3 Première utilisation 
+Pour la première utilisation de l'unité, nettoyez soigneusement l'intérieur avec un savon mousseux et 
+chauffez l'unité, v oir la section 3.3.1.  Après la mise en décoloration de la four / grill zone peut se 
+produire. 
+ 
+➊       ➋    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+➌ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+➍       ➎ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.3.1 Odeur métallique 
+Pour éliminer les odeurs de métal et d'huile apparaissant après la première utilisation, chauffez 
+l'unité à la température maximum (220°C) pendant au moins 1/2 heure. 
+ 
+1. Appuyez sur l'écran de contrôle et allumez l'appareil. 
+2. Appuyez  pour afficher le menu. 
+3. Créez un nouveau programme comportant UNE étape de la température maximale  et une 
+durée d'au moins 30 minutes (voir section 7). 
+4. Sélectionnez le nouveau programme et appuyez  pour démarrer (voir section 5). 
+5. Laissez l'unité exécuter le programme intégral.  
+ 
+L'unité est maintenant prête à l'emploi.  
+
+
+
+--- Page 12 ---
+
+ TDR s auto-clean 
+EU  12 / 33 
+4. FONCTIONNEMENT ET UTILISATION 
+4.1 Panneau de commande 
+ 
+ 
+Fonctions principales: 
+  ON / OFF (marche / arrêt) 
+  Recettes 
+  Écran tactile fouet / net (pendant le compte à rebours) 
+  Nettoyer la rôtissoire 
+  Page d’accueil 
+ La langue 
+  Fonction d'aide 
+ 
+Appuyez ou glissez pour sélectionner une fonction ou activer un écran supplémentaire 
+ 
+  Reculer (lorsque montré dans le coin supérieur gauche) 
+  
+
+
+
+--- Page 13 ---
+
+ TDR s auto-clean 
+EU  13 / 33 
+4.2 Mise en marche de l'unité 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.3 Chargement de l'unité 
+Une fois la porte ouverte, appuyez sur le bouton du rotor  pour activer le rotor.  Le chargement et 
+le déchargement des produits sont ainsi facilités. 
+ 
+Pendant le chargement de l'unité, assurez-vous que le rotor est chargé uniformément afin de répartir 
+la masse des produits régulièrement sur le rotor pour le maintenir équilibré.  Ne laissez pas de 
+fourches à viande, paniers à viande, supports pour poulet, etc. vides dans le processus de grill. 
+ 
+4.3.1 Chargement de l'unité avec des fourches à viande 
+ 
+L'unité comporte un jeu de fourches à viande. 
+ 
+ 
+Les poulets entiers non détaillés doivent toujours être grillés avec les fourches à viande.  
+De la sorte, leur graisse naturelle va baigner les autres poulets, leur offrant un aspect 
+cuit parfaitement allégé. 
+Voir la vidéo You-Tube : “Fri-Jado instruction for binding and loading chicken”. 
+ 
+ 
+ 
+Pour préparer du poulet ou une autre volaille, vous pouvez travailler comme suit. 
+ 
+ 
+1. Traversez les blancs d’une pointe de la fourche à viande au niveau des ailes.  Insérez 
+l'autre pointe au niveau des pilons.  N'oubliez pas d'inclure les ailes. 
+2. Laissez de l'espace entre les produits pour assurer une exposition et un doré uniformes. 
+
+
+
+--- Page 14 ---
+
+ TDR s auto-clean 
+EU  14 / 33 
+3. Placez les fourches à viande sur les disques de rotor de sorte que, durant le grill, les 
+blancs de poulet soient face à l'opérateur. 
+4. Placez les pointes des fourches à viande dans les orifices appropriés des disques de rotor. 
+   
+5. L'autre extrémité des fourches à viande doit être positionnée dans les orifices 
+correspondants dans le disque de rotor opposé. 
+6. Pour insérer les fourches à viande restantes dans l'unité, procédez comme suit : 
+• Mettez l'unité en marche avec le bouton on/off. 
+• Avec la porte ouverte, utilisez le bouton de rotor afin de déplacer le rotor pour insérer 
+facilement la fourche à viande suivante.  
+• Maintenez le bouton de rotor enfoncé pour que le rotor atteigne la position voulue. 
+Répétez ces phases pour charger tous les produits. 
+ 
+4.3.2 Chargement de rôtissoire avec broches en V (accessoire) 
+ 
+Si vous utilisez des broches en V, procédez comme suit : 
+• Placez la brochette dans le petit orifice extérieur sur la plaque d'extrémité du rotor à gauche (en 
+faisant face au four).  L'arrière de la broche en V doit être dirigé vers vous. 
+   
+• Placez l'autre bout de la brochet te dans les petits orifices correspondants sur la plaque 
+d'extrémité du rotor à droite (en faisant face au four). 
+• Assurez-vous que la broche est de niveau.  Si la broche n'est pas de niveau, assurez -vous 
+d'avoir utilisé les orifices corrects sur les plaques d'extrémité de rotor. 
+  
+
+
+
+--- Page 15 ---
+
+ TDR s auto-clean 
+EU  15 / 33 
+4.3.3 Chargement de l'unité avec des paniers à viande (accessoire) 
+ 
+Si vous utilisez des paniers à viande, procédez comme suit : 
+• Avec le TDR 5, vous devez placer les extrémités des paniers à viande dans les orifices adaptés 
+des disques de rotor. 
+• Avec les TDR 7 et TDR 8, vous devez fixer les paniers à viande avec les goupilles adaptées. 
+  
+ 
+• Pendant le chargement de l'unité avec des paniers à viande, assurez -vous que le rotor est 
+chargé uniformément afin que la masse des produits se répartisse régulièrement sur le rotor 
+pour le maintenir équilibré. 
+• De même, assurez-vous qu'aucun morceau de viande ne dépasse des paniers. 
+ 
+ 
+ 
+4.3.4 Chargement de rôtissoire avec deux types d'accessoires différents 
+ 
+ 
+AVERTISSEMENT  
+Après le chargement du rotor, effectuez au moins UNE rotation complète et vérifiez si 
+le rotor tourne librement sans obstructions. 
+ 
+Si vous souhaitez charger l'unité avec deux accessoires différents simultanément, remplissez toujours 
+le rotor avec UN accessoire en moins que la quantité maximum autorisée. Assurez -vous que les 
+accessoires du même type sont placés consécutivement. 
+ 
+  
+
+
+
+--- Page 16 ---
+
+ TDR s auto-clean 
+EU  16 / 33 
+4.4 Durée de grill 
+La durée de grill dépend de plusieurs facteurs : 
+• La température ambiante et le courant d'air à proximité directe de l'unité. 
+• La température du grill. 
+• La température initiale du produit. 
+• Le type de viande (grasse ou maigre - avec ou sans additifs). 
+• La masse et la forme du produit. 
+• La quantité totale de viande à griller pendant un cycle de grill. 
+• Le résultat final attendu. 
+ 
+ 
+Epices 
+L’utilisation adéquate d’épices ou de marinades donne un goût caractéristique à chaque 
+plat. L’utilisation adéquate de celles-ci a une influence importante sur le résultat définitif. 
+Les directives pour l’assaisonner sont: 
+• Utilisez de préférence les épices spéciales pour le poulet et la viande de votre 
+fournisseur Fri -Jado Grill. Il y a des mixes d’épices spéciaux pour la volaille, 
+l’agneau, la viande de porc, la viande grande, le gibier et le poisson.  
+• Epicez les produits à griller quand ils sont secs.  
+• Epicez les produits au maximum 90 minutes avant le grillage afin de prévenir que 
+les épices enlèvent trop de liquide de la viande. 
+• N’ajoutez pas d’huile ou de graisse pendant le grillage. 
+• Epicez du poulet aussi bien du côté intérieur que du côté extérieur. 
+ 
+4.5 Déchargement des produits 
+ 
+ 
+AVERTISSEMENT  
+Après le grill, l'intérieur de l'unité et les panneaux de verre sont très chauds.  
+Utilisez toujours de gants de cuisine pour retirer les fourches à viande ou autres 
+accessoires. 
+ 
+4.5.1 Retrait des fourches à viande 
+Pour retirer les fourches à viande, procédez de préférence comme suit : 
+ 
+ 
+1. Tenez la fourche à viande fermement. 
+2. Levez légèrement l'extrémité avec les poignées et 
+déplacez la fourche à viande en direction de ses pointes.  
+Vous libérez ainsi la fourche à viande. 
+3. Retirez l'autre extrémité de la fourche à viande et sortez-
+la de l'unité. 
+4. Retirez les produits de la fourche à viande. 
+ 
+ 
+Voir la vidéo You-Tube : “Fri-Jado instruction for unloading chicken from a rotisserie”.  
+ 
+4.5.2 Retrait de broche en V (accessoire) 
+Pour retirer la broche en V, vous pouvez appliquer le même principe que celui décrit en section 4.5.1. 
+  
+
+
+
+--- Page 17 ---
+
+ TDR s auto-clean 
+EU  17 / 33 
+4.5.3 Retrait des paniers à viande (accessoires) 
+Pour retirer les paniers à viande, procédez de préférence comme suit: 
+1. Levez légèrement les deux extrémités du panier à viande. 
+2. Placez le panier à viande soit vers le côté gauche ou la main droite de l'appareil. Cette 
+action déverrouille une extrémité du panier à viande. 
+3. Amenez l'un des deux côtés vers votre corps et retirez le panier de l'unité. 
+Selon le nombre de produits préparés, vous pouvez avoir à vider les paniers avant de pouvoir les 
+retirer. 
+4.6 Vider le récipient à graisse / le tiroir 
+ 
+ 
+AVERTISSEMENT  
+Vérifiez le récipient de graisse / le tiroir après chaque cuisson et videz-le déjà environ 
+à moitié pour éviter de déborder. 
+ 
+ 
+AVERTISSEMENT  
+Juste après la cuisson, la graisse est chaude.  Laissez la graisse refroidir ou faites 
+extrêmement attention et portez des gants isolants voire des moufles de sécurité. 
+ 
+Unités : 
+ 
+1. Ouvrez la porte sous le cadre. 
+2. Retirez le contenant de graisse. 
+3. Reposer le récipient (vide). 
+4. Fermez la porte. 
+ 
+ 
+ 
+Unités empilées : 
+ 
+1. Retirez le tiroir à graisse.. 
+2. Videz le tiroir. 
+3. Replacez le tiroir (vide). 
+ 
+ 
+ 
+4.7 Arrêt de l'unité 
+ 
+ 
+ 
+ 
+  
+
+
+
+--- Page 18 ---
+
+ TDR s auto-clean 
+EU  18 / 33 
+5. FONCTIONNEMENT 
+5.1 Début d'un programme 
+1. Appuyez . 
+2. Sélectionnez le programme requis.  La durée totale du 
+programme est affichée en minutes à côté de son nom. 
+3. Appuyez . 
+ 
+ 
+ 
+ 
+5.2 Heure de départ différée (en option) 
+Lorsque la fonction Départ différé est active (dans le menu du 
+gestionnaire), une heure de départ différée peut être définie. 
+1. Appuyez sur l'icône de départ différé . 
+2. Réglez l'heure de début souhaitée . 
+3. Appuyez . 
+4. Sélectionnez le programme requis. 
+5. Appuyez . 
+6. Vérifiez l'heure de début.  Pour confirmer, appuyez sur 
+Continuer. 
+7. Vérifier : Changer le bac à graisse.  Appuyez sur Continuer 
+lors de l'exécution. 
+8. Le délai de démarrage est défini, le programme démarre 
+automatiquement à l'heure définie. 
+ 
+ 
+ 
+
+
+
+--- Page 19 ---
+
+ TDR s auto-clean 
+EU  19 / 33 
+5.3 Préchauffage 
+Lorsque la fonction de préchauffage est activée (dans le menu 
+du gestionnaire), l’appareil démarrera cette fonction après la 
+sélection d’un programme. 
+L'écran affichera la température réelle (en haut). 
+Tapez sur la case de température pour voir la température de 
+préchauffage réglée (environ 5 s). 
+ 
+Lorsque la température définie est atteinte, l'écran affiche: 
+“Preheat done. Waiting for oven to be loaded” ( Préchauffer 
+terminé. Le four peut être chargé) et un son est activé. 
+ 
+Chargez la rôtissoire et appuyez sur . 
+ 
+ 
+ 
+5.4 Pendant la cuisson 
+ 
+ 
+AVERTISSEMENT 
+L'ouverture de la porte pendant un programme de grillage ou un programme de 
+nettoyage provoque l'arrêt de l'appareil et un avertissement est affiché. 
+L'unité continue lorsque la porte est fermée et  pressée. 
+ 
+ 
+Durant la cuisson, l'écran affiche un graphique avec les 
+indications suivantes: 
+• trajectoire prévue (ligne de temps bleu foncé). 
+• trajectoire traitée (ligne temporelle bleu clair). 
+• étapes du programme (bande blanche). 
+• et la température de consigne (en haut). 
+Au centre du graphique, le nom du programme, la fonction 
+actuelle et la durée restante sont affichés. 
+En bas de l'écran, les étapes du processus sont indiquées. 
+ 
+L'écran affichera la température réglée (en haut). 
+Appuyez sur la case de température pour voir la température 
+réelle (environ 5 s). 
+ 
+Lorsque la « correction de cuisson  » est activée, le temps 
+restant est automatiquement ajusté. 
+ 
+ 
+ 
+ 
+
+
+
+--- Page 20 ---
+
+ TDR s auto-clean 
+EU  20 / 33 
+5.5 Ajout d'une durée additionnelle au programme actif 
+Pendant le processus, du temps supplémentaire peut être 
+ajouté (lorsque activé dans le menu responsable), en suivant 
+les étapes suivantes: 
+ 
+1. Appuyez . 
+2. Définir la durée additionnelle. 
+3. Sélectionnez  pour enregistrer le réglage. 
+ 
+ 
+L'écran affiche maintenant la durée additionnelle qui sera 
+ajoutée à la dernière phase de cuisson.  L'écran affiche toujours 
+la durée totale additionnelle. 
+ 
+ 
+ 
+ 
+5.6 Interruption d'un programme 
+Interruption temporaire : 
+1. Appuyez . 
+2. Appuyez  pour reprendre le programme. 
+ 
+Interruption définitive :  
+Appuyez  et appuyez sur Annuler le reçu. 
+ 
+ 
+ 
+5.7 Réinitialisation du signal d'alarme 
+Si un signal d'alarme a été réglé, il retentit.  Appuyez  sur pour revenir au menu principal. 
+ 
+5.8 Mise hors tension 
+Si aucun programme n'est actif et aucun bouton n'est touché pendant 60 minutes, l'unité s'arrête 
+automatiquement. 
+ 
+Cette option peut être désactivée ou réglée par un ingénieur d'entretien. 
+ 
+ 
+  
+
+
+
+--- Page 21 ---
+
+ TDR s auto-clean 
+EU  21 / 33 
+6. SETTINGS 
+6.1 Généralités 
+Les réglages de l’unité sont modifiables via le panneau de commande. 
+Trois types de réglages sont proposés : 
+• Information 
+• Responsable 
+• Service 
+ 
+Sélectionnez  pour accéder au menu de réglage. 
+Les sections Responsable et Service sont protégées par mot de passe. 
+Appuyez  pour revenir d'un niveau. 
+6.2 Présentation des paramètres 
+ 
+Réglage Fonction et valeurs 
+Mod. Code secret • 0000 – 9999 Réglage du code pin d'accès au menu Réglages.  Ce code 
+pin sert aussi à accéder au menu Program. 
+Commutateur éclairage • Allumé – éteint 
+Température unité • °C – °F 
+Volume de l'unité • Litre - Gal 
+Heure UTC • Réglage de l'heure actuelle 
+Date UTC • Réglage de la date actuelle 
+Décalage horaire • -/- 12 – +/+ 12 
+Format heure • 24h – AM/PM 
+format date • J/M/A – M/J/A 
+Recette de départ différé • Allumé – éteint 
+Alarme • oui– non 
+Permis mod. Menus • non – oui 
+Demander le poids • non – oui 
+Mode préchauffage • non – 1x – continue 
+Temper. préchauffage • 20 – 150°C (Réglage usine à 150°C) 
+Fonction eco • non – oui 
+Paramètres audio • 1 – 11 
+Facteur audio • 1 – 100 
+Test audio  
+Sound set • Marimba - Bell - Beeper 
+Bip de clavier • Éteint allumé 
+Capacité du filtre • 50 – 30000, ou "0" pour infini 
+Filtre à tartre Capacité restante du filtre à chaux 
+Filtre à tartre remplacé • oui – non 
+Temps nettoy écran • 10 – 60 sec 
+Store Number  
+préparation de référence  
+Menus -> USB  
+Menus <- USB  
+I+ Menus<-USB  
+Add recipes<-USB  
+ 
+6.3 Menu Service  
+Le menu Service contient les réglages de langue et de sécurité de l'unité.  Il est uniquement accessible 
+au fournisseur ou à un technicien d'entretien.  
+
+
+
+--- Page 22 ---
+
+ TDR s auto-clean 
+EU  22 / 33 
+7. PROGRAM 
+7.1 Généralités 
+ 
+Entrez dans le menu de recette . 
+ 
+ 
+7.2 Ajout de programmes 
+1. Sélectionnez . 
+2. Entrez le nom du programme. 
+3. Entrez l'étape de préchauffage (ou laissée vide). 
+4. Ajoutez des étapes de cuisson (balayez l'étape 
+supplémentaire au bas de l'écran vers le haut). 
+5. Une fois terminé, appuyez sur . 
+ 
+Remarque: le nom de l'étape peut être modifié (appuyez 
+dessus). 
+ 
+ 
+ 
+7.3 Modification de programmes  
+1. Sélectionnez la recette à modifier Appuyez sur OK. 
+2. Sélectionnez . 
+3. Apportez les modifications requises. 
+4. Une fois terminé, appuyez sur . 
+ 
+ 
+ 
+ 
+
+
+
+--- Page 23 ---
+
+ TDR s auto-clean 
+EU  23 / 33 
+  
+
+
+--- Page 24 ---
+
+ TDR s auto-clean 
+EU  24 / 33 
+7.4 Suppression de programmes 
+ 
+ 
+Une suppression de programme ne peut pas être annulée. 
+ 
+ 
+1. Sélectionnez la recette à supprimer. 
+2. Sélectionnez . 
+3. Sélectionnez . 
+4. Sélectionnez “YES” (Oui). 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+
+--- Page 25 ---
+
+ TDR s auto-clean 
+EU  25 / 33 
+8. NETTOYAGE ET MAINTENANCE 
+ 
+AVERTISSEMENT 
+L'appareil doit être déconnecté de l'alimentation pendant le nettoyage ou l'entretien et 
+lors du remplacement des pièces. 
+N'utilisez pas de matériaux agressifs ou abrasifs.   Ils endommagent la surface ce qui 
+rend plus difficile l'élimination de la saleté. 
+Nettoyez soigneusement l'intérieur, les parties mobiles et les accessoires avec un 
+produit nettoyant et de l'eau avant d'utiliser l'unité.  Suivez les instructions de nettoyage 
+indiquées dans ce chapitre. 
+Traitez la surface extérieure de la vitre intérieur e avec un produit nettoyant doux afin 
+de protéger la couche de réflexion. 
+Le nettoyage ne doit pas être retardé au-delà de 8 heures de service. 
+Portez des gants en caoutchouc lors du nettoyage. 
+Unités superposées : ne traitez pas d'aliments (par exemple, des grillades) pendant le 
+nettoyage automatique de l'autre unité. 
+ 
+ 
+AVERTISSEMENT  
+N'utilisez jamais un jet d'eau pour le nettoyage.  L'eau peut s'infiltrer dans l'unité via ses 
+orifices de ventilation. 
+ 
+ 
+La fonctionnalité de détartrage dépend du réglage du service: contactez votre 
+revendeur pour plus d'informations. 
+8.1 Programme de maintenance 
+Élément Action Fréquence 
+Intérieur Nettoyez.  Voir la section 8.2. Quotidienne 
+Extérieur Utilisez un produit nettoyant en spray pour acier inox afin 
+d'éliminer les tâches et restaurer le brillant, voir la section 8.3. Hebdomadaire 
+Intérieur Nettoyage manuel supplémentaire, voir la section 8.4. Mensuel 
+Intérieur Maintenance professionnelle: contactez votre revendeur. Annuel 
+ 
+ 
+Pour des questions d'hygiène et d'optimisation de l'état avec votre unité, nous vous 
+conseillons de respecter un programme fixe de nettoyage quotidien. 
+8.2 Nettoyage quotidien 
+ 
+ 
+AVERTISSEMENT  
+Refroidissez l'appareil avant de démarrer le programme de nettoyage. 
+ 
+ 
+AVERTISSEMENT  
+Les accessoires doivent être retirés de l'appareil pendant le programme de nettoyage. 
+Le rotor lui-même est censé rester dans l'unité. 
+ 
+ 
+AVERTISSEMENT  
+En ouvrant la porte pendant un programme de nettoyage, l'appareil s'arrête et passe à 
+l'état de défaut.  L'unité continuera lorsque la porte est fermée. 
+ 
+En fonction des températures sur lesquelles vous opérez, la pollution s'accumulera à temps en raison 
+de la combustion des particules de graisse sur les parois de la rôtisserie. 
+Cette accumulation se produit également lorsque vous utilisez de la farce ou des marinades dans 
+votre produit.  
+
+
+
+--- Page 26 ---
+
+ TDR s auto-clean 
+EU  26 / 33 
+Refroidissez d'abord l'unité! 
+ 
+1. Prenez une cartouche de nettoyage ProteClean1. 
+  
+ 
+ 
+2. Ouvrez la porte de la rôtisserie  
+3. Ouvrez le bouchon de la bouteille. 
+ 
+ Ne frappez pas le sceau! 
+ 
+4. Placez la cartouche à l'envers dans le porte-cartouche. 
+5. Fermez la porte. 
+ 
+ 
+ 
+6. Appuyez .  
+7. Sélectionnez le programme de nettoyage: Daily Clean. 
+8. Appuyez « continue » (Continuer). 
+ 
+L'appareil commence à nettoyer. L'écran affiche l'état du 
+programme. 
+ 
+ 
+ 
+9. Une fois terminé, retirez la cartouche. Jetez la cartouche. 
+Le porte-cartouche peut rester. 
+10. Retirez les plaques déflectrices et les filtres et nettoyez-
+les manuellement. 
+11. Ouvrez le filtre de vidange et nettoyez-le avec une 
+brosse. Poussez-le complètement à travers le drain. 
+12. Inspectez la rôtissoire. Éliminez les taches ou les restes 
+dans la rôtissoire avec un chiffon. 
+13. Remplacez les filtres et les plaques déflectrices nettoyés. 
+ 
+         
+L'appareil est maintenant prêt à être utilisé.   
+ 
+ 
+ 
+AVERTISSEMENT  
+Si la cartouche n'est pas retirée avant d'utiliser la rôtissoire, le plastique fond et 
+provoque des risques de fumée et de contamination. 
+ 
+ 
+Contactez votre fournisseur pour les cartouches de nettoyage Fri-Jado appropriés. 
+Des produits de nettoyage Fri-Jado In Between Clean  et Fri-Jado RotiShine Descale 
+sont également disponibles.  Veuillez contacter Fri-Jado pour plus d'informations. 
+  
+                                                
+ 
+1 ProteClean clause de non-responsabilité : Dans certains cas, une libération rapide de la deuxième étape du 
+produit peut provoquer des taches noires sur l'acier inoxydable.  Il n'y a pas de quoi s'inquiéter.  Un programme 
+de détartrage avec RotiShine aidera à réduire ces taches. 
+
+
+
+--- Page 27 ---
+
+ TDR s auto-clean 
+EU  27 / 33 
+8.3 Nettoyage hebdomadaire 
+ 
+ 
+AVERTISSEMENT  
+Le panneau de commande ne peut être nettoyé qu'avec un chiffon humide. 
+ 
+L'extérieur: 
+• Nettoyez l'extérieur avec un agent de nettoyage ou de l'eau chaude combiné avec un agent 
+de nettoyage approprié. 
+• Séchez soigneusement l'extérieur à l'aide d'un chiffon sec. 
+ 
+ 
+8.4 Nettoyage manuel supplémentaire 
+ 
+ 
+L'appareil peut être nettoyé au mieux peu de temps après son utilisation, lorsqu'il est 
+encore tiède.  Les résidus de grillage et la graisse peuvent être facilement éliminés dans 
+cet état. 
+Le meilleur nettoyage peut être obtenu en utilisant un nettoyant spécial pour four ou gril. 
+La porte a une serrure magnétique.  Vérifiez régulièrement les surfaces entre la porte et 
+le gril et nettoyez si nécessaire pour éviter les fuites d'air. 
+ 
+Des portes en verre: 
+• Ouvrez les portes vitrées extérieures 
+• Déverrouillez les portes vitrées intérieures (elles sont verrouillées magnétiquement aux portes 
+extérieures). 
+• Nettoyez les vitres avec un produit de nettoyage ou de l'eau chaude combiné avec un produit 
+de nettoyage approprié. 
+• Séchez soigneusement les portes à l'aide d'un chiffon sec. 
+• Si possible, laissez les portes vitrées ouvertes la nuit. 
+ 
+Filtre à air: 
+• Retirez le filtre à air dans le plafond de l'unité. 
+• Nettoyez le filtre à air manuellement. 
+• Remettez le filtre à air en place.  Assurez-vous qu'il est correctement verrouillé! 
+ 
+ 
+ 
+ 
+  
+
+
+
+--- Page 28 ---
+
+ TDR s auto-clean 
+EU  28 / 33 
+9. DYSFONCTIONNEMENTS ET ENTRETIEN 
+ 
+Avant de contacter votre fournisseur /revendeur en cas de dysfonctionnement, vous pouvez contrôler 
+vous-même quelques points : 
+ 
+• L’alimentation électrique fonctionne-t-elle correctement?  Contrôlez les fusibles et l'interrupteur 
+différentiel. 
+• L'horloge de minuterie est-elle bien réglée? 
+ 
+Élément Dysfonctionnement Action possible 
+Commande Le programme ne démarre pas • Vérifiez la fermeture correcte des 
+deux portes. 
+Nettoyage Fuites d'eau durant le nettoyage • Porte mal fermée. 
+Nettoyage Four sale après le cycle de 
+nettoyage 
+• Détergent insuffisant. Vérifiez 
+l'alimentation. 
+• Aucune alimentation en eau. Vérifiez. 
+• Purge polluée. Nettoyez. 
+• Vanne de purge fonctionnant mal. 
+Vérifiez. 
+Lampe Ne s'allume pas • Défaut, remplacer. 
+Four Le produit n'est pas cuit 
+régulièrement 
+• Essayez une température de cuisson 
+inférieure. 
+• Contrôlez les fusibles ou l'interrupteur 
+différentiel. 
+Four Le four ne chauffe pas • Ouvrez et fermez la porte. 
+• Contrôlez les fusibles ou l'interrupteur 
+différentiel sur le tableau électrique. 
+Cordon 
+d’alimentation 
+Endommagé • Remplacement, voir la section 9.1. 
+ 
+ 
+9.1 Remplacement le cordon d’alimentation 
+ 
+ 
+AVERTISSEMENT  
+Tension électrique dangereuse. 
+ 
+Lorsque le cordon d’alimentation est endommagé, celui -ci doit être remplacé par le fabricant, un de 
+ses agents de service ou un technicien spécialisé afin de prévenir tout risque. 
+  
+
+
+
+--- Page 29 ---
+
+ TDR s auto-clean 
+EU  29 / 33 
+10. SPÉCIFICATIONS TECHNIQUES 
+ 
+ 
+AVERTISSEMENT  
+Consultez la plaque d'identification pour connaître les spécifications correctes de l'unité.  
+Les données électriques peuvent varier selon le pays. 
+ 
+ 
+ 
+Model TDR 5 AC TDR 8 AC TDR 8+8 AC 
+Dimensions    
+- Largeur 885 mm 1050 mm 1050 mm 
+- Profondeur 760 mm 915 mm 915 mm 
+- Hauteur 1735 mm 1795 mm 2135 mm 
+Poids    
+- Brut 250 kg 300 kg 480 kg 
+- Net 180 kg 250 kg 430 kg 
+Température ambiante maximum 35 °C 35 °C 35 °C 
+Pression acoustique < 70 dB(A) < 70 dB(A) < 70 dB(A) 
+Installation électrique    
+- Tension 3N~ 400/230 V 3N~ 400/230 V 3N~ 400/230 V 
+- Fréquence 50/60 Hz 50/60 Hz 50/60 Hz 
+- Puissance à fournir 6.6 kW 13.6 kW 27.2 kW 
+- Courant nominal maxi. 10 A 21 A 41 A 
+Fiche 2 CEE-form 16 A CEE-form 32 A CEE-form 63 A 
+Longueur d’cordon environ. 2,20 m 2,20 m 2,20 m 
+Connexion à l'eau, Aéré ¾ pouce ¾ pouce ¾ pouce 
+Eau, pression 200 – 500 kPa 200 – 500 kPa 200 – 500 kPa 
+Drainage, Connexion ouverte Min. 40 mm Min. 40 mm Min. 40 mm 
+ 
+ 
+  
+                                                
+ 
+2 En fonction du pays 
+
+
+
+--- Page 30 ---
+
+ TDR s auto-clean 
+EU  30 / 33 
+Remarques.  
+
+
+--- Page 31 ---
+
+ TDR s auto-clean 
+EU  31 / 33 
+Remarques.  
+
+
+--- Page 32 ---
+
+ TDR s auto-clean 
+EU  32 / 33 
+Remarques.  
+
+
+--- Page 33 ---
+
+ TDR s auto-clean 
+EU  33 / 33 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fri-Jado B.V. 
+Blauwhekken 2 
+4751 XD  Oud Gastel 
+The Netherlands 
+Tel: +31 (0) 76 50 85 400 
+ 
+Fri-Jado Inc. 
+1401 Davey Road,  Suite 100 
+Woodridge IL 60517 
+USA 
+Tel: +1-630-633-7950 
+www.frijado.com 
+ 

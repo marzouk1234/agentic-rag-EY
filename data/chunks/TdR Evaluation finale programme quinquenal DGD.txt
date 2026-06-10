@@ -1,0 +1,994 @@
+
+===== CHUNK 0 =====
+--- Page 1 ---
+
+1 
+ 
+ 
+       
+                      
+ 
+ 
+ 
+ 
+ 
+TERMES DE REFERENCE  
+POUR L’EVALUATION FINALE  
+du programme VSF-B / DGD 
+2017-2021 
+Pour un changement durable en faveur des communautés  
+dépendantes de l’élevage familial 
+Vers une approche One Health 
+Zones :  Afrique de l’ouest, Grands lacs et Belgique 
+ 
+ 
+ 
+ 
+ 
+ 
+         Date : Octobre 2021 
+
+
+
+--- Page 2 ---
+
+===== CHUNK 1 =====
+2 
+ 
+Table des matières 
+1. Cadre de l’evaluation ................................ ................................ ................................ ..... 4 
+1.1 Généralités sur VSF-B ................................ ................................ .............................  4 
+1.1.1 Vision et mission ................................ ................................ ..............................  4 
+1.1.2 Ethique et valeurs ................................ ................................ .............................  5 
+1.1.3 Mandat et rôles de VSF-B par rapport au projet / programme / thème ...............  5 
+1.2 Contexte et justifications de l’évaluation ................................ ................................ . 5 
+1.2.1 Généralités sur le contexte de l’objet de l’évaluation ................................ ........ 5 
+1.2.2 Présentation de l’objet et du champ de l’évaluation ................................ .......... 6
+
+===== CHUNK 2 =====
+1.2.2 Présentation de l’objet et du champ de l’évaluation ................................ .......... 6 
+1.3 Objectifs, Résultats, type et destinée de l’évaluation ................................ ................  8 
+1.3.1 Type et destinée de l’évaluation................................ ................................ ........ 8 
+1.3.2 Objectifs et résultats attendus ................................ ................................ ........... 9 
+1.3.3 Questions spécifiques liées aux critères d’évaluation ................................ .......10 
+1.3.4 Questions spécifiques liées à la nature de l’objet / du champ à évaluer et 
+répondant aux besoins et préoccupations de VSF-B ................................ ...................... 11 
+1.4 Livrables ................................ ................................ ................................ ................ 11 
+1.4.1 Contenu et structure du rapport ................................ ................................ ........11
+
+===== CHUNK 3 =====
+1.4.1 Contenu et structure du rapport ................................ ................................ ........11 
+1.4.2 Les autres livrables ................................ ................................ .......................... 12 
+2. Rôles des parties prenantes dans l’évaluation ................................ ................................ 12 
+2.1 VSF-B ................................ ................................ ................................ .................... 12 
+2.2 Partenaires Locaux Principaux................................ ................................ ................ 12 
+2.3 DGD ................................ ................................ ................................ ...................... 13 
+2.4 Les bénéficiaires ................................ ................................ ................................ .....13
+
+===== CHUNK 4 =====
+2.4 Les bénéficiaires ................................ ................................ ................................ .....13 
+2.5 Comité de pilotage................................ ................................ ................................ ..13 
+3. Méthodologie................................ ................................ ................................ ................ 13 
+3.1 Orientations méthodologiques ................................ ................................ ................ 13 
+3.2 Déroulement de l’évaluation ................................ ................................ ................... 14 
+3.3 Règles de neutralité impartialité, fiabilité ................................ ................................ 14 
+3.4 Durée et période de l’évaluation ................................ ................................ ............. 15 
+3.5 Calendrier et phases d’exécution ................................ ................................ ............15
+
+===== CHUNK 5 =====
+3.5 Calendrier et phases d’exécution ................................ ................................ ............15 
+3.6 Données disponibles ................................ ................................ ............................... 15 
+4. Profil et choix du/des évaluateurs ................................ ................................ .................. 16 
+5. Conditions logistiques et sécuritaire ................................ ................................ .............. 17 
+6. Modalités de paiement ................................ ................................ ................................ ..17 
+7. Modalités de soumission et de Communication ................................ ............................. 17 
+8. Annexes* (*sur demande) ................................ ................................ ............................. 17
+
+===== CHUNK 6 =====
+--- Page 3 ---
+
+3 
+ 
+Liste des abréviations 
+ACC Analyse Contextuelle Commune 
+ACNG Acteur de la Coopération Non Gouvernementale 
+AGR Activité Génératrice de Revenus 
+CAD Comité d’Aide au Développement (de l’OCDE) 
+CSC Cadre Stratégique Commun 
+MoU Memorandum of Understanding 
+OP Organisation de Producteurs/Paysans 
+OS Objectif Spécifique 
+PLP Partenaire Local Principal 
+ 
+
+
+--- Page 4 ---
+
+===== CHUNK 7 =====
+4 
+ 
+1. CADRE DE L’EVALUATION 
+1.1 GENERALITES SUR VSF-B 
+1.1.1 Vision et mission 
+L’association VSF-B a été créée en  1985, avec pour vision globale « des animaux en bonne santé, d es 
+humains en bonne santé ». 
+Sa mission est de : « renforcer les capacités des communautés défavorisée s dépendant de l'élevage 
+(dans le sud) afin de favoriser leur bien-être ». 
+VSF-B mène des a ctivités dans neuf pays en Afrique et en Bel gique. En Afrique , VSF-B opère dans 2 
+régions : en Afrique de l’Ouest, VSF-B est présente au  Niger, Burkina Faso, Mali, Mauritanie et Bénin. 
+Dans la région des Grands Lacs, elle travaille dans 4 pays : Burundi, RD Congo, Ouganda et Rwanda. 
+Ses activités se concent rent dans les zones  défavorisées au profit des populations  pour qui le bé tail 
+représente un important moyen d’existence. Il s’agit plus spécifiquement : (i) des populations pastorales
+
+===== CHUNK 8 =====
+représente un important moyen d’existence. Il s’agit plus spécifiquement : (i) des populations pastorales 
+dont les str atégies de survie sont liées au bé tail, (ii) des agro -éleveurs vivant dans la précar ité et (iii) des 
+éleveurs urbains ou péri-urbains qui s’engagent davantage dans la commercialisation de leurs productions. 
+Et d’une manière plus générale, VSF -B vise les communautés dépendantes de l’éle vage familial tant pour 
+leurs moyens de subsistance que pour leur  développement socio-économique et leur intégration dans les 
+chaines de valeur. 
+Dans sa stratégie « Horizon 2025  », VSF -B couvre quatre axes thématiqu es (i) l a productivité et la 
+consommation durable en lien avec l’élevage et  ses produits, (ii) l’accès au marché e t l’approche filière 
+(chaînes de valeur en lien avec l’élevage et ses produits), (iii) l’acquisition de moyens d’existence diversifiés 
+et dura bles, et l’accès amélioré à la nourriture, (iv) le  renforcement des capacit és des communautés et
+
+===== CHUNK 9 =====
+et dura bles, et l’accès amélioré à la nourriture, (iv) le  renforcement des capacit és des communautés et 
+autres parties prenantes.  
+Sur le terrain, ces axes thématiques sont déclinés en plusie urs domaines d’intervention qui sont : (1) La 
+santé animale de proximité , (2) La gestion des ressources naturelles et past oralisme, (3) La gestion des 
+risques de catastrophes, (4) La rec onstitution sociale du cheptel, (5) Les chaines  de valeur du secteur d e 
+l’élevage, (6) Les activités génératrices de revenus et, (7) La condui te du bét ail, dont notamment 
+l’alimentation. 
+En 2016, VSF-B s’est doté d’une théorie de changement articulée autour de 4 chem ins de changements : 
+(1) Promouvoir et soutenir des modes d ’élevage paysans performants et durables et conscientiser sur les 
+systèmes alimentaires durables, (2) Intégrer les acteurs de l’élevage paysan dans les économies de marchés
+
+===== CHUNK 10 =====
+systèmes alimentaires durables, (2) Intégrer les acteurs de l’élevage paysan dans les économies de marchés 
+et so utenir ces chaines de valeur, (3)  Renforcer les capacités des communautés d’él eveurs et de  leurs 
+parties prenantes , leur permettant à tous d’assumer plein ement leur mission et d’atteindre durabl ement 
+leurs propres objectifs de so utien aux systèmes alimentai res durables , (4) Diversifier les  moyens de 
+subsistance des communautés défavorisées dépendant de l’élevage et améliorer leur accès à la nourriture . 
+Cette théorie  est déclinée au niveau régiona l et par  pays pour servir de cadr e de référence pour les 
+activités.
+
+===== CHUNK 11 =====
+--- Page 5 ---
+
+===== CHUNK 12 =====
+5 
+ 
+1.1.2 Ethique et valeurs 
+L’action de VSF-B est fondée sur trois valeurs fondamentales : Respect, Transparence, Durabilité 
+- VSF-B dispose d ’un code d ’intégrité, qui s ’applique à ses collaborateurs, ses partenaires et ses 
+fournisseurs. 
+- La gestion de VSF -B est  transparente et VSF -B assume ses r esponsabilités par rapport a ux 
+partenaires. 
+- Les activités initiées par VSF-B et ses partenaires sont durables. 
+Dans le cadr e de sa po litique de ressources hum aines, VSF-B accorde l’égalité des chances et la no n-
+discrimination et ce quelle que soi t le genre, la race, la couleur , la religion, l’orig ine nationa le ou 
+l’appartenance et hnique, l’appartenance l inguistique, l’âge, etc. , en accord avec  les Lois et Normes 
+Internationales de Travail. 
+1.1.3 Mandat et rôles de VSF-B par rapport au projet / programme / thème 
+VSF-B met en œuvre un programme quinquennal financé par la DGD dans 7 pays des 2 régions d’Afrique
+
+===== CHUNK 13 =====
+1.1.3 Mandat et rôles de VSF-B par rapport au projet / programme / thème 
+VSF-B met en œuvre un programme quinquennal financé par la DGD dans 7 pays des 2 régions d’Afrique 
+précédemment mentionnées (au Mali, Burkina et Niger en AO et en RDC, Rwanda, Burundi et Ouganda 
+en AGL) et en Belgique. VSF-B est le c ommanditaire de cette évaluation. De ce fai t VSF-B a élaboré et  
+validé ces TdR, conduit conformément à sa démarche interne et s’est assuré qu’ils répondent aux attentes 
+de toutes les parties prenantes, des partenaires locaux et du bailleur en particulier. 
+Tenant compte du budget et du délai d’exécution de cette mission, VSF-B a également vérifié la faisabilité 
+financière et temporelle de cette évaluation afin de garantir les standards de qualité. 
+Dans le processus d’évaluation, V SF-B revoit, valide et diffuse le rapport fi nal de l’évaluateur. Elle 
+facilitera les condition s de voyage  et de séjour dans  les p ays et assurera le payement de la prestation
+
+===== CHUNK 14 =====
+facilitera les condition s de voyage  et de séjour dans  les p ays et assurera le payement de la prestation 
+conformément aux prescriptions contractuelles. Enfin, elle assurera un briefing sécurité aux consultants à 
+qui elle four nira les informations et instructions  utiles pour assure r la missio n dans l es meilleures 
+conditions sécuritaires possibles  dans la mes ure de ses moyens . En cas de nécessité VSFB se réserve la 
+possibilité de prendre  les décisions qui s ’imposeront afin de ne pas exposer  l’intégrité de la mission 
+d’évaluation dans un pays ou dans la zone d’étude. 
+ 
+1.2 CONTEXTE ET JUSTIFICATIONS DE L’EVALUATION 
+1.2.1 Généralités sur le contexte de l’objet de l’évaluation 
+Cette évaluation concer ne le programme quinquennal (2017-21) subsidié par la DG D. La DGD dépend 
+du Service public fédéral ( SPF) Affair es Etrangères, Commer ce Extérieur et Coopér ation au 
+Développement. L’objectif prioritaire de la Coopération belge au Développement est le dévelo ppement
+
+===== CHUNK 15 =====
+du Service public fédéral ( SPF) Affair es Etrangères, Commer ce Extérieur et Coopér ation au 
+Développement. L’objectif prioritaire de la Coopération belge au Développement est le dévelo ppement 
+humain durable. Elle doit a tteindre cet objectif en luttant  contre la pauvreté, dans  un conte xte de 
+partenariat et dans le respect des critères de pertinence pour le développement. En outre, elle doit stimuler 
+et renforcer l’adhésion de l’opinion p ublique en Bel gique à la solidarité  Nord-Sud et à la politique de 
+coopération. 
+Parmi les 6 missions d e la DGD, retenons notamment celle de « Contribuer à l’améliorat ion des 
+conditions de vie des populations des pays en développement, à leur développement socio-économique et 
+culturel, à la croissance économique durable et équitable dans le respect de la dignité humaine, de l’Etat de 
+droit, des lib ertés fon damentales, de l’égalité entre femmes et h ommes et des droits de l ’Homme ». La
+
+===== CHUNK 16 =====
+droit, des lib ertés fon damentales, de l’égalité entre femmes et h ommes et des droits de l ’Homme ». La 
+Coopération belge se concentrera sur les pays les moins avancés et en état fragile. 
+La DGD dispo se de plusi eurs canaux d ’aide, dont celui du financement & contrôle des initiatives de 
+développement de s acteurs non gouvernementaux . Ces derniers doivent être agréés pour pouvoir 
+bénéficier des subsides. VSF-B est agréée.
+
+===== CHUNK 17 =====
+--- Page 6 ---
+
+===== CHUNK 18 =====
+6 
+ 
+L’organisation de cette coopération non-gouvernementale s’articule autour des principes suivants : 
+- Une approche programme s’appuyant sur une vision à moyen terme du développement (une durée de 
+5 ans pour ce programme) ; 
+- Un droit étendu d’initiative dans le choix des partenaires à aider et des stratégies à mettre en œuvre ; 
+- La responsabilité effective de l’atteinte des objectifs fixés et des moyens financiers mis à disposition. 
+Parmi les 3 modalités de programme, VSF-B a soumis un « programme individuel ». 
+Le cadre juridique relatif à ce programme répond aux diverses lois et arrêtés royaux dont principalement : 
+- AR du 11 septembre 2016 concernant la coopération non gouvernementale ; 
+- AR du 11 septe mbre 2016 concernant le nombre des cadres stratégiques communs de l a coopération 
+non gouvernementale et leur couverture géographique ou thématique 
+- Loi relative à la coopération belge au développement version coordonnée du 30 juin 2016
+
+===== CHUNK 19 =====
+non gouvernementale et leur couverture géographique ou thématique 
+- Loi relative à la coopération belge au développement version coordonnée du 30 juin 2016 
+- Loi relative à la  coopération belge au développe ment du 19/03/2013 (modifiée le 1/09/2014 et mise à 
+jour le 16/06/2016) 
+Se référant à la couverture géographique, chaque pays ciblé par ce programme a fa it l’objet d’une ACC 
+(Analyse Contextuelle Commune) et d’un CSC (Cadre Stratégique Commun), tous deux é laborés par les 
+acteurs non gouverne mentaux belges et app rouvés par la DGD.  Les CSC, é laborés en 2016 sur base 
+notamment des ACC couvrent une période de 10 ans et sont mis à jou r tous les 5 ans. Tous les CSC ont 
+été mis à jour en 2019- 2020, incluant la mise à jour de l’analyse contextuelle. 
+Ce programme s’inscrit donc dans les différents CSC et ACC – pays respectifs visés et ces documents font 
+partie des documents de référence bibliographique à cette évaluation. Le cycle de programmation est de 5
+
+===== CHUNK 20 =====
+partie des documents de référence bibliographique à cette évaluation. Le cycle de programmation est de 5 
+années ; le prochain cycle couvre la période 2022-26. 
+Outre l’appr oche progr amme, ces ACC et CS C vise nt également l a promotion et le soutien d’u ne 
+approche multi-acteurs afin de favoriser le développement des synergies et complémentarités entre acteurs 
+de la coo pération. Le cadre, le contenu et les modalités de cette colla boration i nteracteurs de la  
+coopération constituent des éléments importants pour cette évaluation. 
+Concernant le thème central de ce programme,  il conce rne le secteur de l’agriculture  familiale, plus 
+particulièrement celui de l’élevage, dans toutes ses finalités et toutes les parties prenantes associées. 
+Tant le bailleur que VSF-B ont élaboré leur vision stratég ique sur ce secteur. Pour VSF -B, il s’agit de sa 
+stratégie « Horizon 2025  » et pour la D GD, sa n ote stratégique  « Agriculture et S écurité alimentaire  - 
+2017 »
+
+===== CHUNK 21 =====
+stratégie « Horizon 2025  » et pour la D GD, sa n ote stratégique  « Agriculture et S écurité alimentaire  - 
+2017 » 
+1.2.2 Présentation de l’objet et du champ de l’évaluation 
+L’objet de l’évaluation est le programme quin quennal 2017-21 subsidié par la Coopération belge (DGD). 
+Le programme a dém arré ses acti vités le 1 er janvier 2017 pour une période de 5 ans et s’achèvera le 31 
+décembre 2021. Il couvre 3 pays en Afrique de l’Ouest (Burkina Faso, Mali Niger), 4 pays dans la région 
+des grands Lacs (RD  Congo, Rwanda, Burundi et Ou ganda) e t la Belgique. Le budget global du 
+programme est de 13.872.899 €. Les coûts direct s du programme sont de 12 .965.328€, subsidié par la 
+DGD à raison de 80%. Le cofinancement de 20% est mobilisé par VSF-B. 
+Ce programm e s’inscrit dans une su ccession de programmes s ubsidiés par la coopération belge, 
+précédemment triennaux (2008-10, 11-13, 14-16) et a ctuellement quinquennaux. Intégrés dans les divers
+
+===== CHUNK 22 =====
+précédemment triennaux (2008-10, 11-13, 14-16) et a ctuellement quinquennaux. Intégrés dans les divers 
+Cadres Stratégiques Communs (1 par pays) élaborés pour une période de 10 ans, ce programme sera  suivi 
+par un second programme quinquennal (2022-26), qui a été soumis en juillet 2021. 
+Un objectif spécif ique est attribué à chaque pays . Dans les pays Sud, le s actions concer nent la sécurité 
+alimentaire & socio-économique des ménages et le renforcement de capacités des acteurs liés au secteur de 
+l’élevage, et en Belgique (volet Nord) l’action consiste à infor mer, sensibiliser/ conscientiser et m obiliser 
+les actuels et futurs professionnels de l'élevage et de la santé animal e, les décideurs politiques et le secteur 
+privé aux enjeux et opportunités de l'élevage familial selon une approche One Health pour un monde plus 
+juste et plus durable. Les objectifs et les résultats par pays se déclinent ainsi (cf. cadre logique en annexe 1 
+pour leur description détaillée) :
+
+===== CHUNK 23 =====
+--- Page 7 ---
+
+===== CHUNK 24 =====
+7 
+ 
+• Belgique (volet Nord)  : Contribuer à un environnement  favorable pour l’ élevage familial selon une 
+approche One Health pour un monde juste et durable. 
+Les 3 Résultats attendus sont : (1) Les professionnels de l'éleva ge et de la santé animale (et 
+leurs organisations) en Belgique sont i nformés et conscients de l'importance de l' élevage 
+familial à travers une  approche One Health et informent, se nsibilisent et  mobilisent leurs 
+pairs et les citoyens belges en faveur d'un monde plus juste et durable ; (2) Les étudiants dans 
+l'enseignement supérieur dans les domaines  de l'agriculture ou de la santé animale (et leu rs 
+professeurs et leurs établissement s d'enseigneme nt) sont informés et conscients de 
+l'importance de l'élevage fa milial à travers une approche One Health et informent et 
+sensibilisent leurs pairs ; (3) Des décideurs politiques et des acteurs du secteur pr ivé belge et
+
+===== CHUNK 25 =====
+l'importance de l'élevage fa milial à travers une approche One Health et informent et 
+sensibilisent leurs pairs ; (3) Des décideurs politiques et des acteurs du secteur pr ivé belge et 
+européen actifs dans les  domaines de l 'agriculture, de l a santé animale et de la coopération 
+internationale prennent des décisions en faveur de l’élevage familial selon u ne approche One 
+Health 
+• Niger, OS1: La sécur ité alimentaire, nutritionnell e et s ocio-économique des communautés  rurales 
+vivant de l’élevage est améliorée à travers le renforcement des capacités des acteurs de l’élevage 
+Les 5 Résultats attendus sont : (1) : la santé animale est améliorée dans la zone d’intervention 
+grâce aux serv ices d e santé animale de proximité  ; (2) : les moye ns d’existences de s petits 
+producteurs sont durablement renforc és à travers une approche holistique  ; (3) l’accès aux 
+marchés et leu r exploitation sont facil ités grâce à des r elations équitables entre les acteurs
+
+===== CHUNK 26 =====
+producteurs sont durablement renforc és à travers une approche holistique  ; (3) l’accès aux 
+marchés et leu r exploitation sont facil ités grâce à des r elations équitables entre les acteurs 
+impliqués dans les différents  segments (pro duction, stockage,  transformation etc.)  ; (4) la 
+quantité des services rendus par les acteurs externes (OP, commune, ACNG) est améli orée ; 
+(5) :les capacités  des partenaires e t parties prenantes sont renfo rcées pour une  autonomie 
+complète.  
+• Mali, OS2 : La  sécurité alimenta ire, nutritionnelle et socio -économique des c ommunautés des 
+ménages vulnérables des cercles de Kati et Koulikoro e st améliorée grâce à des actions intégrées et 
+concertées autour de l’élevage familial.  
+Les 4 Résultats attend us sont : (1) L'accès et le reco urs aux services de productions agro -
+pastorales sont améliorés  ; (2) Les moyens d’existence des ménages vulnérables  et leurs
+
+===== CHUNK 27 =====
+Les 4 Résultats attend us sont : (1) L'accès et le reco urs aux services de productions agro -
+pastorales sont améliorés  ; (2) Les moyens d’existence des ménages vulnérables  et leurs 
+capacités de pr oduction agropast orale sont restaurés durablemen t ; (3) Les rev enus des 
+ménages sont améliorés grâce à l'accès aux ma rchés des productions agro-pastorales ; (4) Les 
+capacités des acteurs locaux sont renforcées pour une meilleure pris e en compte de l'élevage 
+familial dans les actions de développement local. 
+• Burkina Faso, OS3 : La sécurité ali mentaire, nutritionnelle et soci o-économique des femmes et des  
+hommes est améliorée grâce à des actions intégrées autour de l’élevage familial. 
+Les 4 Résultats attendus sont : (1) l'accès aux services de santé animal e est facilité aussi bien 
+pour les agropasteurs que les transhumants ; (2) les moyens d’existence des petits producteurs 
+sont améliorés à travers une approche holistique ; (3) l’accès au marché est facilité grâce à des
+
+===== CHUNK 28 =====
+pour les agropasteurs que les transhumants ; (2) les moyens d’existence des petits producteurs 
+sont améliorés à travers une approche holistique ; (3) l’accès au marché est facilité grâce à des 
+relations équitables entre les acteurs impl iqués dans les différents segments ( production, 
+stockage, transforma tion, etc.) des chaines de vale urs ; (4) l es capacités des acteurs locaux 
+sont renforcées pour assurer un contrôle citoyen de qualité et la  pérennisation des actions 
+(collaboration avec tous les ACNG belges). 
+• RD Congo, OS4 : La sécurité alimentaire et socio -économique des agro-éleveurs est améliorée dans 
+le Sud Kivu à travers le renforcement des capacités des acteurs de l’élevage. 
+Les 3 Résultats attendus sont : (1) La santé animale est amél iorée dans la zone d'intervention 
+grâce aux services de santé animal e de proximité  ; (2)  Les capaci tés techniques, 
+organisationnelles et managé riales des communautés d'agro éleveurs accompagnées sont
+
+===== CHUNK 29 =====
+grâce aux services de santé animal e de proximité  ; (2)  Les capaci tés techniques, 
+organisationnelles et managé riales des communautés d'agro éleveurs accompagnées sont 
+renforcées ; (3) Les capacités des partenaires locaux so nt re nforcées pour la durabilité des  
+changements sociétaux et pour leur autonomisation.
+
+===== CHUNK 30 =====
+--- Page 8 ---
+
+===== CHUNK 31 =====
+8 
+ 
+• Rwanda, OS5 : La sécurité alimentaire et socio -économique des agro -éleveurs des 3 districts de  la 
+province du Sud est renforcée à travers l’élevage, selon une approche holistique. 
+Les 5 Résultats attendus sont : (1) La santé animale est améliorée dans la zone d'inter vention 
+grâce aux services de santé animale  de proximité  ; (2) Les ménages développ ent des AGR 
+grâce à un meilleur accès  au micro-crédit ; (3) La résilience des m énages vulnérables est 
+renforcée à travers une approche holisti que ; (4) L’accès à l’énergie r enouvelable est facilité 
+pour les agro -éleveurs ; (5) Les capacités des partenaires  locaux sont renforcées  pour la 
+durabilité des changements sociétaux et pour leur autonomisation. 
+• Burundi, OS6 : La sécurité alimentaire et so cio-économique des agro-éleveurs de 4 communes de la 
+province de Ngozi est renforcée à travers l’élevage, selon une approche holistique.
+
+===== CHUNK 32 =====
+• Burundi, OS6 : La sécurité alimentaire et so cio-économique des agro-éleveurs de 4 communes de la 
+province de Ngozi est renforcée à travers l’élevage, selon une approche holistique.  
+Les 4 Résultats attendus sont : (1) La santé animale est améliorée dans la zone d’inte rvention 
+grâce aux services de s anté animale de proximité  ; (2) Les ménages développent des AGR 
+grâce à un  meilleur accès au micro -crédit ; (3) La résilience des ménages  vulnérable es t 
+renforcée à travers une approche h olistique ; (4) Les capacités des par tenaires locaux sont 
+renforcées pour la durabilité des changements sociétaux et pour leur autonomisation 
+• Ouganda OS7 : La sécurité alimentaire et socio-économique des agro-pasteurs dans le Karamoja est 
+améliorée grâce à l’optimisation de l’élevage et de la diversification des moyens de subsistance dans la 
+sous-région de Karamoja. 
+Les 4 Résultats attendus sont : 1) La santé animale dans la zone d'int ervention est améliorée
+
+===== CHUNK 33 =====
+sous-région de Karamoja. 
+Les 4 Résultats attendus sont : 1) La santé animale dans la zone d'int ervention est améliorée 
+grâce aux services de santé animale locaux . (2) Les ménages ont développé des AGR grâce à 
+un meilleur accès au microcrédit ; (3) l'accès des groupes de producteurs à la production et 
+aux marchés s'est amélioré ; (4) la gestion durable des ressources naturelles s’est améliorée et 
+le plaidoyer a été renforcé sur les problèmes affectant les pasteurs 
+ 
+Dans chaque pays du Sud, le programme est mis en œuvre en collaboration étroite  avec des partenaires 
+locaux e ntièrement ou pa rtiellement responsabilisés pour la gestion opérationnelle des activités , 
+formalisées par des conventions spécifiques. Le groupe cible final est constitué de populations vivant de 
+l’élevage, principalement les plus affectées par les vulnér abilités et la pau vreté, de ce fa it les femmes sont
+
+===== CHUNK 34 =====
+l’élevage, principalement les plus affectées par les vulnér abilités et la pau vreté, de ce fa it les femmes sont 
+les plus p rioritaires dans tous les pays.  Dans ces bénéficia ires finaux, s ont aussi visés les éleveurs 
+s’intégrant de  manière plus structurée dans les chaines de valeur. Diverses autres parties prenantes du 
+secteur de l’él evage, tels des  acteurs de filière, des pres tataires de services (p.ex vétérinaires) sont 
+également ciblés dans ce programme. 
+Comme expliqué plus  haut, l a mi se en œuvre de ce programme  s’inscrit dans les «  Cadres Stratégiques 
+Communs » spécifiques à chaque pays et dans lesquels s’inscrivent également tous les Acteurs Belges de la 
+Coopération Non Gouvernementale (ACNG) subsidiés par la DGD. Dans cette logique, VSF-B (à l’instar 
+des autres ACNG) a instauré de multiples collaborations (synerg ies et complémenta rités) avec d’a utres 
+ACNG, développant ainsi  une approche multi-acteur. Ainsi le champ de l’évaluation tient compte non
+
+===== CHUNK 35 =====
+ACNG, développant ainsi  une approche multi-acteur. Ainsi le champ de l’évaluation tient compte non 
+seulement de la cohérence interne du programme ( entre les différents objectifs/pays)  mais aussi de la 
+cohérence externe (avec les autres ACNG au sein du même pays) 
+1.3 OBJECTIFS, RESULTATS, TYPE ET DESTINEE DE L’EVALUATION 
+1.3.1 Type et destinée de l’évaluation  
+Le programme étant dans sa 5ème et dernière année d’exécution, il s’agit de conduire une évaluation finale 
+conformément à la planific ation et aux exigences contractuelles. Elle couvre l’ensemble du pr ogramme 
+c’est-à-dire les deux régions du Sud et la Belgique. 
+VSF-B en est le co mmanditaire et fait appel à une  consultance externe pour la réa liser. Le rapport sera 
+utilisé par VSF-B (bureaux pays et Direction des opérations (régionaux et siège), responsables volet Nord) 
+et les partenaires de mise en œuvre. Le rapport final sera mis à disposition du tout public et de toutes les
+
+===== CHUNK 36 =====
+et les partenaires de mise en œuvre. Le rapport final sera mis à disposition du tout public et de toutes les 
+parties prenantes (y compris le bailleur) via sa publication sur le site de VSF-B.
+
+===== CHUNK 37 =====
+--- Page 9 ---
+
+===== CHUNK 38 =====
+9 
+ 
+Depuis le débu t du programme en 2017, chaque pays en Afrique d e l’Ouest et dans les Grands Lacs a 
+réalisé au moins un moni toring portant sur la mise en œ uvre du programme. Il a permi s d ’apprécier 
+l’ensemble des activités réalisées et le niveau de progression vers l’atteinte de s résultats et obj ectifs du 
+programme. Ces mon itorings ont été  conduits de façon croisée en Afrique  de l’O uest. Des 
+recommandations ont été formulées pour apporter les réajustements nécessaires. 
+Outre ces suivis, le pr ogramme a également fait l ’objet d’une évaluation à mi-parcours qui s’est déroulée 
+entre janvier et avril 2020, et dont le rapport fait partie des documents de référence. 
+1.3.2 Objectifs et résultats attendus 
+La première finalité de cette évaluation finale est de rendre compte au bailleur et aux divers 
+partenaires et parties prenantes du niveau de réalisation des résultats et de l’atteinte des objectifs.
+
+===== CHUNK 39 =====
+partenaires et parties prenantes du niveau de réalisation des résultats et de l’atteinte des objectifs. 
+Cette évaluation donnera donc une appréciation de l’ensemble des objectifs et résultats du programme. 
+Cet objectif s’inscrit dans une d émarche de redevabilité et de transparence dans le partage d’information. 
+Cela signifie que les communautés bénéficiai res sont étroit ement assoc iées à la réalisation  de cette 
+évaluation et à l’appropriation des conclusions. 
+Comme second o bjectif, cette évaluation de vra permettre de ti rer les ense ignements sur bas e des 
+succès et échecs enregistrés dans l ’atteinte des ob jectifs et des approch es méthodologies et 
+opérationnelles développées. Ces enseignements doivent conduire à la form ulation d’orientations pour 
+les futurs programmes. Dans cet objectif d’apprentissage, la mission examinera notamment le ni veau de 
+mise en œuvre de la réponse managériale de l’évaluation à mi-parcours.
+
+===== CHUNK 40 =====
+les futurs programmes. Dans cet objectif d’apprentissage, la mission examinera notamment le ni veau de 
+mise en œuvre de la réponse managériale de l’évaluation à mi-parcours. 
+Poursuivant ces deux obj ectifs, l ’évaluation se référe ra aux critères du CAD (pertinence, cohérence, 
+efficacité, efficience, impact, durabilité ) pour poser ses jugements et formuler ses conclusion et 
+recommandations. Elle s’attardera en parti culier sur les critères de durab ilité et d ’impact. La mi ssion 
+s’attachera donc particulièrement aux principaux changements ind uits au niveau des bénéficiaires . Elle 
+s’appuiera sur les données disponibles ainsi que sur celles qu’elle jugera nécessaire de collecter.  Elle 
+prendra en considération les effets planifiés et les effets positifs et négatifs non prévus. 
+En référence à l’ap proche multi -acteurs (cf. ACC et CSC), l’évaluation a également pour mission 
+d’examiner la performance (pertinence, effi cacité, efficience, cohérence) des diverses synergies et
+
+===== CHUNK 41 =====
+d’examiner la performance (pertinence, effi cacité, efficience, cohérence) des diverses synergies et 
+complémentarités mises en œuvre dans ce programme. 
+ 
+Les principaux résultats attendus de cette évaluation finale sont :  
+1. L’appréciation objective du niveau de réalisation de tous les objectifs et résultats ; 
+2. Une appréciation du degré d ’appropriation par les bénéficiaires des effets induits par le 
+programme ; 
+3. Les réponses aux pri ncipales question s évaluatives posées dans les pr ésents Termes de 
+Référence ; 
+4. La formulation de conclusions et recommandations sur bases de l ’analyse de s facteurs de 
+succès et d ’échecs rencontrés . P our les objectifs qui font l ’objet d ’une seconde phase ou 
+d’une mise à l ’échelle dans le programme 2022/2026 (cas notamment du Burkina Faso, 
+Burundi, Mali, Niger), une a ttention particulière ser a portée aux mesures et actions à met tre 
+en œuvre afin de pouvoir mettre en pratique ces recommandations.
+
+===== CHUNK 42 =====
+Burundi, Mali, Niger), une a ttention particulière ser a portée aux mesures et actions à met tre 
+en œuvre afin de pouvoir mettre en pratique ces recommandations. 
+ 
+Conformément aux valeurs fondamentales et aux critères de qualité de l’évaluation, le consultant est tenu à 
+l’objectivité, l’indépendance et l ’impartialité dans ses an alyses e t par r apport aux différentes opinions 
+exprimées par les parties prenantes et les bénéficiaires pendant son mandat.  
+Le groupe cible direct de l’évaluation est constitué par une diversité de ménages bénéficiaires dépendant 
+de l ’élevage (éleveurs et  agro-éleveurs) dont notamment les ména ges pau vres et vulnérables cons titués 
+d’hommes, de femmes et de jeun es très pauvres, ainsi que ceux engagés dans une app roche filière. A ce
+
+===== CHUNK 43 =====
+--- Page 10 ---
+
+===== CHUNK 44 =====
+10 
+ 
+groupe cible, s’ajoutent les autres bénéficiaires (intermédiaires et indirects) et autres parties prenantes. Il 
+s’agit notamment des  : partenaires locaux, services vé térinaires privés  et leur réseau d’agents de santé 
+animale, services techniques déconcentrés, autorités locales (telles que les municipalités, districts et autres 
+entités, institutions de micro -crédits, organisations de  producteurs ( femmes, éleveurs,  ..), acteurs d e 
+filières (collecteur, revendeur,  ..) , … 
+1.3.3 Questions spécifiques liées aux critères d’évaluation 
+Des questions clés sont formulées ci-dessous pour permettre au consultant de mieux exploiter les critères 
+d’évaluation (pertinence, e fficacité, effic ience, impacts, e t durabilité). Ces q uestions soul èvent des 
+préoccupations m ajeures à investigue r et permettront de mie ux focaliser et formuler les conclusions et 
+recommandations.
+
+===== CHUNK 45 =====
+préoccupations m ajeures à investigue r et permettront de mie ux focaliser et formuler les conclusions et 
+recommandations. 
+Compte tenu de la diversité socioculturelle des pays d’intervention, la mission d’évaluation pourra adapter 
+ou compléter ces questions, qui se rapportent aux cinq (5) critères standards auxquels est ajouté le critère 
+de cohérence. Ce c ritère de cohérence  est repris en rais on (i) d’une part de l’approche «  programme » 
+(caractérisée par l’atteinte de plusieurs objectifs, chacun dans un pays diff érent, y compris un pays Nord ) 
+et (ii) d’autre part de l’approche multi -acteurs (chaque objectif étant souvent mis en œuvre en 
+collaboration avec d’autres ACNG, qui peuvent être les mêmes pour plusieurs objectifs/pays) :  
+(1) Pertinence/ cohérence  
+- 1.1 : Dans quelle mesure le programme (i) répond-il aux attentes de sécurité alimentaire et 
+socioéconomique des diverses catégories de bénéficiaires et (ii) s’intègre dans les  politiques
+
+===== CHUNK 46 =====
+- 1.1 : Dans quelle mesure le programme (i) répond-il aux attentes de sécurité alimentaire et 
+socioéconomique des diverses catégories de bénéficiaires et (ii) s’intègre dans les  politiques 
+nationales sectorielles ?  
+- 1.2 : Considérant les mult iples objectifs, résultats et leurs indica teurs formulés, quels sont les 
+éléments en faveur ou en défaveur de la cohérence interne du programme ? 
+- 1.3 : En référence à la co hérence externe du programme, quelles sont les leçons tirées relatives aux 
+multiples collaborations établies avec les autres ACNG ? 
+(2) Efficacité 
+- 2.1 : Quels sont les facteurs maje urs qui ont influencé la réalis ation des objectifs et résultats du 
+programme ? Quelles leçons à tirer afin de prendre en comptes ces facteurs à l’avenir ? 
+- 2.2 : Quels sont les effets significatifs non prévus obtenus (positifs comme négatifs) et quelles suites 
+à donner ? 
+(3) Efficience
+
+===== CHUNK 47 =====
+- 2.2 : Quels sont les effets significatifs non prévus obtenus (positifs comme négatifs) et quelles suites 
+à donner ? 
+(3) Efficience 
+- Dans quelles mesures les ressources du programme (humaines, budgétaires, matérielles, temps…) 
+étaient appropriées aux ambitions du programme et ont-elles été gérées de manière optimale ? 
+(4) Durabilité 
+- Dans quelles mesures les principaux effets et changem ents induits par le programme vont -ils 
+perdurer au sein d es diverses catégories d e bénéficiaires et de groupes cibl es, en considérant les 
+diverses dimensions de la du rabilité (financière, techniq ue, socio -culturelle, i nstitutionnelle et 
+environnementale) ? 
+(5) Impacts 
+- Quelles sont l es retombées d u programme en matière de sécurité alimentai re envers les 
+communautés locales a u sens large et en termes de contribution de l ’élevage familial à l ’économie 
+locale ? 
+- Sur base de l’analyse des niveaux de réalisations des objectifs et résultats, quelles sont les approches
+
+===== CHUNK 48 =====
+locale ? 
+- Sur base de l’analyse des niveaux de réalisations des objectifs et résultats, quelles sont les approches 
+les plus prometteuses en terme développement dur able et d’amplification d’impacts envers les 
+bénéficiaires
+
+===== CHUNK 49 =====
+--- Page 11 ---
+
+===== CHUNK 50 =====
+11 
+ 
+1.3.4 Questions spécifiques liées à la nat ure de l’objet / du champ à évalue r et 
+répondant aux besoins et préoccupations de VSF-B 
+Au-delà des questions relatives aux critères classiques de l’évaluation, VSF-B identifie quelques questions 
+en lien avec ses propres thèmes transversaux et certains objectifs spécifiques du programme. 
+(6) Genre 
+- Quelle appréciation peut être faite sur la manière dont le  programme mesure sa contribu tion à la 
+réduction des inégalités de genre ? 
+- Quelle appréciation peut être  faite sur l es changements obtenus en matière de contribu tion à la 
+réduction des inégalités de genre ? 
+(7) Environnement  
+- Tenant compte des effets environnementaux liés à l’élevage, dans quelle mesure le programme a-
+t-il contribué à la réduct ion des externalités négatives et à l ’optimisation des ext ernalités 
+positives ? 
+ 
+1.4 LIVRABLES 
+La mission produira les documents suivants :
+
+===== CHUNK 51 =====
+t-il contribué à la réduct ion des externalités négatives et à l ’optimisation des ext ernalités 
+positives ? 
+ 
+1.4 LIVRABLES 
+La mission produira les documents suivants : 
+o Un aide-mémoire (un par pays) comprenant les principales conclusions et recommandations faites par 
+la mission. Ce docu ment, qui cons tituera la bas e du rapport provisoire, sera présenté et remis sous 
+format informatique aux Partenaires Locaux Principaux (PLP) et à VSF-B à la fin de la mission pays 
+par pays. 
+o Le rapport provisoire qui sera basé sur le s données collectées lors de l’évaluation. La mission portera 
+une attention particulière sur le caractère de redevabilité envers les parties prenantes. 
+Le rapport provisoire sera  transmis, au plus tar d 14 jours aprè s l a mission de  terrain sur s upport 
+informatique aux Directions Régionales ainsi qu’au siège de VSF-B. VSF-B disposera de 14 jours pour 
+centraliser les commentaires et les transmettre au consultant.
+
+===== CHUNK 52 =====
+informatique aux Directions Régionales ainsi qu’au siège de VSF-B. VSF-B disposera de 14 jours pour 
+centraliser les commentaires et les transmettre au consultant. 
+o Le rapport final sera rédigé par le consultant en veillant à intégrer les commentaires transmis par VSF-
+B. Ce rapport sera remis en 1 exemplaire papier et sous support informatique à VS F-B dans un délai 
+maximum de 8 jours après envoi des feedbacks relatifs au rapport provisoire. 
+o Les comptes rendus des séances de briefing et debriefing / restitution. 
+1.4.1 Contenu et structure du rapport 
+Dans sa propo sition d’ offre de s ervice, le soumissionnaire doit p roposer un plan du rapport de 
+l’évaluation. Toutefois, les aspects suivants doivent apparaitre : table des mati ères, liste des abré viations, 
+un résumé exécutif de 2 pages, la méthodologie, les techniques d’enquêtes et d’échantillonnage, les sources 
+d’informations, les résultats de l’év aluation, les concl usions et re commandations. Ces dernières seront
+
+===== CHUNK 53 =====
+d’informations, les résultats de l’év aluation, les concl usions et re commandations. Ces dernières seront  
+adressées aux d ifférentes parties p renantes et  seront hié rarchisées : elles se baseront sur des preuves 
+concrètes, seront pertinentes, ciblées, clairement formulées et réalisables. 
+Concernant la structure du r apport, les réponses aux questions d’évaluation feront l’objet d’un chapitre 
+spécifique à ce s ujet : cfr parag raphe 1. 3.3. et 1.3. 4. Ces réponses doivent être accompagnées de 
+recommandations 
+Compte tenu des principaux destinataires (VSF-B et ses pa rtenaires locaux, l a DGD) vis és par cette 
+évaluation, le nombre de pages hors annexe doit se situer autour de 30 maximum. 
+Les annex es du ra pport d'évaluation co mprendront notamment, mais sans  s'y limiter, les élém ents 
+suivants :
+
+===== CHUNK 54 =====
+--- Page 12 ---
+
+===== CHUNK 55 =====
+12 
+ 
+• Termes de référence de l'évaluation ;  
+• Profil des membres de l'équipe ;  
+• Liste de la documentation analysée ;  
+• Liste des parties prenantes et institutions interviewés par l'équipe d'évaluation. 
+ 
+La page de ga rde du rapport définitif d oit porter le logo de VSF -B et de la D GD, indiquer la date et les 
+auteurs ainsi que les mentions suivantes : 
+• « Rapport d’évaluation finale, version finale ». 
+• « Les points d e vue et opi nions exprimés dans ce ra pport sont ceux des experts chargés de 
+l’évaluation et ne reflètent pas nécessairement ceux du commanditaire » 
+1.4.2 Les autres livrables 
+Les autres livrables que la mission fournira sont : les comptes-rendus des séances de briefing en début de 
+mission, d e debriefing en fin de miss ion e t de toute autr e séance tenue avec VSF-B ou ses p artenaires 
+locaux relatives à d’éventuelles modification dans l’exécution de la mission 
+2. ROLES DES PARTIES PRENANTES DANS L’EVALUATION
+
+===== CHUNK 56 =====
+locaux relatives à d’éventuelles modification dans l’exécution de la mission 
+2. ROLES DES PARTIES PRENANTES DANS L’EVALUATION 
+Une démarche participative est adoptée pour la réalisation de cette évaluation. Les divers acteurs qui ont 
+un rôle à jouer  dans cette évaluation sont : VSF-B (commanditaire), la DGD  (bailleur), les partenaires 
+locaux et les bénéficiaires (finaux et intermédiaires). VSF-B (en tant que commanditaire) s’assure que les 
+diverses parties prenantes, et notamment les partenaires locaux ont été consultés et/ou impliqués dans ces 
+TdR.  
+2.1 VSF-B 
+En tant que commanditaire de cette évaluation, VSF-B est responsable de l’organisation générale de cette 
+évaluation, depuis sa programmation (lo rs de  la form ulation d u programm e, sa pl anification actuelle, 
+jusqu’à l’élaboration de sa réponse managériale et la diffusion des résultats. Pour la réalisation des missions
+
+===== CHUNK 57 =====
+jusqu’à l’élaboration de sa réponse managériale et la diffusion des résultats. Pour la réalisation des missions 
+de terrain proprement dite, VSF-B s’assure de la mise à disposition d’une logistique adéquate. VSF-B fera 
+un briefing sécuritaire à chaque étape terrain. 
+VSF-B s’assure également de la neutralité d e l’évaluateur ainsi que de la mise  en œuvre effective de la 
+méthodologie proposée 
+Des rôles plus spécifiques sont décrits via le comité de pilotage (cfr infra). 
+2.2 PARTENAIRES LOCAUX PRINCIPAUX 
+En accord avec les protocoles d’accord et conventi ons établies avec les partenaires  locaux, ces derniers 
+sont associés à différentes étapes de cette évaluation.  
+Ainsi les principaux rôles des partenaires locaux sont de : 
+• Contribuer à l’élaboration de ces TdR ; 
+• Prêter assistance à la collecte des données requises et aux visites de terrain de la missio ; 
+• Participer aux moments clés de la mission (briefing, restitution, débriefing,..)
+
+===== CHUNK 58 =====
+• Prêter assistance à la collecte des données requises et aux visites de terrain de la missio ; 
+• Participer aux moments clés de la mission (briefing, restitution, débriefing,..) 
+• Contribuer à l’analyse des produits de l’évaluation ; 
+• Contribuer à l’élaboration de la réponse managériale et à sa mise en œuvre
+
+===== CHUNK 59 =====
+--- Page 13 ---
+
+===== CHUNK 60 =====
+13 
+ 
+2.3 DGD 
+La DGD , à travers l’application de s lo is, arrêtés  royaux et ministériels, impose le cad re légal  des 
+évaluations, y compris pour celui de l’évaluation finale. A ce titre, l’organisation d’une évaluation finale est 
+une exigence légale . Informée du contenu de  ces TdR, elle p eut demander à  VSF-B d’y intégrer des 
+questions d’évaluation supplémentaires. La DGD est destinataire du rapport d’évaluation. 
+2.4 LES BENEFICIAIRES 
+En référence à l’approche particip ative, les bénéfic iaires (dans toutes leurs diversités et to utes catégories 
+confondues) ont e ssentiellement un rôle consultatif. A cet e ffet, ils fo urnissent, lors des diverses séances 
+de collecte, les données et informations nécessaires à l’analyse et l’appréciation des réalisations. En outre, à 
+ces mêmes occasions, ils expriment leurs avis et donnent leurs opinions tant de manière structurée que de 
+manière ouverte relatives au contenu et approches du programme. 
+2.5 COMITE DE PILOTAGE
+
+===== CHUNK 61 =====
+ces mêmes occasions, ils expriment leurs avis et donnent leurs opinions tant de manière structurée que de 
+manière ouverte relatives au contenu et approches du programme. 
+2.5 COMITE DE PILOTAGE 
+Un Comité de pilotage est le garant du bon déroulement de cette évaluation finale et a été formé da ns le 
+but d'assurer l'indépendance et l 'impartialité de l'é valuation. Ce comité  est compo sé du Directe ur des 
+opérations, des deux directeurs régionaux, des deux assistants techniques chargés du suivi-évaluation et de 
+l’expert programme, ce dernier assurant le lead dans l ’exécution des rôles du comit é Les noms et 
+coordonnées des mem bres seront communiqués au soumissionnaire sélectionné pour la miss ion dès la 
+contractualisation. 
+Le comité de pilotage contribue à la réalisation de l’évaluation et à la dissémination des résultats. 
+Centrés sur la prise de décision, les rôles du Comité de Pilotage sont : 
+• L’élaboration / validation des Termes de Référence
+
+===== CHUNK 62 =====
+Centrés sur la prise de décision, les rôles du Comité de Pilotage sont : 
+• L’élaboration / validation des Termes de Référence 
+• La sélection du/des consultants / évaluateurs (en ce inclus la méthodologie proposée) 
+• Le suivi et validatio n des travaux de l a mission d ’évaluation (plan de mission, compte -rendu de 
+mission, rapport préliminaire) 
+• L’examen et l’approbation des produits d’évaluation dont le rapport final 
+• L’élaboration de la réponse managériale 
+3. METHODOLOGIE 
+3.1 ORIENTATIONS METHODOLOGIQUES 
+La méthodo logie doit êt re participative avec une  forte interacti on avec le s parties prenantes, le s 
+bénéficiaires et les partenaires locaux. 
+La méthodologie à utiliser doit être clairement définie dans la proposition technique de l’évaluateur. Dans 
+sa proposition, l’évaluateur doit également clairement expliquer sa compréhension des TdR à travers une 
+analyse commentée qui fera partie intégrante de sa proposition technique.
+
+===== CHUNK 63 =====
+sa proposition, l’évaluateur doit également clairement expliquer sa compréhension des TdR à travers une 
+analyse commentée qui fera partie intégrante de sa proposition technique. 
+La note méthodol ogique co mprendra aussi les méthodes de colle cte et de traitement des données  
+complémentaires afin de s ’assurer d’une part de la fiab ilité des  informations et d’autre part de leu r 
+confidentialité. VSF-B veillera à mettre à disposit ion toutes les informations pertinentes nécessaires à la 
+réalisation de l’évaluation. La méthodologie exposera et justifiera la chronologie des visites des projets. 
+L’évaluateur organisera, avec l’appui des PLP des séances de travail et des entretiens avec le personnel des 
+projets, les partenaires, les parties prenantes impliquées dans la mis e en œuvre des ac tions (organisations 
+paysannes, ONG l ocales ou internationales, autorités, services techniques déconcentrés…) ainsi qu’avec
+
+===== CHUNK 64 =====
+paysannes, ONG l ocales ou internationales, autorités, services techniques déconcentrés…) ainsi qu’avec 
+les bénéficiaires. Il visitera les zones d’intervention des projets et s’entretiendra avec les populations cibles
+
+===== CHUNK 65 =====
+--- Page 14 ---
+
+===== CHUNK 66 =====
+14 
+ 
+(bénéficiaires directs) et bénéficiaires intermédiaires (Service Vétérinaires Privés de Prox imité, Centre de 
+collecte de lait,   ..). Un atelier d’évaluation p articipative sera orga nisé avec des représentants des 
+bénéficiaires.  
+Tenant compte de la structure organisationnelle de VS F-B, l’évaluateur s’entretiendra avec les différents 
+niveaux : Siège, Direction régionale et nationale. 
+L’évaluation pourr a exploite r les doc uments de pro gramme d isponibles au niveau de s deux bureaux 
+régionaux (Afriq ue d e l’ Ouest e t grands l acs) et dans l es diff érents projets (documents  techniques et 
+financiers, r apports a nnuels, rappo rts de monitoring, rapport d ’évaluation à mi -parcours et la réponse 
+managériale). 
+3.2 DEROULEMENT DE L’EVALUATION 
+A son démar rage, la miss ion organisera une séance initiale de briefing avec le  comité de pilot age de 
+l’évaluation pour s’assurer de la  bonne compréhension mutuelle des TdR, des enjeux, du contenu et  des
+
+===== CHUNK 67 =====
+l’évaluation pour s’assurer de la  bonne compréhension mutuelle des TdR, des enjeux, du contenu et  des 
+modalités de la mission . La séance permettra de finaliser et valider le calendrier, ainsi que les dispositions 
+organisationnelles, d’informer sur les conditions sécuritaires et d’expliciter la méthodologie. 
+Considérant l’objectif pri ncipal de  reddition, l’ensemble des projets/pays doi t faire l ’objet de ladite 
+évaluation. Si au final, pour d es raisons sécuritaires, l ’un ou l ’autre projet/pays ne peut  faire l’objet de 
+mission en présentiell e, la méthodologie et les  modalités permettant l’analyse complète du programm e 
+seront expliquée. 
+Chacun des pays/projets/équipes visités commencera par une séance de briefing. De même, à chaque fin 
+de visite, la mis sion organisera des s éances de restitution avec les diverses parties prenantes. Ces séances 
+de restitution doivent (i) permettre le partage et la compréhension d es observations et perceptions des
+
+===== CHUNK 68 =====
+de restitution doivent (i) permettre le partage et la compréhension d es observations et perceptions des 
+évaluateurs et contribuer à l ’apprentissage pour toutes les parti es et à la co nstruction d es engagements 
+futurs. Les conclusions et recommandations de cette évaluation vont en effet conduire à des engagements 
+de la part de VSF-B et ses partenaires. 
+Les régions / zones d’interventions dans les pays sont respectivement : 
+Mali : Région de Koulikoro (cercles de Koulikoro et de Kati) 
+Niger : Régions de Dosso et de Tillabéry (périphérie Niamey) 
+Burkina Faso  : Régions du C entre Nord et du S ahel : Provinces Soum, Seno, Oudalan, Sa nmatenga, 
+Namentenga 
+RD Congo : Province du Sud Kivu ; Territoires de Kabare, Uvira, Fizi 
+Rwanda : Province du Sud ; Districts de Huye, Nyanza, Nyamagabe, Ruhango 
+Burundi : Province de N’Gozi ; Communes de Busiga, Gashikanwa, Mwumba, Ngozi 
+Ouganda : Région du Karamoja ; Districts de Moroto et Kaabong
+
+===== CHUNK 69 =====
+Burundi : Province de N’Gozi ; Communes de Busiga, Gashikanwa, Mwumba, Ngozi 
+Ouganda : Région du Karamoja ; Districts de Moroto et Kaabong 
+ 
+Durant chaque mission de terrain proprement dite, un atelier d’évaluation participative sera organisé  avec 
+des représentants des bénéficiaires. 
+Le commanditaire facilitera l’organisation de l’évaluation, en fournissant les informations disponibles et les 
+contacts avec les personnes ressources.  
+Le travail de consultation sera réalisé dans la langue du pay s visit é par le consul tant et le rapport final 
+fourni en  français. Il se ra ré digé par le con sultant en resp ectant les norm es de quali té de VSF-B. Le 
+résumé du rapport de consultation sera disponible en français et en anglais. Le consultant remettra à VSF-
+B le rapport final de l’évaluation sous forme de version numérique et de deux exemplaires imprimés. 
+3.3 REGLES DE NEUTRALITE IMPARTIALITE, FIABILITE
+
+===== CHUNK 70 =====
+B le rapport final de l’évaluation sous forme de version numérique et de deux exemplaires imprimés. 
+3.3 REGLES DE NEUTRALITE IMPARTIALITE, FIABILITE 
+Le soumissionnaire devra expliquer comment il compte assurer l’objectivité (indépendance, impartialité) et 
+la rigueur de son jugement au cours du processus. Le soumissionnaire expliquera également comment il 
+compte garantir les pri ncipes éthiques, en particulier ceux relatifs aux re spects de la vi e privée, ainsi que 
+ceux de probité et d’intégrité professionnelle.
+
+===== CHUNK 71 =====
+--- Page 15 ---
+
+===== CHUNK 72 =====
+15 
+ 
+3.4 DUREE ET PERIODE DE L’EVALUATION 
+La consultation e st prévue pour une durée d’environ 60 jours au cours du premier trimestre 2022. La 
+sélection de l ’offre et la signature du contrat sont prévues en décembre 2021. Les détails du calendr ier 
+seront peaufinés par le consultant avec le comité de pilotage de l’évaluation finale. 
+3.5 CALENDRIER ET PHASES D’EXECUTION 
+Si la durée de la mission d’évaluation finale est est imée à environ 60 jours, elle peut s’étaler sur une 
+période allant jusqu’à maximum trois mois, couvrant la revue documentaire, le briefing  et débriefing, la 
+collecte et l’analyse des données e t information su r le terrain et la phase de rapportage. La durée et les 
+lieux des missions de terrain seront proposés dans une démarche d’optimisation des déplacements tout en 
+garantissant le temps nécessaire aux échanges avec les diverses parties prenantes (dont les bénéficiaires, les
+
+===== CHUNK 73 =====
+garantissant le temps nécessaire aux échanges avec les diverses parties prenantes (dont les bénéficiaires, les 
+partenaires locaux et les autres partenaires belges) et en tenant compte des aspects sécuritaires. Outre les 
+visites de terrain, le calendrier prévoira le timing des rapportages. 
+Le consultant est tenu dans son offre technique de décrire clairement les différentes étapes de sa mi ssion 
+et de proposer un calendrier détaillé qui prend en compte le contexte et qui servira de base d’échange avec 
+le comité de pilotage de l’évaluation.  
+3.6 DONNEES DISPONIBLES 
+Le bilan informa tionnel actuellement disponible est listé ci -dessous et est mis à disposition d es 
+évaluateurs.  Ces documents et sources d’information sont les suivants 
+• Document Technique et Financier (DTF) du programme (en ce inclus les cadres logiques). 
+• Les Analyses Contextuelles Communes (ACC) et les Cadres Stratégiques Communs (CSC) par pays.
+
+===== CHUNK 74 =====
+• Document Technique et Financier (DTF) du programme (en ce inclus les cadres logiques). 
+• Les Analyses Contextuelles Communes (ACC) et les Cadres Stratégiques Communs (CSC) par pays. 
+• Les lois et Arrêtés Royaux réglementant le cadre de la coopération au développement. 
+• L’évaluation à mi-parcours du programme. 
+• Les rapports annuels 2017, 2018, 2019 et 2020 de chaque objectif. 
+• Les matrices de suivi et/ou rapports de monitoring des objectifs spécifiques des années précédentes, 
+selon leur disponibilité. 
+• Rapport d’auto-évaluation du volet Nord 
+• Les MoU et conventions partenariales avec les partenaires Sud, avec les partenaires Nord et les MoU 
+avec les autorités nationales : sur demande explicite. 
+• Documents thématiques et/ou sectoriels émanant des Autorités locales (selon disponibilité). 
+• Les supports de formation / vulgarisation et les documents de capitalisation produits par les équipes 
+(en particulier les factsheets)
+
+===== CHUNK 75 =====
+• Les supports de formation / vulgarisation et les documents de capitalisation produits par les équipes 
+(en particulier les factsheets) 
+En raison du contexte sécuritaire, certaines données émanant directement des bénéficiaires peuvent être 
+difficilement accessibles. 
+La documentation relative à c e programme sera rassemblée et rendue disponible pour l’évaluateur dès le 
+début de sa mission. Pour l’étape de la prépa ration des offres, elle peut être sollicitée, sur demande 
+explicite.
+
+===== CHUNK 76 =====
+--- Page 16 ---
+
+===== CHUNK 77 =====
+16 
+ 
+4. PROFIL ET CHOIX DU/DES EVALUATEURS 
+En référence à l’envergure géographique du programme et aux finalités de cette évaluation, il est préconisé 
+que l a mission d ’évaluation s oit composée d ’une éq uipe de cons ultants disposant d ’une expé rience 
+confirmée en évaluation de pro jet/programme d’une part et rassemblant les com pétences dans l es 
+domaines d’interventions du progra mme ainsi que les connaissances des contextes ( Sahéliens et des  
+Grands L acs) d’autre part . Ainsi, le pro fil de l’équipe d’évaluation devra comprendre les champs de  
+compétences suivants : 
+• Expériences et compétences en évaluation et bonne connaissance de la gestion axée résultat ; 
+• Expériences dans le domaine des approches multi-acteurs ainsi que d ans la sécu rité alimentaire et 
+nutritionnelle ; 
+• Connaissances des enjeux, pratiques, et acteurs de la solidarité internationale non gouvernementale ;
+
+===== CHUNK 78 =====
+nutritionnelle ; 
+• Connaissances des enjeux, pratiques, et acteurs de la solidarité internationale non gouvernementale ; 
+• Expériences de travail et connaissance à la fois des pays sahéliens et des pays des Grands Lacs. 
+• Expériences et connaissance en matièr e de sensibilisation, d’éduca tion au  développement et  de 
+plaidoyer 
+• Excellentes capacités d’analyse, de synthèse et de rédaction de rapport ; 
+• Maitrise des langues suivantes : Français, Anglais, Néerlandais 
+Le processus de sélect ion des évaluateurs s’effectue sur la  base de soum issions c omportant un e offre 
+technique et f inancière. L’of fre technique devra présenter les éléments s uivants : la compréhension d u 
+champ de l’évaluation ainsi que des questions clés et du mandat de la consultation. Elle donnera dans les 
+détails la méthodologie (ou tils, approche/démarche...) ainsi qu’une proposition de calendrier  et le listing 
+des documents souhaités.
+
+===== CHUNK 79 =====
+détails la méthodologie (ou tils, approche/démarche...) ainsi qu’une proposition de calendrier  et le listing 
+des documents souhaités. 
+Dans sa proposition, le soumissionnaire doit joindre les CV détaillés des ressources humaines proposées y 
+compris pour celles pour des appuis éventuels à partir de son siège. Le consultant doit aussi fournir une 
+synthèse des expériences et compétences de chaque expert selon le tableau ci-dessous : 
+ 
+Nom et prénom Niveau 
+d’études 
+Résumé du profil e n 
+lien avec la mission 
+Principaux r ôles 
+pendant l’évaluation 
+Nb homme 
+jour total 
+1.     
+2.     
+n.     
+ 
+La proposition financière est présentée en euros et reprendra notamment les honoraires, les per diem ainsi 
+que les frais de déplacement et d ’hébergement. Les coûts de transport dans le pays  et les frais  
+d’organisation des ateliers sont pris en charge par VSF-B. 
+La sélection  des évaluateurs sera faite par l e Comité de pilotage sur la base de  l’expérience des experts
+
+===== CHUNK 80 =====
+d’organisation des ateliers sont pris en charge par VSF-B. 
+La sélection  des évaluateurs sera faite par l e Comité de pilotage sur la base de  l’expérience des experts 
+proposés et de la  qualité de la  proposition. Les offres techni ques et financières seront évaluées selon les 
+critères suivants : 
+• Adéquation et qualité de l’offre par rapport aux questions d’analyse : compréhension du contexte, du 
+programme, des parties prenantes, du rôle des évaluateurs et du but de l’évaluation ; 
+• Rapport coûts/prestations ; 
+• Composition de l’équipe d’évaluation et adéquation par rapport au profil recherché.
+
+===== CHUNK 81 =====
+--- Page 17 ---
+
+===== CHUNK 82 =====
+17 
+ 
+ 
+Le recrutement du consulta nt sera effectué par VSF-B sur la ba se du ba ckground et références, des CV, 
+des propositions techniques et financières soumises à VSF-B. 
+5. CONDITIONS LOGISTIQUES ET SECURITAIRE 
+La logistique de la missi on est assurée par le s moyens du programme, spéci fiques et selon c hacun des 
+projets. Elle sera mise en place conformément au calendrier retenu. Les gestionnaires de projet mettront à 
+la disposition du prestataire le petit matériel nécessaire au bon déroulement de la mission. A cet effet, une 
+liste du matériel souhaité devra être détaillée dans l'offre technique. 
+A chaque début de mission dans un pays, un briefing sécurité sera organi sé sous la supervision du 
+Directeur pays et l‘expert sécurité de VSF-B. Les plans de sécurité et les « standard operating procedures » 
+de VSF-B seront d’application lors de la mission, néa nmoins VSF-B ne peut pas être garant de la sécurité
+
+===== CHUNK 83 =====
+de VSF-B seront d’application lors de la mission, néa nmoins VSF-B ne peut pas être garant de la sécurité 
+du/des consultan t(s) et ne peut être tenu pour responsable si un fait d’insécurité apparait lors de la 
+mission. Il incombe au consultant de prendre les mesures nécessaires pour s a sécurité et d’avoir de s 
+assurances appropriées. 
+6. MODALITES DE PAIEMENT 
+Le paiement de la prestation se fera en euros sur base de factures émises selon la répartition suivante : 
+✓ 1ère tranche : avance au démarrage 30% 
+✓ 2ème tranche : à la remise du rapport provisoire 30% 
+✓ 3ème tranche : à l'acceptation finale du rapport 40% 
+Le demandeur est tenu de respecter la loi r elative au prélèvement du précompte sur les honoraires selon 
+les dispositions spécifiques à chaque pays visité.  
+7. MODALITES DE SOUMISSION ET DE COMMUNICATION 
+La date limite de soumission des offres techniques et financières est fixée au 15 novembre 2021 à 17h00
+
+===== CHUNK 84 =====
+7. MODALITES DE SOUMISSION ET DE COMMUNICATION 
+La date limite de soumission des offres techniques et financières est fixée au 15 novembre 2021 à 17h00 
+(heure de Belgique) telle que prouvé par la date d'envoi. Toute offre soumise après la date et heure limites 
+sera rejetée. 
+Les demandes peuvent être soumises par mail à l’adresse suivante tender@vsf-belgium.org avec comme 
+objet « offre pour évaluation finale du programme DGD ».  
+Pour toute communication avec le  commanditaire sur l ’organisation et le déroulement de  la mission, les 
+évaluateurs s’adresseront au siège de VSF-B à l’adresse 
+Vétérinaires Sans Frontières – Belgique 
+Avenue des Arts, 7 – 8 
+1210 Bruxelles 
+T +32 (0) 539 09 89 
+tender@vsf-belgium.org 
+8. ANNEXES* (*sur demande) 
+1. Document Technique et Financier du programme (y compris cadres logiques) 
+2. Listes exhaustives des documents clés

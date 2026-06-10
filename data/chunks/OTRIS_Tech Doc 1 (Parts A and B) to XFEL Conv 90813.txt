@@ -1,0 +1,942 @@
+
+===== CHUNK 0 =====
+--- Page 1 ---
+
+===== CHUNK 1 =====
+May 30, 2007 
+ 
+ 
+Technical Document 1  
+attached to the European XFEL Convention 
+ 
+ 
+Executive Summary of the Technical Design Report (Part A)  
+and 
+Scenario for the Rapid Start-up of the European XFEL Facility 
+(Part B) 
+ 
+ 
+Introduction 
+The XFEL Technical Design Report (TDR), adopted by the XFEL Steering Committee in 
+July 2006, foresees a facility comprising an acce lerator complex for an electron energy of up 
+to 20 GeV (17.5 GeV in the standard operation mode), five undulator branches with ten 
+experimental stations, and vari ous office, laboratory and genera l utility buildings distributed 
+over three different sites. An executive summary of the TDR is given in part A of this Annex 
+to the “Convention concerning the constructio n and operation of a European X-ray Free-
+Electron Laser Facility” (XFEL Convention).  
+The total project cost of the XFEL Facility as  set out in the Technical Design Report (TDR)
+
+===== CHUNK 2 =====
+Electron Laser Facility” (XFEL Convention).  
+The total project cost of the XFEL Facility as  set out in the Technical Design Report (TDR) 
+and in Annex 3 to the XFEL Convention amounts to 1081.6 M€, out of which 38.8 M€ for the 
+preparation, 986.4 M€ for construction and 56.4 M€ for commissioning (all in 2005 prices).  
+In order to begin the construction as early as pos sible, the Contracting Parties agreed that the 
+facility be realised in steps, with initial co mmitments covering only the costs of the first step. 
+The construction costs for the first step were set at appr oximately 850 M€ (instead of 
+986.4 M€).  
+In part B of this Annex the characteristics of the rapid start-up scenario of the XFEL project 
+are briefly outlined. A reference configuratio n, corresponding to a construction cost of 
+850 M€ is described; this confi guration is not unique and altern ative ones, all of which have 
+construction costs not exceeding 850 M€, are also exemplified. A timeline for the final
+
+===== CHUNK 3 =====
+850 M€ is described; this confi guration is not unique and altern ative ones, all of which have 
+construction costs not exceeding 850 M€, are also exemplified. A timeline for the final 
+decision on the adoption of a specific configurati on is also indicated. All alternatives are 
+upgradeable to the full facility as described in the TDR.
+
+===== CHUNK 4 =====
+--- Page 2 ---
+
+ 
+ 
+
+
+--- Page 3 ---
+
+ 
+ 
+ 
+ 
+ 
+Part A of  
+Technical Document 1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EXECUTIVE SUMMARY 
+of the  
+TECHNICAL DESIGN REPORT 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 4 ---
+
+===== CHUNK 5 =====
+ii Executive Summary
+ 
+Executive Summary 
+1 Basic Objectives 
+This report contains a full technical descripti on of the European X-ray Free-Electron Laser 
+Facility, a new international scientific infrastructure to be built in the north west of Hamburg. 
+The purpose of the facility is to generate extremely brilliant  (peak brilliance ~ 10 33 
+photons/s/mm2/mrad2/0.1%BW), ultra-short (~ 100 fs) pulses of spatially coherent  x-rays 
+with wavelengths down to 0.1 nm, and to ex ploit them for revolutionary scientific 
+experiments in a variety of disciplines spanning physics, chemistry, materials science and 
+biology. The design contains a baseline facility and provisions to facilitate future extensions 
+and improvements, in preparation of further pr ogress in the relevant technologies. The basic 
+process adopted to generate the x-ray pulses is SASE (Self-Amplified Spontaneous Emission), 
+whereby electron bunches are generated in a high-brightness gun, brought to high energy (up
+
+===== CHUNK 6 =====
+process adopted to generate the x-ray pulses is SASE (Self-Amplified Spontaneous Emission), 
+whereby electron bunches are generated in a high-brightness gun, brought to high energy (up 
+to 20 GeV) through a superconducting linear acce lerator, and conveyed to long (up to ~200 
+m) undulators where the x-rays are generated. Five photon beamlines deliver the x-ray pulses 
+to ten experimental stations, where state-of-the-art equipment is available for the experiments.  
+From this new user facility, novel results of  fundamental importance can be expected in 
+materials physics, plasma physics, planet science and astrophysics, chemistry, structural 
+biology and biochemistry, with significant po ssible impact on technologi es such as nuclear 
+fusion, catalysis, combustion (and their environmental aspects), as well as on biomedical and 
+pharmaceutical technologies. Thanks to its superconducting accelerator technology, in spite of
+
+===== CHUNK 7 =====
+fusion, catalysis, combustion (and their environmental aspects), as well as on biomedical and 
+pharmaceutical technologies. Thanks to its superconducting accelerator technology, in spite of 
+competing American and Japanese projects, the European X-ray Free-Electron Laser Facility 
+will allow Europe to keep its leadership in ba sic and applied science with accelerator-based 
+light sources, a leadership it acquired in the ear ly 90’s with the construction and operation of 
+the European Synchrotron Radiation Facility (ESRF) in Grenoble. 
+2 History of the Project 
+The basic technology underlying the European  X-ray Free-Electron Laser Facility is the 
+superconducting linear accelerator technology, de veloped by an intern ational collaboration 
+coordinated by the DESY laboratory in Hamburg, with the initial objective to create TESLA 
+(Tera-Electronvolt Superconducting Linear Accele rator), an electron-positron linear collider
+
+===== CHUNK 8 =====
+coordinated by the DESY laboratory in Hamburg, with the initial objective to create TESLA 
+(Tera-Electronvolt Superconducting Linear Accele rator), an electron-positron linear collider 
+with TeV energy, for particle physics studies, hence the name TESLA technology. It was soon 
+realized that this type of innovative linear ac celerator had ideal characteristics for an x-ray 
+free-electron laser. Proposals to build a free-electron laser, first as a side branch of the linear 
+collider, and later as a self-standing facility were put forward by DESY to the German 
+government. The construction of a test fac ility (TESLA Test Facility 1, or TTF1) was 
+undertaken, and lasing down to ~90 nm wavelengths was succe ssfully demonstrated in 2000. 
+TTF2 had the more ambitious goal to push lasing to 6 nm wavelengths, with a 1 GeV linear 
+accelerator. This should be achieved in 2007; in  the meantime, acceleration of electrons up to
+
+===== CHUNK 9 =====
+TTF2 had the more ambitious goal to push lasing to 6 nm wavelengths, with a 1 GeV linear 
+accelerator. This should be achieved in 2007; in  the meantime, acceleration of electrons up to 
+0.75 GeV has obtained lasing at 32 nm (Jan. 2005)  and at 13 nm (April 2006), and a vigorous 
+user program was started in August 2005 in the experiments hall downstream from the free-
+electron laser, forming what is now calle d the FLASH facility. In 2003, the German 
+government decided to launch the proposal to constitute a European Facility for the 
+construction and operation of an x-ray free- electron laser in Hamburg, undertaking the
+
+===== CHUNK 10 =====
+--- Page 5 ---
+
+===== CHUNK 11 =====
+Executive Summary iii
+ 
+commitment to finance the new facility by providing up to 60% of its construction costs, and 
+up to 40% of the operation costs. The choice of the location in Hamburg is motivated by the 
+possibility to take advantage of the unique experience and know-how of the DESY Machine 
+Division in the area of superconducting linacs, a nd of the possibility to gain first-hand 
+experience on the operation of an FEL through the FLASH facility. 
+3 The Scientific Case and the X-ray FEL Interna-
+tional Context 
+All natural sciences benefit from the use of photon s (light waves) of different wavelengths to 
+probe the phenomena of nature. The use of infrared, visible and near ultraviolet light has been 
+revolutionized by the invention of gas lasers and of solid-state lasers, with their properties of 
+high brilliance, spatial coherence and, in more recent decades, ultrashort pulses, with duration
+
+===== CHUNK 12 =====
+revolutionized by the invention of gas lasers and of solid-state lasers, with their properties of 
+high brilliance, spatial coherence and, in more recent decades, ultrashort pulses, with duration 
+down to a few femtoseconds or less (1 femtosec ond, or 1 fs, equals a billionth of a millionth 
+of a second; light travels a distance of 0.3 μm in 1 fs). This time scale is of particular 
+importance because atoms in molecules and solids oscillate around their equilibrium positions 
+with typical periods of a few hundreds of fs, an d in general, movements of atoms during the 
+rearrangement of their positions in chemical r eactions, or phase transformations also occur on 
+such a time scale. 
+In the range of the ultraviolet, soft x-ray and hard x-ray wavelengths, great progress was 
+achieved by the exploitation of synchrotron ra diation, the brilliant emission by electrons or 
+positrons orbiting in a circular accelerator. Synchrotron radiation, however, is far less brilliant
+
+===== CHUNK 13 =====
+achieved by the exploitation of synchrotron ra diation, the brilliant emission by electrons or 
+positrons orbiting in a circular accelerator. Synchrotron radiation, however, is far less brilliant 
+than a powerful laser, has a very limited degree of spatial coherence, and it comes typically in 
+pulses of ~ 30 ps = 30,000 fs duration. The objective of the modern projects for the realization 
+of x-ray free-electron lasers is the extension of the scientific and technological revolution, 
+ushered by lasers in the visible light range, to  the x-ray range, providing spatially coherent 
+pulses of  < 100 fs duration, with peak powers of many GW.  
+As discussed in four international workshops organized between October 2005 and March 
+2006 in Hamburg, Paris, Cope nhagen, and near Oxford, the outstanding properties of the 
+European XFEL beams (coherence, ultra-high brilliance and time structure) and the 
+development of appropriate detectors and instrumentation will allow completely new
+
+===== CHUNK 14 =====
+European XFEL beams (coherence, ultra-high brilliance and time structure) and the 
+development of appropriate detectors and instrumentation will allow completely new 
+experiments. A few examples are listed below. 
+Coherence can be used for holographic and le nsless imaging in materials science and in 
+biology. Spectacular possibilities open up, as de tailed theoretical studi es and simulations 
+predict that, with a single very short and in tense coherent x-ray pulse from the XFEL, a 
+diffraction pattern may be recorded from a large macromolecule, a virus, or a cell, without the 
+need for crystalline periodicity. This would eliminate a formidable bottleneck for many 
+systems of high interest, e.g. membrane prot eins, viruses and viral genomes. Measurement of 
+the over-sampled x-ray diffraction pattern permits phase retrieval and hence structure 
+determination. Although indivi dual samples would eventually be destroyed by the very
+
+===== CHUNK 15 =====
+the over-sampled x-ray diffraction pattern permits phase retrieval and hence structure 
+determination. Although indivi dual samples would eventually be destroyed by the very 
+intense x-ray pulse, a three-dimensional data set could be a ssembled, when copies of a 
+reproducible sample are exposed to the beam one by one. 
+The high intensity can also be used to produ ce highly ionized states of atoms, generating 
+in the laboratory conditions and processes occurring in interstellar gases. In conjunction with 
+the ultra short pulse duration, it can be expl oited in pump-and-probe  experiments, where 
+conventional laser pulses (pump) are used to trigger a chemic al reaction or a phase transition,
+
+===== CHUNK 16 =====
+--- Page 6 ---
+
+===== CHUNK 17 =====
+iv Executive Summary
+ 
+and the XFEL pulses (probe), each following the pump pulse with a well determined delay 
+(from ~50 fs up to ns or even μs), provide a “movie” of the atomic displacements and 
+rearrangement of chemical bonds. In this wa y, catalytic mechanisms in chemical and 
+biochemical reactions can be el ucidated, fast reactions (e.g. combustion) can be subject to 
+detailed investigation, nu cleation of ordered phases at phas e transitions can be imaged, and 
+hitherto inaccessible states of matter can be brought to experimental investigation: if the pump 
+pulse is sufficiently powerful to produce a plasma, the x-ray pulse can still penetrate the 
+highly ionized medium (opaque to visible lig ht) and provide information on the propagation 
+of the shock front, on the time evolution of temperature and pressure distributions, on the 
+equation of state.  
+As already emphasized, the potential relevance of scientific breakthroughs of this caliber
+
+===== CHUNK 18 =====
+equation of state.  
+As already emphasized, the potential relevance of scientific breakthroughs of this caliber 
+extends beyond basic science, to technologies of essential importance for Europe. It would not 
+be wise to leave a competitive advantage in this field to United States, where the LCLS (Linac 
+Coherent Light Source) project is well under wa y at Stanford, and to Japan, where the SCSS 
+(Spring-8 Compact SASE Source) has obtained fi nancial green light for start-up already in 
+2006. Although these projects started already, and are probably going to be completed earlier, 
+the European XFEL adoption of the superconducting accelerator technology allows producing 
+30,000 x-ray pulses per second (and possibly even more in the future), to be compared to the 
+120 of the LCLS and 60 of the SCSS. In addition to this decisive technical advantage, 
+reducing the time necessary to complete some experiments by two orders of magnitude, the
+
+===== CHUNK 19 =====
+120 of the LCLS and 60 of the SCSS. In addition to this decisive technical advantage, 
+reducing the time necessary to complete some experiments by two orders of magnitude, the 
+useful experience acquired with FLASH could considerably benefit the rapid establishment of 
+a successful scientific expl oitation. If the European XFEL Facility keeps a schedule 
+comparable to that of the competing projects, it can occupy the leading position in this field.  
+A European laboratory in Hamburg, pursuing excellence in the physics and applications of 
+hard x-ray free-electron laser radiation would be complementary to other projects in Europe 
+emphasizing the soft x-ray part of the spect rum, and benefit all of them through the 
+development and sharing of common technologies. 
+4 Layout and Performance Goals of the Facility 
+The main components of the Facility are (see Figure 4.1): 
+ 
+• the injector 
+• the linear accelerator  
+• the beam distribution system 
+• the undulators 
+• the photon beamlines
+
+===== CHUNK 20 =====
+The main components of the Facility are (see Figure 4.1): 
+ 
+• the injector 
+• the linear accelerator  
+• the beam distribution system 
+• the undulators 
+• the photon beamlines 
+• the instruments in the Experiments Hall. 
+ 
+These components are disposed along an essentially linear geometry, 3.4 km long, starting on 
+the DESY campus in the northwest part of the city of Hamburg, and ending in the 
+neighboring Federal State of Schl eswig-Holstein, south of the city of Schenefeld, where the 
+Experimental Hall is located. 
+The basic functions of the main components are schematically described in the following. In 
+the injector, electron bunches ar e extracted from a solid cathode by a laser beam, accelerated
+
+===== CHUNK 21 =====
+--- Page 7 ---
+
+===== CHUNK 22 =====
+Executive Summary v
+ 
+3.4km
+InjectorLinac Tunnel, 2 km
+Experimental Hall
+Beam 
+Distribution 
+System
+Undulators
+and Photon 
+Beamlines,
+1.2 km
+(Possible future extension)
+3.4km
+3.4km
+InjectorLinac Tunnel, 2 km
+Experimental Hall
+Beam 
+Distribution 
+System
+Undulators
+and Photon 
+Beamlines,
+1.2 km
+(Possible future extension)
+ 
+ 
+Figure 4.1: Schematic layout of the main components of the European XFEL Facility. 
+ 
+by an electron RF gun and directed towards the linear accelerator (linac) with an exit energy 
+of 120 MeV. In the linear accelerator, co nsisting of a 1.6 km long sequence of 
+superconducting accelerating modules, magnets for beam steering and focusing, and 
+diagnostic equipment, the electrons are accelerated  to energies of up to 20 GeV (17.5 GeV is 
+the energy foreseen for the standard mode of operation of the XFEL facility). Along the 
+accelerator, two stages of bunch compression are located, to produce the short and very dense
+
+===== CHUNK 23 =====
+the energy foreseen for the standard mode of operation of the XFEL facility). Along the 
+accelerator, two stages of bunch compression are located, to produce the short and very dense 
+electron bunches required to trigger the SASE pro cess. At the end of the linac, the individual 
+electron bunches are channeled down one or the other of two electron beamlines by the beam 
+distribution system (Figure 4.2). Electron bun ches channeled down the electron beamline 1 
+pass through the undulators SASE1 and SASE3,  producing respectively hard x-ray photons 
+with 0.1 nm wavelength (SASE1) and softer x-ray photons with 0.4 -1.6 nm wavelength 
+(SASE3), by the SASE free electron laser process. After going through SASE3, electrons are 
+deviated towards a beam dump. Electron bunche s channeled through the electron beamline 2 
+are led through the undulator SASE2, where ha rd x-ray photons with wavelengths 0.1-0.4 nm
+
+===== CHUNK 24 =====
+deviated towards a beam dump. Electron bunche s channeled through the electron beamline 2 
+are led through the undulator SASE2, where ha rd x-ray photons with wavelengths 0.1-0.4 nm 
+are produced by the SASE process; and then through the undulators U1 and U2, before ending 
+in the second beam dump. In U1 and U2, ve ry hard x-ray photons (wavelengths down to 
+0.014 and 0.06 nm, respectively) are generated by  the spontaneous emission process. The 
+photons generated by the five undulators are tr ansported through the respective photon beam 
+line to the Experimental Hall, where they are fed into ten experimental stations. Reducing the 
+electron energy at the end of the accelerator would generate longer wavelengths, in case they
+
+===== CHUNK 25 =====
+--- Page 8 ---
+
+===== CHUNK 26 =====
+vi Executive Summary
+ 
+are required by some experiments; for example an electron energy of 10 GeV would 
+correspond to x-rays of 4.9 nm wavelength from the SASE3 undulator. 
+ 
+SASE 2
+tunable, planar
+0.1 – 0.4 nm
+SASE 1
+tunable, planar
+0.1 nm
+SASE 3
+tunable, helical
+0.4 – 1.6 nm
+electrons
+17.5 GeV
+e-
+e-
+Experiments
+U 1
+U 2
+SASE 2
+tunable, planar
+0.1 – 0.4 nm
+SASE 1
+tunable, planar
+0.1 nm
+SASE 3
+tunable, helical
+0.4 – 1.6 nm
+electrons
+17.5 GeV
+e-
+e-
+Experiments
+U 1
+U 2
+ 
+ 
+Figure 4.2: Schematic view of the branching of electron (black) and photon (red) beamlines 
+through the different SASE and spontaneous emission undulators. Electron beamlines 
+terminate into the two beam dumps, photon beamlines into the Experimental Hall. 
+ 
+The installation and commissioning of the a ccelerator, the undulators, beamlines and 
+experimental stations will take place gradually, according to a strategy for the achievement of
+
+===== CHUNK 27 =====
+The installation and commissioning of the a ccelerator, the undulators, beamlines and 
+experimental stations will take place gradually, according to a strategy for the achievement of 
+intermediate and final goals of the Facility which was established with the advice of the 
+Scientific and Technical Issues (STI) Working Group. 
+The first electron beamline and the SASE1 undulator are going to be installed first. 
+Commissioning of the accelerator and of the SASE1 undulator, beamline and first station is 
+pursued, in parallel with installation of the other electron branch, until the first set of 
+intermediate goals (see Table 4.1) is reached. 
+  
+As recommended by the STI Working Group, the following criteria for the start of 
+operation of the accelerator complex and the SASE radiators and beamlines were adopted: 
+ 
+• The accelerator complex and SASE1 start operation when on SASE1 a photon beam is 
+obtained with the intermediate values of Table 4.1, and sufficient equipment is
+
+===== CHUNK 28 =====
+• The accelerator complex and SASE1 start operation when on SASE1 a photon beam is 
+obtained with the intermediate values of Table 4.1, and sufficient equipment is 
+installed and commissioned to perform first scientific experiments.  
+• SASE2 starts operation when the same crite ria as above are fulfilled, for wavelengths 
+between 0.2 and 0.4 nm. 
+• SASE3 starts operation when the same crite ria as above are fulfilled, for wavelengths 
+between 2 and 6 nm. 
+ 
+Following the positive experience of the FLASH facility, developments towards the final 
+project goals on all beamlines will proceed in parallel with early user operation, as soon as the 
+criteria stated above are fulfilled.
+
+===== CHUNK 29 =====
+--- Page 9 ---
+
+===== CHUNK 30 =====
+Executive Summary vii
+ 
+Parameter 
+SASE1    
+Intermediate 
+Values 
+SASE1 Final  
+Project Values Units 
+Wavelength < 0.2 0.1 nm 
+Peak Brilliance 10 30 5×10 33 Photons/s/mm2/ 
+mrad2/0.1%BW
+Dimension at sample (no optics) < 1.0 ~ 0.6 mm 2, FWHM 
+Positional Stability 50 10 % of beam 
+size, rms 
+Photon Energy Stability ~ 0.1 ~ 0.1 % 
+Shot-to-Shot Intensity 
+Fluctuations Up to a factor 10 0.3 – 0.5 Dimensionless, 
+Peak-to-Peak 
+     
+Table 4.1: Intermediate and final project values for the accelerator and SASE1 undulator and 
+corresponding photon beamline. 
+ 
+ 
+5 Cost, Schedule and Personnel 
+5.1 Cost of the Project 
+All costs from the project preparation to the commissioning phase (i.e. prior to the start of 
+operation) have to be summed up in order to determine the total project construction cost 
+(TPCC). There will be a period of about 2.5 y ears during which an overlap of construction, 
+commissioning and operation will occur (see also the discussion of time schedule and budget
+
+===== CHUNK 31 =====
+(TPCC). There will be a period of about 2.5 y ears during which an overlap of construction, 
+commissioning and operation will occur (see also the discussion of time schedule and budget 
+profile below). The contributions to the TPCC, summarized in table 5.1, are: 
+ 
+• The project preparation costs. These are the expenses since the XFEL Memorandum 
+of Understanding came into effect (end of  2004) by DESY and by those institutes 
+which have concluded collaboration contracts with DESY under the XFEL MoU. 
+• The construction costs in the proper sense,  of the accelerator, the undulators, the 
+photon beamlines, scientific instruments, civil engineering and technical infrastructure 
+of the European XFEL Facility, including capital investment and manpower. 
+• The cost for commissioning the facility with beam. 
+• An addition to the personnel cost, in orde r to take into account allowances for 
+personnel moving from their home country to work at the XFEL company.
+
+===== CHUNK 32 =====
+• An addition to the personnel cost, in orde r to take into account allowances for 
+personnel moving from their home country to work at the XFEL company. 
+• An additional personnel cost overhead, ta king account of the XFEL company’s 
+management & support costs. 
+ 
+Recurrent costs during the construction in the pr oper sense (electricity, water, helium) are 
+not included in the TPCC, since they will be covered by the DESY operation budget free of 
+charge to the XFEL project. Costs related to  land acquisition are also not included in the 
+TPCC, since Germany offered to provide the ground free of charge to the project.
+
+===== CHUNK 33 =====
+--- Page 10 ---
+
+===== CHUNK 34 =====
+viii Executive Summary 
+ 
+Project preparation  38.8 M€ 
+Project construction, capital investment 736.3 M€ 
+Project construction, personnel 250.1 M€ 
+Total construction cost 986.4 M€ 
+Beam commissioning 56.4 M€ 
+Total Project Cost 1,081.6 M€   
+Table 5.1: Total project construction cost, including preparation – commissioning phases. All 
+cost figures are on the price basis of the year 2005. . - The original Table 5.1 of the TDR has 
+been slightly re-arranged: the additional personnel cost (allowances) and the additional 
+management overhead of the XFEL GmbH, initially shown in separate lines of the table, are 
+now included in the cost for construction and commissioning. 
+ 
+As described in detail in chapter 10, the breakdown of this cost between the major 
+components of the facility, is displayed in Figure 5.1. 
+ 
+XFEL construction cost distribution
+27%
+9%
+24%4%
+19%
+17% Linac
+Acc sub-systems
+Undulator & photon
+Control & operation
+Infrastructure
+Civil construction
+
+===== CHUNK 35 =====
+XFEL construction cost distribution
+27%
+9%
+24%4%
+19%
+17% Linac
+Acc sub-systems
+Undulator & photon
+Control & operation
+Infrastructure
+Civil construction
+ 
+Figure 5.1:  Breakdown of the proper constructi on costs (sum of c apital investment and 
+personnel cost) into the work package groups corresponding to the main components of the 
+facility. 
+ 
+An analysis of the risk of overspend was pe rformed according to gui delines specified by 
+the Full Costing Issues (FCI) subgroup of the Administration and Financial Issues (AFI) 
+Working Group. The resulting risk budget (8% of the proper construction costs) amounts to 
+78 M€, and is the additional figur e required to bring the probability of successful completion 
+of the Facility within budget to 98%. 
+The estimated yearly operation costs of the F acility, after the end of  all construction, are 
+83.6 M€, including all recurrent costs for op eration, maintenance and refurbishing, and
+
+===== CHUNK 36 =====
+The estimated yearly operation costs of the F acility, after the end of  all construction, are 
+83.6 M€, including all recurrent costs for op eration, maintenance and refurbishing, and 
+support of the international us er activities, plus a PhD stude nt and a visiting scientists 
+program.
+
+===== CHUNK 37 =====
+--- Page 11 ---
+
+===== CHUNK 38 =====
+Executive Summary ix
+ 
+5.2 Project Time Schedule 
+The time schedule for the project is presented in  Figure 5.2, which assumes that the official 
+start of the project construction is January 2007. For each of the major parts of the facility, 
+phases during construction (which can partially overlap in time) can be defined as: 
+ 
+• Design, prototyping and industrialization 
+• Fabrication (including pre-series) 
+• Installation 
+• Commissioning (technical and with beam) 
+ 
+In summary, the construction schedule provides for the milestone of first beam into the 
+linac to be met 6.5 years after the start of construction. At this point in time, the first branch of 
+beam lines with the SASE1 undulator will also have been installed. Beam commissioning will 
+then progress until the intermediate performance milestones of SASE1 radiation are reached, 
+7.5 years after the start of construction. This beamline will then become operational for first
+
+===== CHUNK 39 =====
+then progress until the intermediate performance milestones of SASE1 radiation are reached, 
+7.5 years after the start of construction. This beamline will then become operational for first 
+experiments. Commissioning of the other beamlines follows. 
+5.3 Budget Profile 
+With the different contributions to the TP CC as summarized above, the construction time 
+schedule and the operation costs as  described in chapter 8, a comp lete budget profile for all 
+phases from preparation to operation can be constr ucted. The result is displayed in figure 5.3 
+showing the yearly budget from 2005 – 2016 on the price basis of the year 2005 (i.e. without 
+applying an escalation to take inflation into account). 
+ 
+European XFEL budget profile
+0
+50,000
+100,000
+150,000
+200,000
+250,000
+y20
+05
+y2006 y200
+7
+y20
+08
+y2009 y2010 y20
+11
+y2012 y2013 y201
+4
+y2015 y2016
+kEURO
+Operation
+Commissioning
+Construction
+Preparation
+
+===== CHUNK 40 =====
+0
+50,000
+100,000
+150,000
+200,000
+250,000
+y20
+05
+y2006 y200
+7
+y20
+08
+y2009 y2010 y20
+11
+y2012 y2013 y201
+4
+y2015 y2016
+kEURO
+Operation
+Commissioning
+Construction
+Preparation
+ 
+ 
+Figure 5.3: Budget profile (sum of capital inve stment and personnel cost on year 2005 price 
+basis) from preparation to operation phase of the project. 
+ 
+Personnel costs, as given explicitly in Table 5.1 and implicitly in Figure 5.3 correspond to the 
+cost of the personnel hired by the Facility, plus the personnel costs for those work packages of 
+the project, which are provided as an in-kind cont ribution by laboratories of the participating 
+countries.
+
+===== CHUNK 41 =====
+--- Page 12 ---
+
+x  Executive Summary
+ 
+y2007 y2008 y2009 y2010 y2011 y2012 y2013 y2014 y2015
+Civil construction
+Linac
+Accelerator sub-systems
+Technical Infrastruct.
+Operation & control
+Undulator & photon b.l.
+1st beam injector
+1st beam linac
+SASE1 gain at 0.2nm
+all beam lines oper.
+design, prototyping fabrication (incl. installation commissioning operation
+ & industrialization pre-series) (tech. & beam)  
+ 
+Figure 5.2: Sketch of the schedule for the main components of the Facility from start of construction to beginning of operation. 
+[Schedule taken from XFEL Technical Design Report, July 2006] 
+
+
+--- Page 13 ---
+
+ 
+ 
+ 
+ 
+ 
+Part B of  
+Technical Document 1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SCENARIO FOR THE RAPID START-UP 
+of the  
+EUROPEAN XFEL FACILITY 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 14 ---
+
+===== CHUNK 42 =====
+Scenario for rapid start-up 
+May 30, 2007 
+Scenario for the rapid start-up  
+of the European XFEL Facility  
+ 
+Basic Features of the Start-up Reference Configuration 
+The entire photon spectrum specified in the TDR will be made available, however the start-up 
+configuration will comprise only three photon beamlines (inst ead of five) and six experi-
+mental stations (instead of ten). The performan ces of the accelerator as specified in the TDR 
+are maintained, so that the facility can reach the reference parameters for operation at 0.1 nm 
+photon wavelength. However, the energy surplus of the accelerator with respect to the 
+standard mode (17.5 GeV) will be removed. Cost reductions are planned to be made in such a 
+way that the start-up configuration remains expandable to the Facility specified in the TDR. 
+All suppressed or reduced items can be inserted back, during the construction period or later,
+
+===== CHUNK 43 =====
+way that the start-up configuration remains expandable to the Facility specified in the TDR. 
+All suppressed or reduced items can be inserted back, during the construction period or later, 
+depending on whether and when the required f unding will become available. However, in 
+order to avoid additional effort and cost, the decision to reinstall a certain item has to be taken 
+within a certain time frame. These critical points in time are indicated below for the main 
+reduction items. 
+Details on cost reductions and their impact 
+Accelerator complex 
+Four units (four accelerator modules and one radio frequency station per unit) in the main 
+section of the linac (after the 2
+nd bunch compression stage) will not be installed. This reduces 
+the linac design energy from 20 to 17.5 GeV and the number of reserve units from two to one 
+in this part of the accelerator (another rese rve unit remains in the section between the bunch
+
+===== CHUNK 44 =====
+the linac design energy from 20 to 17.5 GeV and the number of reserve units from two to one 
+in this part of the accelerator (another rese rve unit remains in the section between the bunch 
+compressors). Operation at the reference energy of 17.5 GeV with the TDR reference 
+parameters is guaranteed. However, the possibility of increasing the beam energy and 
+repetition rate is severely restricted. The decision to install the initially suppressed units 
+would have to be taken by the time the tender pr ocess for linac components is launched (mid-
+2008). 
+The complete system of electron beamlines up to the beam dumps will be built as part of start-
+up configuration, whereas the installation of some special beam diagnostics will be postponed. 
+Undulators and Experiments 
+A reduction in the number of undulators from five  to three is considered. The number of 
+experimental stations with thei r infrastructure is correspondingly reduced (s ix instead of ten).
+
+===== CHUNK 45 =====
+A reduction in the number of undulators from five  to three is considered. The number of 
+experimental stations with thei r infrastructure is correspondingly reduced (s ix instead of ten). 
+Further cuts in experimental facilities affect  optical laser installati ons, sample environment 
+R&D, sample preparation laboratories, speci fic instrumentation (all reduced by 50%) and 
+generic detector R&D (40%). One out of th ree full developments for area detectors and 
+particle detectors will be delayed until the upgrade to the full project. Later extension towards 
+the initial design remains possible. The followi ng figure illustrates one possibility of coping 
+with this change. It aims at having the same spectral interval of photon  energies covered as 
+foreseen in the TDR, although with reduced possibility of parallel exploitation of instruments. 
+In the figure, the option to move SASE 3 from its original position to the position of U 1 is 
+indicated.
+
+===== CHUNK 46 =====
+--- Page 15 ---
+
+===== CHUNK 47 =====
+Scenario for rapid start-up 
+May 30, 2007 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 1: Option for undulator layout in Step 1 of the XFEL 
+ 
+SASE 1 
+tunable, planar
+0.1 nm 
+SASE 2 
+tunable, planar
+0.1 – 0.4 nm 
+U 2 
+U 1 
+e-  
+electrons 
+17.5 GeV 
+Experiments SASE 3
+tunable, helical
+0.4 – 1.6 nm 
+e-  
+not installed
+This could be advantageous in case the recovery of the SASE 2 beam line has to be postponed 
+for a longer time, because the two initially installed SASE beam lines could be operated in the 
+two separate electron beam lines, providing more operational flexibility. Further below in this 
+document, four possible variations of the above  reference scenario are outlined, showing that 
+there is still great flex ibility in the choice of photon beam lines and st ations within the first 
+step of the project.  The time line for deciding the undul ator number and configuration is 
+determined by the time of the first order to be placed. This order is currently scheduled for the
+
+===== CHUNK 48 =====
+step of the project.  The time line for deciding the undul ator number and configuration is 
+determined by the time of the first order to be placed. This order is currently scheduled for the 
+second half of 2009. Earlier impacts are however  expected for the development of area 
+detectors, where a decision is due during the first half of 2007. 
+Technical Infrastructure 
+Instead of constructing a new liquid helium plant, the existing HERA plant shall be 
+refurbished and upgraded. Two out of three liqu efier units will be used  for XFEL, the other 
+one for FLASH. This will lead to a reduced redu ndancy in case of failures, but one of the two 
+units is still sufficient to keep the linac cold a nd even to operate it with  restricted parameters. 
+DESY looses the option to use part of the plant for other purposes.  
+The module test facility will be reduced by merging the (originally separate) horizontal cavity
+
+===== CHUNK 49 =====
+DESY looses the option to use part of the plant for other purposes.  
+The module test facility will be reduced by merging the (originally separate) horizontal cavity 
+test stand with one of the three module test stations. Thus only two module test stands are 
+available during the time when single cavity test s take place in the horizontal cryostat. Since 
+this is expected to happen only during the initi al phase of module production at low rate, it is 
+not expected to cause delays in the series production and testing of accelerator modules.  
+The possible decision to restore these reduction items is urgent (mid – end 2007). 
+Buildings 
+The layout of the undergr ound buildings is preserved complete ly, in order to be able to 
+expand the start-up configuration to  the Facility specified in th e TDR. The size of the Office 
+Building and of the canteen at the Schenefeld Ca mpus can be reduced, but later extensions of
+
+===== CHUNK 50 =====
+expand the start-up configuration to  the Facility specified in th e TDR. The size of the Office 
+Building and of the canteen at the Schenefeld Ca mpus can be reduced, but later extensions of 
+these buildings remain possible. The hall for a new cryogenic plant is removed. 
+A decision to implement the originally planned full-size Campus buildings would have to be 
+taken at the time of the calls fo r tender (in 2008), or at the la test in mid 2009, if a call for 
+tender in tranches is envisaged.
+
+===== CHUNK 51 =====
+--- Page 16 ---
+
+===== CHUNK 52 =====
+Scenario for rapid start-up 
+May 30, 2007 
+ 
+Cost estimation 
+The start-up configuration, based on these assumptions, allows a cost reduction of approxi-
+mately 137 M€ with respect to the 986 M€ for the full facility set ou t in the TDR and in 
+Annex 3 to the Convention. The cost reduc tion refers to 106.9 M€ under investments and 
+30.1 M€ under Personnel, which leaves  construction costs of 849.3 M€ (in 2005 prices)  still 
+to be covered. A breakdown of the cost reductions is given in the table below.  
+ 
+ 
+Cost reduction1  
+with respect to 
+Technical Design Report 
+Reduced  
+construction cost1  
+(Investment + Personnel) 
+Work package group 
+under 
+Investment
+under 
+Personnel 
+of XFEL Facility in  
+start-up configuration 
+WPG1 Linac 24,9 4,0 231,2 
+WPG2 Accelerator sub-systems 1,6 1,1 83,6 
+WPG3 Undulators & photon beam lines 57,9 18,5 149,5 
+WPG4 Control & operation 0,2 0,8 38,4 
+WPG5 Infrastructure 15,2 2,4 171,7 
+WPG6 Site & Buildings 7,1 0 161,6
+
+===== CHUNK 53 =====
+WPG3 Undulators & photon beam lines 57,9 18,5 149,5 
+WPG4 Control & operation 0,2 0,8 38,4 
+WPG5 Infrastructure 15,2 2,4 171,7 
+WPG6 Site & Buildings 7,1 0 161,6 
+GmbH personnel additional overhead  3,3 13,3 
+Total: 106,9 30,1 849,3 
+1 (in M€, year 2005 price basis) 
+ 
+Alternative scenarios for the Start-up Facility 
+ 
+In the following paragraphs, alternative scenarios for the realisation of a start-up configuration 
+of the European XFEL are discussed. These altern atives show that the budget for the start-up 
+configuration of the European XFEL, and in particular the reduced  budget for the photon 
+beam systems, still offers the flexibility required to respond to the requests of the scientific 
+community. Since the final decision for one of these options is not immediately required (if 
+necessary at all), it will be thoroughly discu ssed with representatives of the scientific 
+communities involved.
+
+===== CHUNK 54 =====
+necessary at all), it will be thoroughly discu ssed with representatives of the scientific 
+communities involved. 
+The cost figures given are relative to the numbers quoted above for the reference scenario. 
+Alternative Scenario A 
+In this scenario only a moderate modification is  applied, in that, instead of SASE 1, the gap-
+tuneable device SASE 2 is initially installe d. This would allow operating the accelerator at 
+constant energy, while tuning the photon energy by gap variation of the undulator. To cope 
+with the higher cost of SASE 2 with respect to SASE 1, the soft X-ray FEL undulator SASE 3 
+is not built in helica l technology, but as a more conventio nal planar device. Reduced R&D 
+and construction costs for the planar devices al low substantial savings. A later extension to a
+
+===== CHUNK 55 =====
+--- Page 17 ---
+
+===== CHUNK 56 =====
+Scenario for rapid start-up 
+May 30, 2007 
+ 
+helical FEL providing circular polarized radiation could be implemented by replacing only the 
+undulator segments in the final gain lengths.  
+The cost for this scenario is 2.7 M€ lower than the reference one. The time line to decide in 
+favour of this scenario depe nds on the number of undulator se gments to be ordered (mid 
+2009) and the R&D phase for the helical undulators (latest start end 2008).  
+Alternative Scenario B 
+In this scenario emphasis is given to the supply of hard X -ray FEL radiation, by keeping both 
+hard X-ray FELs SASE 1 and SASE 2. To compensate for the higher cost of these devices, no 
+other undulators will be built during the first step of the project. However, since the 
+experimental hall provides sufficient space, it is still possible to bu ild six instruments around 
+these two undulators. Considerable resources for undulator and beamline could be used in this
+
+===== CHUNK 57 =====
+experimental hall provides sufficient space, it is still possible to bu ild six instruments around 
+these two undulators. Considerable resources for undulator and beamline could be used in this 
+scenario to increase the budget for sample environment and detector R&D. 
+This cost for this scenario is 1.1 M€ lower than the reference one. This scenario can be 
+upgraded to full scale at any mo ment without specific cost increase. However, for the SASE 3 
+helical undulator, it is to be kept in mind that an R&D phase must start 2.5 years prior to 
+installation date.  
+Alternative Scenario C 
+In this scenario all three F EL undulators SASE 1, SASE 2 and SA SE 3 are kept in the first 
+step of the full project. The soft X-ray FEL undul ator is considered to have planar magnetic 
+field configuration (see Scenario A.). In order to cover the increased cost for undulators, it is 
+proposed that the number of inst ruments be reduced from six to  four. One could envisage to
+
+===== CHUNK 58 =====
+field configuration (see Scenario A.). In order to cover the increased cost for undulators, it is 
+proposed that the number of inst ruments be reduced from six to  four. One could envisage to 
+install these four instruments at the hard X-ray FEL beamlines of SASE 1 and SASE 2, and to 
+provide an open port at the soft X-ray beamlin e, where experiment groups could assemble 
+their own apparatuses (FLASH concept). Alte rnatively, scientific instruments on SASE 3 
+could be built with funds provided by consortia of experimentalists.  
+The cost for this scenario is 0.9 M€ lower than the reference one. This scenario can be 
+upgraded to full scale at any moment without  specific cost incr ease. For the helical 
+configuration of SASE 3 it is valid what is written under scenario A. 
+Conclusion 
+Construction costs of 850 M€ allow the facility to  be built in a start-up configuration with the 
+following features:
+
+===== CHUNK 59 =====
+Conclusion 
+Construction costs of 850 M€ allow the facility to  be built in a start-up configuration with the 
+following features: 
+1.  It can later be expanded to recover the full facility as specified in the TDR, with no 
+additional costs if the corresponding decisions are taken early enough. 
+2.  It offers a variety of possibilities in the choice of the radiators in the first step, and 
+therefore in the corresponding e xperimental program, with more or less priority given to 
+hard vs. soft X-rays, coherence vs. spontaneous emission, etc.

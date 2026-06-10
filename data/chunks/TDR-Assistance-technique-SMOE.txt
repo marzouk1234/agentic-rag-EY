@@ -1,0 +1,918 @@
+
+===== CHUNK 0 =====
+--- Page 1 ---
+
+===== CHUNK 1 =====
+Assistance technique et accompagnement dans la mise en place d’un système de 
+management pour les organismes d’éducation/formation (SMOE) conforme à la norme 
+ISO 21001 :2018 
+ 
+ 
+AVIS DE SOLLICITATION DE MANIFESTATION D’INTÉRÊT 
+***** 
+Le Ministère de l’Enseignement Supérieur et de la Recherche Scientifique ( MESRS) a reçu de la  
+Banque Internationale pour la Reconstruction et le Développement ( BIRD) un prêt N°8590 -TN pour 
+financer le Projet d’Appui à la Qualité de l’enseignement supérieur ( PAQ). Le MESRS a accordé à  
+l’Institut Supérieur des Sciences Infirmières de Tunis (ISSIT) une allocation dans le cadre du PAQ - 
+DGSE pour le renforcement des capacités de gestion pédagogique, admi nistrative et financière des  
+établissements universitaires. 
+L’ISSIT agissant en tant qu’Établissement  gestionnaire du projet, sollicite par le présent avis des  
+candidatures en vue de la fourniture des services de consultant relatif à la formation :
+
+===== CHUNK 2 =====
+L’ISSIT agissant en tant qu’Établissement  gestionnaire du projet, sollicite par le présent avis des  
+candidatures en vue de la fourniture des services de consultant relatif à la formation : 
+ 
+ 
+Les bureaux d’études intéressés par cette mission, sont invités à manifester leur  intérêt en faisant acte 
+de candidature via le dépôt d’un dossier, les informations pertinentes prouvant qu’ils sont qualifiés pour 
+assurer cette mission et en particulier : 
+ 
+- Lettre de candidature au nom de Monsieur Ahmed Zaïem, Directeur de l’Institut Supérieur des 
+Sciences Infirmières Tunis. 
+- Curriculums Vitae selon le modèle en annexe mentionnant les diplômes, certifications, 
+qualifications et expériences requises du bureau et de ses consultants proposés pour la mission, 
+selon le modèle ci-joint en annexe 1, avec les pièces justificatives ; 
+- Références récentes et pertinentes en missions similaires ; 
+- Les termes de références TDR signés et cachetés,
+
+===== CHUNK 3 =====
+selon le modèle ci-joint en annexe 1, avec les pièces justificatives ; 
+- Références récentes et pertinentes en missions similaires ; 
+- Les termes de références TDR signés et cachetés, 
+ 
+Les soumissionnaires intéressés peuvent retirer le document « les termes de références » sur la 
+plateforme des achats publiques en ligne TUNEPS, auprès de  l’Institut Supérieur des Sciences 
+Infirmières de Tunis (ISSIT) à l’adresse suivante : Institut Supérieur  des Sciences Infirmières de 
+Tunis, colline La Rabta, Jabbari 1007, Tunis ; ou le téléch arger sur la page  web de l’Université de 
+Tunis El Manar à l’adresse : http://www.utm.rnu.tn/ 
+ou sur la page Facebook officielle de l’ISSIT: @ISSIT.Page.Officielle 
+ 
+Pour obtenir des informations supplémentaires au sujet des Termes de Références, les consultants  
+intéressés peuvent également s’adresser par courrier électronique à l’adresse suivante :  
+Paq-harmonie@issit.utm.tn
+
+===== CHUNK 4 =====
+intéressés peuvent également s’adresser par courrier électronique à l’adresse suivante :  
+Paq-harmonie@issit.utm.tn 
+Les dossiers de manifestation d’intérêt doivent être poster sur la plateforme TUNEPS, parvenir par 
+voie postale (normale, recommandée ou  rapide) ou par dépôt direct au bureau d’ordre de l’ISSIT à 
+l’adresse Institut Supérieur des Sciences Infirmières de Tunis, colline La Rabta, Jabbari 1007. 
+ 
+Les soumissions sous pli fermé portant la mention « A NE PAS OUVRIR, Manifestation d'intérêt :  
+Assistance technique et accompagnement dans la mise en place d’un système de management pour les  
+organismes d’éducation/formation (SMOE) conforme à la norme ISO 21001 :2018 » doivent parvenir  
+au bureau d’ordre de l’ISSIT au plus tard le 17 février 2023 à 12h00.
+
+===== CHUNK 5 =====
+--- Page 2 ---
+
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TERMES DE RÉFÉRENCE 
+Action PAQ DGSE 
+PAQ HARMONIE ISSIT 
+Référence : Domaine 1, Champs 1.1 et 1.2 du projet PAQ HARMONIE ISSIT 
+Assistance technique et accompagnement dans la mise en 
+place d’un système de management pour les organismes 
+d’éducation/formation (SMOE) conforme à la norme ISO 
+21001 :2018 à l’Institut Supérieur des Sciences Infirmières 
+de Tunis (ISSIT) 
+ 
+ 
+Janvier 2023 
+
+
+
+--- Page 3 ---
+
+===== CHUNK 6 =====
+--- Page 3 ---
+
+2 
+ 
+Table des matières 
+1. CONTEXTE DE L’ACTION  …………………………… 3 
+2. PRESENTATION DE L’ISSIT …………………………… 3 
+3. OBJECTIF DE LA MISSION  …………………………… 3 
+4. ETENDUE DES SERVICES …………………………… 5 
+5. DURÉE ET LIEU D’EXÉCUTION DE LA 
+MISSION 
+…………………………… 9 
+6. MODALIES DE PAIEMENT …………………………… 9 
+7. QUALIFICATIONS ET COMPÉTENCES  …………………………… 10 
+8. MODES DE SELECTION ET 
+NÉGOCIATION   
+…………………………… 10 
+9. PIECES CONSTITUTIVES …………………………… 12 
+10. LES BÉNÉFICIAIRES DE LA MISSION  …………………………… 13 
+11. LIVRABLES …………………………… 13 
+12. CONFLIT D’INTÉRÊT  …………………………… 13 
+13. CONFIDENTIALITÉ   …………………………… 13 
+14. NEGOCIATION DU CONTRAT …………………………… 13 
+15. ANNEXES …………………………… 14 
+ 
+ 
+
+
+--- Page 4 ---
+
+===== CHUNK 7 =====
+3 
+ 
+1. CONTEXTE DE L’ACTION : 
+Le Ministère de l’enseignement supérieur et de la recherche scientifique (MESRS) a lancé le 
+programme « Projet de modernisation de l’enseignement supérieur en soutien à 
+l’employabilité (PROMESSE) », financé par la Banque Internationale pour la Reconstruction 
+et le Développement (BIRD) (Accord de prêt n° 8590 -TN), qui vise l’amélioration de 
+l’employabilité des diplômés de l’enseignement supérieur et le renforcement de la gestion de 
+l’enseignement supérieur. À la suite de ce  programme, le MESRS a conduit le projet de 
+Développement de la Gestion Stratégique des Établissements d’Enseignement Supérieur 
+(PAQ-DGSE) dont l’objectif principal est le renforcement des capacités de gestion 
+pédagogique, administrative et financière des établissements universitaires. Le présent TDR 
+s’insère dans le cadre du projet PAQ HARMONIE ISSIT, de l’Institut Supérieur des Sciences 
+Infirmières de Tunis (ISSIT).
+
+===== CHUNK 8 =====
+s’insère dans le cadre du projet PAQ HARMONIE ISSIT, de l’Institut Supérieur des Sciences 
+Infirmières de Tunis (ISSIT). 
+Dans le cadre de son projet PAQ HARMONIE ISSIT, l’Institut Supérieur des Sciences 
+Infirmières de Tunis (ISSIT), va confier à un Bureau d’Etudes la mission  d’assistance 
+technique pour la mise en place d’un SMOE (ISO 21001 Version 2018) au sein de l'institut en 
+vue de la certification.  
+L’ISSIT invite les Bureaux d’Etudes à manifester leur intérê t pour fournir les services décrits 
+dans les présents termes de références de cette mission téléchargeables sur  la plateforme  
+TUNEPS, la page web de l’Université de Tunis El Manar à l’adresse : http://www.utm.rnu.tn/ 
+ou sur la page Facebook officielle de l’ISSIT: @ISSIT.Page.Officielle 
+ 
+2. PRESENTATION DE L’ISSIT : 
+L'Institut Supérieur des Sciences Infirmières de Tunis a été créé par décret n° 2006 – 2120 du 
+31 juillet 2006. L'établissement est placé sous la tutelle des ministères de l’enseignement
+
+===== CHUNK 9 =====
+L'Institut Supérieur des Sciences Infirmières de Tunis a été créé par décret n° 2006 – 2120 du 
+31 juillet 2006. L'établissement est placé sous la tutelle des ministères de l’enseignement 
+supérieur et de la santé publique sous -réserve des dispositions de l’article 7 de la loi n° 89 -70 
+du 28 juillet 1989. L’ISSIT dispose de 42 enseignants permanents dont 5 sont des enseignants 
+universitaires appartenant au corps B, 35 enseignants paramédicaux et un EPS. Vu la 
+spécificité de la formation l’ISSIT fait appel à un nombre important de vacataires, notamment 
+des enseignants hospitalo -universitaires et de docteurs scientifiques. L’ISSIT comporte un 
+staff administratif, technique et ouvrier constitué de 23 personnes. L’ISSIT dispose de 9 salles 
+d’enseignements, 2 amphis, 2 salles de TP, une médiathèque, et une bibliothèque. 
+ 
+3. OBJECTIF DE LA MISSION : 
+a. L’objectif global de la mission :
+
+===== CHUNK 10 =====
+--- Page 5 ---
+
+===== CHUNK 11 =====
+4 
+ 
+Améliorer la compétitivité de l’ISSIT, et renforcer la qualité de gestion de la formation à 
+travers la mise en place d’un Système de Management des Organismes d’Education (SMOE) 
+permettant la satisfaction des attentes et des exigences de tous les acteurs de l’ISSIT 
+(étudiants, enseignants, personnels administratifs, partenaires, tutelles, etc.). 
+ 
+b. Les objectifs spécifiques de la mission : 
+La mission doit prendre en considération les spécificités de l’établissement et de la formation 
+proposée qui est une formation par alternance  (enseignements théoriques & stages pratiques 
+dans des structures sanitaires). 
+OB SP1  : Développer les compétences des membres d u comité qualité de l’ISSIT  et du 
+comité exécutif du projet PAQ HARMONIE, à la mise en œuvre, l'entretien, la maintenance, 
+l’évaluation et l'amélioration continue d’un SMOE. 
+OB SP2  : Cerner les risques et les opportunités pour une éventuelle mise en place de la 
+gestion des risques.
+
+===== CHUNK 12 =====
+l’évaluation et l'amélioration continue d’un SMOE. 
+OB SP2  : Cerner les risques et les opportunités pour une éventuelle mise en place de la 
+gestion des risques. 
+OB SP3  : Implémenter un système de management des organismes d'éducation/formation 
+(SMOE) pour le pilotage des cursus à l’ISSIT, en prenant en considération l’environnement et 
+les spécificités de la formation.  
+OB SP4 : Garantir l’évaluation interne du SMOE. 
+4. ETENDUE DES SERVICES : 
+La mission consiste à assister et accompagner l’Institut Supérieur des Sciences Infirmières de 
+Tunis (ISSIT) à mettre en place un système de management pour les organismes 
+d'éducation/formation (SMOE). 
+La mission se déroule selon les phases suivantes : 
+ 
+Phase 1 : Diagnostic et plan d'action, 
+Phase 2 : Développement des compétences, 
+Phase 3 : Conception et formalisation du système,  
+Phase 4 : Mise en œuvre, audit interne et améliorations,
+
+===== CHUNK 13 =====
+Phase 1 : Diagnostic et plan d'action, 
+Phase 2 : Développement des compétences, 
+Phase 3 : Conception et formalisation du système,  
+Phase 4 : Mise en œuvre, audit interne et améliorations, 
+Le passage de réalisation d’une phase à une autre n’est pas automatique.  Il ne peut s’effectuer 
+qu’après l’approbation de l’ISSIT et ceci à la suite de la validation des livrables demandées.
+
+===== CHUNK 14 =====
+--- Page 6 ---
+
+===== CHUNK 15 =====
+5 
+ 
+a. Phase 1 : Diagnostic et plan d'action : 
+i. Visite initiale et prise de contact : 
+Une (1/2) journée de prise de contact entre le soumissionnaire, et un comité de pilotage de 
+cette action du projet PAQ HARMONIE (formé de représentants des membres du comité 
+qualité de l’ISSIT et du comité exécutif du projet PAQ HARMONIE) sera organisée, durant 
+laquelle le Chef de file du bureau de consulting et de formation doit : 
+ Présenter l'équipe intervenante dans le cadre de la mission de mise en place du 
+système de management pour les organismes d'éducation/formation (SMOE) de l’ISSIT ; 
+ Présenter la méthodolo gie à suivre pour l'accompagnement et l'assistance de toute la 
+mission ; 
+ Présenter le programme de formation à dispenser dans le cadre de cette mission ; 
+ Le soumissionnaire doit fournir à l'ISSIT pour approbation après une semaine au 
+maximum : 
+- Le plan d'audit initial (diagnostic) de l'ISSIT ;
+
+===== CHUNK 16 =====
+ Le soumissionnaire doit fournir à l'ISSIT pour approbation après une semaine au 
+maximum : 
+- Le plan d'audit initial (diagnostic) de l'ISSIT ; 
+- La composition de l'équipe intervenante, la méthodologie de l'audit initial et la liste 
+des documents à préparer par l'ISSIT. 
+ 
+ii. Audit initial : 
+Le soumissionnaire est appelé à réaliser un audit initial qui englobe toutes les activités de 
+l’ISSIT par rapport aux exigences de la norme ISO 21001 Version 2018 et des exigences 
+légales et réglementaires. 
+ Conduire une visite de diagnostic afin de prendre connaissances des infrastructures et 
+des dispositions appliquées ;  
+ Examiner, analyser et évaluer l'organisation existante par rapport aux exigences de la 
+norme internationale ISO 21001 Version 2018 ; 
+ Consigner les écarts, émettre des recommandations et établir un plan d'actions relatif 
+aux différentes phases du projet. 
+L'audit initial de l'ISSIT doit être effectué par le Chef de file ou d'un expert du domaine 
+audité.
+
+===== CHUNK 17 =====
+aux différentes phases du projet. 
+L'audit initial de l'ISSIT doit être effectué par le Chef de file ou d'un expert du domaine 
+audité. 
+iii. Livrables :
+
+===== CHUNK 18 =====
+--- Page 7 ---
+
+===== CHUNK 19 =====
+6 
+ 
+Élaborer un rapport de diagnostic et un plan d'actions global du projet "Mission d'assistance, 
+accompagnement et renforcement des capacités du pers onnel de l'IS SIT à l'implémentation 
+d'un système de Management de la Qualité conformément aux exigences de la Norme ISO 
+21001 Version 2018" en tenant compte des éléments de sortie de l'audit initial. 
+Cette phase est planifiée sur une durée de (02) HJ et sera validée par le comité de pilotage. 
+ 
+b. Phase 2 : Développement des compétences : 
+Cette phase se présente comme suit : 
+ La sensibilisation du personnel de l'ISSIT, sur les enjeux de la qualité, les exigences de 
+la norme ISO 21001 Version 2018 et sur les démarches d'amélioration continue. 
+ Former les bénéficiaires de la formation sur les techniques de management de la 
+qualité conformément au programme de la formation détaillé dans le tableau ci-dessous. 
+ 
+N° Thème Durée Nombre de 
+personnes 
+ 
+1 Les exigences de la norme ISO 21001 : 2018 01 jour 15 à 30 
+Non
+
+===== CHUNK 20 =====
+qualité conformément au programme de la formation détaillé dans le tableau ci-dessous. 
+ 
+N° Thème Durée Nombre de 
+personnes 
+ 
+1 Les exigences de la norme ISO 21001 : 2018 01 jour 15 à 30 
+Non 
+Certifiantes 
+2 Le management des risques selon la Norme 
+ISO 31000 : 2018 
+01 jour 15 à 30 
+3 Formation sur le principe d’audit interne liée 
+à la norme ISO 21001 : 2018 
+01 jour 15 à 30 
+4 Le pilotage des processus du Système 
+management des organismes d'éducation ISO 
+21001 : 2018 
+02 jour 15 
+5 Élaboration des tableaux de bord et 
+indicateurs de qualité 
+02 jours 15 
+6 Formation certifiante Lead Auditor 
+ISO21001 : 2018 
+4 jours 02 Certifiante 
+ 
+Les formations doivent traiter outre les aspects fondamentaux, des aspects pratiques concrets 
+liés à l’établissement.  
+i. Livrables : 
+A l’issue des formations, le soumissionnaire doit remettre à l'ISSIT :   
+ Le Programme détaillé des actions de formation ; 
+ Les supports de formation (numérique et papier) ;
+
+===== CHUNK 21 =====
+i. Livrables : 
+A l’issue des formations, le soumissionnaire doit remettre à l'ISSIT :   
+ Le Programme détaillé des actions de formation ; 
+ Les supports de formation (numérique et papier) ; 
+ Les questionnaires d’évaluation complétés par les participants ;
+
+===== CHUNK 22 =====
+--- Page 8 ---
+
+===== CHUNK 23 =====
+7 
+ 
+ Les fiches de présence des participants ;  
+ Les attestations  de formation et/ou de qualification professionnelle pour les 
+participants ; 
+ii. Durée :  
+La durée de la phase 2 est égale au nombre des jours de formation équivalentes au tableau ci -
+dessus soit (11) H.J. 
+ 
+c. Phase 3 : Conception et formalisation du système : 
+Conformément au plan d’action présenté dans le rapport de l'audit initial et validé par le 
+comité de pilotage du projet, le soumissionnaire doit fournir une liste d'experts qui sera 
+approuvée avant la planification de cette phase qui comprend les étapes suivantes :  
+Etape 1 : Lancement du projet de mise en place du SMOE ; 
+Etape 2 :  Identification du contexte de l'ISSIT et définition du domaine d’application du 
+SMOE, la révision de sa politique qualité « Elaboration d’une politique Qualité » ; 
+Etape 3 :  Planification des objectifs du système de management pour les organismes 
+d'éducation/formation (SMOE) ;
+
+===== CHUNK 24 =====
+Etape 3 :  Planification des objectifs du système de management pour les organismes 
+d'éducation/formation (SMOE) ; 
+Etape 4 :  Formalisation du SMOE (Élaboration des documents écrits nécessaires à la gestion 
+du système : fiches processus, procédures, instructions de travail, formulaire…) ; 
+Etape 5 : Suivi de la mise en œuvre du SMOE. 
+i. Livrables : 
+- L'analyse du contexte interne et externe ainsi que les besoins et attentes des parties 
+intéressées ; 
+- La planification des objectifs et l'établissement de la politique qualité ; 
+- Un plan d'action face aux risques et opportunités ; 
+- La cartographie des processus du système management qualité et leurs interactions ; 
+- Les informations documentées nécessaires pour le bon fonctionnement des processus 
+stratégiques et opérationnelles de l'ISSIT ; 
+- Les dispositions relatives à la mise en œuvre efficace du système de management pour 
+les organismes d'édu cation/formation notamment : l'évaluation des compétences, l'évaluation
+
+===== CHUNK 25 =====
+- Les dispositions relatives à la mise en œuvre efficace du système de management pour 
+les organismes d'édu cation/formation notamment : l'évaluation des compétences, l'évaluation 
+des prestataires externes, le suivi des non -conformités et la maitrise des actions correctives,  
+etc.
+
+===== CHUNK 26 =====
+--- Page 9 ---
+
+===== CHUNK 27 =====
+8 
+ 
+- Tout autre information documentée exigée par la norme IS0 21001 Version 2018 et au  
+fonctionnement efficace du SMOE. 
+ii. Durée : 
+Le délai global alloué à cette phase est de (15) H.J étalés sur six (6) mois, tout en prenant en 
+considération les exigences suivantes : 
+1. Une réunion mensuelle obligatoire de contrôle et de validation,  d’une durée de (0.5) 
+H.J, en présence du chef de file et, éventuellement, de(s) expert(s) de l’équipe intervenante et 
+ce à partir du deuxième mois du démarrage de cette phase ; 
+2. Le soumissionnaire, en coordination avec le comité de pilotage, doit fournir à  l'ISSIT 
+un Procès -Verbal qui sera validé par le comité de pilotage d e cette action du projet PAQ 
+HARMONIE. 
+Cette étape sera clôturée par la remise à l'ISSIT d’une copie complète et finale des documents 
+du SMOE. 
+d. Phase 4 : Mise en œuvre, audit interne et améliorations : 
+ 
+ Mise en œuvre, audits internes :
+
+===== CHUNK 28 =====
+du SMOE. 
+d. Phase 4 : Mise en œuvre, audit interne et améliorations : 
+ 
+ Mise en œuvre, audits internes :  
+Cette phase consiste, à réaliser deux Audits qualité internes. Les audits internes doivent 
+toucher l’ensemble du périmètre d’une éventuelle certification du SMOE de l’ISSIT. La durée 
+allouée à la mission de chaque audit est de (01) HJ et doit être clôturée par la fourniture d’un 
+rapport d’audit renfermant les écarts et les dysfonctionnements constatés ainsi que les 
+recommandations d’amélioration et les actions correctives à mettre en œuvre. La planification 
+des dates des audits internes doit être faite en coordination avec les représentants de l'ISSIT. 
+i. Livrables : 
+Le soumissionnaire doit fournir à l'ISSIT pour approbation, deux semaines au minimum avant 
+l’audit qualité interne, un document renfermant : 
+- Le plan d’audit : contenant la composition de l’équipe d'audit, le planning
+
+===== CHUNK 29 =====
+l’audit qualité interne, un document renfermant : 
+- Le plan d’audit : contenant la composition de l’équipe d'audit, le planning 
+d’intervention, la méthodologie de l’audit, le domaine à auditer, la liste des documents de 
+travail nécessaires pour effectuer la mission d’audit. etc. ; 
+ 
+ Amélioration :
+
+===== CHUNK 30 =====
+--- Page 10 ---
+
+===== CHUNK 31 =====
+9 
+ 
+À la suite de la réalisation de chaque audit interne, les consultants doivent procéder avec les 
+pilotes processus au traitement des non-conformités d'audit, La durée allouée à cette phase est 
+d’un(2x 0.5 = 01) HJ / audit et doit être sanctionnée par : 
+i. Livrables : 
+ Plan d’action des traitements et suivi des Non-Conformités issues des Audits internes ; 
+ Le suivi des retours d'informations des apprenants, du personnel et des bénéficiaires. 
+La mise en œuvre des actions correctives sera effectuée par les groupes de travail avec 
+l’assistance et l’accompagnement de l’expert. 
+Durant cette phase, le chef de file doit assister et accompagner le personnel de l’ISSIT à 
+développer les éléments d'entrées de la revue de direction a insi réalisée et l'animation de la 
+première Revue de direction du SMOE. Il assure aussi le suivi des éléments de sorties de la 
+revue de direction et ce pendant (02) HJ. 
+ 
+5. DURÉE ET LIEU D’EXÉCUTION DE LA MISSION :
+
+===== CHUNK 32 =====
+première Revue de direction du SMOE. Il assure aussi le suivi des éléments de sorties de la 
+revue de direction et ce pendant (02) HJ. 
+ 
+5. DURÉE ET LIEU D’EXÉCUTION DE LA MISSION : 
+Le délai global d'exécution des prestations, qui est fixé à environs trente -cinq (35) hommes 
+jours, s’étalera    sur    une    période    de   cinq (06) mois à partir du mois d’avril 2023 ou 
+pendant toute autre période fixée ultérieurement par l’ISSIT aprè s concertation avec le bureau 
+retenu. La date définitive de démarrage de la mission sera définitivement fixée par l’ISSIT 
+lors de la négociation du contrat. 
+La charge de travail hebdomadaire des consultants fera l’objet de négociation et sera précisée 
+dans le contrat.  
+Le titulaire du marché proposera un planning d’exécution du projet qui décrit le déroulement 
+des phases, les délais et les intervenants associés. 
+L’ISSIT validera le planning du projet qu’elle jugera cohérent.
+
+===== CHUNK 33 =====
+des phases, les délais et les intervenants associés. 
+L’ISSIT validera le planning du projet qu’elle jugera cohérent. 
+Le lieu de travail pour le consultant durant sa mission sont les locaux de l’ISSIT. 
+6. MODALITES DE PAIEMENT : 
+Le paiement sera effectué comme suit : 
+- 30 % du montant global sera payé suite à l’exécution et la validation des phases 1 et 2.
+
+===== CHUNK 34 =====
+--- Page 11 ---
+
+===== CHUNK 35 =====
+10 
+ 
+- 70 % du montant global sera payé suite à l’exécution et la validation de la phase 3 et 4. 
+7. QUALIFICATIONS ET COMPÉTENCES : 
+Peuvent participer à cette consultation les consultants (organismes de formation et 
+d’expertise/bureau, etc.) qui ont les qualifications suivantes :  
+ Avoir au minimum deux experts (désigner un chef de fil) , qui doivent répondre aux 
+critères suivants : 
+- Être titulaire au moins d’un diplôme de niveau Bac+4 ; 
+- Avoir une expérience professionnelle dans le domaine universitaire publique ; 
+- Le chef de fil doit ê tre certifié “ Lead Implémenter ISO 2 1001”, “ Lead Auditor 
+ISO 21001”; 
+- Avoir au moins deux expériences réu ssies d’accompagnement et certification des 
+SMQ réussie selon la Norme ISO 9001 Version 2015 dans des misions similaires ; 
+- Avoir une expérience pertinente d’accompagnement de la mise en place d'un 
+SMOE (ou d'un SMQ) avec certification réussie dans le secte ur de l’enseignement supérieur 
+et de la recherche scientifique ;
+
+===== CHUNK 36 =====
+SMOE (ou d'un SMQ) avec certification réussie dans le secte ur de l’enseignement supérieur 
+et de la recherche scientifique ; 
+- Avoir la qualification de formateur des responsables d'audit ISO 21001. 
+8. MODES DE SELECTION ET NÉGOCIATION : 
+a. Modalité de consultation : 
+Les soumissionnaires intéressés à réaliser la mission décrite dans les termes de références, 
+doivent se présenter comme étant une entité à statut juridique reconnu dans le domaine de la 
+formation continue ou professionnelle et de l'assistance et de l’accompagnement des 
+organismes. 
+Les soumissionnaires doivent présenter les experts qui auront la charge d’assurer les 
+différentes activités telles que formulées dans le TDR. Ils doivent également nommer un chef 
+de file qui sera le vis-à-vis de l’organisme avec les responsables du p rojet PAQ-HARMONIE 
+de l’ISSIT.  
+ 
+b. Critères de sélection :
+
+===== CHUNK 37 =====
+--- Page 12 ---
+
+===== CHUNK 38 =====
+11 
+ 
+La sélection d u soumissionnaire (organismes de formation, d'accompagnement et de 
+consulting/bureaux ) est effectuée conformément aux procédures définies dans les directives « 
+Sélection et Emploi de C onsultants par les Emprunteurs de la Banque Mondiale » éditées en 
+janvier 2011 et mises à jour en juillet 2014. 
+Le soumissionnaire pourra présenter une candidature individuelle ou sous forme de 
+regroupement. 
+Une Commission de Sélection (CS) du projet établ ira un classement des candidats selon les 
+critères suivants : 
+Critère d’évaluation Barème de 
+notation Détails de notation Note 
+Chef de fil certifié Lead 
+implementer ISO 
+21001, Lead Auditor 
+ISO 21001 
+Critère éliminatoire OUI/NON 
+Diplôme universitaire  10 points 10 points pour (niveau Bac +4) 
+ ….. /10 
+Expérience formation 
+ISO 21001 40 points 
+40 points : Nb de formations effectuées >=6 
+20 points : 4<=Nb de formation < 6 
+10 points :  2<=Nb formations < 4 
+5 points : Nb formations =1 
+….. /40 
+Expérience
+
+===== CHUNK 39 =====
+ISO 21001 40 points 
+40 points : Nb de formations effectuées >=6 
+20 points : 4<=Nb de formation < 6 
+10 points :  2<=Nb formations < 4 
+5 points : Nb formations =1 
+….. /40 
+Expérience 
+accompagnement à la 
+mise en place SMOE  
+30 points 
+30 points  : Nb de mission d’accompagnement  
+jusqu’à certification >= 1 
+20 points : Nb de mission d’acco mpagnement  
+>= 3 
+15 points : Nb de missions  =2 
+5 points : Nb de missions  =1 
+0 points : Nb de missions = 0 
+….. /30 
+Expérience en audit 
+tierce partie 
+SMQ/SMOE 
+10 points 
+10 points  : Nb de mission d’accompagnement 
+>= 5 
+5 points : 3<=Nb de missions < 5 
+2 points : 1<=Nb de missions < 3 
+0 points : Nb de missions = 0 
+….. /10 
+Expérience 
+internationale/ nationale 10 points 
+10 points : Expérience nationale> 10 ans et /ou 
+expérience internationale > 10 ans 
+5 points  : 5 < Expérience nationale < 10 ans 
+et/ou 5<expérience internationale < 
+10 ans 
+1 points  : Expérience nationale < 5 ans et/ou 
+expérience internationale < 5 ans
+
+===== CHUNK 40 =====
+5 points  : 5 < Expérience nationale < 10 ans 
+et/ou 5<expérience internationale < 
+10 ans 
+1 points  : Expérience nationale < 5 ans et/ou 
+expérience internationale < 5 ans 
+….. /10 
+NOTE FINALE EN POINTS SUR 100 ….. /100
+
+===== CHUNK 41 =====
+--- Page 13 ---
+
+===== CHUNK 42 =====
+12 
+ 
+Un PV d’évaluation des soumissionnaires ayant manifesté leur intérêt à assurer cette mission 
+est rédigé au terme de la sélection par le Comité de Sélection (CS) qui établira une liste 
+restreinte des consultants ayant eu un score minimum de 70/100. Le soumissionnaire ayant 
+obtenu une note inférieure à 70 points, verra son offre rejetée de droit. 
+Le soumissionnaire (organismes de formation et d’expertise/bureau, etc.) classé premier sera 
+invité à soumettre une proposition technique et financière détaillée puis à négocier le marché. 
+En cas d'accord par suite des négociations, le soumissionnaire sera désigné attributaire de la 
+mission et appelé à signer le contrat. En cas de désaccord, le co mité technique passera au 
+soumissionnaire classé 2ème dans la liste restreinte.  
+Les négociations avec le soumissionnaire porteront essentiellement sur : 
+ Les conditions financières et techniques de mise en œuvre de la mission, notamment le
+
+===== CHUNK 43 =====
+Les négociations avec le soumissionnaire porteront essentiellement sur : 
+ Les conditions financières et techniques de mise en œuvre de la mission, notamment le 
+calendrier détaillé de déroulement de la mission ; 
+ L’approche méthodologique et les modalités de la formation et de la certification ; 
+ Le contenu des livrables. 
+L’ISSIT s’attend à ce que l ’organisme sélectionné réalise la mission complète répondant aux 
+critères développés dans les présents termes de références et conformément aux meilleures 
+pratiques professionnelles dans le domaine. 
+ 
+9. PIECES CONSTITUTIVES :  
+- Lettre de candidature au nom du chef du projet PAQ-HARMONIE ISSIT  
+- Curriculums Vitae selon le modèle en annexe mentionnant les diplômes, certifications, 
+qualifications et expériences requises du  bureau et de ses  consultants proposés pour la 
+mission, selon le modèle ci-joint en annexe 1, avec les pièces justificatives ; 
+- Références récentes et pertinentes en missions similaires ;
+
+===== CHUNK 44 =====
+mission, selon le modèle ci-joint en annexe 1, avec les pièces justificatives ; 
+- Références récentes et pertinentes en missions similaires ; 
+ 
+Les dossiers de manifestation d’intérêt doivent parvenir sur TUNEPS ou par voie postale 
+(normale, recommandée ou rapide) ou par dépôt direct au bureau d’ordre de l’ISSIT à 
+l’adresse :  
+Institut Supérieur des Sciences Infirmières de Tunis, colline La Rabta, Jabbari 1007. 
+ 
+L’enveloppe extérieure devra porter la mention suivante :  
+A NE PAS OUVRIR,
+
+===== CHUNK 45 =====
+--- Page 14 ---
+
+===== CHUNK 46 =====
+13 
+ 
+« Manifestation d’Intérêt pour la mission : Assistance technique pour la mise en place 
+d’un SMOE (ISO 21001 Version 2018) » 
+ 
+Les offres doivent parvenir au plus tard le 17 février 2023 à 12h00. 
+ 
+10. LES BÉNÉFICIAIRES DE LA MISSION :  
+Enseignants et administratifs de l’ISSIT + Responsables du centre 4C ISSIT  : environ 15 
+personnes au total. 
+11. LIVRABLES : 
+Les livrables, rédigés en langue française, doivent être fournis selon la forme jugée 
+satisfaisante par le comité de suivi du projet PAQ -HARMONIE-ISSIT. Une fois validés, tous 
+les rapports seront remis à l’ISSIT en version papier, en trois (3) exemplaires, avec un envoi 
+en parallèle par courrier électronique (sous format Word et PDF). L’envoi du rapport final de 
+la mission à l’ISSIT devra être effectué, dans les 15 jours qui suivent la fin de la mission. 
+Le planning de réalisation de la mission ainsi que les délais de soumission des livrab les seront 
+définis dans le contrat du soumissionnaire.
+
+===== CHUNK 47 =====
+Le planning de réalisation de la mission ainsi que les délais de soumission des livrab les seront 
+définis dans le contrat du soumissionnaire. 
+12. CONFLIT D’INTÉRÊT :  
+Les soumissionnaires en conflit d’intérêt, c'est-à-dire qui auraient un intérêt quelconque direct 
+ou indirect au projet ou qui sont en relation personnelle ou professionnelle avec l’ISSIT 
+doivent déclarer leurs conflits d’intérêt au moment de la transmission de la lettre de 
+candidature pour la  mission. Tout fonctionnaire doit présenter l’autorisation nécessaire pour 
+assurer la mission. Les consultants intéressés sont priés de bien p rendre connaissance des 
+dispositions du paragraphe 1.9 des directives de la Banque Mondiale de janvier 2011 révisé en 
+juillet 2014. 
+13. CONFIDENTIALITÉ : 
+Le soumissionnaire retenu pour la présente mission est tenu à respecter une stricte 
+confidentialité vis-à-vis des tiers, pour toute information relative à la mission ou collectée à
+
+===== CHUNK 48 =====
+Le soumissionnaire retenu pour la présente mission est tenu à respecter une stricte 
+confidentialité vis-à-vis des tiers, pour toute information relative à la mission ou collectée à 
+son occasion. Tout manquement à cette clause entraine l'interruption immédiate de la mission. 
+Cette confidentialité reste de règle et sans limitation après la fin de la mission. 
+14. NEGOCIATION DU CONTRAT :
+
+===== CHUNK 49 =====
+--- Page 15 ---
+
+14 
+ 
+Les négociations porteront essentiellement sur :  
+- Les conditions techniques de mise en œuvre de la mission, notamment le calendrier 
+détaillé de déroulement de la mission.  
+- L’offre financière. 
+15. ANNEXES : 
+- Annexe 1 : Modèle de Curriculums Vitae. 
+- Annexe 2 : Observation et suggestions du soumissionnaire sur les termes de référence. 
+ 
+          Vu et approuvé 
+Lu et accepté par le soumissionnaire       Le chef du projet PAQ-HARMONIE ISSIT 
+…………., le ……………………….    Tunis le 16 janvier 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+
+
+--- Page 16 ---
+
+15 
+ 
+ 
+ 
+ 
+ 
+Annexes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 17 ---
+
+===== CHUNK 50 =====
+--- Page 16 ---
+
+15 
+ 
+ 
+ 
+ 
+ 
+Annexes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 17 ---
+
+16 
+ 
+CV pour la candidature pour la mission de 
+…………………………… 
+ 
+1. Nom et prénom de l’expert :  
+2. Date de naissance :      Nationalité :  
+3. Niveau d’études : 
+ 
+Institution (Dates : début – fin) Diplôme(s) obtenu(s) 
+   
+   
+   
+   
+   
+   
+ 
+4. Compétences clés : 
+ 
+5. Affiliation à des associations/groupements professionnels : 
+ 
+6. Autres formations 
+ 
+7. Pays où l’expert a travaillé : 
+ 
+8. Langues : (bon, moyen, médiocre) 
+ 
+9. Expérience professionnelle : 
+ 
+10. Compétences spécifiques de l’expert exigées dans le cadre de leur mission 
+ 
+ …………………………….. 
+Langue Lu Parlé Écrit 
+    
+    
+    
+Depuis - 
+Jusqu’à Employeur Poste 
+   
+   
+   
+   
+   
+
+
+--- Page 18 ---
+
+===== CHUNK 51 =====
+17 
+ 
+ …………………………….. 
+ …………………………….. 
+ …………………………….. 
+ …………………………….. 
+ 
+Compétences 
+Spécifiques :   
+11. Expériences pertinentes de l’expert qui illustrent le mieux sa compétence : 
+ 
+ 
+Supprimer 
+les numéros 
+des 
+compétences 
+spécifiques 
+non 
+concernées 
+par cette 
+expérience 
+Nom du projet: 
+Année : 
+Lieu : 
+Client : 
+Nom et prénom de la personne de contact chez 
+le client : 
+Coordonnées de la personne de contact chez le 
+client (tél. et email) : 
+Poste : 
+Activités : 
+……………………….. 
+………………………. 
+………………………. 
+………………………. 
+………………………. 
+ 
+………………………. 
+………………………. 
+………………………. 
+ 
+ 
+NB. Ajouter autant de lignes que d’expériences pertinentes. 
+12. Compétences et aptitudes sociales 
+Vivre et travailler avec  d'autres personnes,  dans des environnements multiculturels, à des postes où  la 
+communication est importante et les situations où le travail d'équipe est essentiel (activités culturelles et sportives 
+par exemple), etc. 
+ 
+13. Aptitudes et compétences organisationnelles
+
+===== CHUNK 52 =====
+communication est importante et les situations où le travail d'équipe est essentiel (activités culturelles et sportives 
+par exemple), etc. 
+ 
+13. Aptitudes et compétences organisationnelles 
+Coordination et gestion de  personnes, de projets  et des budgets; au travail, en bénévolat  (activités culturelles et 
+sportives par exemple) et à la maison, etc. 
+ 
+14. Compétences et expériences personnelles 
+Acquises au cours  de la vie  et de la carrière  mais non nécessairement  validées par des certificats  et diplômes 
+officiels 
+ 
+15. Information complémentaire 
+ [Inclure ici toute information jugée pertinente pour la présente mission: contacts de personnes références, publications, etc.]   
+16. ANNEXES.  
+[Lister toutes les annexes jugées pertinentes pour la mission : exemple : missions d’études et coopération internationale]  
+    
+J'ATTESTE, EN TOUTE BONNE CONSCIENCE, QUE LES RENSEIGNEMENTS SUSMENTIONNES REFLETENT 
+EXACTEMENT MA SITUATION, MES QUALIFICATIONS ET MON EXPERIENCE.
+
+===== CHUNK 53 =====
+J'ATTESTE, EN TOUTE BONNE CONSCIENCE, QUE LES RENSEIGNEMENTS SUSMENTIONNES REFLETENT 
+EXACTEMENT MA SITUATION, MES QUALIFICATIONS ET MON EXPERIENCE. 
+JE M'ENGAGE A ASSUMER LES CONSEQUENCES DE TOUTE DECLARATION VOLONTAIREMENT ERRONEE.
+
+===== CHUNK 54 =====
+--- Page 19 ---
+
+18 
+ 
+... .... DATE: JOUR / MOIS / ANNEE 
+[Signature du consultant] 
+Annexe 2 : Observations et suggestions du Consultant sur les Termes de référence et sur 
+le personnel de contre partie et services devant être fournis par le Client 
+ 
+A – Sur les Termes de référence 
+ 
+[Présenter et justifier toute modification et/ou amélioration aux Termes de référence que vous 
+proposez pour améliorer les résultats de la mission (par exemple, supprimer des activités que vous 
+estimez superflues, en ajouter d’autres ou encore proposer un échelonnement différent des activités. 
+Soyez concis et précis]

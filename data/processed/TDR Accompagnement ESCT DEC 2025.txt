@@ -1,0 +1,852 @@
+
+
+--- Page 1 ---
+
+1 
+ 
+ 
+REPUBLIQUE TUNISIENNE 
+MINISTERE DE L'ENSEIGNEMENT 
+SUPERIEUR ET DE LA RECHERCHE 
+SCIENTIFIQUE 
+ 
+ 
+ 
+                                                                                                            
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Décembre 2025 
+ TERMES DE REFERENCE Marché pour le recrutement d’un bureau d’étude pour la mission  « Accompagnement et formation dans la démarche de mise en place d’un Système de Management de la Qualité SMQ  selon les référentiels ISO 9001 : 2015 et 21001: 2018  au sein de l’Ecole Supérieure de Commerce de Tunis   (ESCT), Université de la Manouba » 
+
+
+--- Page 2 ---
+
+2 
+ 
+Table de matière 
+Table de matière ................................................................................................................................ 2 
+1. CONTEXTE DE L’ACTION ................................................................................................... 3 
+2. OBJECTIFS DE LA MISSION ................................................................................................ 3 
+2.1 Objectif général ....................................................................................................................... 3 
+2.2 Objectifs spécifiques ............................................................................................................... 4 
+2.3 Résultats attendus ................................................................................................................... 4 
+3. BÉNÉFICIAIRES DE LA MISSION ....................................................................................... 4 
+4. PROCESSUS VISÉS PAR LA CERTIFICATION .................................................................. 4 
+5. ÉTAPES DE LA MISSION / ACTIVITÉS ET DURÉES D'EXÉCUTION ............................ 4 
+5.1 Développement des compétences en implémentation de la démarche qualité et en audit 
+interne ........................................................................................................................................... 5 
+5.2 Assistance et accompagnement de l'ESCT dans la mise en place du SMQ/SMOE selon les 
+normes ISO 9001:2015 et ISO 21001:2018 .................................................................................. 6 
+6. LIVRABLES ............................................................................................................................ 8 
+7. PÉRIODE, DURÉE ET LIEU D'EXÉCUTION DE LA MISSION ....................................... 10 
+8. CONDITIONS D'EXÉCUTION DE LA MISSION ............................................................... 10 
+8.1 Moyens et ressources à mobiliser par le bureau ................................................................... 10 
+8.2 Moyens et ressources à fournir par l'ESCT durant la mission .............................................. 10 
+8.3 Responsabilité du bureau ...................................................................................................... 10 
+9. QUALIFICATIONS ET PROFIL DU BUREAU D'ÉTUDES ............................................... 10 
+9.1 Conditions de participation ................................................................................................... 10 
+10. MODE DE SÉLECTION ET NÉGOCIATION DU CONTRAT ...................................... 12 
+11. PIÈCES CONSTITUTIVES DE LA MANIFESTATION D'INTÉRÊT ........................... 14 
+12. CONFLITS D'INTÉRÊTS ................................................................................................. 15 
+13. CONFIDENTIALITÉ ........................................................................................................ 16 
+ 
+  
+
+
+--- Page 3 ---
+
+3 
+ 
+ 
+ 
+1. CONTEXTE DE L’ACTION 
+Dans le cadre de la stratégie de l’Université de la Manouba (UMA) et en cohérence 
+avec les orientations stratégiques du ministère de l’enseignement supérieur et de la 
+recherche scientifique (MESRST), de l'Université de la Manouba (UMA) et de 
+l'École Supérieure de Commerce de Tunis (ESCT), que l'ESCT vise à renforcer sa 
+gestion stratégique et sa gouvernance, à structurer ses processus pédagogiques et 
+administratifs et à se mettre en conformité avec les standards qualité, afin de mieux 
+répondre aux attentes du marché, dans un environnement universitaire propice à 
+l'innovation et à la créativité. 
+Ainsi, et afin de déclencher une démarche de conformité aux standards 
+internationaux de qualité et dans le but de mettre en place un Système de 
+Management des Organismes d'Enseignement (SMOE) conformément aux normes 
+ISO 9001:2015 et ISO 21001:2018, l'ESCT sollicite par la présente des candidatures 
+émanant de bureaux de consultants (bureaux d'études, cabinets de consulting, 
+consortiums d'experts, groupements, etc.) en vue de la fourniture de services 
+d'assistance technique pour la mise en place d'un SMQ/SMOE (ISO 9001:2015 et 
+ISO 21001:2018) au sein de l'établissement. Cette démarche vise à renforcer la 
+gouvernance, structurer les processus pédagogiques et administratifs et se préparer 
+à la certification ISO9001 & ISO 21001. 
+Le consultant travaillera en étroite collaboration avec la présidente du Comité pour 
+la Qualité (CPQ-ESCT) et les coordinateurs responsables de cette mission, auxquels 
+il rendra compte de l'avancement des travaux. 
+Les soumissionnaires qui manifestent leur intérêt pour fournir les services décrits 
+dans les présents termes de référence, téléchargeables sur le site de l'ESCT : 
+http://esct.rnu.tn/, doivent fournir les informations pertinentes montrant qu'ils 
+sont qualifiés pour exécuter les prestations demandées.  
+Les candidats intéressés peuvent obtenir de plus amples informations au sujet des 
+TDR par courriel à l'adresse électronique : directionetudes@esct.uma.tn 
+2. OBJECTIFS DE LA MISSION 
+2.1 Objectif général 
+Accompagner et assister les enseignants et le personnel administratif de l'ESCT 
+dans la mise en place et l'opérationnalisation du Système de Management de la 
+Qualité (SMQ) / Système de Management des Organismes d'Éducation (SMOE) 
+selon les normes ISO 9001:2015 et ISO 21001:2018, jusqu'à la phase de pré-
+certification. 
+L'objectif général de cette mission est de renforcer la capacité de gestion de 
+l'administration et de la qualité de la formation à l'ESCT, de sorte que l'école 
+améliore sa compétitivité et réponde de manière satisfaisante aux attentes et aux 
+
+
+--- Page 4 ---
+
+4 
+ 
+exigences de toutes ses parties prenantes (étudiants, enseignants, personnels 
+administratifs, partenaires, tutelles, etc.). 
+2.2 Objectifs spécifiques 
+ OS1 : Développement des compétences du personnel de l'ESCT pour la mise 
+en place, le suivi et l'amélioration continue d'un SMQ/SMOE. 
+ OS2 : Préparation à la certification selon les normes ISO 9001:2015 et ISO 
+21001:2018. 
+2.3 Résultats attendus 
+Les résultats attendus de cette mission sont les suivants : 
+ Une équipe formée à l'implémentation de la démarche qualité selon les 
+normes ISO 9001:2015 et ISO 21001:2018, ainsi qu'à la réalisation de l'audit 
+interne selon ces mêmes normes. 
+ L'ESCT disposera des prérequis nécessaires pour procéder à la mission 
+d'audit de certification selon les normes ISO 9001:2015 et ISO 21001:2018. 
+3. BÉNÉFICIAIRES DE LA MISSION 
+Les bénéficiaires de la mission sont nombreux. 
+ Dans le cadre de l'OS1, les formations concernent un groupe de 25 personnes 
+au minimum, comprenant les membres du CPQ-ESCT et les pilotes de 
+processus. 
+ Dans le cadre de l'OS2, le premier bénéficiaire est l'ESCT dans son ensemble, 
+incluant tout le corps pédagogique, les cadres administratifs et le personnel 
+ouvrier. 
+4. PROCESSUS VISÉS PAR LA CERTIFICATION 
+Les processus visés par la certification sont l'ensemble des processus relatifs aux 
+activités de l'ESCT et aux missions qui lui sont attribuées. 
+5. ÉTAPES DE LA MISSION / ACTIVITÉS ET DURÉES D'EXÉCUTION 
+La mission est articulée autour de deux objectifs spécifiques : 
+ Le premier concerne les formations et le développement des compétences 
+de l'équipe de pilotage. 
+ Le second consiste à assister et accompagner l'ESCT pour la mise en place 
+d'un SMQ/SMOE selon les normes ISO 9001:2015 et ISO 21001:2018. 
+Sur la base de ces objectifs, le cabinet de consultants devra réaliser les actions 
+suivantes, sous l'autorité du CPQ-ESCT. Ces actions sont articulées en étapes. Le 
+soumissionnaire devra fournir à la présidente du CPQ-ESCT un rapport 
+intermédiaire de synthèse sur toutes les activités menées dans le cadre de chaque 
+
+
+--- Page 5 ---
+
+5 
+ 
+étape et les résultats obtenus. La présentation de ce rapport marquera la fin de 
+l'étape concernée et le début de l'étape suivante. 
+5.1 Développement des compétences en implémentation de la démarche qualité 
+et en audit interne 
+Dans le cadre du développement des compétences des équipes qualité de l'ESCT, le 
+consultant devra effectuer les actions suivantes : 
+1. Former les équipes qualité de l'ESCT aux concepts de la qualité afin de doter 
+les membres du CPQ-ESCT des aptitudes et outils nécessaires pour 
+implémenter la démarche qualité, piloter la performance et définir les KPI. 
+2. Former les équipes qualité de l'ESCT au management des risques, aux 
+principes et aux bonnes pratiques de l'audit. 
+3. Former les équipes qualité de l'ESCT à la conduite de l'audit interne, à 
+l'identification des non-conformités et à la rédaction des comptes rendus, 
+des rapports d'auto-évaluation et des rapports d'audit. 
+4. Évaluer l'atteinte des objectifs de la formation et le degré de satisfaction des 
+bénéficiaires par le biais de questionnaires. 
+5. S'assurer de la qualité des formations programmées (programmes, 
+supports, mise en œuvre) et proposer éventuellement des mesures 
+correctives. 
+6. Fournir à la présidente du CPQ-ESCT un rapport de synthèse. 
+Les membres du bureau désignés pour cette mission doivent être des formateurs 
+certifiés lead auditor et lead implementer des normes ISO 9001:2015 et ISO 
+21001:2018 et disposer d'une expérience significative en formation. 
+Les formations auront pour objectifs de permettre aux membres de l'équipe qualité 
+de : 
+ Maîtriser les exigences des normes ISO 9001:2015 et ISO 21001:2018. 
+ Comprendre les principes de management de la qualité. 
+ Comprendre les différentes approches de management de la qualité. 
+ Maîtriser les processus de mise en œuvre d'un système de management de 
+la qualité au sein de l'ESCT. 
+ Définir les domaines d'application du SMQ/SMOE. 
+ Identifier les facteurs de qualité pertinents et les éventuelles contraintes. 
+ Être qualifiés en tant qu’auditeurs internes capables de : 
+o Mener des missions d'audit interne. 
+o Identifier les non-conformités. 
+o Rédiger des comptes rendus et des rapports d'auto-évaluation. 
+
+
+--- Page 6 ---
+
+6 
+ 
+o Identifier les risques, les principes et les bonnes pratiques de l'audit. 
+o Définir les objectifs et le contenu d'un rapport d'audit. 
+o Rédiger des rapports d'audit et d'auto-évaluation. 
+ Rédiger la revue de direction. 
+La logistique des formations et des sessions d'information est à la charge de l'ESCT 
+(pause-café, salle, vidéoprojecteur, etc.). 
+5.2 Assistance et accompagnement de l'ESCT dans la mise en place du 
+SMQ/SMOE selon les normes ISO 9001:2015 et ISO 21001:2018 
+Étape 1 : Sensibilisation des parties prenantes et formation des 
+responsables au leadership 
+Afin d'assurer l'adhésion et l'implication des différentes parties prenantes de 
+l'ESCT aux obligations découlant des différentes étapes de déploiement de la 
+démarche qualité, d'appuyer la mise en œuvre du changement et de garantir la mise 
+en place effective du processus d'amélioration continue à l'ESCT, il est nécessaire 
+de : 
+ Sensibiliser les parties prenantes de l'ESCT (personnel enseignant, 
+administratif, ouvrier et étudiants) et les impliquer dans la démarche 
+d'Assurance Qualité Interne (AQI) dans le cadre d'une journée 
+d'information. 
+ Former les responsables de l'ESCT au leadership et aux principes qualité 
+(direction, chefs de département, coordinateurs de master), afin de leur 
+permettre de jouer pleinement leur rôle de facilitateurs du déploiement de 
+la démarche qualité. 
+ Organiser et superviser la tenue d'ateliers, animés par les responsables, au 
+profit des différentes parties prenantes. 
+Étape 2 : Diagnostic initial et plan d'action 
+Le titulaire du marché est tenu de réaliser un audit de diagnostic initial de l'ESCT 
+qui englobe toutes ses activités, au regard des exigences des normes ISO 9001:2015 
+et ISO 21001:2018 ainsi que des exigences légales et réglementaires applicables. 
+L'audit doit faire l'objet d'un rapport de diagnostic soulignant les enjeux, en 
+identifiant les points forts, les non-conformités et les contraintes existantes. Le 
+titulaire du marché est tenu d'établir, en concertation avec la présidente du Comité 
+pour la Qualité de l'ESCT, un plan d'action avec un planning détaillé visant la mise 
+en conformité des périmètres d'action par rapport aux référentiels ISO 9001:2015 
+et ISO 21001:2018. 
+L'audit initial doit être mené par le chef de file certifié lead auditor selon les normes 
+ISO 9001:2015 et ISO 21001:2018. 
+
+
+--- Page 7 ---
+
+7 
+ 
+Étape 3 : Conception et formalisation du SMQ/SMOE selon les normes ISO 
+9001:2015 et ISO 21001:2018 au sein de l'ESCT 
+Cette étape concerne la méthode de mise en place d'un SMQ/SMOE à l'ESCT 
+conformément aux exigences des normes ISO 9001:2015 et ISO 21001:2018. Elle 
+est articulée autour de la formalisation du SMQ/SMOE, notamment : 
+ Identification du contexte et définition du domaine d'application du 
+SMQ/SMOE. 
+ Formalisation et élaboration des documents nécessaires à la gestion du 
+système selon les exigences des normes ISO 9001:2015 et ISO 21001:2018 
+(principalement : politique qualité, organigramme, fiches de poste, 
+identification des rôles et responsabilités, fiches processus, instructions de 
+travail, formulaires, etc.). 
+ Identification des processus à implémenter ou à modifier. 
+ Élaboration et validation de la cartographie des processus internes et 
+externes de l'ESCT. 
+ Formalisation des processus et des procédures. 
+ Identification et formalisation des indicateurs de performance (KPI) 
+qualité. 
+ S'assurer de la validité des enquêtes menées au regard des KPI qualité 
+identifiés. 
+Cette étape doit être réalisée par un expert certifié lead implementer des normes 
+ISO 9001:2015 et ISO 21001:2018. 
+Étape 4 : Évaluation par l'audit interne 
+Cette phase consiste à réaliser deux audits qualité internes couvrant l'ensemble du 
+périmètre de certification du SMQ/SMOE de l'ESCT. 
+La planification des dates des audits internes doit être coordonnée avec les 
+représentants de l'ESCT. 
+Étape 5 : Traitement des non-conformités issues des audits internes 
+À la suite de la réalisation des audits internes, les consultants doivent procéder, 
+avec les pilotes de processus, au traitement des non-conformités relevées. 
+Étape 6 : Préparation et animation de la revue de direction 
+La mise en œuvre des actions correctives sera effectuée par les groupes de travail 
+avec l'assistance et l'accompagnement des experts du soumissionnaire. Durant 
+cette phase, le chef de file doit assister et accompagner le personnel de l'ESCT pour 
+élaborer les éléments d'entrée de la revue de direction, préparer et animer la 
+première revue de direction du SMQ/SMOE, et assurer le suivi des éléments de 
+sortie de ladite revue. 
+
+
+--- Page 8 ---
+
+8 
+ 
+La durée allouée à cette tâche est de deux (02) jours-hommes. 
+6. LIVRABLES 
+Les livrables indiqués ci-dessous seront fournis : 
+Dans le cadre de l'OS1, et à l'issue de chaque action de formation, le 
+soumissionnaire doit remettre à l'ESCT : 
+1. Le programme détaillé des actions de formation avec la désignation des 
+formateurs. 
+2. Les supports de formation (version numérique et papier). 
+3. Les questionnaires d'évaluation complétés par les participants. 
+4. La fiche de présence des participants. 
+5. Une attestation de formation pour tous les participants. 
+6. Un rapport de synthèse sur le cycle de formation effectué, adressé à la 
+présidente du CPQ-ESCT. 
+Dans le cadre de l'OS2, et à l'issue de chaque étape, le soumissionnaire 
+doit remettre à l'ESCT : 
+Étape 1 : 
+7. Programmes et affiches des journées d'information et des ateliers. 
+8. Fiches de présence des participants. 
+9. Questionnaires d'évaluation complétés par les participants. 
+10. Un rapport de synthèse sur les journées d'information et de sensibilisation 
+menées ainsi que les recommandations, adressé à la présidente du CPQ-
+ESCT. 
+Étape 2 : 
+11. Rapport d'audit et de diagnostic initial couvrant toutes les activités de 
+l'ESCT. 
+12. Plan d'action et planning détaillé de la mission d'accompagnement et d'audit 
+interne. 
+Étape 3 : 
+13. Plan d'orientation stratégique de l'ESCT. 
+14. Politique qualité de l'ESCT (y compris le rapport d'analyse du contexte de 
+l'ESCT : enjeux et parties intéressées). 
+15. Organigramme indiquant les responsabilités. 
+16. Fiches de poste. 
+
+
+--- Page 9 ---
+
+9 
+ 
+17. Fiches des processus et procédures rédigées (manuel de procédures) et 
+validées selon les normes ISO 9001 et ISO 21001. 
+18. Cartographie des processus internes et externes de l'ESCT. 
+19. Cartographie des processus du SMQ/SMOE. 
+20. Objectifs et indicateurs qualité (KPI) et plan d'actions associé. 
+21. Rapport sur la validité des enquêtes mises en place et leur conformité avec 
+les KPI. 
+22. Document d'analyse des risques et opportunités. 
+23. Plan d'actions relatif aux risques et opportunités prioritaires. 
+24. Toute information documentée exigée par les normes ISO 9001:2015 et ISO 
+21001:2018 et nécessaire au bon fonctionnement du SMQ/SMOE. 
+25. Un rapport de synthèse sur toutes les activités menées dans le cadre de cette 
+étape et les résultats obtenus, adressé à la présidente du CPQ-ESCT. 
+Tous les livrables doivent être conformes aux exigences des normes ISO 
+9001:2015 et ISO 21001:2018 et validés par le CPQ-ESCT. 
+Étape 4 : 
+26. Le plan d'audit interne (composition de l'équipe d'audit, planning 
+d'intervention, méthodologie d'audit, domaines à auditer, etc.), à livrer 15 
+jours avant la mission. 
+27. Un rapport d'audit interne présentant les écarts et les dysfonctionnements 
+constatés, ainsi que les recommandations d'amélioration et les actions 
+correctives à mettre en œuvre. 
+Étape 5 : 
+28. Rapport de traitement des non-conformités issues des audits internes. 
+Étape 6 : 
+29. Rapport sur le déroulement de la revue de direction. 
+30. Un rapport final, à soumettre par le soumissionnaire dans un délai de 15 
+jours après la fin de la mission, comprenant notamment : 
+o Un bref historique de la situation antérieure et la problématique de 
+la mission. 
+o Une description détaillée des actions réalisées. 
+o Les résultats obtenus. 
+o Les indicateurs permettant d'évaluer l'impact de la mission à moyen 
+et long terme. 
+o Les suggestions relatives aux fonctions de l'ESCT nécessitant des 
+mises à niveau. 
+
+
+--- Page 10 ---
+
+10 
+ 
+o Plan de pérennisation du système. 
+Les livrables seront rédigés en langue française. Une fois validés, tous les rapports 
+seront remis à la directrice de l'ESCT et à la présidente du CPQ-ESCT en version 
+papier et en version électronique (formats Word et PDF). L'envoi du rapport de 
+synthèse à la directrice de l'ESCT et à la présidente du CPQ-ESCT devra être 
+effectué dans les 15 jours qui suivent la fin de la mission. 
+7. PÉRIODE, DURÉE ET LIEU D'EXÉCUTION DE LA MISSION 
+ Le lieu d'exécution de la mission, ainsi que la tenue des formations et des 
+réunions, sera les locaux de l'ESCT. 
+ Les formations devront être effectuées dans le mois qui suit le démarrage de 
+la mission. 
+ Les délais de cette mission seront précisés après l'étape de diagnostic et, au 
+plus tard, neuf (9) mois après la date de démarrage de la mission, prévue 
+pour le 15 janvier 2026. 
+8. CONDITIONS D'EXÉCUTION DE LA MISSION 
+8.1 Moyens et ressources à mobiliser par le bureau 
+Le soumissionnaire prend à sa charge les frais de transport urbain et interurbain, 
+l'hébergement et tous les frais engendrés par le séjour des personnes impliquées 
+(alimentation, etc.). 
+8.2 Moyens et ressources à fournir par l'ESCT durant la mission 
+L'ESCT s'engage à mettre à la disposition du soumissionnaire toutes les données 
+nécessaires à l'exécution de la mission, ainsi que les équipements et moyens 
+matériels nécessaires durant l'exécution (salle, vidéoprojecteur, etc.). 
+8.3 Responsabilité du bureau 
+Le bureau d'études est tenu de s'acquitter de sa mission avec la diligence requise et 
+selon les règles de l'art. La responsabilité de l'expert envers l'ESCT est régie par le 
+droit applicable aux marchés publics. 
+9. QUALIFICATIONS ET PROFIL DU BUREAU D'ÉTUDES 
+9.1 Conditions de participation 
+Sont autorisés à participer au présent marché seuls les bureaux de consultants et 
+cabinets de conseil constitués en personne morale, spécialisés dans 
+l'accompagnement et la mise en place de systèmes de management de la qualité, 
+répondant aux compétences exigées pour la r éalisation de missions 
+d'accompagnement visant la préparation à la certification d'organismes selon les 
+normes ISO 9001:2015 et ISO 21001:2018. 
+ 
+
+
+--- Page 11 ---
+
+11 
+ 
+9.2 Qualifications du bureau 
+Le bureau doit : 
+ Avoir une expérience avérée, en tant que cabinet de conseil (et non 
+uniquement via des experts individuels recrutés ponctuellement), en 
+accompagnement pour la mise en place et la préparation à la certification 
+ISO 9001:2015 et ISO 21001:2018 pour des établissements d'enseignement 
+supérieur 
+ Justifier d'une expérience minimale de quatre (04) années dans le domaine 
+de l'accompagnement pour la certification des organismes 
+d'enseignement/formation et avoir coordonné au moins quatre missions 
+d'accompagnement réussies1 de certification ISO 9001:2015 et ISO 
+21001:2018 pour des organismes de formation/éducation. 
+ Disposer d'une expertise reconnue dans les systèmes de management de la 
+qualité adaptés au secteur éducatif, attestée par des références au nom du 
+bureau. 
+ Être certifié ISO 9001:2015 pour ses activités de conseil et de formation (la 
+certification du bureau en tant qu'entité juridique est exigée). 
+ Disposer d'une équipe permanente certifiée lead implementer et lead 
+auditor selon les normes ISO 9001:2015 et ISO 21001:2018, dont au moins 
+un membre est formateur qualifié sur les normes ISO 9001 et ISO 21001. 
+ Disposer d'une expérience en formation et en certification lead auditor et 
+lead implementer ISO 9001:2015 et ISO 21001:2018. 
+ Fournir la preuve de sa qualification en tant que formateur sur les normes 
+ISO, et spécifiquement sur les normes ISO 9001:2015 et ISO 21001:2018. 
+ Présenter des références et attestations au nom du bureau candidat, et non 
+uniquement au nom des experts de son équipe. 
+ Fournir la preuve d'avoir participé à des missions d'audit externe (audits de 
+tierce partie ou audits à blanc) pour des institutions d'enseignement 
+supérieur selon les normes ISO 9001:2015 et/ou ISO 21001:2018. Cette 
+expérience garantit que le cabinet comprend les exigences d'un organisme 
+de certification et peut donc offrir un accompagnement d'excellence. Un 
+minimum de dix (10) missions d'audit externe est requis. 
+  
+ 
+1 Aboutissant à une certification ISO 9001 et/ou ISO 21001 pour une institution universitaire. 
+
+
+--- Page 12 ---
+
+12 
+ 
+10. MODE DE SÉLECTION ET NÉGOCIATION DU CONTRAT 
+La sélection du consultant (cabinet de conseil, bureau d'études, etc.) est effectuée 
+de façon à garantir la qualification et la compétence de l'organisme pour la mission. 
+Une Commission de Sélection (CS) du projet établira un classement des candidats 
+selon les critères suivants : 
+Rubrique Critères de sélection Notation 
+1) Certification du 
+bureau 
+Certification prouvée iso 9001 20 
+points 
+Sous-total Rubrique 1 20 
+points 
+2) Diplômes et 
+qualifications des 
+membres du bureau 
+Diplôme universitaire (Master / Ingénieur), 2 
+points par expert (maximum 5 points) 
+5 points 
+Lead Implementer ISO 9001, 2 points par 
+expert certifié 
+5 points 
+Lead Auditor ISO 9001, 2 points par expert 
+certifié 
+5 points 
+Lead Implementer ISO 21001, 2 points par 
+expert certifié 
+5 points 
+Lead Auditor ISO 21001, 2 points par expert 
+certifié 
+5 points 
+Formateur de formateurs, 2 points par expert 
+certifié 
+5 points 
+Sous-total Rubrique 2 30 
+points 
+3) Qualifications pour 
+la mission de 
+formation 
+Expérience en formation sur la norme ISO 
+9001:2015 : 2 points par mission (maximum 
+5 points) 
+5 points 
+Expérience en formation certifiante lead 
+Implementer/Auditor ISO 9001:2015 : 2 
+points par mission (maximum 5 points) 
+5 points 
+Expérience en formation certifiante lead 
+Implementer/Auditor ISO 21001:2018 : 2 
+points par mission (maximum 5 points) 
+5 points 
+Sous-total Rubrique 3 15 
+points 
+
+
+--- Page 13 ---
+
+13 
+ 
+4) Qualifications pour 
+la mission 
+d'accompagnement et 
+d'audit interne 
+Missions d'accompagnement aboutissant à 
+une préparation réussie à la certification sur 
+la mise en place d'un SMQ/SMOE selon les 
+normes ISO 9001:2015 et ISO 21001:2018 
+pour des institutions universitaires 
+tunisiennes durant les quatre (04) dernières 
+années : 5 points par mission (maximum 25 
+points) 
+25 
+points 
+Expérience de l'organisme dans les missions 
+d'audit externe (audit à blanc ou audit de 
+tierce partie) sur la norme ISO 9001:2015 
+pour des organismes de formation/éducation 
+: 1 point par mission (maximum 5 points) 
+5 points 
+Expérience de l'organisme dans les missions 
+d'audit externe (audit à blanc ou audit de 
+tierce partie) sur la norme ISO 21001:2018 
+pour des organismes d'enseignement : 1 point 
+par mission (maximum 5 points) 
+5 points 
+Sous-total Rubrique 4 30 
+points 
+5) Démarche 
+méthodologique 
+proposée 
+Qualité et pertinence de la méthodologie de 
+mise en œuvre de la mission, incluant 
+notamment : 
+- Un planning détaillé des différentes étapes 
+avec jalons et livrables précis 
+- Une description claire des rôles et 
+responsabilités de l'équipe de consultants 
+- Une stratégie de formation et de 
+sensibilisation 
+- Une stratégie de gestion des risques et de 
+gestion de changement adaptée au contexte 
+universitaire 
+- Un dispositif d'assurance qualité et de suivi 
+de la mission (audits internes, évaluations 
+régulières, retours d'expérience) 
+- Un plan de transfert de compétences et de 
+durabilité des acquis après la fin de la 
+mission 
+25 
+points 
+ Sous-total Rubrique 5 25 
+points 
+ TOTAL 120 
+points 
+ 
+Un procès-verbal d'évaluation des soumissionnaires ayant manifesté leur intérêt à 
+assurer cette mission est rédigé au terme de la sélection par la Commission de 
+Sélection (CS), qui établira une liste restreinte des consultants ayant obtenu un 
+
+
+--- Page 14 ---
+
+14 
+ 
+score minimum de 90/120. Le soumissionnaire ayant obtenu une note inférieure 
+à 90 points verra son offre rejetée de droit. Tout soumissionnaire ayant un score 
+nul dans l'une des cinq rubriques est éliminé de la sélection, indépendamment de 
+son score final. Le choix sera effectué parmi les soumissionnaires ayant obtenu un 
+score supérieur à 90. 
+ 
+ 
+11. PIÈCES CONSTITUTIVES DE LA MANIFESTATION D'INTÉRÊT 
+Les dossiers de manifestation d'intérêt doivent comporter les documents suivants :  
+1. Une lettre de manifestation d'intérêt, dûment datée et signée, adressée à 
+Madame la Directrice de l'ESCT. 
+2. Les termes de référence dûment signés et paraphés par le représentant légal 
+du bureau candidat. 
+3. La copie de la certification ISO 9001:2015 du bureau candidat (entité 
+juridique), ou le registre d'accréditation s'il s'agit d'un organisme 
+certificateur. 
+4.  Les documents en annexes dûment remplis et signés 
+o Fiche de renseignement du soumissionnaire (Annexe 1) 
+o Déclaration sur l’honneur de non-faillite (Annexe 2) 
+o Déclaration sur l‘honneur de non-influence (Annexe 3) 
+o Déclaration sur l’honneur de confidentialité (Annexe 4) 
+o Les curriculums vitæ des experts membres du bureau appelés à 
+intervenir dans cette mission aux différentes étapes. (Annexe 5) 
+5. Les références et éléments de notoriété du cabinet en matière 
+d'accompagnement et de préparation à la certification ISO 9001:2015 et ISO 
+21001:2018 établis au nom du bureau. 
+6. Des attestations de bonne exécution des missions d’accompagnement ISO 
+9001 :2015 et ISO 21001 :2018 réalisées pour des institutions universitaires. 
+7. Une présentation générale du bureau incluant la structure juridique (extrait 
+du registre du commerce, statut) et l’organigramme du bureau (personnel 
+permanent et occasionnel).  
+8. Une copie des pièces justificatives : 
+o (i) diplômes, 
+o (ii) expériences du candidat, 
+o (iii) qualifications en rapport avec la nature de la mission. 
+9. Attestation d’affiliation à la CNSS 
+
+
+--- Page 15 ---
+
+15 
+ 
+10. Copie du registre de commerce 
+11. Une offre technique incorporant :  
+o La méthodologie détaillée de mise en œuvre de la mission  
+o Les conditions techniques de mise en œuvre de la mission, 
+notamment les délais de déroulement. 
+o Le contenu des livrables. 
+12. L'offre financière. 
+ 
+En cas de regroupement, il faut indiquer le bureau chef de file ainsi que toutes les 
+informations demandées pour les membres du groupement. Les références et 
+attestations doivent être clairement attribuées à chaque membre du groupement. 
+ 
+Les manifestations d'intérêt doivent être adressées au nom de la Directrice de 
+l’École Supérieure de Commerce de Tunis et déposées au bureau d’ordre de l’ESCT, 
+Campus universitaire la Manouba, au plus tard le 25/12/2025 à 12h00, heure 
+locale. Le cachet du bureau d’ordre de l’ESCT faisant foi. 
+ 
+12. CONFLITS D'INTÉRÊTS 
+Les bureaux de consultants en situation de conflit d'intérêts, c'est-à-dire ayant un 
+intérêt quelconque, direct ou indirect, dans le projet ou entretenant des relations 
+personnelles ou professionnelles avec le ministère de tutelle, l'Université de la 
+Manouba ou l'ESCT, doivent déclarer leurs conflits d'intérêts au moment de la 
+transmission de la lettre de candidature. 
+En particulier, tout fonctionnaire exerçant une fonction administrative doit 
+présenter les autorisations nécessaires pour assurer la mission. 
+L'organisme retenu pour la présente mission d'accompagnement et de préparation 
+à la certification ne pourra pas intervenir comme organisme certificateur de l'ESCT 
+pour les normes ISO 9001:2015 et ISO 21001:2018, ni directement ni par 
+l'intermédiaire d'une entité liée ou associée. Cette incompatibilité s'applique 
+pendant la durée de la mission d'accompagnement et pendant une période 
+minimale de deux (02) ans après la fin de la mission. Cette clause vise à garantir 
+l'impartialité et l'indépendance requises pour la certification ultérieure de l'ESCT 
+selon les bonnes pratiques internationales de management de la qualité. 
+ 
+
+
+--- Page 16 ---
+
+16 
+ 
+13. CONFIDENTIALITÉ 
+L'organisme retenu pour la présente mission est tenu de respecter une stricte 
+confidentialité vis-à-vis des tiers, pour toute information relative à la mission ou 
+collectée à son occasion. Tout manquement à cette clause entraîne l'interruption 
+immédiate de la mission. Cette obligation de confidentialité demeure en vigueur 
+sans limitation de durée après la fin de la mission. 
+ 
+Lu et accepté par : 
+Le représentant du soumissionnaire                              La Directrice de l’ESCT 
+(Date/Nom & Prénom/Signature) Prof. Nadia Abaoub Ouertani 
+  
+
+
+--- Page 17 ---
+
+17 
+ 
+Annexe 1 
+Fiche de renseignement du soumissionnaire 
+ 
+ 
+Nom ou Raison Sociale…………………………………………………………………………………………. 
+…………………………………………………………………………………………………………………….………… 
+Adresse……………………………………………………………………………………………………….…………. 
+………………………………………………………………………………………………………………….…………… 
+Téléphone……………………………………………………………….Fax………………………..…………….. 
+Adresse électronique …………………………………………………………………………….……………… 
+Inscrit au registre de commerce le : ……………………………….Sous le Num………………… 
+Adhérant à la CNSS sous le n°……………………………………………………………………………….. 
+Matricule Fiscale…………………………………………..………………………………………………………. 
+Représentant legal (Nom, prénon, fonction)…………………………………………………….. 
+Interlocuteur représentant le soumissionnaire (Nom, Prénom, Email, N°Tel, 
+mobile fixe et fonction) ………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………. 
+…………………………………………………………………………………………………………………….………… 
+I- Présentations des intervenants 
+1. Chef de file 
+Nom et prénom Dipl ôme Date d'Obtention 
+   
+2. Expert(s) Permanant(s) 
+Nom et prénom Dipl ôme Date d'Obtention 
+   
+   
+   
+   
+
+
+--- Page 18 ---
+
+18  
+       II- Expérience générale du bureau en accompagnement*  Intitulé du projet Description Date de début Date de fin Société et coordonnées Certfication obtenue et année                             Fournir les pièces justificatives des projets réalisés ayant aboutis à une certification (PV de réception, attestation de bonne fin ou toute pièce équivalente). III- Expérience du bureau en formation* Critère Société coordonnées et Nature référence de Formation ISO 21001     Formation ISO 9001     Formation ISO      Formation ISO       J'ATTESTE, EN TOUTE BONNE CONSCIENCE, QUE LES RENSEIGNEMENTS SUSMENTIONNÉS REFLÈTENT EXACTEMENT MA SITUATION, MES QUALIFICATIONS ET MON EXPÉRIENCE. JE M'ENGAGE À ASSUMER LES CONSEQUENCES DE TOUTE DÉCLARATION VOLONTAIREMENT ERRONÉE  Fait à ……………………………, le……….…………….…….. Signature et Cachet du soumissionnaire                   * Ajouter autant de lignes que nécessaire.  
+
+
+
+--- Page 19 ---
+
+19 
+ 
+Annexe 2 
+Déclaration sur l’honneur de non-faillite 
+ 
+ 
+ 
+ 
+ 
+Je soussigné …………….…..………………………………………………………………………………………. 
+Agissant en tant que .………………………………………………………………………………….………… 
+De la société (ou entreprise) …………………………………………………………………….…………. 
+Enregistrée au registre de commerce sous le N° .…………………………………….…………… 
+Domiciliée à (adresse complète) …………………………………………………………………………… 
+………………………………………………………………………………………………………………………………. 
+ 
+Ci-après dénommé le soumissionnaire, déclare sur mon honneur que la société 
+soumissionnaire que je représente ne se trouve pas en état de faillite ou de 
+liquidation judiciaire. 
+ 
+ 
+Fait à ……………………………, le……….…………….…….. 
+Nom Prénom, Signature et Cachet du soumissionnaire 
+ 
+  
+
+
+--- Page 20 ---
+
+20 
+ 
+Annexe 3 
+Déclaration sur l‘honneur de non-influence 
+ 
+ 
+ 
+Je soussigné …………….…..………………………………………………………………………………………. 
+Agissant en tant que .………………………………………………………………………………….………… 
+De la société (ou entreprise) …………………………………………………………………….…………. 
+Enregistrée au registre de commerce sous le N° .…………………………………….…………… 
+Domiciliée à (adresse complète) …………………………………………………………………………… 
+………………………………………………………………………………………………………………………………. 
+ 
+Ci-après dénommé le soumissionnaire, déclare sur mon honneur formellement 
+et m’engage de ne pas faire, de moi-même ou par personnes interposées, des 
+promesses, des dons, des présents pour influencer les différentes procédures de 
+conclusion de la consultation et les étapes de sa réalisation. 
+ 
+ 
+Fait à ……………………………, le……….…………….…….. 
+Nom Prénom, Signature et Cachet du soumissionnaire 
+ 
+  
+
+
+--- Page 21 ---
+
+21 
+ 
+Annexe 4 
+ 
+Déclaration sur l’honneur de confidentialité 
+ 
+ 
+Je soussigné …………….…..………………………………………………………………………………………. 
+Agissant en tant que .………………………………………………………………………………….………… 
+De la société (ou entreprise) …………………………………………………………………….…………. 
+Enregistrée au registre de commerce sous le N° .…………………………………….…………… 
+Domiciliée à (adresse complète) …………………………………………………………………………… 
+………………………………………………………………………………………………………………………………. 
+ 
+Ci-après dénommé le soumissionnaire, déclare sur mon honneur et m’engage à 
+garantir la confidentialité de toutes les informations qui seront partagées par 
+l’Ecole Supérieure de Commerce de Tunis dans le cadre de cette mission. 
+  
+ 
+ 
+Fait à ……………………………, le……….…………….…….. 
+Nom Prénom, Signature et Cachet du soumissionnaire 
+ 
+ 
+ 
+  
+
+
+--- Page 22 ---
+
+22 
+ 
+Annexe 5 : CV des consultants 
+ 
+1. Nom et prénom de l'expert :…………………………………………………………………………… 
+2. Date de naissance :………………………………..Nationalité :…………..………………………. 
+3. Niveau d'études : 
+Institution (Dates : début - fin) Dipl ôme(s) obtenu(s) 
+  
+  
+  
+ 
+4. Certification en Management de projet : 
+Certification en Management de projet : Année d'obtention 
+  
+  
+  
+ 
+5. Certification en Lead Auditor/ Lead Implémenter /formateur des 
+formateurs : 
+Certification : Année d'obtention 
+Lead Auditor ISO 21001  
+Lead Auditor ISO 9001  
+Lead implementor ISO 21001  
+Lead implementor ISO 9001  
+Lead Auditor ISO……..  
+Lead Implementor ISO ………  
+Formateur des Formateurs  
+6.  
+
+
+--- Page 23 ---
+
+23  
+7. Compétence Clé :       8. Langues : (bon, moyen, médiocre) Langue Lu Parlé Écrit             9. Expérience professionnelle : Depuis - Jusqu'à Employeur Poste           10. Projet (en cours / fini) (Accompagnement/formation/Audit à blanc/ Audit tierce partie) Compétences spécifiques : Expérience pertinente pour la mission   Projet :  Année :  Lieu :  Client:  Poste :  Activités :  
+
+
+
+--- Page 24 ---
+
+24  
+Compétences spécifiques : Expérience pertinente pour la mission  Projet :  Année :  Lieu :  Client:  Poste :  Activités :  Compétences spécifiques : Expérience pertinente pour la mission  Projet :  Année :  Lieu :  Client:  Poste :  Activités :  Compétences spécifiques : Expérience pertinente pour la mission  Projet :  Année :  Lieu :  Client:  Poste :  Activités :  Compétences spécifiques : Expérience pertinente pour la mission  Projet :  Année :  
+
+
+
+--- Page 25 ---
+
+25  
+Lieu :  Client:  Poste :  Activités :  NB. Ajouter autant de lignes que d'expériences pertinentes.    J'ATTESTE, EN TOUTE BONNE CONSCIENCE, QUE LES RENSEIGNEMENTS SUSMENTIONNÉS REFLÈTENT EXACTEMENT MA SITUATION, MES QUALIFICATIONS ET MON EXPÉRIENCE. JE M'ENGAGE À ASSUMER LES CONSEQUENCES DE TOUTE DÉCLARATION VOLONTAIREMENT ERRONÉE  Fait à ……………………………, le……….…………….…….. Nom Prénom, Signature du consultant  

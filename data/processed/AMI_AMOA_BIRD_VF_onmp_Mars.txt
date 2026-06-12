@@ -1,128 +1,123 @@
-
-
 --- Page 1 ---
+REPUBLIQUE TUNISIENNE
 
-Assistance à la Maîtrise d'ouvrage                                                                                                                                  1 / 2 
- 
-REPUBLIQUE TUNISIENNE   
-Ministère de l'éducation Tunisie  
- 
-Programme de Transformation digitale pour des services publics orientés citoyens « GovTech »  Prêt No. 
-BRD-89870  
-Appel à Manifestations d’intérêts : N° TN-MTCTD-273029-CS-QCBS   
-Mission d'assistance à la Maîtrise d'ouvrage "AMOA" pour les activités GovTech - Volet Education 
-Le Gouvernement de la République Tunisienne a reçu un prêt de la Banque Mondiale pour financer le programme de 
-Transformation digitale pour des services publics orientés citoyens « GovTech » dont les ministères bénéficiaires sont : le 
-Ministère de la Fonction Publique, le Ministère des Affaires Sociales, le Ministère  de l’Eduction et le Ministère de la Santé 
-Publique. Les informations relatives au programme « GovTech » peuvent être consultées sur le site du MTC à l’adresse suivante 
-:  https://www.mtc.gov.tn/ 
- Le MTC a l’intention d’utiliser une partie du montant de ce prêt pour effectuer les paiements au titre d’un Consultant (firme) 
-en vue d'assister le Ministère de l'Education à la Maîtrise d'ouvrage "AMOA" pour les activités GovTech – 
-Volet Education. 
-La durée d’exécution des prestations entre 30 mois.  
-Les services comprennent : 
-• La Mise en place d'un plan de management du programme ; 
-• Le cadrage, l'étude et la spécification des besoins fonctionnels et techniques ; 
-• Le suivi de l’exécution des projets (y inclut la gestion de risque) ; 
-• L’assistance à la réception (élaboration de cahiers de recette, tests et réception, validation de livrables) ; 
-• L'élaboration du cadre organisationnel et d’assistance à la mise en place ; 
-• L’assistance au suivi de mise en place du plan de conduite de changement et de communication (qui sera le sujet d’un 
-projet séparé) ; 
-• La coordination de toutes les activités, interface entre le Ministère des Technologies et de la Communication (MTC), le 
-ME, la BM et les différents acteurs dans la mise en œuvre des activités ; 
-• Les bonnes pratiques des méthodes et outils de gestion de projets numériques et apporter aide et conseil aux parties 
-prenantes lors des phases clés ; 
-• Le suivi du Portefeuille de Project Management (PPM) du programme au profit de l’éducation, assurer la mise en place 
-des mécanismes, des outils et des supports nécessaires pour son fonctionnement ; 
-• La formation et l'accompagnement des cadres qui seront affectés et l'assurance de leur implication dans toutes les activités 
-; 
-• L'assistance du ME dans la réception fonctionnelle de l’ensemble des solutions en question ; 
-• L’assistance à l'intégration de l’ensemble des solutions dans l’environnement du ME ; 
-• L’assistance au déploiement de l’ensemble des solutions sur les sites pilotes ; 
-• L’accompagnement et la conduite de changement ; 
-• L'assistance du Ministère à la généralisation de l’ensemble des solutions dans les sites concernés. 
- 
-Les Termes de Référence (TDR) détaillés peuvent être téléchargé s gratuitement par toute Firme intéressée directement sur le 
-site du Ministère des Technologies de la Communication https://www.mtc.gov.tn/  
-Le Ministère des technologies de la communication invite les firmes de consultants éligibles (« consultants ») à 
-manifester leurs intérêts. Les consultants intéressés doivent fournir les informations indiquant qu’ils ont les 
-qualifications et l'expérience requises pour exécuter les Services (brochures, références concernant l’exécution de 
-contrats analogues, expérience dans des conditions semblables, disponibilité des connaissances nécessaires parmi le 
-personnel, etc.), dument justifiées par des contrats et/ou certifications de bonne exécution, Les critères d’analyse des 
-dossiers sont donnés dans le tableau suivant :  
-Critères  Poids  Barème de notation  
-Solidité de l'entreprise  30    
-1. Domaine d'activité : Le Consultant doit être un cabinet de 
-consultants expérimenté opérant dans le domaine de la 
-pratique de l’ingénierie informatique, le développement des 
-systèmes d’information et le conseil en technologie et ayant 
-réalisé des missions d’AMOA pour des projets similaires 
-10  Domaine d'activité consulting, AMOA, ingénierie 
-informatique, développement SI, conseil en IT ou équivalent 
-(10 pts)  
+Ministère de l'éducation Tunisie
+
+Programme de Transformation digitale pour des services publics orientés citoyens « GovTech » Prêt No.
+BRD-89870
+Appel à Manifestations d’intérêts : N° TN-MTCTD-273029-CS-QCBS
+Mission d'assistance à la Maîtrise d'ouvrage "AMOA" pour les activités GovTech - Volet Education
+
+Le Gouvernement de la République Tunisienne a reçu un prêt de la Banque Mondiale pour financer le programme de
+Transformation digitale pour des services publics orientés citoyens « GovTech » dont les ministères bénéficiaires sont : le
+Ministère de la Fonction Publique, le Ministère des Affaires Sociales, le Ministère de l’Eduction et le Ministère de la Santé
+Publique. Les informations relatives au programme « GovTech » peuvent être consultées sur le site du MTC à l’adresse suivante
+: https://www.mtc.gov.tn/
+
+Le MTC a l’intention d’utiliser une partie du montant de ce prêt pour effectuer les paiements au titre d’un Consultant (firme)
+en vue d'assister le Ministère de l'Education à la Maîtrise d'ouvrage "AMOA" pour les activités GovTech –
+Volet Education.
+La durée d’exécution des prestations entre 30 mois.
+
+Les services comprennent :
+
+• La Mise en place d'un plan de management du programme ;
+• Le cadrage, l'étude et la spécification des besoins fonctionnels et techniques ;
+• Le suivi de l’exécution des projets (y inclut la gestion de risque) ;
+• L’assistance à la réception (élaboration de cahiers de recette, tests et réception, validation de livrables) ;
+• L'élaboration du cadre organisationnel et d’assistance à la mise en place ;
+• L’assistance au suivi de mise en place du plan de conduite de changement et de communication (qui sera le sujet d’un
+projet séparé) ;
+• La coordination de toutes les activités, interface entre le Ministère des Technologies et de la Communication (MTC), le
+ME, la BM et les différents acteurs dans la mise en œuvre des activités ;
+• Les bonnes pratiques des méthodes et outils de gestion de projets numériques et apporter aide et conseil aux parties
+prenantes lors des phases clés ;
+• Le suivi du Portefeuille de Project Management (PPM) du programme au profit de l’éducation, assurer la mise en place
+des mécanismes, des outils et des supports nécessaires pour son fonctionnement ;
+• La formation et l'accompagnement des cadres qui seront affectés et l'assurance de leur implication dans toutes les activités
+;
+• L'assistance du ME dans la réception fonctionnelle de l’ensemble des solutions en question ;
+• L’assistance à l'intégration de l’ensemble des solutions dans l’environnement du ME ;
+• L’assistance au déploiement de l’ensemble des solutions sur les sites pilotes ;
+• L’accompagnement et la conduite de changement ;
+• L'assistance du Ministère à la généralisation de l’ensemble des solutions dans les sites concernés.
+
+Les Termes de Référence (TDR) détaillés peuvent être téléchargés gratuitement par toute Firme intéressée directement sur le
+site du Ministère des Technologies de la Communication https://www.mtc.gov.tn/
+
+Le Ministère des technologies de la communication invite les firmes de consultants éligibles (« consultants ») à
+manifester leurs intérêts. Les consultants intéressés doivent fournir les informations indiquant qu’ils ont les
+qualifications et l'expérience requises pour exécuter les Services (brochures, références concernant l’exécution de
+contrats analogues, expérience dans des conditions semblables, disponibilité des connaissances nécessaires parmi le
+personnel, etc.), dument justifiées par des contrats et/ou certifications de bonne exécution, Les critères d’analyse des
+dossiers sont donnés dans le tableau suivant :
+Critères Poids Barème de notation
+Solidité de l'entreprise 30
+1. Domaine d'activité : Le Consultant doit être un cabinet de 10 Domaine d'activité consulting, AMOA, ingénierie
+consultants expérimenté opérant dans le domaine de la informatique, développement SI, conseil en IT ou équivalent
+pratique de l’ingénierie informatique, le développement des (10 pts)
+systèmes d’information et le conseil en technologie et ayant
+réalisé des missions d’AMOA pour des projets similaires
+
+Assistance à la Maîtrise d'ouvrage 1 / 2
 
 
 --- Page 2 ---
+2. Moyens humains (effectif et qualification) 20 Nombre de collaborateurs (05 pts):
+- Inférieur à 15 : (1 pt)
+- Entre >=15 et < 50 : (3 pts)
+- Plus que ou égal 50 : (5 pts)
+(En cas de groupement, prendre le cumul)
+Cadres (ingénieur bac + 5 ou équivalent en informatique ou
+télécommunication) (15 pts):
+- Inférieur à 15 : (05 pts)
+- Entre 15 et 30: (10 pts)
+- Plus que 30 : (15 pts)
+(En cas de groupement, prendre le cumul)
+Références 70
 
-Assistance à la Maîtrise d'ouvrage                                                                                                                                  2 / 2 
- 
-2. Moyens humains (effectif et qualification)  20  Nombre de collaborateurs (05 pts):   
-- Inférieur à 15 : (1 pt)  
-- Entre >=15 et < 50 : (3 pts) 
-- Plus que ou égal 50 : (5 pts)  
-(En cas de groupement, prendre le cumul)  
- 
- 
-Cadres (ingénieur bac + 5 ou équivalent en informatique ou 
-télécommunication) (15 pts):   
-- Inférieur à 15 : (05 pts)  
-- Entre 15 et 30: (10 pts)  
-- Plus que 30 : (15 pts)  
- (En cas de groupement, prendre le cumul) 
-Références  70    
-1.  Références Missions Similaires (de même nature et 
-de même complexité)  
-30  Nbr <2  (05 pts) 
-2<= Nbr<= 4: (15 pts)  
-Nbr >=5 : (30 pts)  
-(En cas de groupement, prendre le cumul)  
-2.  Missions de conduite de projets informatiques (de 
-même nature et degrés de complexité) 
-20  Nbr < 2 ( 05pts) 
-2<= Nbr<= 4: (10 pts)  
-Nbr >=5: (20 pts)  
-(En cas de groupement, prendre le cumul)  
-3.     Missions de conception et de développement des 
-systèmes informatiques avec un grand compte 
-(gouvernemental et/ou privé) 
-20  Nbr < 2 (05 pts) 
-2<= Nbr<= 4: (10 pts)  
-Nbr >=5: (20 pts)  
-(En cas de groupement, prendre le cumul)  
-Total  100 points    
-  
-Ne seront prises en compte que les références pour des missions complètement achevées durant les 06 dernières années (à  
- 
-Partir de l’année 2015), et pour lesquelles des attestations de bonne fin délivrées par les maîtres d’ouvrage ou les Clients seront 
-jointes en appui.  
-L'attention des consultants intéressés est attirée sur la section III, paragraphes, 3.14, 3.16 et 3.17 du « Règ lement de passation 
-des marchés pour les emprunteurs sollicitant le financement de projets d’investissement (FPI) » de la Banque mondiale, versio n 
-juillet 2016 mise à jour en Novembre 2017 et Ao ût 2018 (« Règlement de passation des marchés »), énonçant la politique de la 
-Banque mondiale en matière de conflits d'intérêts.   
-Les consultants peuvent s'associer avec d'autres consultants pour renforcer leurs qualifications, mais doivent indiquer clairement 
-si l'association prend la forme d'une coentreprise et / ou d'une sous-consultance. Dans le cas d'une coentreprise, tous les partenaires 
-de la coentreprise seront conjointement et solidairement responsables de la totalité du contrat, s'ils sont sélectionnés.  
-Un consultant sera sélectionné conformément à la méthode Sélection Fondée sur la Qualité et Le Cout (SFQC) énoncée dans le 
-Règlement de passation des marchés de la Banque.  
-De plus amples informations peuvent être obtenues par Email (UGP@tunisia.gov.tn) ou à l'adresse ci-dessous pendant les heures 
-de bureau de 09H00 à 17H00]. Adresse : 88, Avenue Mohamed V 1002 Tunis, Tunisie  
-Étage/bureau : Accueil  
-Ville : Tunis  
-Code postal : 1002  
-Les manifestations d'intérêt doivent être envoyées par mail (UGP@tunisia.gov.tn) ou par voie postale (recommandée ou par rapide-
-poste) à l'adresse ci-dessous avant le 05 avril 2022 à 12h00 (heure Tunis).   
-Bureau d’ordre central – Coordonnateur de l'Unité de gestion du projet GOVTECH  
-Adresse : 88, Avenue Mohamed V 1002 Tunis, Tunisie  
-Étage/Numéro de bureau : Accueil  
-Ville : Tunis  
-Code postal : 1002  
+1. Références Missions Similaires (de même nature et 30 Nbr <2 (05 pts)
+de même complexité) 2<= Nbr<= 4: (15 pts)
+Nbr >=5 : (30 pts)
+(En cas de groupement, prendre le cumul)
+2. Missions de conduite de projets informatiques (de 20 Nbr < 2 ( 05pts)
+même nature et degrés de complexité) 2<= Nbr<= 4: (10 pts)
+Nbr >=5: (20 pts)
+(En cas de groupement, prendre le cumul)
+
+3. Missions de conception et de développement des 20 Nbr < 2 (05 pts)
+systèmes informatiques avec un grand compte 2<= Nbr<= 4: (10 pts)
+(gouvernemental et/ou privé) Nbr >=5: (20 pts)
+(En cas de groupement, prendre le cumul)
+Total 100 points
+
+Ne seront prises en compte que les références pour des missions complètement achevées durant les 06 dernières années (à
+Partir de l’année 2015), et pour lesquelles des attestations de bonne fin délivrées par les maîtres d’ouvrage ou les Clients seront
+jointes en appui.
+L'attention des consultants intéressés est attirée sur la section III, paragraphes, 3.14, 3.16 et 3.17 du « Règlement de passation
+des marchés pour les emprunteurs sollicitant le financement de projets d’investissement (FPI) » de la Banque mondiale, version
+juillet 2016 mise à jour en Novembre 2017 et Ao ût 2018 (« Règlement de passation des marchés »), énonçant la politique de la
+Banque mondiale en matière de conflits d'intérêts.
+
+Les consultants peuvent s'associer avec d'autres consultants pour renforcer leurs qualifications, mais doivent indiquer clair ement
+si l'association prend la forme d'une coentreprise et / ou d'une sous-consultance. Dans le cas d'une coentreprise, tous les partenaires
+de la coentreprise seront conjointement et solidairement responsables de la totalité du contrat, s'ils sont sélectionnés.
+
+Un consultant sera sélectionné conformément à la méth ode Sélection Fondée sur la Qualité et Le Cout (SFQC) énoncée dans le
+Règlement de passation des marchés de la Banque.
+
+De plus amples informations peuvent être obtenues par Email (UGP@tunisia.gov.tn) ou à l'adresse ci-dessous pendant les heures
+de bureau de 09H00 à 17H00]. Adresse : 88, Avenue Mohamed V 1002 Tunis, Tunisie
+
+Étage/bureau : Accueil
+Ville : Tunis
+Code postal : 1002
+Les manifestations d'intérêt doivent être envoyées par mail (UGP@tunisia.gov.tn) ou par voie postale (recommandée ou par rapide -
+poste) à l'adresse ci-dessous avant le 05 avril 2022 à 12h00 (heure Tunis).
+Bureau d’ordre central – Coordonnateur de l'Unité de gestion du projet GOVTECH
+Adresse : 88, Avenue Mohamed V 1002 Tunis, Tunisie
+Étage/Numéro de bureau : Accueil
+Ville : Tunis
+Code postal : 1002
+
+Assistance à la Maîtrise d'ouvrage 2 / 2

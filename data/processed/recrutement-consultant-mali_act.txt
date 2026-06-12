@@ -1,877 +1,768 @@
-
-
 --- Page 1 ---
+Août 2021
 
-1 
- 
-Août 2021 
-Termes de référence (TdR) pour  
-Le recrutement d’un « cabinet de consultants » ou « d’un bureau d’études» 
-Pour conduire une  activité de collecte de données dans le cadre de: 
-L’Evaluation de l'impact du volet transferts monétaires aux groupes d’épargne 
-dans le cadre du programme “Responding to COVID-19 through Social 
-Protection Systems in the Sahel” au Mali 
- 
-Mise en œuvre de l’enquête de base 
- 
-Bureau de Recherche, UNICEF Innocenti 
-Section Politique Sociale et Economique (PSE), UNICEF Mali 
-Institut National de la Statistique (INSTAT) 
- 
-NOTA BENE :  
-(i) AUCUNE CANDIDATURE A TITRE DE CONSULTANT INDIVIDUEL NE 
-SERA CONSIDEREE. SEULS LES « CABINETS DE CONSULTANTS » 
-ET « LES BUREAUX D’ETUDES » SONT APPELES A COMPETIR 
- 
-(ii) MERCI DE LIRE INTEGRALEMENT ET AVEC LA PLUS GRANDE 
-ATTENTION CE DOCUMENT QUI CONTIENT D’IMPORTANTES 
-D’INFORMATIONS SUR LES PROCEDURES DE SOUMISSION DES 
-OFFRES 
- 
-1. Contexte 
- 
-Environ 42 pour cent de la population malienne vit en dessous du seuil national de pauvreté, et 41 pour 
-cent des enfants maliens vivent dans la pauvreté multidimensionnelle.  Suite à l’avènement de la crise 
-COVID-191 et la rupture institutionnelle du 18 aout  2020 et l es sanctions économiques y associées, 
-aggravés par une situation sécuritaire et politique volatile , les ménages dans les milieu x urbains et 
-ruraux ont connu une baisse de revenu et de production, une hausse des prix alimentaires, un accès 
-réduit aux services et à l’assistance. Déjà en mai 2020 avant tous ces évènements, une étude conjointe 
-UNICEF-UNDP2 prévoyait que la récession économique globale et ses conséquences sur l’économie 
-nationale allait entraîner une chutte de la croissance du Produit Intérieur Brut de plus de 80% qui devait 
-ainsi passer de 5% à 0,9% en 2020 soit un  niveau largement en dessous de la croissance 
-démographique. En conséquence, 800 000 nouveaux maliens devraient se trouver  dans la pauvreté.   
-Les femmes et les enfants font face aux risques de protection, de la santé et de stigmatisation.  
- 
-La BMZ/KFW a financé le projet « Responding to COVID-19 through Social Protection Systems in the 
-Sahel » visant à renforcer les systems nationaux de la protection sociale à travers une mise à l’échelle 
-de l’appui pour atténuer l’impact social et économique de la COVID-19 sur les populations vulnérables 
-et assurer la capacité de systèmes nationaux de répondre aux chocs dans le futur de manière plus 
-sensible à la nutrition et aux besoins des enfants. Ce projet est réalisé dans trois pays, dont le Mali, la 
-Mauritanie et le Niger.  
-                                                           
-1 Au 3 Aout 2021, la situation de la Covid-19 au Mali montre : 530 décès sur 14514 cas confirmés soit une 
-létalité de 4%. Voire Covid19 Mali (covid19-ml.org) 
-2 UNICEF-UNDP (2020) : Analyse rapide des impacts socio-économiques du COVID-19 au Mali 
+Termes de référence (TdR) pour
+
+Le recrutement d’un « cabinet de consultants » ou « d’un bureau d’études»
+Pour conduire une activité de collecte de données dans le cadre de:
+
+L’Evaluation de l'impact du volet transferts monétaires aux groupes d’épargne
+dans le cadre du programme “Responding to COVID-19 through Social
+Protection Systems in the Sahel” au Mali
+
+Mise en œuvre de l’enquête de base
+
+Bureau de Recherche, UNICEF Innocenti
+Section Politique Sociale et Economique (PSE), UNICEF Mali
+Institut National de la Statistique (INSTAT)
+
+NOTA BENE :
+(i) AUCUNE CANDIDATURE A TITRE DE CONSULTANT INDIVIDUEL NE
+SERA CONSIDEREE. SEULS LES « CABINETS DE CONSULTANTS »
+ET « LES BUREAUX D’ETUDES » SONT APPELES A COMPETIR
+
+(ii) MERCI DE LIRE INTEGRALEMENT ET AVEC LA PLUS GRANDE
+ATTENTION CE DOCUMENT QUI CONTIENT D’IMPORTANTES
+D’INFORMATIONS SUR LES PROCEDURES DE SOUMISSION DES
+OFFRES
+
+1. Contexte
+
+Environ 42 pour cent de la population malienne vit en dessous du seuil national de pauvreté, et 41 pour
+cent des enfants maliens vivent dans la pauvreté multidimensionnelle. Suite à l’avènement de la crise
+COVID-191 et la rupture institutionnelle du 18 aout 2020 et les sanctions économiques y associées,
+aggravés par une situation sécuritaire et politique volatile, les ménages dans les milieux urbains et
+ruraux ont connu une baisse de revenu et de production, une hausse des prix alimentaires, un accès
+réduit aux services et à l’assistance. Déjà en mai 2020 avant tous ces évènements, une étude conjointe
+UNICEF-UNDP2 prévoyait que la récession économique globale et ses conséquences sur l’économie
+nationale allait entraîner une chutte de la croissance du Produit Intérieur Brut de plus de 80% qui devait
+ainsi passer de 5% à 0,9% en 2020 soit un niveau largement en dessous de la croissance
+démographique. En conséquence, 800 000 nouveaux maliens devraient se trouver dans la pauvreté.
+Les femmes et les enfants font face aux risques de protection, de la santé et de stigmatisation.
+
+La BMZ/KFW a financé le projet « Responding to COVID-19 through Social Protection Systems in the
+Sahel » visant à renforcer les systems nationaux de la protection sociale à travers une mise à l’échelle
+de l’appui pour atténuer l’impact social et économique de la COVID-19 sur les populations vulnérables
+et assurer la capacité de systèmes nationaux de répondre aux chocs dans le futur de manière plus
+sensible à la nutrition et aux besoins des enfants. Ce projet est réalisé dans trois pays, dont le Mali, la
+Mauritanie et le Niger.
+
+1 Au 3 Aout 2021, la situation de la Covid-19 au Mali montre : 530 décès sur 14514 cas confirmés soit une
+létalité de 4%. Voire Covid19 Mali (covid19-ml.org)
+2 UNICEF-UNDP (2020) : Analyse rapide des impacts socio-économiques du COVID-19 au Mali
+
+1
 
 
 --- Page 2 ---
+En réponse à la pandémie de la Covid-19, le gouvernement malien a mis en place un plan de réponse
+globale qui a nécessité une loi de finance rectificative. Les changements majeurs de cette loi ont porté
+sur des mesures dont le coût cumulé s’élève à 564 milliards comprenant des mesures d’appui aux
+ménages d’un montant de 137 milliards de FCFA, des mesures d’appui aux entreprises dont le coût de
+44 Milliards et des mesures d’appui à l’économie qui représentent 52 milliards de FCFA. Les mesures
+à impact direct sur les enfants parmi la batterie de mesures prises portent essentiellement sur le Fonds
+spécial pour les familles les plus vulnérables (100 milliards) ; la Distribution gratuite de céréales et
+d’aliments bétails aux populations vulnérables (15 milliards) ; les Exonérations accordées sur les
+importations de 160,000 tonnes de riz et de 6,000 tonnes de lait (7 milliards) ; La gratuité des tranches
+sociales sur les factures d'eau et d'électricité pour 2 mois (7 milliards) et les exonération de la TVA sur
+les factures d'eau et d’électricité pour 3 mois (9 milliards).
 
-2 
- 
-En réponse à la pandémie de la Covid-19, le gouvernement malien a mis en place un plan de réponse 
-globale qui a nécessité une loi de finance rectificative. Les changements majeurs de cette loi ont porté 
-sur des mesures dont le coût cumulé s’ élève à 564 milliards comprenant des mesures d’appui aux 
-ménages d’un montant de 137 milliards de FCFA, des mesures d’appui aux entreprises dont le coût de 
-44 Milliards et des mesures d’appui à l’économie qui représentent 52 milliards de FCFA.  Les mesures 
-à impact direct sur les enfants parmi la batterie de mesures prises portent essentiellement sur le Fonds 
-spécial pour les familles les plus vulnérables (100 milliards) ; la Distribution gratuite de céréales et 
-d’aliments bétails aux populations vulnérables  (15 milliards) ; les Exonérations accordées sur les 
-importations de 160,000 tonnes de  riz  et de 6,000 tonnes de lait (7 milliards) ; La gratuité des tranches 
-sociales sur les factures d'eau et d'électricité pour 2 mois (7 milliards) et les exonération de la TVA sur 
-les factures d'eau et d’électricité pour 3 mois (9 milliards). 
-. Le financement BMZ/KFW est venu en complément des mesures introduites par le gouvernement 
-pour déployer les aides sociales aux 32,500 ménages des 34 communes de Koulikoro, Ségou et 
-Sikasso et 6,149 femmes membres de 310 groupements d’épargne dans 28 communes. Les zones 
+. Le financement BMZ/KFW est venu en complément des mesures introduites par le gouvernement
+pour déployer les aides sociales aux 32,500 ménages des 34 communes de Koulikoro, Ségou et
+Sikasso et 6,149 femmes membres de 310 groupements d’épargne dans 28 communes. Les zones
 d’intervention UNICEF ont été choisies sur base de critères de vulnérabilité, la prévalence de la COVID-
-19 et l’indice communal de pauvreté.  
-Depuis le début des activités, l’UNICEF a sécurisé un financement supplémentaire pour une extension 
-verticale et horizontale des transferts monétaires aux femmes membres de groupements d’épargne. 
-245 groupements supplémentaires vont recevoir les transferts monétaires et les mesures 
-d’accompagnement sur les pratiques familiales essentielles, formations sur la gestion d’entreprises, et 
-sensibilisations sur  les droits , le leadership en pratiques environnementales durables et la prise de 
-décisions des femmes. 
-Une évaluation d’impact est en cours de conception par l’UNICEF Innocenti et les agences partenaires, 
-avec le but de mesurer rigoureusement les impacts du programme  pour comprendre les impacts du 
-programme sur les femmes, leurs ménages ainsi que les groupements d’épargne.  
- 
- 
-2. Objectifs et résultats attendus 
- 
-Ces TdRs concernent spécifiquement la réalisation de l’évaluation d’impact, à méthodes mixes, tandis 
-que le programme sera mis en œuvre par l’UNICEF Mali et ses partenaires.  
- 
-L’évaluation se focalisera sur les effets du programme sur les indicateurs aux niveaux : 
-o individuel – le bien-être de l’enfant, l’autonomisation et le bien-être de la femme 
-o ménage – la consommation, la pauvreté, stratégies d’adaptation aux chocs, etc  
-o groupement d’épargne – la participation, les fonds mobilisés en épargne /crédit, etc 
-Elle cherchera également à comprendre la façon dont les différents facteurs lié s au design, à la mise 
-en œuvre et au contexte modèrent la réalisation de l’enchaînement des impacts. 
- 
-Le gouvernement et les bailleurs de fonds qui financent les programmes de la protection sociale au 
-Mali et au Sahel plus largement sont l’auditoire principal de l’évaluation de l’impact. Les résultats 
-permettront à ces acteurs d’évaluer comment des programmes intégrés de protection sociale (« cash  
-plus ») peuvent améliorer les résultats vis-à-vis l’autonomisation des femmes et le bien-être de l’enfant 
-tout en réalisant des économies en termes de ciblage et suivi des groupements.  
- 
-Tandis que le programme soit coordonné par l’UNICEF Mali, l’évaluation d’impact sera supervisée par 
-l’UNICEF Innocenti. L’INSTAT appuiera le recrutement du cabinet local pour la collecte de données  et 
-le suivi de la collecte de données de base pour l’évaluation d’impact. 
- 
- 
-3. Méthodologie et portée de travail 
- 
+19 et l’indice communal de pauvreté.
+
+Depuis le début des activités, l’UNICEF a sécurisé un financement supplémentaire pour une extension
+verticale et horizontale des transferts monétaires aux femmes membres de groupements d’épargne.
+245 groupements supplémentaires vont recevoir les transferts monétaires et les mesures
+d’accompagnement sur les pratiques familiales essentielles, formations sur la gestion d’entreprises, et
+sensibilisations sur les droits, le leadership en pratiques environnementales durables et la prise de
+décisions des femmes.
+
+Une évaluation d’impact est en cours de conception par l’UNICEF Innocenti et les agences partenaires,
+avec le but de mesurer rigoureusement les impacts du programme pour comprendre les impacts du
+programme sur les femmes, leurs ménages ainsi que les groupements d’épargne.
+
+2. Objectifs et résultats attendus
+
+Ces TdRs concernent spécifiquement la réalisation de l’évaluation d’impact, à méthodes mixes, tandis
+que le programme sera mis en œuvre par l’UNICEF Mali et ses partenaires.
+
+L’évaluation se focalisera sur les effets du programme sur les indicateurs aux niveaux :
+o individuel – le bien-être de l’enfant, l’autonomisation et le bien-être de la femme
+o ménage – la consommation, la pauvreté, stratégies d’adaptation aux chocs, etc
+o groupement d’épargne – la participation, les fonds mobilisés en épargne /crédit, etc
+Elle cherchera également à comprendre la façon dont les différents facteurs liés au design, à la mise
+en œuvre et au contexte modèrent la réalisation de l’enchaînement des impacts.
+
+Le gouvernement et les bailleurs de fonds qui financent les programmes de la protection sociale au
+Mali et au Sahel plus largement sont l’auditoire principal de l’évaluation de l’impact. Les résultats
+permettront à ces acteurs d’évaluer comment des programmes intégrés de protection sociale (« cash
+plus ») peuvent améliorer les résultats vis-à-vis l’autonomisation des femmes et le bien-être de l’enfant
+tout en réalisant des économies en termes de ciblage et suivi des groupements.
+
+Tandis que le programme soit coordonné par l’UNICEF Mali, l’évaluation d’impact sera supervisée par
+l’UNICEF Innocenti. L’INSTAT appuiera le recrutement du cabinet local pour la collecte de données et
+le suivi de la collecte de données de base pour l’évaluation d’impact.
+
+3. Méthodologie et portée de travail
+
+2
 
 
 --- Page 3 ---
+L’évaluation d’impact est planifiée comme une étude de contrôle randomisé mixte avec une
+importante composante qualitative, impliquant une collecte de données de base en septembre-
+octobre 2021 et une collecte de données de suivi en septembre-octobre 2022.
 
-3 
- 
-L’évaluation d’impact est planifiée comme une étude  de contrôle randomisé  mixte avec une 
-importante composante qualitative , impliquant une collecte de données de base en septembre-
-octobre 2021 et une collecte de données de suivi en septembre-octobre 2022.  
-NB : LA COLLECTE DE DONNEES DE BASE DOIT TERMINER AVANT LE 31 OCTOBRE 2021. 
-Les détails sur les questions de recherche et les composantes de l’enquête sont présentés ci-dessous. 
-Les cabinets peuvent soumettre les propositions techniques pour l’une des composantes (quantitative 
-et/ou qualitative) de l’évaluation d’impact, avec préférence pour les cabinets qui peuvent faire les deux.  
- 
-3.1 Questions de recherche clé 
- 
-La principale question de recherche de cette évaluation d’impact est : « Quel est l’impact des 
-transferts monétaires aux femmes membres de groupe ments d’épargne sur les femmes et les 
-enfants, les ménages et les groupements d’épargne ? » 
- 
-Questions de recherche 
- Quel est l’impact des transferts monétaires aux femmes membres de groupements d’épargne sur : 
-les activités économiques des femmes et leur utilisation de temps  ; le revenu  ; les pratiques 
-familiales essentielles ; la prise de décisions par les femmes et l’exposition aux violences  ? 
-o Comment est-ce que ces impacts varient entre les femmes membres des groupements qui 
-reçoivent le cash et mesures d’accompagnement  ou les mesures d’accompagnement 
-seulement ?   
-o Comment les transferts sont utilisés ? Comment sont les décisions concernant l’utilisation 
-des transferts prises au sein de ménage ? 
- Comment la performance des groupe ments d’épargne (ex. adhésion, participation, épargne 
-mobilisée, volume de crédit, etc.) varie-t-elle selon la réception ou pas de transferts monétaires et 
-la réception ou pas des mesures d’accompagnement ?  
- Comment les facteurs contextuels (ex. caractéristiques des groupes, des femmes, des ménages, 
-normes sociales, etc.) influencent-ils les impacts du programme ? 
- Comment les paramètres de design et d’implémentation modèrent les impacts genre du 
-programme ?   
-o Le design est-il approprié pour répondre aux besoins des populations vulnérables (i.e. 
-ciblage, modalité/capacités techniques, montants, périodicité , communication sur le 
-programme) ? Comment les bénéficiaires perçoivent-elles l’intervention (l’adéquation avec 
-leurs besoins, la pertinence du design et de la modalité de transfert , les dynamiques 
-sociales autour du programme) ?  
-o Dans quelle mesure l’implémentation des transferts  monétaires (couverture, montant, 
-périodicité, mécanismes de recours et réparation, communic ation) et des mesures 
-complémentaires (pratiques familiales essentielles, autonomisation économique, 
-leadership, droits et prise de décision des femmes) a-t-elle été efficiente et efficace ? 
-Comment les bénéficiaires perçoivent la qualité de services fournis (les transferts et les 
-mesures d’accompagnement) ?  
-o Comment est-ce que les transferts sont dépensés au sein des ménages  ? Qui prend le s 
-décisions sur l’utilisation des fonds et le type de dépenses  ? Quelle partie des besoins du 
-ménage est assurée par les transferts ? Les bénéficiaires utilisent-elles les transferts pour 
-les activités productives et/ou l’accès aux services sociaux pour les enfants ?  
-o Comment est -ce que les bénéficiaires perçoivent l es conséquences – bénéfique ou 
-négatives – des transferts monétaires et des mesures complémentaires sur l’atténuation 
-de l’impact de COVID -19 ? Quels changements per çoivent-elles au niveau du ménage, 
-des individus, des groupements d’épargne et de la communauté ?  
- 
- 
-3.2 Composante quantitative (évaluation d’impact)  
- 
-Conception 
+NB : LA COLLECTE DE DONNEES DE BASE DOIT TERMINER AVANT LE 31 OCTOBRE 2021.
+
+Les détails sur les questions de recherche et les composantes de l’enquête sont présentés ci-dessous.
+Les cabinets peuvent soumettre les propositions techniques pour l’une des composantes (quantitative
+et/ou qualitative) de l’évaluation d’impact, avec préférence pour les cabinets qui peuvent faire les deux.
+
+3.1 Questions de recherche clé
+
+La principale question de recherche de cette évaluation d’impact est : « Quel est l’impact des
+transferts monétaires aux femmes membres de groupements d’épargne sur les femmes et les
+enfants, les ménages et les groupements d’épargne ? »
+
+Questions de recherche
+ Quel est l’impact des transferts monétaires aux femmes membres de groupements d’épargne sur :
+les activités économiques des femmes et leur utilisation de temps ; le revenu ; les pratiques
+familiales essentielles ; la prise de décisions par les femmes et l’exposition aux violences ?
+o Comment est-ce que ces impacts varient entre les femmes membres des groupements qui
+reçoivent le cash et mesures d’accompagnement ou les mesures d’accompagnement
+seulement ?
+o Comment les transferts sont utilisés ? Comment sont les décisions concernant l’utilisation
+des transferts prises au sein de ménage ?
+ Comment la performance des groupements d’épargne (ex. adhésion, participation, épargne
+mobilisée, volume de crédit, etc.) varie-t-elle selon la réception ou pas de transferts monétaires et
+la réception ou pas des mesures d’accompagnement ?
+ Comment les facteurs contextuels (ex. caractéristiques des groupes, des femmes, des ménages,
+normes sociales, etc.) influencent-ils les impacts du programme ?
+ Comment les paramètres de design et d’implémentation modèrent les impacts genre du
+programme ?
+o Le design est-il approprié pour répondre aux besoins des populations vulnérables (i.e.
+ciblage, modalité/capacités techniques, montants, périodicité, communication sur le
+programme) ? Comment les bénéficiaires perçoivent-elles l’intervention (l’adéquation avec
+leurs besoins, la pertinence du design et de la modalité de transfert, les dynamiques
+sociales autour du programme) ?
+o Dans quelle mesure l’implémentation des transferts monétaires (couverture, montant,
+périodicité, mécanismes de recours et réparation, communication) et des mesures
+complémentaires (pratiques familiales essentielles, autonomisation économique,
+leadership, droits et prise de décision des femmes) a-t-elle été efficiente et efficace ?
+Comment les bénéficiaires perçoivent la qualité de services fournis (les transferts et les
+mesures d’accompagnement) ?
+o Comment est-ce que les transferts sont dépensés au sein des ménages ? Qui prend les
+décisions sur l’utilisation des fonds et le type de dépenses ? Quelle partie des besoins du
+ménage est assurée par les transferts ? Les bénéficiaires utilisent-elles les transferts pour
+les activités productives et/ou l’accès aux services sociaux pour les enfants ?
+o Comment est-ce que les bénéficiaires perçoivent les conséquences – bénéfique ou
+négatives – des transferts monétaires et des mesures complémentaires sur l’atténuation
+de l’impact de COVID-19 ? Quels changements perçoivent-elles au niveau du ménage,
+des individus, des groupements d’épargne et de la communauté ?
+
+3.2 Composante quantitative (évaluation d’impact)
+
+Conception
+
+3
 
 
 --- Page 4 ---
+Les 245 groupes seront randomisés en 2 branches de traitement et 1 branche de contrôle. La
+première branche recevra les transferts monétaires trimestriels (le cash) et les services
+complémentaires à partir de novembre 2021 pour une durée d’un an. La deuxième branche recevra
+juste les services complémentaires pendant un an. La branche contrôle ne recevra rien pendant la
+première année.
 
-4 
- 
- 
-Les 245 groupes seront randomisés en 2 branches de traitement et 1 branche de contrôle. La 
-première branche recevra les transferts monétaires trimestriels (le cash) et les services 
-complémentaires à partir de novembre 2021 pour une durée d’un an. La deuxième branche recevra 
-juste les services complémentaires pendant un  an. La branche contrôle ne recevra rien pendant la 
-première année.  
- 
- 
- 
-Au bout d’un an, après l’enquête de suivi planifié pour le mois de septembre-octobre 2022, la deuxième 
-et la troisième branches commenceront à recevoir les transferts et les services d’accompagnement.  
- 
-Echantillon 
-La randomisation se fera au niveau du village, après une st ratification des villages par taille en termes 
-de nombre de groupements.  
- 
-La taille de l’échantillon prévue pour l’évaluation d’impact est d’environ 1900 femmes membres de 
-groupements d’épargne. Plus précisément, l’échantillon proposé est le suivant : 
- 41 groupements seront choisis de manière aléatoire à partir de chaque branche de l’étude. 
- 15 femmes et leurs ménages respectifs seront choisis de manière aléatoire de chaque 
-groupement sélectionné. 
- 
-La taille d’échantillon permet de détecter une réduction de 10 pour cent  en matière de violences 
-émotionnelles vécues dans les 12 derniers mois , à partir d’un taux de base de 50 pour cent (d’après 
-les données DHS de 2018), avec le niveau de confiance de 95 pour cent et la puissance statistique de 
-85 pour cent. La taille proposée de l’échantillon tient compte d’une augmentation de 10 pour cent pour 
-accommoder l’attrition, et un effet de design de 1.2 . L’échantillon minimal requis est de 586 femmes 
-par branche de l’étude . Si on vise 15 entretiens par groupement d’ épargne, environ 40 groupements 
-doivent être interviewés. Arrondissant à 41 groupements – c’est-à-dire la moitié de groupements dans 
-chaque branche de l’étude – et en retenant 15 femmes à interviewer par groupement, 615 entretiens 
-seront conduits dans chaque branche au moment de l’enquête de base.  
- 
-Ces TdRs ne couvrent que la collecte de données de base. 
- 
-Questionnaires quantitatives 
-La composante quantitative de l’évaluation aura plusieurs thématiques. Tous les questionnaires seront 
-administrés en langue locale appropriée dans les régions de l’étude et les énumérateurs utiliseront des 
-tablettes électroniques pour saisir les données des répondants. 
- 
+Au bout d’un an, après l’enquête de suivi planifié pour le mois de septembre-octobre 2022, la deuxième
+et la troisième branches commenceront à recevoir les transferts et les services d’accompagnement.
 
+Echantillon
+La randomisation se fera au niveau du village, après une stratification des villages par taille en termes
+de nombre de groupements.
+
+La taille de l’échantillon prévue pour l’évaluation d’impact est d’environ 1900 femmes membres de
+groupements d’épargne. Plus précisément, l’échantillon proposé est le suivant :
+ 41 groupements seront choisis de manière aléatoire à partir de chaque branche de l’étude.
+ 15 femmes et leurs ménages respectifs seront choisis de manière aléatoire de chaque
+groupement sélectionné.
+
+La taille d’échantillon permet de détecter une réduction de 10 pour cent en matière de violences
+émotionnelles vécues dans les 12 derniers mois, à partir d’un taux de base de 50 pour cent (d’après
+les données DHS de 2018), avec le niveau de confiance de 95 pour cent et la puissance statistique de
+85 pour cent. La taille proposée de l’échantillon tient compte d’une augmentation de 10 pour cent pour
+accommoder l’attrition, et un effet de design de 1.2. L’échantillon minimal requis est de 586 femmes
+par branche de l’étude. Si on vise 15 entretiens par groupement d’épargne, environ 40 groupements
+doivent être interviewés. Arrondissant à 41 groupements – c’est-à-dire la moitié de groupements dans
+chaque branche de l’étude – et en retenant 15 femmes à interviewer par groupement, 615 entretiens
+seront conduits dans chaque branche au moment de l’enquête de base.
+
+Ces TdRs ne couvrent que la collecte de données de base.
+
+Questionnaires quantitatives
+La composante quantitative de l’évaluation aura plusieurs thématiques. Tous les questionnaires seront
+administrés en langue locale appropriée dans les régions de l’étude et les énumérateurs utiliseront des
+tablettes électroniques pour saisir les données des répondants.
+
+4
 
 
 --- Page 5 ---
+Les questionnaires d’enquête seront administrés au niveau du ménage, de la femme, de la
+communauté et du groupement. Plus précisément, la composante quantitative comprendra les
+questionnaires suivants :
 
-5 
- 
-Les questionnaires d’enquête seront administrés au niveau du ménage, de la femme , de la 
-communauté et du groupement. Plus précisément, la composante quantitative comprendra les 
-questionnaires suivants : 
- 
- Questionnaire m énage (devrait durer de 1,5 heures par répondant). Les entretiens seront 
-menées avec les chefs de ménage (ou un autre membre du ménage bien informé) afin de 
-recueillir des informations sur un large éventail de caractéristiques, y compris :  
-o Caractéristiques au niveau des ménages : logement ; biens et équipements ; bétail ; 
-dépenses (alimentaires et non-alimentaires) ; consommation ; revenus ; chocs et 
-stratégies d’adaptation.    
-o Caractéristiques individuelles et variables de résultats  : liste des caractéristiques 
-démographiques ; éducation ; santé ; emploi ; utilisation du temps.  
- 
- Questionnaire femmes (qui devrait durer environ 1,5 heures) : l’utilisation du temps 
-(participation et temps passé à faire de divers types d’activités économiques en référence à la 
-semaine/année écoulée)  ; participation et temps passé à faire les tâches ménagères  ; 
-connaissances en nutrition, santé et alimentation des nourrissons et jeunes enfants ; prises de 
-décisions sur les questions financières et non -financières ; attitudes genre  ; exposition aux 
-violences conjugales.     
- 
- Questionnaire communautaire  (qui devrait durer environ 1 heure). Les superviseurs de la 
-collecte de données administreront un questionnaire communautaire à une personne bien 
-informée (p. ex., un leader communautaire) dans chaque village, afin d’évaluer des sujets tels 
-que l’accès aux marchés, aux établissements de santé, aux écoles  ; les prix  ; les normes 
-sociales en matière de genre,  les chocs , l’agriculture les programmes de développement 
-existants dans le milieu, et les pratiques environnementales durables.  
- 
- Questionnaire groupement d’épargne (qui devrait durer environ 1 heure). Les superviseurs de 
-la collecte de données administreront un questionnaire de groupement à une personne bien 
-informée (p. ex., la présidente) du groupement, afin d’évaluer des sujets tels que la composition 
-du groupement, le niveau de participation, les montants d’épargne mobilisés, le volume de 
-crédit octroyé, les conséquences de la COVID-19 sur le fonctionnement du groupement et ses 
-défis actuels. 
- 
- 
-3.3 Composante qualitative  
- 
-Le volet  qualitatif sera conduit  au moment de baseline et endline quantitatifs auprès des même s 
-répondants. Au moment de l’étude de base, le volet qualitatif consistera en 21 focus groupes (dont 11 
-avec les femmes et 10 avec les hommes), 25 entretiens individuels approfondis ( dont 14 avec des 
-femmes et 11 avec des hommes) et environ 20  entretiens avec les informateurs clé . La taille et la 
-composition précises de l’échantillon qualitatif seront finalisées en collaboration avec le cabinet choisi. 
- 
-L’échantillon qualitati f sera choisi de manière intentionnelle dans chaque branche de l’étude  des 3 
-régions. Les indications sur la composition envisagée de l’échantillon peuvent inclure :  
- Focus groupes des femmes séparés par leurs statut familial (épouses ou membres des 
-ménages monogames ; chefs de ménages et épouses dans les ménages polygames) 
- Entretiens individuels avec les femmes devraient représenter les points de vue de femmes 
-monogames, polygames, chefs de ménages, veuves (non-chefs de ménage), jeunes femmes, 
-femmes âgées, leaders des groupes.  
- Entretiens individuels avec les hommes  devraient représenter les points de vue des 
-hommes monogames, polygames, chefs de ménages, jeunes.  
- Entretiens avec informateurs clés  peuvent comprendre les leaders communautaires, les 
-présidentes des groupements d’ épargne, les représentants des autorités et/ou services 
-sociaux.  
+ Questionnaire ménage (devrait durer de 1,5 heures par répondant). Les entretiens seront
+menées avec les chefs de ménage (ou un autre membre du ménage bien informé) afin de
+recueillir des informations sur un large éventail de caractéristiques, y compris :
+o Caractéristiques au niveau des ménages : logement ; biens et équipements ; bétail ;
+dépenses (alimentaires et non-alimentaires) ; consommation ; revenus ; chocs et
+stratégies d’adaptation.
+o Caractéristiques individuelles et variables de résultats : liste des caractéristiques
+démographiques ; éducation ; santé ; emploi ; utilisation du temps.
+
+ Questionnaire femmes (qui devrait durer environ 1,5 heures) : l’utilisation du temps
+(participation et temps passé à faire de divers types d’activités économiques en référence à la
+semaine/année écoulée) ; participation et temps passé à faire les tâches ménagères ;
+connaissances en nutrition, santé et alimentation des nourrissons et jeunes enfants ; prises de
+décisions sur les questions financières et non-financières ; attitudes genre ; exposition aux
+violences conjugales.
+
+ Questionnaire communautaire (qui devrait durer environ 1 heure). Les superviseurs de la
+collecte de données administreront un questionnaire communautaire à une personne bien
+informée (p. ex., un leader communautaire) dans chaque village, afin d’évaluer des sujets tels
+que l’accès aux marchés, aux établissements de santé, aux écoles ; les prix ; les normes
+sociales en matière de genre, les chocs, l’agriculture les programmes de développement
+existants dans le milieu, et les pratiques environnementales durables.
+
+ Questionnaire groupement d’épargne (qui devrait durer environ 1 heure). Les superviseurs de
+la collecte de données administreront un questionnaire de groupement à une personne bien
+informée (p. ex., la présidente) du groupement, afin d’évaluer des sujets tels que la composition
+du groupement, le niveau de participation, les montants d’épargne mobilisés, le volume de
+crédit octroyé, les conséquences de la COVID-19 sur le fonctionnement du groupement et ses
+défis actuels.
+
+3.3 Composante qualitative
+
+Le volet qualitatif sera conduit au moment de baseline et endline quantitatifs auprès des mêmes
+répondants. Au moment de l’étude de base, le volet qualitatif consistera en 21 focus groupes (dont 11
+avec les femmes et 10 avec les hommes), 25 entretiens individuels approfondis (dont 14 avec des
+femmes et 11 avec des hommes) et environ 20 entretiens avec les informateurs clé. La taille et la
+composition précises de l’échantillon qualitatif seront finalisées en collaboration avec le cabinet choisi.
+
+L’échantillon qualitatif sera choisi de manière intentionnelle dans chaque branche de l’étude des 3
+régions. Les indications sur la composition envisagée de l’échantillon peuvent inclure :
+ Focus groupes des femmes séparés par leurs statut familial (épouses ou membres des
+ménages monogames ; chefs de ménages et épouses dans les ménages polygames)
+ Entretiens individuels avec les femmes devraient représenter les points de vue de femmes
+monogames, polygames, chefs de ménages, veuves (non-chefs de ménage), jeunes femmes,
+femmes âgées, leaders des groupes.
+ Entretiens individuels avec les hommes devraient représenter les points de vue des
+hommes monogames, polygames, chefs de ménages, jeunes.
+ Entretiens avec informateurs clés peuvent comprendre les leaders communautaires, les
+présidentes des groupements d’épargne, les représentants des autorités et/ou services
+sociaux.
+
+5
 
 
 --- Page 6 ---
+Tableau 1 : Composantes de la recherche qualitative de base
 
-6 
- 
- 
- 
- 
- 
- 
- 
- 
-Tableau 1 : Composantes de la recherche qualitative de base 
- 
- Activité Participants Nombre 
-1 Groupes de 
-discussion (FGD) 
-Femmes membres de groupes d’épargne 9 (1*3*3) 
-Hommes, issus des ménages avec femmes 
-membres de groupes d’épargne 
-9 (1*3*3) 
-Femmes non-membres de groupes d’épargne 2 (2*1) 
-Hommes, issus des ménages sans membres 
-de groupes d’épargne 
-1 
-2 Entretiens semi-
-structurés 
-approfondis 
-Femmes membres de groupes d’épargne 9 (1*3*3) 
-Hommes, issus des ménages avec femmes 
-membres de groupes d’épargne 
-9 (1*3*3) 
-Femmes non-membres de groupes d’épargne 5  
-Hommes, issus des ménages sans membres 
-de groupes d’épargne 
-2  
-3 Entretiens semi-
-structurés 
-approfondis 
-Informateurs clé au niveau communautaire Environ 20 
- 
-Les données qualitatives sont recueillies pour avoir une compréhension approfondie des dynamiques 
-de genre au sein des ménages, les pratiques familiales  clé et celles de résolution des conflits , les 
-normes sociales genre, l’accès aux services sociaux , les effets de la pandémie  sur les ménages, les 
-pratiques d’épargne  par les femmes, entre autres . Les entretiens seront réal isés en langue locale, 
-enregistrés numériquement, transcrits et traduits en français.  
-Les enquêteurs qualitatifs vont assister en partie à la formation pour les énumérateurs . Des sessions 
-parallèles seront organisées pour ces enquêteurs sur les thématiques spécifiques à la composante 
-qualitative de l’évaluation d’impact. Ces sessions seront co-animées par l’UNICEF Innocenti. 
-Au moment de l’étude de base, UNICEF Innocenti conduira également jusqu’à 15 entretiens avec les 
-parties prenantes du progr amme. Le cabinet sera chargé de la transcription de ces entretiens en 
-français. 
- 
-3.4 Sécurisation des données 
- 
-Toutes les données doivent être collectées en format électronique via des tablettes portables. Les 
-tablettes électroniques doivent être protégées  par des mots de passe pour assurer la confidentialité 
-des informations. A la fin de la collecte, toutes les données quantitatives doivent être compilées dans 
-une base de données  et les données sur les tablettes doivent être supprimé es. Les enregistrements 
-doivent être transcrits en fichiers Word et les fichiers vocaux doivent être supprimées. Les données 
-électroniques seront stockées dans un serveur sécurisé et partagées avec l’équipe de recherche par 
-le biais de logiciels appropriés qui garantissent un transfert sécurisé. 
- 
-Merci d’indiquer dans la proposition technique si des tablettes sont disponibles.   
- 
- 
-3.5 Formation 
+Activité Participants Nombre
+1 Groupes de Femmes membres de groupes d’épargne 9 (1*3*3)
+discussion (FGD) Hommes, issus des ménages avec femmes 9 (1*3*3)
+membres de groupes d’épargne
+Femmes non-membres de groupes d’épargne 2 (2*1)
+Hommes, issus des ménages sans membres 1
+de groupes d’épargne
+2 Entretiens semi- Femmes membres de groupes d’épargne 9 (1*3*3)
+structurés Hommes, issus des ménages avec femmes 9 (1*3*3)
+approfondis membres de groupes d’épargne
+Femmes non-membres de groupes d’épargne 5
+Hommes, issus des ménages sans membres 2
+de groupes d’épargne
+3 Entretiens semi- Informateurs clé au niveau communautaire Environ 20
+structurés
+approfondis
+
+Les données qualitatives sont recueillies pour avoir une compréhension approfondie des dynamiques
+de genre au sein des ménages, les pratiques familiales clé et celles de résolution des conflits, les
+normes sociales genre, l’accès aux services sociaux, les effets de la pandémie sur les ménages, les
+pratiques d’épargne par les femmes, entre autres. Les entretiens seront réalisés en langue locale,
+enregistrés numériquement, transcrits et traduits en français.
+
+Les enquêteurs qualitatifs vont assister en partie à la formation pour les énumérateurs. Des sessions
+parallèles seront organisées pour ces enquêteurs sur les thématiques spécifiques à la composante
+qualitative de l’évaluation d’impact. Ces sessions seront co-animées par l’UNICEF Innocenti.
+
+Au moment de l’étude de base, UNICEF Innocenti conduira également jusqu’à 15 entretiens avec les
+parties prenantes du programme. Le cabinet sera chargé de la transcription de ces entretiens en
+français.
+
+3.4 Sécurisation des données
+
+Toutes les données doivent être collectées en format électronique via des tablettes portables. Les
+tablettes électroniques doivent être protégées par des mots de passe pour assurer la confidentialité
+des informations. A la fin de la collecte, toutes les données quantitatives doivent être compilées dans
+une base de données et les données sur les tablettes doivent être supprimées. Les enregistrements
+doivent être transcrits en fichiers Word et les fichiers vocaux doivent être supprimées. Les données
+électroniques seront stockées dans un serveur sécurisé et partagées avec l’équipe de recherche par
+le biais de logiciels appropriés qui garantissent un transfert sécurisé.
+
+Merci d’indiquer dans la proposition technique si des tablettes sont disponibles.
+
+3.5 Formation
+
+6
 
 
 --- Page 7 ---
+Formation quantitative
 
-7 
- 
- 
-Formation quantitative 
-Les superviseurs seront formés pendant 3 jours minimum. Ensuite, les enquêteurs seront formés 
-pendant 7 jours minimum, et les superviseurs devront participer pleinement à la formation des 
-enquêteurs. 
-Une connexion Internet  et du matériel  y afférant seront mis en place pour permettre  la participation 
-effective à distance à la formation du personnel de l’UNICEF Innocenti (par exemple par voie de Zoom 
-ou de Microsoft Teams), au cas où la présence à distance s’avère nécessaire. 
-En outre, tous les superviseurs et enquêteurs sont priés de participer à un exercice pilote visant à 
-faciliter la pratique sur le terrain  pour une prise en main du questionnaire et la maitrise du flot des 
-questions afin de faire des ajustements si nécessaire (lieu à sélectionner en consultation avec l’UNICEF 
-Innocenti et UNICEF Mali). 
- 
-Les sessions de formation devraient au minimum couvrir les sujets suivants : 
- Consentement éclairé et agrément. 
- Pratiques éthiques pour la recherche. 
- Les sujets des modules d’enquête, y compris la santé, l’éducation, l’utilisation du temps (et 
-l’exposition aux dangers y connexe), les expériences de violence, entre autres. 
- Utilisation et pratique des tablettes. 
- 
-Qualifications et expérience requises des superviseurs :  
- Au minimum un diplôme secondaire (Bac scientifique de préférence)  
- Cinq ans d’expérience de supervision de la mise en œuvre des enquêtes élargies auprès des 
-ménages (MICS, EDS, EMOP, ENV etc). 
- Expérience de travail avec des tablettes électroniques pour la collecte de données.  
- Professionnel, respectueux et pleinement engagé à maintenir le protocole d’enquête et les 
-procédures éthiques. 
- Ne souscrit pas à des attitudes sexistes néfastes ( les scénarios et les questions d’entrevue 
-pour dépister de telles attitudes peuvent être fournis par UNICEF Innocenti sur demande).  
- Les superviseurs ne devraient pas superviser dans les zones où ils connaissent les membres 
-de la collectivité parce que cela mettrait en péril la confidentialité des répondants. 
- 
-Qualifications et expérience requises des enquêteurs (privilégier les femmes  lors du  recrutement 
-puisque les entretiens avec les femmes doivent être conduites par les femmes  uniquement) :  
- Au minimum un diplôme secondaire (Bac). 
- Minimum deux ans d’expérience démontrable dans la réalisation d’enquêtes. 
- Expérience de travail avec des tablettes pour la collecte de données. 
- Souhaitable :  une formation en santé, en sciences sociales, en assistance social ou en 
-thérapie. 
- Attitude amicale et respectueuse et capacité d’établir un environnement agréable d’entretien. 
- Professionnel, respectueux  et pleinement engagé à maintenir le protocole d’enquête et les 
-procédures éthiques. 
- Ne souscrit pas à des attitudes sexistes néfastes (des scénarios et des questions d’entrevue 
-pour dépister de telles attitudes peuvent être fournis par UNICEF Innocenti sur demande). 
- Recommandé : les enquêteurs devr aient être recruté s de la même région pour assurer leur 
-bonne connaissance de contexte socio-culturel et des langues locales 
- Les enquêteurs ne devraient pas travailler dans les zones où ils connaissent les membres de 
-la collectivité parce que cela mettrait en péril la confidentialité des répondants.  
- 
-Formation qualitative 
-Les enquêteurs du volet qualitatif seront formés pendant 5 jours minimum.  
+Les superviseurs seront formés pendant 3 jours minimum. Ensuite, les enquêteurs seront formés
+pendant 7 jours minimum, et les superviseurs devront participer pleinement à la formation des
+enquêteurs.
+
+Une connexion Internet et du matériel y afférant seront mis en place pour permettre la participation
+effective à distance à la formation du personnel de l’UNICEF Innocenti (par exemple par voie de Zoom
+ou de Microsoft Teams), au cas où la présence à distance s’avère nécessaire.
+
+En outre, tous les superviseurs et enquêteurs sont priés de participer à un exercice pilote visant à
+faciliter la pratique sur le terrain pour une prise en main du questionnaire et la maitrise du flot des
+questions afin de faire des ajustements si nécessaire (lieu à sélectionner en consultation avec l’UNICEF
+Innocenti et UNICEF Mali).
+
+Les sessions de formation devraient au minimum couvrir les sujets suivants :
+ Consentement éclairé et agrément.
+ Pratiques éthiques pour la recherche.
+ Les sujets des modules d’enquête, y compris la santé, l’éducation, l’utilisation du temps (et
+l’exposition aux dangers y connexe), les expériences de violence, entre autres.
+ Utilisation et pratique des tablettes.
+
+Qualifications et expérience requises des superviseurs :
+ Au minimum un diplôme secondaire (Bac scientifique de préférence)
+ Cinq ans d’expérience de supervision de la mise en œuvre des enquêtes élargies auprès des
+ménages (MICS, EDS, EMOP, ENV etc).
+ Expérience de travail avec des tablettes électroniques pour la collecte de données.
+ Professionnel, respectueux et pleinement engagé à maintenir le protocole d’enquête et les
+procédures éthiques.
+ Ne souscrit pas à des attitudes sexistes néfastes (les scénarios et les questions d’entrevue
+pour dépister de telles attitudes peuvent être fournis par UNICEF Innocenti sur demande).
+ Les superviseurs ne devraient pas superviser dans les zones où ils connaissent les membres
+de la collectivité parce que cela mettrait en péril la confidentialité des répondants.
+
+Qualifications et expérience requises des enquêteurs (privilégier les femmes lors du recrutement
+puisque les entretiens avec les femmes doivent être conduites par les femmes uniquement) :
+ Au minimum un diplôme secondaire (Bac).
+ Minimum deux ans d’expérience démontrable dans la réalisation d’enquêtes.
+ Expérience de travail avec des tablettes pour la collecte de données.
+ Souhaitable : une formation en santé, en sciences sociales, en assistance social ou en
+thérapie.
+ Attitude amicale et respectueuse et capacité d’établir un environnement agréable d’entretien.
+ Professionnel, respectueux et pleinement engagé à maintenir le protocole d’enquête et les
+procédures éthiques.
+ Ne souscrit pas à des attitudes sexistes néfastes (des scénarios et des questions d’entrevue
+pour dépister de telles attitudes peuvent être fournis par UNICEF Innocenti sur demande).
+ Recommandé : les enquêteurs devraient être recrutés de la même région pour assurer leur
+bonne connaissance de contexte socio-culturel et des langues locales
+ Les enquêteurs ne devraient pas travailler dans les zones où ils connaissent les membres de
+la collectivité parce que cela mettrait en péril la confidentialité des répondants.
+
+Formation qualitative
+
+Les enquêteurs du volet qualitatif seront formés pendant 5 jours minimum.
+
+7
 
 
 --- Page 8 ---
+Comme pour la formation quantitative, une connexion Internet et du matériel seront mis en place afin
+de permettre la participation à distance à la formation du personnel de l’UNICEF Innocenti (par exemple
+par voie de Zoom ou de Microsoft Teams), au cas où la présence à distance s’avère nécessaire.
 
-8 
- 
-Comme pour la formation quantitative, une connexion Internet et du matériel  seront mis en place afin 
-de permettre la participation à distance à la formation du personnel de l’UNICEF Innocenti (par exemple 
-par voie de Zoom ou de Microsoft Teams), au cas où la présence à distance s’avère nécessaire . 
-En outre, tous les enquêteurs seront priés de participer à un exercice pilote visant à faciliter la pratique 
-sur le terrain pour une prise en main du questionnaire et la maitrise du flot des questions afin de faire 
-des ajustements si nécessaire (lieu à sélectionner en consultation avec l’UNICEF Innocenti et UNICEF 
-Mali). 
- 
-Les sessions de formation devraient au minimum couvrir les sujets suivants :  
- Consentement éclairé et agrément. 
- Pratiques éthiques pour la recherche. 
- Les sujets des guides pour les interviews et le focus groupes 
- Pratique des transcriptions 
- Utilisation et pratique des dictaphones. 
- 
-Qualifications et expérience requises des enquêteurs qualitatifs  (assurer un équilibre de genre pour 
-permettre que les femmes facilitent les discussions av ec les femmes et les hommes – avec les 
-hommes) :  
- Au minimum un diplôme secondaire (Bac). 
- Cinq ans d’expérience démontrable dans la collecte des données qualitatifs 
- Souhaitable : une formation en santé, en sciences sociales, en assistance social ou en 
-psychologie. 
- Attitude amicale et respectueuse et capacité d’établir un environnement de confiance pour 
-l’entretien. 
- Professionnel, respectueux et pleinement engagé à maintenir le protocole d’enquête et les 
-procédures éthiques. 
- Ne souscrit pas à des attitudes sexistes néfastes (des scénarios et des questions d’entrevue 
-pour dépister de telles attitudes peuvent être fournis par UNICEF Innocenti sur demande).  
- Recommandé : les enquêteurs devraient être recruté s de la même région pou r assurer leur 
-bonne connaissance de contexte socio-culturel et des langues locales 
- Les enquêteurs ne doivent pas travailler dans les zones où ils connaissent les membres de la 
-collectivité parce que cela mettrait en péril la confidentialité des répondants . 
- 
- 
-3.6 Procédures de terrain et exigences éthiques 
- 
-L’UNICEF Innocenti demandera l’autorisation éthique, dans le cadre de l’Accord  global long-terme de 
-l’UNICEF avec la HML IRB, un comité d’examen institutionnel qui a été pré -qualifié pour fournir des 
-revues et des services éthiques à tous les bureaux de l’UNICEF dans le monde entier .3 Si une 
-autorisation éthique nationale est n écessaire, le cabinet contractualisé  sera chargé de l’obtention de  
-cette autorisation. 
- 
-Pour protéger la confidentialité, il est essentiel que le contenu spécifique de l’enquête relative à la 
-victimisation par la violence ne soit pas divulgué au -delà des répondants à l’enquête, y compris aux 
-autorités ou aux membres de la collectivité à l’ent rée dans la collectivité ( si ces personnes facilitent 
-l’identification et/ou l’accès aux ménages échantillonnés). 
- 
-Compte tenu du contenu délicat de l’enquête, on s’attend à ce que les superviseurs, les énumérateurs, 
-ainsi que les conducteurs et/ou les aut res équipes de recherche qui accompagnent les équipes de 
-recherche sur le terrain signent des accords de confidentialité. Les formulaires seront fournis par 
-l’UNICEF Innocenti.   
- 
-                                                           
-3 HML IRB est base à Washington DC (EEUU). https://www.healthmedialabirb.com/ 
+En outre, tous les enquêteurs seront priés de participer à un exercice pilote visant à faciliter la pratique
+sur le terrain pour une prise en main du questionnaire et la maitrise du flot des questions afin de faire
+des ajustements si nécessaire (lieu à sélectionner en consultation avec l’UNICEF Innocenti et UNICEF
+Mali).
+
+Les sessions de formation devraient au minimum couvrir les sujets suivants :
+ Consentement éclairé et agrément.
+ Pratiques éthiques pour la recherche.
+ Les sujets des guides pour les interviews et le focus groupes
+ Pratique des transcriptions
+ Utilisation et pratique des dictaphones.
+
+Qualifications et expérience requises des enquêteurs qualitatifs (assurer un équilibre de genre pour
+permettre que les femmes facilitent les discussions avec les femmes et les hommes – avec les
+hommes) :
+ Au minimum un diplôme secondaire (Bac).
+ Cinq ans d’expérience démontrable dans la collecte des données qualitatifs
+ Souhaitable : une formation en santé, en sciences sociales, en assistance social ou en
+psychologie.
+ Attitude amicale et respectueuse et capacité d’établir un environnement de confiance pour
+l’entretien.
+ Professionnel, respectueux et pleinement engagé à maintenir le protocole d’enquête et les
+procédures éthiques.
+ Ne souscrit pas à des attitudes sexistes néfastes (des scénarios et des questions d’entrevue
+pour dépister de telles attitudes peuvent être fournis par UNICEF Innocenti sur demande).
+ Recommandé : les enquêteurs devraient être recrutés de la même région pour assurer leur
+bonne connaissance de contexte socio-culturel et des langues locales
+ Les enquêteurs ne doivent pas travailler dans les zones où ils connaissent les membres de la
+collectivité parce que cela mettrait en péril la confidentialité des répondants.
+
+3.6 Procédures de terrain et exigences éthiques
+
+L’UNICEF Innocenti demandera l’autorisation éthique, dans le cadre de l’Accord global long-terme de
+l’UNICEF avec la HML IRB, un comité d’examen institutionnel qui a été pré-qualifié pour fournir des
+revues et des services éthiques à tous les bureaux de l’UNICEF dans le monde entier.3 Si une
+autorisation éthique nationale est nécessaire, le cabinet contractualisé sera chargé de l’obtention de
+cette autorisation.
+
+Pour protéger la confidentialité, il est essentiel que le contenu spécifique de l’enquête relative à la
+victimisation par la violence ne soit pas divulgué au-delà des répondants à l’enquête, y compris aux
+autorités ou aux membres de la collectivité à l’entrée dans la collectivité (si ces personnes facilitent
+l’identification et/ou l’accès aux ménages échantillonnés).
+
+Compte tenu du contenu délicat de l’enquête, on s’attend à ce que les superviseurs, les énumérateurs,
+ainsi que les conducteurs et/ou les autres équipes de recherche qui accompagnent les équipes de
+recherche sur le terrain signent des accords de confidentialité. Les formulaires seront fournis par
+l’UNICEF Innocenti.
+
+3 HML IRB est base à Washington DC (EEUU). https://www.healthmedialabirb.com/
+
+8
 
 
 --- Page 9 ---
+Les formulaires de consentement seront fournis par l’UNICEF Innocenti et doivent être révisés et
+traduits par le cabinet contacté. Tous les consentements éclairés comprennent les éléments éthiques
+concernant : i) les objectifs et le contenu de l’étude (sans révéler la véritable nature des questions
+délicates posées aux femmes), ii) la protection de la vie privée et des données, iii) la participation
+volontaire, iv) le droit de refuser ou de sauter toute question sans conséquences, et v) le contact où
+l’on peut s’adresser pour porter plainte ou d’autres renseignements sur l’étude.
 
-9 
- 
-Les formulaires de consentement seront fournis par l’UNICEF Innocenti  et doivent être révisés et 
-traduits par le cabinet contacté. Tous les consentements éclairés comprennent les éléments éthiques 
-concernant : i) les objectifs et le contenu de l’étude (sans révéler la véritable nature des questions 
-délicates posées aux femm es), ii) la protection de la vie privée et des données, iii) la participation 
-volontaire, iv) le droit de refuser ou de sauter toute question sans conséquences, et v) le contact où 
-l’on peut s’adresser pour porter plainte ou d’autres renseignements sur l’étude. 
- 
-Un plan d’intervention et de référencement des cas  sera élaboré et mis en œuvre pour s’assurer que 
-les répondants ayant besoin de soutien  reçoivent des références  appropriées à temps. Ce plan sera 
-coordonné par l’UNICEF Mali et mis en œuvre avec les  structures / partenaires  spécialisée. La 
-collaboration entre le cabinet contractualisé  et l’UNICEF Innocenti nécessite le plein soutien de la 
-direction et des équipes du cabinet contractualisé. Une liste des services locaux et nationaux devrait 
-être fournie à tous les répondants au sondage à la fin de l’entrevue et les énumérateurs seront formés 
-sur la façon approprié et délicate d’introduire cette liste. En outre, l es enquêteurs seront formés sur la 
-façon d’offrir le plan d’intervention aux répondants qui font un malaise au cours de l’entretien, partagent 
-une expérience de violence ou indiquent qu’ils ne sont pas en sécurité dans leur domicile actuel, ainsi 
-que les démarches pour mettre en œuvre le plan d’intervention en collaboration avec des partenaires 
-(le plan de référencement sera confirmé auprès de l’UNICEF Mali avant de démarrer les formations). 
- 
- 
-3.7 Stratégie de mitigation du risque COVID-19  
- 
-INSTAT et le cabinet contractualisé surveilleront régulièrement la situation du COVID-19 et les dispositifs 
-gouvernementaux dans les communes dans lesquelles les opérations de collecte de données sont 
-conduites.   
- 
-Les mesures suivantes seront prises pour assurer la sécurité des enquêteurs et des répondants : 
- 
- Les enquêteurs feront un test de dépistage COVID -19 dans un établissement reconnu, et  ils 
-entameront le travail sur terrain sous condition d’un résultat négatif.  Les enquêteurs seront 
-invités à emporter le certificat négatif COVID-19 avec eux pendant les travaux sur le terrain. Le 
-cout sera à la charge de UNICEF Innocenti. 
- Les enquêteurs recevront des masques, des boucliers faciaux, des gants, les bouts de coton  
-et des gels désinfectants pour se protéger et désinfecter leurs outils de travail. 
- Le cabinet prendra des dispositions pour l’assurance des enquêteurs contre tout accident 
-pendant le travail sur le terrain et contre COVID-19. 
- Les entretiens ne seront pas menés si les répondants résident dans une zone de confinement, 
-ainsi classifié par le service de santé local.  
- Les enquêteurs poseront une série de questions sur les symptômes COVID-19 avant d’entamer 
-l’entretien, si le/la répondant(e) déclare avoir eu 3 ou plus des symptômes énumérés au courant 
-des 14 derniers jours, l’entretien sera annulé. 
- Les répondants recevront des masques et du désinfectant pour les mains et les entretiens 
-seront menées à l’extérieur sans compromettre la confidentialité et en respectant les mesures 
-de distanciation sociale. Budgétiser 2 masques minimum par ménage. 
- La distanciation sociale sera maintenue en menant des entretiens dans des espaces ouverts 
-(éviter les espaces clos), et le formulaire de consentement sera modifié pour inclure 
-uniquement le consentement verbal/numérique. 
- Les consignes  locales pour la prévention et la gestion du COVID -19 seront vérifiées et 
-transmises aux équipes sur le terrain. 
- Les consignes de « Que Faire » pour la prévention du COVID-19 (instructions pour le respect 
-obligatoire des protocoles de prévention, maintien de la distance de six pieds entre les 
-participants ; éviter tout contact physique ou partage de matériel – stylos, etc.) seront partagés 
-avec les énumérateurs. 
- 
- 
+Un plan d’intervention et de référencement des cas sera élaboré et mis en œuvre pour s’assurer que
+les répondants ayant besoin de soutien reçoivent des références appropriées à temps. Ce plan sera
+coordonné par l’UNICEF Mali et mis en œuvre avec les structures / partenaires spécialisée. La
+collaboration entre le cabinet contractualisé et l’UNICEF Innocenti nécessite le plein soutien de la
+direction et des équipes du cabinet contractualisé. Une liste des services locaux et nationaux devrait
+être fournie à tous les répondants au sondage à la fin de l’entrevue et les énumérateurs seront formés
+sur la façon approprié et délicate d’introduire cette liste. En outre, les enquêteurs seront formés sur la
+façon d’offrir le plan d’intervention aux répondants qui font un malaise au cours de l’entretien, partagent
+une expérience de violence ou indiquent qu’ils ne sont pas en sécurité dans leur domicile actuel, ainsi
+que les démarches pour mettre en œuvre le plan d’intervention en collaboration avec des partenaires
+(le plan de référencement sera confirmé auprès de l’UNICEF Mali avant de démarrer les formations).
+
+3.7 Stratégie de mitigation du risque COVID-19
+
+INSTAT et le cabinet contractualisé surveilleront régulièrement la situation du COVID-19 et les dispositifs
+gouvernementaux dans les communes dans lesquelles les opérations de collecte de données sont
+conduites.
+
+Les mesures suivantes seront prises pour assurer la sécurité des enquêteurs et des répondants :
+
+ Les enquêteurs feront un test de dépistage COVID-19 dans un établissement reconnu, et ils
+entameront le travail sur terrain sous condition d’un résultat négatif. Les enquêteurs seront
+invités à emporter le certificat négatif COVID-19 avec eux pendant les travaux sur le terrain. Le
+cout sera à la charge de UNICEF Innocenti.
+ Les enquêteurs recevront des masques, des boucliers faciaux, des gants, les bouts de coton
+et des gels désinfectants pour se protéger et désinfecter leurs outils de travail.
+ Le cabinet prendra des dispositions pour l’assurance des enquêteurs contre tout accident
+pendant le travail sur le terrain et contre COVID-19.
+ Les entretiens ne seront pas menés si les répondants résident dans une zone de confinement,
+ainsi classifié par le service de santé local.
+ Les enquêteurs poseront une série de questions sur les symptômes COVID-19 avant d’entamer
+l’entretien, si le/la répondant(e) déclare avoir eu 3 ou plus des symptômes énumérés au courant
+des 14 derniers jours, l’entretien sera annulé.
+ Les répondants recevront des masques et du désinfectant pour les mains et les entretiens
+seront menées à l’extérieur sans compromettre la confidentialité et en respectant les mesures
+de distanciation sociale. Budgétiser 2 masques minimum par ménage.
+ La distanciation sociale sera maintenue en menant des entretiens dans des espaces ouverts
+(éviter les espaces clos), et le formulaire de consentement sera modifié pour inclure
+uniquement le consentement verbal/numérique.
+ Les consignes locales pour la prévention et la gestion du COVID-19 seront vérifiées et
+transmises aux équipes sur le terrain.
+ Les consignes de « Que Faire » pour la prévention du COVID-19 (instructions pour le respect
+obligatoire des protocoles de prévention, maintien de la distance de six pieds entre les
+participants ; éviter tout contact physique ou partage de matériel – stylos, etc.) seront partagés
+avec les énumérateurs.
+
+9
 
 
 --- Page 10 ---
+Tableau 2 : Résumé des paramètres
 
-10 
- 
- 
-Tableau 2 : Résumé des paramètres 
- 
- Outil Taille de l’échantillon (total 
-à administrer) 
-Durée par 
-outil 
-Répondant 
-1 Ménage –Quantitatif ~1900 entretiens dans 3 
-régions 
-1,5 heures  Chefs de ménages 
-(ou membres de 
-ménage bien 
-informés) 
- 
-2 Femmes – Quantitatif ~1900 entretiens dans 3 
-régions  
-1,5 heures  Femmes membres 
-des groupements 
-d’épargne 
- 
-3 Communauté – 
-Quantitatif 
- 
-Chaque village d’étude dans 
-3 régions 
-1 heure Leaders 
-communautaires 
-4 Groupement – 
-Quantitative 
- 
-123 groupements dans 3 
-régions 
-1 heure Présidente du 
-groupement 
-5 Entretiens 
+Outil Taille de l’échantillon (total Durée par Répondant
+à administrer) outil
+1 Ménage –Quantitatif ~1900 entretiens dans 3 1,5 heures Chefs de ménages
+régions (ou membres de
+ménage bien
+informés)
+
+2 Femmes – Quantitatif ~1900 entretiens dans 3 1,5 heures Femmes membres
+régions des groupements
+d’épargne
+
+3 Communauté – Chaque village d’étude dans 1 heure Leaders
+Quantitatif 3 régions communautaires
+
+4 Groupement – 123 groupements dans 3 1 heure Présidente du
+Quantitative régions groupement
+
+5 Entretiens 25 dans 3 régions 1 heure Femmes et hommes
 approfondis semi-
-structurés avec 
-bénéficiaires 
- 
-25 dans 3 régions 1 heure Femmes et hommes  
- 
-6 Discussion en Focus 
-Groupe  
- 
-21 dans 3 régions 1,5 heures Femmes et hommes    
-7 Entretiens semi-
-structurés  
-20  45 minutes Parties prenantes du 
-programme au 
-niveau local 
- 
-4. Description du travail 
-Le travail comprend : 
- Tester et finaliser des questionnaires quantitatifs dans CSPro ou SurveyCTO, contrôle 
-qualité, prise en charge du serveur, maintenir les données sur le serveur et les télécharger 
-régulièrement.  
- La conception, la réalisation et l’assurance de qualité des  plans de collecte de données, y 
-compris le recrutement du personnel de terrain, la formation, la location des salles de formation, 
-l’achat/location d’équipement et d’outils de terrain (ex. véhicules)  
- Le pilotage et la collecte de données, y compris : 
-o Enquête quantitative (ménage-, femme-, communauté- et groupement). 
-o Enquête qualitative (entretiens approfondis et discussion en focus groupe s avec les 
-femmes et les hommes et les parties prenantes du programme).  
- Conduite de l’enquête quantitative et de l’étude qualitatif auprès l’échantillon des groupements, 
-des femmes (et leurs ménages)  choisi par UNICEF Innocenti à partir du cadre de sondage 
-fourni par UNICEF Mali. 
- Téléchargement des données collectées r égulier au cours de la collecte de données pour 
-permettre à UNICEF Innocenti de réaliser les vérifications des données ; nettoyage des 
-données en suivant les indications de l’UNICEF Innocenti. 
- Ratissage et nettoyage de données quantitatives.  
- Transcription des données qualitatives.  
- Codage et analyse des données qualitatives.  
+structurés avec
+bénéficiaires
+
+6 Discussion en Focus 21 dans 3 régions 1,5 heures Femmes et hommes
+Groupe
+
+7 Entretiens semi- 20 45 minutes Parties prenantes du
+structurés programme au
+niveau local
+
+4. Description du travail
+
+Le travail comprend :
+ Tester et finaliser des questionnaires quantitatifs dans CSPro ou SurveyCTO, contrôle
+qualité, prise en charge du serveur, maintenir les données sur le serveur et les télécharger
+régulièrement.
+ La conception, la réalisation et l’assurance de qualité des plans de collecte de données, y
+compris le recrutement du personnel de terrain, la formation, la location des salles de formation,
+l’achat/location d’équipement et d’outils de terrain (ex. véhicules)
+ Le pilotage et la collecte de données, y compris :
+o Enquête quantitative (ménage-, femme-, communauté- et groupement).
+o Enquête qualitative (entretiens approfondis et discussion en focus groupes avec les
+femmes et les hommes et les parties prenantes du programme).
+ Conduite de l’enquête quantitative et de l’étude qualitatif auprès l’échantillon des groupements,
+des femmes (et leurs ménages) choisi par UNICEF Innocenti à partir du cadre de sondage
+fourni par UNICEF Mali.
+ Téléchargement des données collectées régulier au cours de la collecte de données pour
+permettre à UNICEF Innocenti de réaliser les vérifications des données ; nettoyage des
+données en suivant les indications de l’UNICEF Innocenti.
+ Ratissage et nettoyage de données quantitatives.
+ Transcription des données qualitatives.
+ Codage et analyse des données qualitatives.
+
+10
 
 
 --- Page 11 ---
-
-11 
- 
- Participation aux réunions requises (physiques ou via téléconférence) avec UNICEF Innocenti, 
-UNICEF Mali, INSTAT  avant, pendant et après l e travail sur le terrain afin de présenter et 
+ Participation aux réunions requises (physiques ou via téléconférence) avec UNICEF Innocenti,
+UNICEF Mali, INSTAT avant, pendant et après le travail sur le terrain afin de présenter et
 discuter les outils, les manuels de superviseur et d’enquêteur, le plan de la collecte de données.
+
+11
 
 
 --- Page 12 ---
+5. Livrables attendus et chronogramme
 
-12 
- 
- 
-5. Livrables attendus et chronogramme 
- 
- 
-La mission inclue les livrables décrits dans le Tableau 3 ci-dessous. La date limite dans tableau 3 est indicative (devrait être recalcule à partir de la signature 
-du contrat), mais la collecte de données de base doit terminer avant le 31 octobre 2021.  
- 
-Tableau 3 : Livrables attendus et chronogramme 
- Activités Livrables N de 
-jours 
-Date 
-limite 
-1  Recrutement du personnel de terrain, selon les critères requis 
-énumérés dans la section 7 des TdRs 
- La liste détaillée (nom, background, expérience, etc.) des 
-superviseurs recrutés   
- La liste détaillée des enumérateurs recrutés 
- La liste détaillée des enquêteurs qualitatifs recrutés.  
-3 10 sept 
-2  Fournir des feedbacks et de l’assurance de qualité pour les 
-questionnaires de l’enquête de base, assurer qu’ils sont 
-appropriés pour le contexte local. 
- Questionnaires sont cohérents avec les outils nationaux de la 
-collecte de données et appropriés pour le contexte local. 
-5 10 sept 3  Tester et finaliser les questionnaires dans CSPro ou 
-SurveyCTO 
- Programmation en CSPRo (ou Survey CTO) 
-4  Préparer les manuels de superviseur et d’enumérateur.  Manuel de superviseur final et approuvé. 
- Manuel d’enumérateur final et approuvé. 
-5  Finaliser le plan et procédures de la collecte de données, e.g. 
-recrutement du personnel de terrain/formation, location de 
-salle de formation, achat des équipements et outils (y compris 
-véhicules, tablettes, et autres).  
- Soumission du protocole de l’étude au comité d’éthique 
-national, si requis. 
- Le plan et les procédures de la collecte de données finaux et 
-approuvés. 
-2 10 sept 
-6  Formation des superviseurs par UNICEF Innocenti  Superviseurs formés 3 17 sept 
-7  Formation des équipes de recherche selon les critères 
-élaborés dans la section 5 des TdRs, y compris la location de 
-la salle de formation et les outils. 
- Superviseurs ont participé à la formation.  
- Enumérateurs ont participé à la formation. 
- Enquêteurs qualitatifs ont participé à la formation. 
- Tous les superviseurs, enumérateurs et enquêteurs qualitatifs 
-ont participé dans l’exercice pilote sur terrain. 
-8 1 oct 
+La mission inclue les livrables décrits dans le Tableau 3 ci-dessous. La date limite dans tableau 3 est indicative (devrait être recalcule à partir de la signature
+du contrat), mais la collecte de données de base doit terminer avant le 31 octobre 2021.
+
+Tableau 3 : Livrables attendus et chronogramme
+Activités Livrables N de Date
+jours limite
+1  Recrutement du personnel de terrain, selon les critères requis  La liste détaillée (nom, background, expérience, etc.) des
+énumérés dans la section 7 des TdRs superviseurs recrutés 3 10 sept
+ La liste détaillée des enumérateurs recrutés
+ La liste détaillée des enquêteurs qualitatifs recrutés.
+2  Fournir des feedbacks et de l’assurance de qualité pour les  Questionnaires sont cohérents avec les outils nationaux de la
+questionnaires de l’enquête de base, assurer qu’ils sont collecte de données et appropriés pour le contexte local.
+appropriés pour le contexte local.
+3  Tester et finaliser les questionnaires dans CSPro ou  Programmation en CSPRo (ou Survey CTO) 5 10 sept
+SurveyCTO
+4  Préparer les manuels de superviseur et d’enumérateur.  Manuel de superviseur final et approuvé.
+ Manuel d’enumérateur final et approuvé.
+5  Finaliser le plan et procédures de la collecte de données, e.g.  Le plan et les procédures de la collecte de données finaux et
+recrutement du personnel de terrain/formation, location de approuvés.
+salle de formation, achat des équipements et outils (y compris 2 10 sept
+véhicules, tablettes, et autres).
+ Soumission du protocole de l’étude au comité d’éthique
+national, si requis.
+6  Formation des superviseurs par UNICEF Innocenti  Superviseurs formés 3 17 sept
+7  Formation des équipes de recherche selon les critères  Superviseurs ont participé à la formation.
+élaborés dans la section 5 des TdRs, y compris la location de  Enumérateurs ont participé à la formation.
+la salle de formation et les outils.  Enquêteurs qualitatifs ont participé à la formation. 8 1 oct
+ Tous les superviseurs, enumérateurs et enquêteurs qualitatifs
+ont participé dans l’exercice pilote sur terrain.
+
+12
 
 
 --- Page 13 ---
+Activités Livrables N de Date
+jours limite
+ Rapport(s) de la formation et de la pratique sur terrain, y
+compris les feedbacks sur les révisions du questionnaires
+nécessaires.
+8  Mettre à jour et finaliser tous les questionnaires (quantitatifs  Les questionnaires finaux (quantitatifs, qualitatifs) en anglais 5 1 oct
+and qualitatifs) sur base des feedbacks de la formation et de la et en langues locales.
+pratique sur terrain en français et en langues locales.  Mises à jour dans le CSPRo (ou logiciel similaire) et sur les
+ Mettre à jour les tablettes avec les questionnaires révisés. tablettes, afin qu’elles soient prêtes pour la collecte de
+ Autorisation éthique locale, si nécessaire, est obtenue. données.
+ Autorisation éthique locale est obtenue.
+9  Implémenter le travail sur terrain selon le plan de la collecte de  Rapports hebdomadaires (max. 4 pages) sur l’état
+données, y compris l’achat des véhicules et tous les autres d’avancement et les défis
+équipements nécessaires :  Rapport du travail sur terrain final et approuvé
+ Enquêtes auprès des femmes, ménages, groupements
+et leaders communautaires
+ Etude qualitative 25 31 oct
+10  Fournir les données brutes (fichiers CSPRo ou SurveyCTO  Fichiers CSPRo bruts (ou SurveyCTO), données
+pour les individus, la communauté et les groupements, quantitatives et transcriptions qualitatives (en français)
+données quantitatives et transcriptions qualitatives en partagés avec l’UNICEF Innocenti
+français) à l’UNICEF Innocenti au cours de l’avancement du  Fichiers CSPRo ou SurveyCTO sont mis à jour (si besoin, sur
+travail sur le terrain (ceci inclut les fichier CSPRo ou base de vérifications de données).
+SurveyCTO et les transcriptions qualitatives – français).
+11  Données épurées des questionnaires (ménage, femme,  Données quantitatives épurées de haute qualité en format 5 5 nov
+communauté, groupement) en format Stata. Stata.
+12  Transcriptions des données qualitatives recueillies  Transcriptions de tous les focus groups et entretiens semi- 20 30 nov
+ Transcription des entretiens (environ 15) conduits par UNICEF structurés
+Innocenti dans le cadre de l’étude  Transcriptions des entretiens conduits par UNICEF Innocenti
+ Analyse / codages des données qualitatives recueillies  Codage des données qualitatives dans un format agréé
+préalablement
 
-13 
- 
- Activités Livrables N de 
-jours 
-Date 
-limite 
- Rapport(s) de la formation et de la pratique sur terrain, y 
-compris les feedbacks sur les révisions du questionnaires 
-nécessaires.  
-8  Mettre à jour et finaliser tous les questionnaires (quantitatifs 
-and qualitatifs) sur base des feedbacks de la formation et de la 
-pratique sur terrain en français et en langues locales. 
- Mettre à jour les tablettes avec les questionnaires révisés. 
- Autorisation éthique locale, si nécessaire, est obtenue. 
- Les questionnaires finaux (quantitatifs, qualitatifs) en anglais 
-et en langues locales. 
- Mises à jour dans le CSPRo (ou logiciel similaire) et sur les 
-tablettes, afin qu’elles soient prêtes pour la collecte de 
-données. 
- Autorisation éthique locale est obtenue. 
-5 1 oct 
-9  Implémenter le travail sur terrain selon le plan de la collecte de 
-données, y compris l’achat des véhicules et tous les autres 
-équipements nécessaires : 
- Enquêtes auprès des femmes, ménages, groupements 
-et leaders communautaires 
- Etude qualitative 
- Rapports hebdomadaires (max. 4 pages) sur l’état 
-d’avancement et les défis  
- Rapport du travail sur terrain final et approuvé 
-25 31 oct 10  Fournir les données brutes (fichiers CSPRo ou SurveyCTO 
-pour les individus, la communauté et les groupements, 
-données quantitatives et transcriptions qualitatives en 
-français) à l’UNICEF Innocenti au cours de l’avancement du 
-travail sur le terrain (ceci inclut les fichier CSPRo ou 
-SurveyCTO et les transcriptions qualitatives – français). 
- Fichiers CSPRo bruts (ou SurveyCTO), données 
-quantitatives et transcriptions qualitatives (en français) 
-partagés avec l’UNICEF Innocenti 
- Fichiers CSPRo ou SurveyCTO sont mis à jour (si besoin, sur 
-base de vérifications de données). 
-11  Données épurées des questionnaires (ménage, femme, 
-communauté, groupement) en format Stata. 
- Données quantitatives épurées de haute qualité en format 
-Stata. 
-5 5 nov 
-12  Transcriptions des données qualitatives recueillies 
- Transcription des entretiens (environ 15) conduits par UNICEF 
-Innocenti dans le cadre de l’étude  
- Analyse / codages des données qualitatives recueillies 
- 
- Transcriptions de tous les focus groups et entretiens semi-
-structurés 
- Transcriptions des entretiens conduits par UNICEF Innocenti 
- Codage des données qualitatives dans un format agréé 
-préalablement 
-20 30 nov 
- 
- 
+13
 
 
 --- Page 14 ---
+Tous les documents de travail et le rapport final du terrain doivent être soumis en français. Le cabinet
+contractualisé est chargé de l’organisation et de la gestion de la traduction de haute qualité de tous les
+matériaux et documents en langues locales.
+Tout matériel physique (tablettes, smartphones, notes d’entretiens, etc) sera gardé sous clé au bureau
+du cabinet contractualisé avec accès strictement limité à l’équipe technique de l’étude.
 
-14 
- 
-Tous les documents de travail et le rapport final du terrain doivent être soumis en français. Le cabinet 
-contractualisé est chargé de l’organisation et de la gestion de la traduction de haute qualité de tous les 
-matériaux et documents en langues locales.  
-Tout matériel physique (tablettes, smartphones, notes d’entretiens, etc) sera gardé sous clé au bureau 
-du cabinet contractualisé avec accès strictement limité à l’équipe technique de l’étude.  
-Les données électroniques seront envoyées directement de l'enquêteur au serveur central. Au niveau 
-de l'enquêteur, les données saisies sont stockées de manière sécurisée . Toutes les informati ons 
-sensibles et identifiables ne seront jamais transmises au-delà de l'équipe technique de l’étude.  
-Les données quantitatives et qualitatives seront de -identifiées avant de les transmettre. La dé -
-identification des données se fait par un identifiant. Pou r les transcriptions des données qualitatives, 
-l'accès à la liste reliant les identifiants aux noms de répondants devrait être accessible au chef du projet 
-du cabinet contractualisé  et aux personnes clé de l’UNICEF Innocenti et UNICEF Mali . Ainsi, ni les 
-transcriptions ni les bases de données ne comprendront les informations permettant d’identifier les 
-participants individuellement.  
-Le cabinet soumettra toutes les données physiques et électroniques à l’UNICEF Mali au bout de 4 
-semaines après la fin de coll ecte de données.  Le cabinet va retenir les copies de données pour une 
-période de 12 mois après la fin de l'enquête avant de les détruire complétement . 
- 
-6. Localisation et durée 
- 
-Les enquêtes d’évaluation d’impact seront menées dans des villages sélectionnés de façon randomisée 
-dans 3 regions dans les communes Ségou, Sikasso et Koulikoro. 
- 
-Bien que les TdR actuelles ne couvrent que l’enquête de base , au moins deux séries de collecte de 
-données sont prévues, à savoir : 
- L’enquête de base , avant la mise en œuvre du programme – implémentation en septembre-
-octobre 2021, la durée est estimée à environ 4  semaines, y compris le nettoyage final des 
-données. Toutes les activités devraient être terminées d’ici le 31 novembre. 
- L’enquête de suivi – 12 mois après l’enquête de base, septembre-octobre 2022.  
- 
- 
- 
-7. Gestion du contrat et supervision  
- 
-Le cabinet travaillera sous la direction et la supervision de l’INSTAT et du Spécialiste des politiques 
-sociales de l’unité Politique sociale et économique de l’UNICEF Innocenti. Le cabinet  travaillera 
-également en étroite collaboration avec UNICEF Mali ( y compris le Chef de la Politique Sociale et le 
-Spécialiste en recherche et évaluation). Le cabinet coordonnera étroitement avec les autres partenaires 
-du programme et leurs homologues gouvernementaux, au besoin. 
- 
-Le respect des modalités du contrat et l’achèvement en temps opportun des livrables prévus feront 
-l’objet d’une surveillance étroite. Une fois le contrat terminé  de manière satisfaisante , le superviseur 
-évaluera le travail du cabinet et autorisera à INSTAT le suivi des paiements. 
- 
- 
-8. Modalités et calendrier de paiement  
- 
-Les paiements ne seront effectués qu’après l’acceptation par l’UNICEF Innocenti  du travail effectué 
-conformément aux jalons contractuels. Les modalités de paiement sont de 30 jours, après réception de 
-la facture et acceptation du travail. Les paiements seront effectués sur la présentation satisfaisante des 
-livrables et réalisés par INSTAT par virement bancaire. 
- 
-Les paiements seront effectués sur base de la structure de paiement suivante :  
+Les données électroniques seront envoyées directement de l'enquêteur au serveur central. Au niveau
+de l'enquêteur, les données saisies sont stockées de manière sécurisée. Toutes les informations
+sensibles et identifiables ne seront jamais transmises au-delà de l'équipe technique de l’étude.
+
+Les données quantitatives et qualitatives seront de-identifiées avant de les transmettre. La dé-
+identification des données se fait par un identifiant. Pour les transcriptions des données qualitatives,
+l'accès à la liste reliant les identifiants aux noms de répondants devrait être accessible au chef du projet
+du cabinet contractualisé et aux personnes clé de l’UNICEF Innocenti et UNICEF Mali. Ainsi, ni les
+transcriptions ni les bases de données ne comprendront les informations permettant d’identifier les
+participants individuellement.
+
+Le cabinet soumettra toutes les données physiques et électroniques à l’UNICEF Mali au bout de 4
+semaines après la fin de collecte de données. Le cabinet va retenir les copies de données pour une
+période de 12 mois après la fin de l'enquête avant de les détruire complétement.
+
+6. Localisation et durée
+
+Les enquêtes d’évaluation d’impact seront menées dans des villages sélectionnés de façon randomisée
+dans 3 regions dans les communes Ségou, Sikasso et Koulikoro.
+
+Bien que les TdR actuelles ne couvrent que l’enquête de base, au moins deux séries de collecte de
+données sont prévues, à savoir :
+
+ L’enquête de base, avant la mise en œuvre du programme – implémentation en septembre-
+octobre 2021, la durée est estimée à environ 4 semaines, y compris le nettoyage final des
+données. Toutes les activités devraient être terminées d’ici le 31 novembre.
+ L’enquête de suivi – 12 mois après l’enquête de base, septembre-octobre 2022.
+
+7. Gestion du contrat et supervision
+
+Le cabinet travaillera sous la direction et la supervision de l’INSTAT et du Spécialiste des politiques
+sociales de l’unité Politique sociale et économique de l’UNICEF Innocenti. Le cabinet travaillera
+également en étroite collaboration avec UNICEF Mali (y compris le Chef de la Politique Sociale et le
+Spécialiste en recherche et évaluation). Le cabinet coordonnera étroitement avec les autres partenaires
+du programme et leurs homologues gouvernementaux, au besoin.
+
+Le respect des modalités du contrat et l’achèvement en temps opportun des livrables prévus feront
+l’objet d’une surveillance étroite. Une fois le contrat terminé de manière satisfaisante, le superviseur
+évaluera le travail du cabinet et autorisera à INSTAT le suivi des paiements.
+
+8. Modalités et calendrier de paiement
+
+Les paiements ne seront effectués qu’après l’acceptation par l’UNICEF Innocenti du travail effectué
+conformément aux jalons contractuels. Les modalités de paiement sont de 30 jours, après réception de
+la facture et acceptation du travail. Les paiements seront effectués sur la présentation satisfaisante des
+livrables et réalisés par INSTAT par virement bancaire.
+
+Les paiements seront effectués sur base de la structure de paiement suivante :
+
+14
 
 
 --- Page 15 ---
+ 40 pour cent lors de la signature d’agrément/mémorandum de compréhension, afin de
+permettre la réalisation des activités préalables au travail sur le terrain.
+ 30 pour cent lors de l’approbation des livrables 1-8.
+ 30 pour cent lors de l’approbation des livrables 9-12.
 
-15 
- 
- 40 pour cent lors de la signature d’agrément/mémorandum de compréhension, afin de 
-permettre la réalisation des activités préalables au travail sur le terrain.  
- 30 pour cent lors de l’approbation des livrables 1-8. 
- 30 pour cent lors de l’approbation des livrables 9-12. 
- 
-9. Dossier à soumettre, procédures de soumission et critères d’évaluation 
- 
-Les candidatures qui seront considérées sont celles des bureaux ou cabinet d’étude. Aucune 
-candidature à titre de consultant individuel ne sera considérée.  
- 
-Le dossier composé d’une offre technique et d’une offre financière doit être soumis par voie 
-électronique aux adresses suivantes : 
- 
-- direction@instat.gouv.ml 
-- amadoudiallo513@gmail.com 
- 
-Au plus tard le 30 Aout 2021 à 23 :59 GMT en suivant les instructions suivantes : 
- 
-o Le dossier technique doit être soumis au format PDF sans mot de passe de protection 
-o L’offre financière doit être soumise au format PDF avec un mot de passe de protection. 
-o Le mot de passe de l’offre financière sera demandé ultérieurement au cabinet le jour de 
-l’ouverture des offres financières étant entendu que seule s les structures ayant une offre 
-technique qui ont atteint le nombre minimum de 65 points sur 100 seront contactées pour 
-l’ouverture de l’offre financière (c’est-à-dire pour communiquer le mot de passe).  
-o Toute offre financière soumise sans mot de passe ne sera pas consideree et  elimine de 
-fait la structure soumissionnaire. 
- 
- 
-- Critère d’évaluation du dossier technique : 
- 
-Les propositions techniques complètes seront évaluées sur la base des critères suivants  :   
- 
- 
-# Critères Pondération 
-1 Méthodologie 45 points 
- Compréhension de la problématique et des produits attendus ainsi que 
-du but principal du mandat 
- 
-Pertinence de la méthodologie proposée par rapport aux attentes  
-Qualité de la justification des méthodes et approches proposées pour 
-réussir la mission 
-Respect des normes et standards de qualité en matière de collecte de 
-données 
-Mesures de mitigation des risques y compris sécuritaires et covid-19 
-2 Gestion et Composition de l’équipe et connaissances techniques  
- 
-25 points 
- Pertinence de la composition de l’équipe en termes de qualification 
-individuelle et de l’expérience collective  
- 
-Rôles et responsabilités des différents membres de l’équipe 
-Répartition claire des tâches et responsabilités 
-Respect du nombre de jours 
-Prise en compte des délais raisonnables 
-3 Références de missions similaires antérieures  25 points 
- Pertinence de l’expérience de la structure  
-Caractère récent de travaux similaires 
-Vraisemblance des documents de justificatifs de l’expériences 
-(attestation de bonne exécution délivrées par les structures référentes) 
-4 Qualité globale de la soumission  5 points 
- Capacité de visualisation/mise en page.  
-Facilite à localiser les documents de soumissions dans le dossier global 
+9. Dossier à soumettre, procédures de soumission et critères d’évaluation
+
+Les candidatures qui seront considérées sont celles des bureaux ou cabinet d’étude. Aucune
+candidature à titre de consultant individuel ne sera considérée.
+
+Le dossier composé d’une offre technique et d’une offre financière doit être soumis par voie
+électronique aux adresses suivantes :
+
+- direction@instat.gouv.ml
+- amadoudiallo513@gmail.com
+
+Au plus tard le 30 Aout 2021 à 23 :59 GMT en suivant les instructions suivantes :
+
+o Le dossier technique doit être soumis au format PDF sans mot de passe de protection
+o L’offre financière doit être soumise au format PDF avec un mot de passe de protection.
+o Le mot de passe de l’offre financière sera demandé ultérieurement au cabinet le jour de
+l’ouverture des offres financières étant entendu que seules les structures ayant une offre
+technique qui ont atteint le nombre minimum de 65 points sur 100 seront contactées pour
+l’ouverture de l’offre financière (c’est-à-dire pour communiquer le mot de passe).
+o Toute offre financière soumise sans mot de passe ne sera pas consideree et elimine de
+fait la structure soumissionnaire.
+
+- Critère d’évaluation du dossier technique :
+
+Les propositions techniques complètes seront évaluées sur la base des critères suivants :
+
+# Critères Pondération
+1 Méthodologie 45 points
+Compréhension de la problématique et des produits attendus ainsi que
+du but principal du mandat
+Pertinence de la méthodologie proposée par rapport aux attentes
+Qualité de la justification des méthodes et approches proposées pour
+réussir la mission
+Respect des normes et standards de qualité en matière de collecte de
+données
+Mesures de mitigation des risques y compris sécuritaires et covid-19
+2 Gestion et Composition de l’équipe et connaissances techniques 25 points
+
+Pertinence de la composition de l’équipe en termes de qualification
+individuelle et de l’expérience collective
+Rôles et responsabilités des différents membres de l’équipe
+Répartition claire des tâches et responsabilités
+Respect du nombre de jours
+Prise en compte des délais raisonnables
+3 Références de missions similaires antérieures 25 points
+Pertinence de l’expérience de la structure
+Caractère récent de travaux similaires
+Vraisemblance des documents de justificatifs de l’expériences
+(attestation de bonne exécution délivrées par les structures référentes)
+4 Qualité globale de la soumission 5 points
+Capacité de visualisation/mise en page.
+Facilite à localiser les documents de soumissions dans le dossier global
+
+15
 
 
 --- Page 16 ---
+- Critère d’évaluation de l’offre financière :
 
-16 
- 
- 
-- Critère d’évaluation de l’offre financière : 
- 
-L'offre financière comprend obligatoirement : 
- 
-o Les honoraires professionnels pour l’ensemble des opérations de collecte.  
-o La ventilation détaillée du budget, telle que les honoraires journaliers, le nombre de jours 
-et d'autres coûts unitaires et les quantités, et la précision des conditions de paiement sur 
-la base de produits/livrables précis et mesurables (qualitatifs et quantitatifs).  
-o Tous les couts doivent être libellés en FCFA (XOF) 
-o L'offre la plus basse et la plus qualifiée techniquement sera sélectionnée. 
- 
- 
- 
+L'offre financière comprend obligatoirement :
+
+o Les honoraires professionnels pour l’ensemble des opérations de collecte.
+o La ventilation détaillée du budget, telle que les honoraires journaliers, le nombre de jours
+et d'autres coûts unitaires et les quantités, et la précision des conditions de paiement sur
+la base de produits/livrables précis et mesurables (qualitatifs et quantitatifs).
+o Tous les couts doivent être libellés en FCFA (XOF)
+o L'offre la plus basse et la plus qualifiée techniquement sera sélectionnée.
+
+16

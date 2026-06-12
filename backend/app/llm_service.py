@@ -3,8 +3,10 @@ from typing import Any
 
 from backend.app.retrieval_tools import search_with_context
 
+import os
+
 OLLAMA_MODEL_NAME = "llama3.2:3b"
-OLLAMA_HOST = "http://localhost:11434"
+OLLAMA_HOST = os.getenv("OLLAMA_HOST", "http://localhost:11434")
 
 
 def build_context_text(context_documents: list[dict[str, Any]]) -> str:

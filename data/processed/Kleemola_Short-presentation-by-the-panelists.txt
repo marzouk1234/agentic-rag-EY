@@ -1,85 +1,69 @@
-
-
 --- Page 1 ---
-
 (Long-Term) Data Retention
 impulse presentation
+
 Mari Kleemola, FSD/TAU & CESSDA
 eosc Symposium, Berlin
 October 22nd 2024
 
 
 --- Page 2 ---
-
-What constitutes a TDR in the context of 
+What constitutes a TDR in the context of
 EOSC?
-•Repositories are key actors in preserving data
-•Current repository landscape is very diverse
-•Definition of ’trustworthy digital repository’ volatile
-• TF on Long Term Data Preservation emphasised that “repositories that undertake to offer preservation services and can meet defined criteria for their organisational infrastructure, digital object management, technical infrastructure and security provision are candidates to be a Trustworthy Digital Repository (TDR)”
-• The European Commission groups “trusted” repositories into three categories (Open Science HE MGA requirements) and requires that trusted repositories e.g. display specific characteristics of organisational, technical and procedural quality, such as services, mechanisms and/or provisions that are intended to secure the integrity and authenticity of their contents, thus facilitating their use and re-use in the short- and long-term
-•How to best assess trustworthiness? 
-•Should a TDR have a certification?
 
+• Repositories are key actors in preserving data
+• Current repository landscape is very diverse
+• Definition of ’trustworthy digital repository’ volatile
+• TF on Long Term Data Preservation emphasised that “repositories that undertake to
+offer preservation services and can meet defined criteria for their organisational
+infrastructure, digital object management, technical infrastructure and security
+provision are candidates to be a Trustworthy Digital Repository (TDR)”
+• The European Commission groups “trusted” repositories into three categories
+(Open Science HE MGA requirements) and requires that trusted repositories e.g.
+display specific characteristics of organisational, technical and procedural quality,
+such as services, mechanisms and/or provisions that are intended to secure the
+integrity and authenticity of their contents, thus facilitating their use and re-use in
+the short- and long-term
+• How to best assess trustworthiness?
+• Should a TDR have a certification?
 
 
 --- Page 3 ---
-
-24 partners
- Goals
-Consensus on what constitutes a TDR in the 
-context of EOSC
-Improve repositories’ FAIR-enabling 
-capabilities
-Enhanced interoperability across repositories 
-and accelerated adoption of best practices
-Operational Network of TDRs
-Facilitation of future TDR collective action
-Better alignment of the EOSC ecosystem with 
-the requirements of repositories and their 
-users
-Network of TDRs can deliver 
-benefits of taking action 
-collaboratively, e.g.
-unite the repository community beyond finite 
-project efforts
-offer a coordination and networking 
-mechanism for addressing common 
-challenges
-foster a supportive open science 
-environment
-guarantee FAIR data sharing also in the 
-future 
-The five project pillars
-Project management and 
-coordination 
-Network governance & value-add 
-TDR harmonization & interoperability 
-Training & support 
-Communication & outreach 
-1/2025 - 12/2027 
-coordinated by 
-CSC - IT Centre for 
-Science 
+1/2025 - 12/2027
+coordinated by
+CSC - IT Centre for
+Science
 PI Damien Lecarpentier
-various domains, 
-repository types and 
-countries 
+
+24 partners Goals Network of TDRs can deliver The five project pillars
+Consensus on what constitutes a TDR in the benefits of taking action
+various domains, context of EOSC collaboratively, e.g. Project management and
+repository types and Improve repositories’ FAIR-enabling unite the repository community beyond finite coordination
+countries capabilities project efforts
+Network governance & value-add
+Enhanced interoperability across repositories offer a coordination and networking TDR harmonization & interoperability
+and accelerated adoption of best practices mechanism for addressing common
+Operational Network of TDRs challenges Training & support
+
+Facilitation of future TDR collective action foster a supportive open science Communication & outreach
+environment
+
+Better alignment of the EOSC ecosystem with guarantee FAIR data sharing also in the
+the requirements of repositories and their future
+users
 
 
 --- Page 4 ---
-
-•FIDELIS will address this issue by providing an overall matrix of 
-characteristics, functions and activities  exhibited across a 
-broad range of repositories 
-•The matrix will act as a reference model for alignment and 
-cooperation 
-•We expect to harmonise, inform and validate existing criteria 
+•FIDELIS will address this issue by providing an overall matrix of
+characteristics, functions and activities exhibited across a
+broad range of repositories
+•The matrix will act as a reference model for alignment and
+cooperation
+•We expect to harmonise, inform and validate existing criteria
 rather than replace them
-•FIDELIS will support and guide repositories in achieving a TDR 
+•FIDELIS will support and guide repositories in achieving a TDR
 status and their continuous improvement in the EOSC context
 
 
 --- Page 5 ---
-
 Thank you!

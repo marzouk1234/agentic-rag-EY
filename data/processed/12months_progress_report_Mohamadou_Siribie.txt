@@ -1,121 +1,545 @@
-
-
 --- Page 1 ---
+WHO-TDR AND EDCTP CLINICAL RESEARCH AND
 
-	  	  
- 	               Fellowship Period: January 2016 – December 2016 	    FINAL REPORT   Clinical Research Fellow: Dr. Mohamadou Siribié
- 
- 	        
-WHO-TDR AND EDCTP CLINICAL RESEARCH AND DEVELOPMENT FELLOWSHIP PROGRAMME 	  
+DEVELOPMENT FELLOWSHIP PROGRAMME
+
+Fellowship Period: January 2016 – December 2016
+
+FINAL REPORT
+
+Clinical Research Fellow: Dr. Mohamadou Siribié
+
 
 
 --- Page 2 ---
+Table of Contents
 
-Page 1 of 13	  	  	  
-Table of Contents 	  1.	  Administrative Part	  ....................................................................................................................	  3	  2.	  Progress Report of the Training	  .............................................................................................	  4	  2.1	  Introduction	  ............................................................................................................................	  4	  2.2	  Training Objectives	  ...............................................................................................................	  4	  2.3	  Results and Performances	  ..................................................................................................	  5	  2.3.1	  Trainings attended (including web-based training)	  ..................................................	  5	  2.3.2	  Disease Specific Knowledge Acquired	  ......................................................................	  7	  2.3.3	  Integration/Contribution in the Team	  .........................................................................	  7	  2.3.4	  Scientific Publications/Communications	  ....................................................................	  8	  2.4	  Networking Opportunities	  ....................................................................................................	  8	  2.5	  Attendance to International Meetings	  ................................................................................	  9	  2.6	  Planned Activities after the Fellowship Period	  ...............................................................	  10	  2.7	  Appraisal from the Fellow	  ..................................................................................................	  10	  2.8	  Comments, if any, from the Supervisor in the Host Institution	  .....................................	  10	  2.9	  Acknowledgements	  ............................................................................................................	  10	  3.	  Appendix	  ....................................................................................................................................	  11	  3.1	  Appendix 1: Travels supported by the International Vaccine Institute	  ........................	  11	  3.2	  Appendix 2: Training fees supported by the International Vaccine Institute	  ..............	  11	  3.3	  Appendix 3: List of publications during the fellowship period	  .......................................	  11	  	              
+1.
+Administrative Part
+................................ ................................ ....................................................
+3
+2.
+Progress Report of the Training
+................................ .............................................................
+4
+2.1
+Introduction
+................................ ............................................................................................
+4
+2.2
+Training Objectives
+................................ ...............................................................................
+4
+2.3
+Results and Performances
+................................ ................................ ..................................
+5
+2.3.1
+Trainings attended (including web-based training)
+................................ ..................
+5
+2.3.2
+Disease Specific Knowledge Acquired
+......................................................................
+7
+2.3.3
+Integration/Contribution in the Team
+................................ ................................ .........
+7
+2.3.4
+Scientific Publications/Communications
+................................ ................................ ....
+8
+2.4
+Networking Opportunities
+................................ ................................ ................................ ....
+8
+2.5
+Attendance to International Meetings
+................................ ................................ ................
+9
+2.6
+Planned Activities after the Fellowship Period
+...............................................................
+10
+2.7
+Appraisal from the Fellow
+................................ ................................ ................................ ..
+10
+2.8
+Comments, if any, from the Supervisor in the Host Institution
+................................ .....
+10
+2.9
+Acknowledgements
+................................................................................................ ............
+10
+3.
+Appendix
+................................ ................................ ....................................................................
+11
+3.1
+Appendix 1: Travels supported by the International Vaccine Institute
+........................
+11
+3.2
+Appendix 2: Training fees supported by the International Vaccine Institute
+..............
+11
+3.3
+Appendix 3: List of publications during the fellowship period
+................................ .......
+11
+
+Page 1 of 13
 
 
 --- Page 3 ---
+List of Abbreviations
 
-Page 2 of 13	  	  	  
-List of Abbreviations   EDCTP European and Developing Countries Clinical Trials Partnership   GRAS  Groupe de Recherche Action en Santé   IVI International Vaccine Institute   WHO –TDR World Health Organization/ Special Program for Research and Training in Tropical Diseases                         
+EDCTP European and Developing Countries Clinical Trials Partnership
+
+GRAS Groupe de Recherche Action en Santé
+
+IVI International Vaccine Institute
+
+WHO –TDR World Health Organization/ Special Program for Research and Training in
+Tropical Diseases
+
+Page 2 of 13
 
 
 --- Page 4 ---
-
 1. Administrative Part
+
 1.1 Fellow
+
 Mohamadou SlRlBlE, MD, PhD
 lvl, SNU Research Park, 1 Gwanak - ro, Gwanak - gu,
 Seoul, 08826, Republic of,Korea
 Phone: +82 2 881 1129
 Mobile: +82 010 5863 8833
 E-mail : mohamadou.siribie@ivi.int; siribiemohamadou@yahoo.fr
+
 1.2 Host Institution
+
 International Vaccine Institute (lVl)
 SNU Research Park, 1 Gwanak - ro, Gwanak - gu, Seoul, 08826 Republic of Korea
 Website: www.ivi.int
+
 Supervisors
-Name Laura Digilio,
+Name Laura Digilio, MD I Jean-Louis Excler, MD
 Phone +82 881 1176
-Mobile +82 10 5056
+Mobile +82 10 5056 25L2
 Jea nlou is. excler@ ivi. i nt
-MD I Jean-Louis Excler, MD
-25L2
+
 1.3 Home Institution (for sending the report)
+
 Groupe de Recherche Action en Santé (GRAS)
 06 BP 10248 Ouagadougou 06, Burkina Faso
+
 Supervisor
 Sodiomon Bienvenu SlRIMA, MD, BA, PhD
 Phone: +226 2535 5690
 Mobile: +226 7020 0444
 gras@fasonet.bf
+
 1.4 Period covered by the report
 January 3'0, 2016 - December 30, 2O1O
+
 Fellow
-Signature
-Supervisor
-Date December 16, 2016
-l(FtrrL-[t
-Date December 16, 2016Signature
+
+Signature Date December 16, 2016
+
+Supervisor l(FtrrL-[t
+
+Signature Date December 16, 2016
+
 Page 3 of 13
 
 
 --- Page 5 ---
+2. Progress Report of the Training
 
-Page 4 of 13	  	  	  
-   2. Progress Report of the Training 2.1 Introduction The Clinical Research and Development (CRD) Fellowship programme was jointly initiated by the World Health Organisation/ Special Program for Research and Training in Tropical Diseases (WHO - TDR) and the European and Developing Countries Clinical Trial Partnership (EDCTP), in 2014 as a continuity of WHO – TDR Career Development Fellowship, started in 1999. This fellowship programme aim at promoting high quality clinical research in low- and middle-income countries by offering a year-long training fellowship to young research scientists, so as to develop and consolidate best practices in clinical research and development within pharmaceutical companies or products development partnership.  The International Vaccine Institute (IVI) is my host Institution (www.ivi.org). It is an international non-for-profit organization established in 1997 in Seoul, Republic of Korea, by an initiative of the United Nations Development Programme (UNDP). As a Global Vaccine Research Institute, IVI is nurturing the vision of developing countries free of suffering from infectious diseases by discovering, developing and delivering safe, effective and affordable vaccine for global public health. In collaboration with international scientific communities, public health organizations, governments and industries, the activities of IVI span all the vaccine spectrum and they are currently focused on diarrheal diseases (Cholera, typhoid fever, shigella…) and dengue. Its ongoing field activities involved three continents including Asia, Latina America and Africa.  My home institution is ‘Le Groupe de Recherche Action en Santé (GRAS)’, headquartered in Ouagadougou, Burkina Faso and aims to become a hub of excellence for biomedical research. Since its creation in 2008, GRAS scientists have carried out several Clinical Trials (phase II, III/IV drugs and vaccines clinical trials), Epidemiological Studies and Health System Research for various diseases (malaria, pneumonia, hepatitis B…). Here, we report the final progress in the framework of the CRD fellowship programme, and the activities performed within 12 months internship. 2.2 Training Objectives As stated in my training plan, I was expected to increase my skills at the end of this fellowship scheme in: -­‐ Advanced clinical research methodology, 
+2.1 Introduction
+The Clinical Research and Development (CRD) Fellowship programme was jointly initiated
+by the World Health Organisation/ Special Program for Research and Training in Tropical
+Diseases (WHO - TDR) and the European and Developing Countries Clinical Trial
+Partnership (EDCTP), in 2014 as a continuity of WHO – TDR Career Development
+Fellowship, started in 1999. This fellowship programme aim at promoting high quality clinical
+research in low- and middle-income countries by offering a year-long training fellowship to
+young research scientists, so as to develop and consolidate best practices in clinical
+research and development within pharmaceutical companies or products development
+partnership.
+The International Vaccine Institute (IVI) is my host Institution (www.ivi.org). It is an
+international non-for-profit organization established in 1997 in Seoul, Republic of Korea, by
+an initiative of the United Nations Development Programme (UNDP). As a Global Vaccine
+Research Institute, IVI is nurturing the vision of developing countries free of suffering from
+infectious diseases by discovering, developing and delivering safe, effective and affordable
+vaccine for global public health. In collaboration with international scientific communities,
+public health organizations, governments and industries, the activities of IVI span all the
+vaccine spectrum and they are currently focused on diarrheal diseases (Cholera, typhoid
+fever, shigella…) and dengue. Its ongoing field activities involved three continents including
+Asia, Latina America and Africa.
+My home institution is ‘Le Groupe de Recherche Action en Santé (GRAS)’, headquartered in
+Ouagadougou, Burkina Faso and aims to become a hub of excellence for biomedical
+research. Since its creation in 2008, GRAS scientists have carried out several Clinical Trials
+(phase II, III/IV drugs and vaccines clinical trials), Epidemiological Studies and Health
+System Research for various diseases (malaria, pneumonia, hepatitis B…).
+Here, we report the final progress in the framework of the CRD fellowship programme,
+and the activities performed within 12 months internship.
+
+2.2 Training Objectives
+
+As stated in my training plan, I was expected to increase my skills at the end of this
+fellowship scheme in:
+-­‐ Advanced clinical research methodology,
+
+Page 4 of 13
 
 
 --- Page 6 ---
+-­‐ Essential guidelines and legislations in clinical research,
+-­‐ Professional conduct of clinical research,
+-­‐ Clinical trial monitoring,
+-­‐ Analysis of clinical research data,
+-­‐ Clinical research administrative skills,
+-­‐ Scientific presentation and communication,
+-­‐ Clinical study report writing,
+-­‐ Publication and grant writing.
 
-Page 5 of 13	  	  	  
--­‐ Essential guidelines and legislations in clinical research, -­‐ Professional conduct of clinical research, -­‐ Clinical trial monitoring, -­‐ Analysis of clinical research data, -­‐ Clinical research administrative skills, -­‐ Scientific presentation and communication, -­‐ Clinical study report writing, -­‐ Publication and grant writing.  2.3 Results and Performances My performance during these 12 months internship in IVI are outlined as followed: trainings attended, specific knowledge acquired, contribution to the team work, scientific publications/communications and the development of the letter of intent for EDCTP calls.   2.3.1 Trainings attended (including web-based training)  I have completed at least 9 training courses and 2 training are still on going as listed below:  -­‐ Essential Guidelines and International Regulations in clinical research Clinical Trial Monitoring, Online Training, Pharmaschool, 13/02/2016. Certificate Validation Code: 41439517 Topics covered: International Conference on Harmonization – Good Clinical Practice (ICH – GCP), Overview on European Union: Clinical Trial Directives, GCP Directives and Overview on FDA: Code of Federal Regulations Titles 21 Part 312, Tiles 21 Part 11. -­‐ Essential Documents, Online Training, Pharmaschool. 05/05/2016. Certificate Validation Code: 48605167 Topics covered: What Essential Documents are? Why do we have to have them? How to create them? When do we have to have them? How to maintain them? How long do we have to store them?  -­‐ Clinical Trial Monitoring, Online Training, Pharmaschool. 25/04/2016. Certificate Validation Code: 48430569 Topics covered: the Monitoring basics, the conduct of Site Selection Visit, the conduct of Site Initiation Visit, the conduct of Routine Monitoring Visit, the conduct of Site Close out Visit and Report and Follow - up Letter Writing. -­‐ Introduction to Clinical Research Data Analysis using “R”, Online Training, Université Paris Sud. 11/05/2016. https://www.fun-mooc.fr. 
+2.3 Results and Performances
+My performance during these 12 months internship in IVI are outlined as followed: trainings
+attended, specific knowledge acquired, contribution to the team work, scientific
+publications/communications and the development of the letter of intent for EDCTP calls.
+
+2.3.1 Trainings attended (including web-based training)
+
+I have completed at least 9 training courses and 2 training are still on going as listed below:
+
+-­‐ Essential Guidelines and International Regulations in clinical research Clinical
+Trial Monitoring, Online Training, Pharmaschool, 13/02/2016. Certificate
+Validation Code: 41439517
+Topics covered: International Conference on Harmonization – Good Clinical Practice
+(ICH – GCP), Overview on European Union: Clinical Trial Directives, GCP Directives
+and Overview on FDA: Code of Federal Regulations Titles 21 Part 312, Tiles 21 Part
+11.
+-­‐ Essential Documents, Online Training, Pharmaschool. 05/05/2016. Certificate
+Validation Code: 48605167
+Topics covered: What Essential Documents are? Why do we have to have them?
+How to create them? When do we have to have them? How to maintain them? How
+long do we have to store them?
+-­‐ Clinical Trial Monitoring, Online Training, Pharmaschool. 25/04/2016. Certificate
+Validation Code: 48430569
+Topics covered: the Monitoring basics, the conduct of Site Selection Visit, the conduct
+of Site Initiation Visit, the conduct of Routine Monitoring Visit, the conduct of Site
+Close out Visit and Report and Follow - up Letter Writing.
+-­‐ Introduction to Clinical Research Data Analysis using “R”, Online Training,
+Université Paris Sud. 11/05/2016. https://www.fun-mooc.fr.
+
+Page 5 of 13
 
 
 --- Page 7 ---
+Topics covered: Introduction to statistics and R, description of a variable, Confidence
+intervals, association between variables, Statistical tests and test practice, Simple
+and multiple linear regression, logistic regression, Survival data (censored) analysis
+and multivariate exploratory methods.
+-­‐ Infectious Disease Epidemiology, co-organized by the Epidemiology
+Department of IVI and the School of Public Health of the University of Bielefeld
+(Germany). University of Legon, Accra. April 7 – 8th, 2016.
 
-Page 6 of 13	  	  	  
-Topics covered: Introduction to statistics and R, description of a variable, Confidence intervals, association between variables, Statistical tests and test practice, Simple and multiple linear regression, logistic regression, Survival data (censored) analysis and multivariate exploratory methods. -­‐ Infectious Disease Epidemiology, co-organized by the Epidemiology Department of IVI and the School of Public Health of the University of Bielefeld (Germany). University of Legon, Accra. April 7 – 8th, 2016. Topics covered: Global Health Challenges of Infectious diseases, Principle methods and study designs in infectious disease epidemiology, Disease Outbreak Investigation and Control, Applied Epidemiology on Febrile Disease Surveillance (Typhoid Fever Surveillance in Africa Programme), Research Ethics and Good Practice for Sample Collection in Febrile Illness Study.  -­‐ Introduction to Systematic Review & Meta – Analysis of clinical trials, Online Training, John Hopkins University, School of Public Health. 16/06/2016. Topics covered: Introduction to systematic review and meta-analysis, framing the question, Searching Principles and bias assessment, assessing the bias in clinical trial, planning the meat – analysis, Statistic methods for Meta-analysis.  -­‐ Project management using MS project, developed by the Project Management Team of IVI. International Vaccine Institute (IVI), republic of Korea. 14/06/2016 – 28/06/2016. Topics covered: Definition of project and project manager, project scheduling using MS project and communication management using MS Office. -­‐ Project risk management, developed by the Project Management Team of IVI. International Vaccine Institute (IVI), republic of Korea. 12/10/2016 – 26/10/2016. Topic covered: Risk definition, Risk management process, Benefit of risk management in a project and risk management case studies.   -­‐ Vaccinology, International Vaccine Institute (IVI), Seoul, Korea, September 26-30, 2016.  Topics covered: fundamentals (Epidemiology and Immunology), Vaccine Discovery and Preclinical, Clinical Development and Regulatory, Vaccine Introduction from Development to Introduction, Vaccine Development from Introduction to Acceptance and Use. -­‐ Clinical Trial Design, Online Training, Pharmaschool. Ongoing Topics covered: Data & Endpoints (Eligibility Criteria, Demographic Data, Past Medical History, Concomitant Medication, Baseline Data, Endpoint Data, Surrogate Endpoints), Fundamental Trial Designs (Parallel group Trial, Cross Over Trial, Factorial design, Non Comparative Trial), Randomization (Stratification, 
+Topics covered: Global Health Challenges of Infectious diseases, Principle methods
+and study designs in infectious disease epidemiology, Disease Outbreak
+Investigation and Control, Applied Epidemiology on Febrile Disease Surveillance
+(Typhoid Fever Surveillance in Africa Programme), Research Ethics and Good
+Practice for Sample Collection in Febrile Illness Study.
+-­‐ Introduction to Systematic Review & Meta – Analysis of clinical trials, Online
+Training, John Hopkins University, School of Public Health. 16/06/2016.
+Topics covered: Introduction to systematic review and meta-analysis, framing the
+question, Searching Principles and bias assessment, assessing the bias in clinical
+trial, planning the meat – analysis, Statistic methods for Meta-analysis.
+-­‐ Project management using MS project, developed by the Project Management
+Team of IVI. International Vaccine Institute (IVI), republic of Korea. 14/06/2016 –
+28/06/2016.
+Topics covered: Definition of project and project manager, project scheduling using
+MS project and communication management using MS Office.
+-­‐ Project risk management, developed by the Project Management Team of IVI.
+International Vaccine Institute (IVI), republic of Korea. 12/10/2016 – 26/10/2016.
+Topic covered: Risk definition, Risk management process, Benefit of risk
+management in a project and risk management case studies.
+-­‐ Vaccinology, International Vaccine Institute (IVI), Seoul, Korea, September 26-
+30, 2016.
+Topics covered: fundamentals (Epidemiology and Immunology), Vaccine Discovery
+and Preclinical, Clinical Development and Regulatory, Vaccine Introduction from
+Development to Introduction, Vaccine Development from Introduction to Acceptance
+and Use.
+-­‐ Clinical Trial Design, Online Training, Pharmaschool. Ongoing
+Topics covered: Data & Endpoints (Eligibility Criteria, Demographic Data, Past
+Medical History, Concomitant Medication, Baseline Data, Endpoint Data, Surrogate
+Endpoints), Fundamental Trial Designs (Parallel group Trial, Cross Over Trial,
+Factorial design, Non Comparative Trial), Randomization (Stratification,
+
+Page 6 of 13
 
 
 --- Page 8 ---
+Minimization), Blinding and Masking (Open Label Trial, Single Bind, Double Blind,
+Triple Blind, Dummy Double), Comparator (Placebo, Active Comparators), Types of
+comparison (Non – Inferiority, Equivalence, Differences Comparison).
 
-Page 7 of 13	  	  	  
-Minimization), Blinding and Masking (Open Label Trial, Single Bind, Double Blind, Triple Blind, Dummy Double), Comparator (Placebo, Active Comparators), Types of comparison (Non – Inferiority, Equivalence, Differences Comparison).   -­‐ Pharmacovigilance for Clinical Trials, Online Training, Pharmaschool. Ongoing Topics covered: Sponsor’s responsibilities, Reporting time frames, Minimum criteria for reporting, How to report, Informing Investigators, IEC/IRB for new of new safety information, Development of Safety Update Report.  2.3.2 Disease Specific Knowledge Acquired Through the daily practice, the interaction with collaborators, reading documents in the library and online literature review, I have developed and consolidated knowledge on the: -­‐ Overall architecture and detailed elements of a clinical development plan and of clinical trial preparation and implementation. -­‐ Design of clinical trial on infectious diseases, -­‐ Epidemiology and immunology of Cholera, -­‐ Epidemiology and immunology of Typhoid Fever, -­‐ Epidemiology and immunology of Dengue Fever.  2.3.3 Integration/Contribution in the Team In order to apply my theoretical knowledge, to develop and consolidate practical skills in clinical trial, I was involved and I have contributed to different activities of Clinical Trials and Regulatory Department of IVI.   More specifically, I was part of the clinical team of a Cholera Vaccine Trial, sponsored by IVI and conducted at the International Centre for Diarrheal Diseases Research in Bangladesh (ICDDR, B) in Dhaka, Bangladesh. I am also part of clinical team of a Typhoid Conjugate Vaccine manufactured by SK Chemicals, Republic of Korea, and tested in the Philippines.   The different activities in the framework of this clinical trial are: • Participation to the project team meetings to understand the management of the research project and regulatory pathway. • Development of protocol and related trial documents • Visit of Incepta Pharmaceuticals in Bangladesh, manufacturer of the cholera vaccine (Cholvax): visit of the plant, general overview on the vaccine production process and discussion of the licensure strategy. 
+-­‐ Pharmacovigilance for Clinical Trials, Online Training, Pharmaschool. Ongoing
+Topics covered: Sponsor’s responsibilities, Reporting time frames, Minimum criteria
+for reporting, How to report, Informing Investigators, IEC/IRB for new of new safety
+information, Development of Safety Update Report.
+
+2.3.2 Disease Specific Knowledge Acquired
+Through the daily practice, the interaction with collaborators, reading documents in the library
+and online literature review , I have developed and consolidated knowledge on the:
+-­‐ Overall architecture and detailed elements of a clinical development plan and of
+clinical trial preparation and implementation.
+-­‐ Design of clinical trial on infectious diseases,
+-­‐ Epidemiology and immunology of Cholera,
+-­‐ Epidemiology and immunology of Typhoid Fever,
+-­‐ Epidemiology and immunology of Dengue Fever.
+
+2.3.3 Integration/Contribution in the Team
+
+In order to apply my theoretical knowledge, to develop and consolidate practical skills in
+clinical trial, I was involved and I have contributed to different activities of Clinical Trials and
+Regulatory Department of IVI.
+
+More specifically, I was part of the clinical team of a Cholera Vaccine Trial, sponsored by IVI
+and conducted at the International Centre for Diarrheal Diseases Research in Bangladesh
+(ICDDR, B) in Dhaka, Bangladesh. I am also part of clinical team of a Typhoid Conjugate
+Vaccine manufactured by SK Chemicals, Republic of Korea, and tested in the Philippines.
+
+The different activities in the framework of this clinical trial are:
+• Participation to the project team meetings to understand the management of
+the research project and regulatory pathway.
+• Development of protocol and related trial documents
+• Visit of Incepta Pharmaceuticals in Bangladesh, manufacturer of the cholera
+vaccine (Cholvax): visit of the plant, general overview on the vaccine
+production process and discussion of the licensure strategy.
+
+Page 7 of 13
 
 
 --- Page 9 ---
+• Contribution to the trial monitoring activities (Pre–trial Monitoring Visit, Interim
+Monitoring Visits…) .
+• I chaired the Safety Monitoring Committee of a Typhoid Conjugate Vaccine
+Phase I Trial sponsored by IVI and conducted at the Research Institute of
+Tropical Medicine (RITM) in Manila, The Philippines. I contributed to the
+development of the synopsis of typhoid conjugate vaccine Phase II and Phase
+III clinical trials.
+• Design and the maintenance of the Trial Master File.
+• Contribution to the prioritization of the development of clinical operations
+SOPs
 
-Page 8 of 13	  	  	  
-• Contribution to the trial monitoring activities (Pre–trial Monitoring Visit, Interim Monitoring Visits…). • I chaired the Safety Monitoring Committee of a Typhoid Conjugate Vaccine Phase I Trial sponsored by IVI and conducted at the Research Institute of Tropical Medicine (RITM) in Manila, The Philippines. I contributed to the development of the synopsis of typhoid conjugate vaccine Phase II and Phase III clinical trials.  • Design and the maintenance of the Trial Master File.  • Contribution to the prioritization of the development of clinical operations SOPs   Moreover, I am working with my supervisor (Dr Jean-Louis Excler) to the development of a manuscript on the dynamics of vaccine administration (injectable or oral) per age groups and future projections. With the Policy and Economic Research team of IVI, we also developed a protocol for the systematic review on the cholera outbreaks the review is ongoing.   2.3.4 Scientific Publications/Communications During the fellowship we have been able to successfully develop and publish several articles (List of the publication in the appendix 3). I attended also the 8th EDCTP Forum and presented a poster entitled:  M. Siribie, A.B Tiono, A.G.A Babiker, A. Sanou, L. Sermé, Z. Gansané, A. Traoré, M.F Gomes, F. Pagnoni and S.B Sirima. Impact of an Integrated Community Case Management of Fever/Malaria and Pneumonia on Child Mortality: a Cluster - Randomized Controlled Trial in Burkina Faso. Poster Communication. 8th EDCTP Forum, 6-9 November 2016, Lusaka, Zambia.  2.4 Networking Opportunities As young scientist, this fellowship programme was an opportunity to look for networking opportunities as well, for our professional support. First of all, it will be a tremendous support for me to be able to keep connexion with my host institution (IVI) after the fellowship scheme for the contribution to the ongoing clinical research activities and the conduct of future clinical research activities in Africa.    Moreover, we have some promising exchanges going on for networking opportunities as follow: -­‐ Between former and current EDCTP – TDR CRS fellows and in collaboration with the Luxembourg Institute of Health and the University of Copenhagen, we submitted a 
+Moreover, I am working with my supervisor (Dr Jean-Louis Excler) to the development of a
+manuscript on the dynamics of vaccine administration (injectable or oral) per age groups and
+future projections. With the Policy and Economic Research team of IVI, we also developed a
+protocol for the systematic review on the cholera outbreaks the review is ongoing.
+
+2.3.4 Scientific Publications/Communications
+
+During the fellowship we have been able to successfully develop and publish several articles
+(List of the publication in the appendix 3). I attended also the 8th EDCTP Forum and
+presented a poster entitled:
+
+M. Siribie, A.B Tiono, A.G.A Babiker, A. Sanou, L. Sermé, Z. Gansané, A. Traoré, M.F
+Gomes, F. Pagnoni and S.B Sirima. Impact of an Integrated Community Case Management
+of Fever/Malaria and Pneumonia on Child Mortality: a Cluster - Randomized Controlled Trial
+in Burkina Faso. Poster Communication. 8th EDCTP Forum, 6-9 November 2016, Lusaka,
+Zambia.
+
+2.4 Networking Opportunities
+As young scientist, this fellowship programme was an opportunity to look for networking
+opportunities as well, for our professional support. First of all, it will be a tremendous support
+for me to be able to keep connexion with my host institution (IVI) after the fellowship scheme
+for the contribution to the ongoing clinical research activities and the conduct of future clinical
+research activities in Africa.
+Moreover, we have some promising exchanges going on for networking opportunities as
+follow:
+
+-­‐ Between former and current EDCTP – TDR CRS fellows and in collaboration with the
+Luxembourg Institute of Health and the University of Copenhagen, we submitted a
+
+Page 8 of 13
 
 
 --- Page 10 ---
+letter of intent to the EDCTP Call for clinical research 2016: “Clinical trials and
+operational research studies to optimize the use of products for poverty
+related diseases in mothers, new-borns, children and/or adolescents”. We
+are waiting for the notification of the review committee by the end of
+December 2016 and to proceed with the next, which will consist of the
+development and submission of the full proposal.
+-­‐ With the Head of the Department of Public Health Medicine, School of Public Health,
+University of Bielefeld in Germany, we are planning to initiate a collaborative clinical
+research after the end of my fellowship on Climate change and Infectious Diseases.
+-­‐ With the Chief of the Department of the vaccines preventable diseases, Public Health
+Agency of Canada, we are planning a surveillance study of some vaccine preventable
+diseases in Burkina Faso.
+-­‐ With the Head of Enteric Diseases of the “Agence the Médecine Preventive (AMP)”,
+Paris, France for opportunities for collaborative activities in the near future.
 
-Page 9 of 13	  	  	  
-letter of intent to the EDCTP Call for clinical research 2016: “Clinical trials and operational research studies to optimize the use of products for poverty related diseases in mothers, new-borns, children and/or adolescents”. We are waiting for the notification of the review committee by the end of December 2016 and to proceed with the next, which will consist of the development and submission of the full proposal.    -­‐ With the Head of the Department of Public Health Medicine, School of Public Health, University of Bielefeld in Germany, we are planning to initiate a collaborative clinical research after the end of my fellowship on Climate change and Infectious Diseases.  -­‐ With the Chief of the Department of the vaccines preventable diseases, Public Health Agency of Canada, we are planning a surveillance study of some vaccine preventable diseases in Burkina Faso.  -­‐ With the Head of Enteric Diseases of the “Agence the Médecine Preventive (AMP)”, Paris, France for opportunities for collaborative activities in the near future.    2.5 Attendance to International Meetings During our fellowship scheme we attended two international Meetings: -­‐ The “10th Vaccine Congress” from 4–7 September 2016 in Amsterdam, the Netherlands. The attendance at this congress is financially supported by WH0 – TDR.  The congress, focused on the vaccine science aim at bringing together the leading experts in the field of vaccinology to share the latest related information. I attended two workshops during this congress, one on the scientific publication “Publish or perish. How to Become a Successful Author” and the other on “How to raise funding for your research”. The attendance at this congress was an opportunity to get more familiarized with good practice in vaccinology, to expand my knowledge in vaccine sciences  -­‐ The 8th EDCTP Forum, from November 6–9, 2016, Lusaka, Zambia. The attendance to this Forum was granted by the EDCTP Scholarship.  We participated with a poster communication. The EDCTP Forum is one of the big conference to exchange ideas between scientist, policy makers and funders about the prevalent diseases in Africa such as malaria, HIV, tuberculosis, diarrheal diseases and the neglected tropical diseases. We attended several scientific presentations and workshop such as: Grant agreement preparation with EDCTP 2 (Organisers: EDCTP and Fit for Health 2.0), From Research to Publication (Organisers: British Medical Journal (BMJ, United Kingdom)).   
+2.5 Attendance to International Meetings
+During our fellowship scheme we attended two international Meetings:
+
+-­‐ The “10th Vaccine Congress” from 4–7 September 2016 in Amsterdam, the
+
+Netherlands. The attendance at this congress is financially supported by WH0 – TDR.
+The congress, focused on the vaccine science aim at bringing together the leading
+experts in the field of vaccinology to share the latest related information. I attended
+two workshops during this congress, one on the scientific publication “Publish or
+perish. How to Become a Successful Author” and the other on “How to raise funding
+for your research”. The attendance at this congress was an opportunity to get more
+familiarized with good practice in vaccinology, to expand my knowledge in vaccine
+sciences
+-­‐ The 8th EDCTP Forum, from November 6–9, 2016, Lusaka, Zambia. The attend ance
+to this Forum was granted by the EDCTP Scholarship. We participated with a poster
+communication. The EDCTP Forum is one of the big conference to exchange ideas
+between scientist, policy makers and funders about the prevalent diseases in Africa
+such as malaria, HIV, tuberculosis, diarrheal diseases and the neglected tropical
+diseases. We attended several scientific presentations and workshop such as: Grant
+agreement preparation with EDCTP 2 (Organisers: EDCTP and Fit for Health 2.0),
+From Research to Publication (Organisers: British Medical Journal (BMJ, United
+Kingdom)).
+
+Page 9 of 13
 
 
 --- Page 11 ---
+2.6 Planned Activities after the Fellowship Period
+The planned activities after the 12 months of the fellowship at IVI are mainly the review and
+the development of two manuscripts for publication with my supervisor (Dr. Jean-Louis
+Excler) and the Policy and Economic Research Department of IVI.
 
-Page 10 of 13	  	  
-2.6 Planned Activities after the Fellowship Period The planned activities after the 12 months of the fellowship at IVI are mainly the review and the development of two manuscripts for publication with my supervisor (Dr. Jean-Louis Excler) and the Policy and Economic Research Department of IVI.  2.7 Appraisal from the Fellow This CRD fellowship programme offered me in a good learning environment for clinical research and also for personal development with a multicultural profile of IVI. It also gave me the opportunity to meet people who are advanced clinical research scientists. As a beginner, I tried to benefit of the maximum of inspiring information from them.  The CRD fellowship programme enabled me to expand more my vision, to get clear professional career goals and to be more confident for the development of trial protocols and the conduct of clinical trial according to the international standard. I am confident in my abilities to make significant contribution and to impact positively the conduct of clinical research activities.  IVI with its knowledge, know-how and skills in clinical research through its core departments of “Development and Delivery Unit” (Clinical Trial and Regulatory, Biostatistics and Data Management, Epidemiology, Policy and Health Economics) provided me an appropriate and a supportive learning environment.  2.8 Comments, if any, from the Supervisor in the Host Institution We are delighted to have had Mohamadou Siribie among us as full member of the Clinical Development team and greatly appreciate his contribution to the various projects he is involved in. Mohamadou Siribie has been very productive during his stay at IVI. We particularly appreciate his passion for public health and his constructive comments during our multiple interactions. We sincerely hope we can maintain and develop a long-term collaboration with Mohamadou Siribie in Burkina-Faso.  2.9 Acknowledgements I am thankful to: -­‐ WHO-TDR and EDCTP for offering this great opportunity to young scientists from Low- and Middle-Income Countries for their career development and the capacity building of their home institution. -­‐ IVI for offering me the opportunity to be hosted in the institution. -­‐ My host supervisors, Dr. Laura Digilio and Dr. Jean-Louis Excler, for their warm welcome and their availabilities. I am learning a lot from their great experience. 
+2.7 Appraisal from the Fellow
+
+This CRD fellowship programme offered me in a good learning environment for clinical
+research and also for personal development with a multicultural profile of IVI. It also gave me
+the opportunity to meet people who are advanced clinical research scientists. As a beginner,
+I tried to benefit of the maximum of inspiring information from them.
+The CRD fellowship programme enabled me to expand more my vision, to get clear
+professional career goals and to be more confident for the development of trial protocols and
+the conduct of clinical trial according to the international standard. I am confident in my
+abilities to make significant contribution and to impact positively the conduct of clinical
+research activities.
+IVI with its knowledge, know-how and skills in clinical research through its core departments
+of “Development and Delivery Unit” (Clinical Trial and Regulatory, Biostatistics and Data
+Management, Epidemiology, Policy and Health Economics) provided me an appropriate and
+a supportive learning environment.
+
+2.8 Comments, if any, from the Supervisor in the Host Institution
+We are delighted to have had Mohamadou Siribie among us as full member of the Clinical
+Development team and greatly appreciate his contribution to the various projects he is
+involved in. Mohamadou Siribie has been very productive during his stay at IVI. We
+particularly appreciate his passion for public health and his constructive comments during our
+multiple interactions. We sincerely hope we can maintain and develop a long-term
+collaboration with Mohamadou Siribie in Burkina-Faso.
+
+2.9 Acknowledgements
+I am thankful to:
+-­‐ WHO-TDR and EDCTP for offering this great opportunity to young scientists from
+Low- and Middle-Income Countries for their career development and the capacity
+building of their home institution.
+-­‐ IVI for offering me the opportunity to be hosted in the institution.
+-­‐ My host supervisors, Dr. Laura Digilio and Dr. Jean-Louis Excler, for their warm
+welcome and their availabilities. I am learning a lot from their great experience.
+
+Page 10 of 13
 
 
 --- Page 12 ---
+- IVI’s Clinical Development and Regulatory Team, the IVI’s Epidemiology Team and
+the Project Management Team for offering me a great working and supportive
+learning environment as well as for sharing the warm atmosphere and personal
+exchanges all along this year.
+-­‐ My home supervisor: Dr. Sodiomon Bienvenu Sirima for giving me the opportunity to
+pursue my dream of becoming a scientist and for his continuing support.
 
-Page 11 of 13	  	  
-- IVI’s Clinical Development and Regulatory Team, the IVI’s Epidemiology Team and the Project Management Team for offering me a great working and supportive learning environment as well as for sharing the warm atmosphere and personal exchanges all along this year. -­‐ My home supervisor: Dr. Sodiomon Bienvenu Sirima for giving me the opportunity to pursue my dream of becoming a scientist and for his continuing support.	  	  3. Appendix   3.1 Appendix 1: Travels supported by the International Vaccine Institute -­‐ Three round trips Seoul – Dhaka – Seoul and the accommodation fees have been supported by the International Vaccine Institute for the trial monitoring purpose and the visit of the plant of Incepta Pharmaceuticals in Bangladesh.  -­‐ One round trip Seoul – Accra  and Ouagadougou - Seoul and accommodation was supported the International Vaccine Institute to attend and facilitate the joint workshop co-organized by IVI, the University of Bielefeld and the University of Legon on the infectious diseases epidemiology at the University of Legon, Accra, Ghana. This trip gave me the opportunity to visit my family in Burkina four month after the start of the fellowship programme.   3.2 Appendix 2: Training fees supported by the International Vaccine Institute -­‐ My attendance to the International Vaccinology Course has been supported by IVI (Approximate cost = US $ 2,500).   3.3 Appendix 3: List of publications during the fellowship period -­‐ S. B Sirima, A. Tiono, Z. Gansané, M. Siribié, A. Zongo, A. Ouédraogo, N. François, A. Strezova, K. Dobbelaere, D. Borys. Immunogenicity and safety of 10-valent pneumococcal non-typeable Haemophilus influenzae protein D conjugate vaccine (PHiD-CV) administered to children with sickle cell disease between 8 weeks and 2 years of age: a phase III, open, controlled study. Accepted for publication in The Pediatric Infectious Disease Journal.  -­‐ I. O. Ajayi, J. Nsungwa-Sabiiti, M. Siribié, C. O. Falade, L. Sermé, A. Balyeku, C. Afonne, A K. Sanou, V. Kabarungi, F O. Oshiname, Z. Gansane, J. Kyaligonza, A S. Jegede, A B. Tiono, S B. Sirima, A. Diarra, O B. Yusuf, F. Fouque, J. Castellani, M. Petzold, J. Singlovic, and M. Gomes. Feasibility of Malaria Diagnosis and Management in Burkina Faso, Nigeria, and Uganda: A Community-Based Observational Study. CID 2016; 63(S5):S245–55. 
+3. Appendix
+
+3.1 Appendix 1: Travels supported by the International Vaccine Institute
+-­‐ Three round trips Seoul – Dhaka – Seoul and the accommodation fees have been
+supported by the International Vaccine Institute for the trial monitoring purpose and
+the visit of the plant of Incepta Pharmaceuticals in Bangladesh.
+-­‐ One round trip Seoul – Accra and Ouagadougou - Seoul and accommodation was
+supported the International Vaccine Institute to attend and facilitate the joint workshop
+co-organized by IVI, the University of Bielefeld and the University of Legon on the
+infectious diseases epidemiology at the University of Legon, Accra, Ghana. This trip
+gave me the opportunity to visit my family in Burkina four month after the start of the
+fellowship programme.
+
+3.2 Appendix 2: Training fees supported by the International Vaccine Institute
+-­‐ My attendance to the International Vaccinology Course has been supported by IVI
+(Approximate cost = US $ 2,500).
+
+3.3 Appendix 3: List of publications during the fellowship period
+-­‐ S. B Sirima, A. Tiono, Z. Gansané, M. Siribié, A. Zongo, A. Ouédraogo, N. François,
+A. Strezova, K. Dobbelaere, D. Borys. Immunogenicity and safety of 10-valent
+pneumococcal non-typeable Haemophilus influenzae protein D conjugate vaccine
+(PHiD-CV) administered to children with sickle cell disease between 8 weeks and 2
+years of age: a phase III, open, controlled study. Accepted for publication in The
+Pediatric Infectious Disease Journal.
+-­‐ I. O. Ajayi, J. Nsungwa-Sabiiti, M. Siribié, C. O. Falade, L. Sermé, A. Balyeku, C.
+Afonne, A K. Sanou, V. Kabarungi, F O. Oshiname, Z. Gansane, J. Kyaligonza, A S.
+Jegede, A B. Tiono, S B. Sirima, A. Diarra, O B. Yusuf, F. Fouque, J. Castellani, M.
+Petzold, J. Singlovic, and M. Gomes. Feasibility of Malaria Diagnosis and
+Management in Burkina Faso, Nigeria, and Uganda: A Community-Based
+Observational Study. CID 2016; 63(S5):S245–55.
+
+Page 11 of 13
 
 
 --- Page 13 ---
+-­‐ J. Castellani, J. Nsungwa-Sabiiti, B. Mihaylova, I. O. Ajayi, M. Siribié, C. Afonne, A.
+Balyeku, L. Sermé, A K. Sanou, B S. Sombié, A B. Tiono, S B. Sirima, V Kabarungi,
+C O. Falade, J Kyaligonza, S. M. A. A. Evers, A T. G. Paulus, M Petzold, J. Singlovic,
+and M. Gomes. Impact of Improving Community -Based Access to Malaria Diagnosis
+and Treatment on Household Costs. CID 2016; 63(S5):S256–63.
+-­‐ M. Siribié, I. O. Ajayi, J. Nsungwa-Sabiiti, C. Afonne, A. Balyeku, C. O. Falade, Z.
+Gansane, A. S. Jegede, L. Ojanduru, F. O. Oshiname, V. Kabarungi, J. Kyaligonza,
+A. K. Sanou, L. Sermé, J. Castellani, J. Singlovic, and M. Gomes. Training
+Community Health Workers to Manage Uncomplicated and Severe Malaria:
+Experience from 3 Rural Malaria-Endemic Areas in Sub-Saharan Africa. CID 2016;
+63(S5):S264–9.
+-­‐ A. K. Sanou, A. S. Jegede, J. Nsungwa-Sabiiti, M. Siribié, I. O. Ajayi, A. Turinde, F.
+O. Oshiname, L. Sermé, V. Kabarungi, C. O. Falade, J. Kyaligonza, C. Afonne, A.
+Balyeku, J. Castellani, and M. Gomes. Motivation of Community Health Workers in
+Diagnosing, Treating, and Referring Sick Young Children in a Multicountry Study. CID
+2016; 63(S5):S264–9.
+-­‐ J. Singlovic, I. O. Ajayi, J. Nsungwa-Sabiiti, M. Siribié, A. K. Sanou, A. S. Jegede, C.
+O. Falade, L. Sermé, Z. Gansane, C. Afonne, V. Kabarungi, J. Kyaligonza, J.
+Castellani, M. Petzold, and M. Gomes. Compliance with Malaria Rapid Diagnostic
+Testing by Community Health Workers in 3 Malaria-Endemic Countries of Sub-
+Saharan Africa: An Observational Study. CID 2016; 63(S5):S276–82.
+-­‐ M. Siribié, I. O. Ajayi, J. Nsungwa-Sabiiti, A. K. Sanou, A. S. Jegede, C. Afonne,
+Catherine O. Falade, and M. Gomes. Compliance with Referral Advice after
+Treatment with Prereferral Rectal Artesunate: A Study in 3 Sub-Saharan African
+Countries. CID 2016; 63(S5):S283–9.
+-­‐ C. O. Falade, I. O. Ajayi, J. Nsungwa-Sabiiti, M. Siribié, A. Diarra, L. Sermé, C.
+Afonne, O. B. Yusuf, Z. Gansane, A. S. Jegede, J. Singlovic, and M. Gomes. Malaria
+Rapid Diagnostic Tests and Malaria Microscopy for Guiding Malaria Treatment of
+Uncomplicated Fevers in Nigeria and Prereferral Cases in 3 African Countries. CID
+2016; 63(S5):S290–7.
+-­‐ J. Castellani, B. Mihaylova, I. O. Ajayi, M. Siribié, J. Nsungwa-Sabiiti, C. Afonne, L.
+Sermé, A. Balyeku, V. Kabarungi, J. Kyaligonza, S. M. A. A. Evers, A. T. G. Paulus,
+M. Petzold, J. Singlovic, and M. Gomes. Quantifying and Valuing Community Health
+Worker Time in Improving Access to Malaria Diagnosis and Treatment. CID 2016;
+63(S5):S298–305.
+-­‐ A. S. Jegede, F. O. Oshiname, A. K. Sanou, J. Nsungwa-Sabiiti, I. O. Ajayi, M.
+Siribié, C. Afonne, L. Sermé, and C. O. Falade. Assessing Acceptability of a
 
-Page 12 of 13	  	  
--­‐ J. Castellani, J. Nsungwa-Sabiiti, B. Mihaylova, I. O. Ajayi, M. Siribié, C. Afonne, A. Balyeku, L. Sermé, A K. Sanou, B S. Sombié, A B. Tiono, S B. Sirima, V Kabarungi, C O. Falade, J Kyaligonza, S. M. A. A. Evers, A T. G. Paulus, M Petzold, J. Singlovic, and M. Gomes. Impact of Improving Community-Based Access to Malaria Diagnosis and Treatment on Household Costs. CID 2016; 63(S5):S256–63. -­‐ M. Siribié, I. O. Ajayi, J. Nsungwa-Sabiiti, C. Afonne, A. Balyeku, C. O. Falade, Z. Gansane, A. S. Jegede, L. Ojanduru, F. O. Oshiname, V. Kabarungi, J. Kyaligonza, A. K. Sanou, L. Sermé, J. Castellani, J. Singlovic, and M. Gomes. Training Community Health Workers to Manage Uncomplicated and Severe Malaria: Experience from 3 Rural Malaria-Endemic Areas in Sub-Saharan Africa. CID 2016; 63(S5):S264–9. -­‐ A. K. Sanou, A. S. Jegede, J. Nsungwa-Sabiiti, M. Siribié, I. O. Ajayi, A. Turinde, F. O. Oshiname, L. Sermé, V. Kabarungi, C. O. Falade, J. Kyaligonza, C. Afonne, A. Balyeku, J. Castellani, and M. Gomes. Motivation of Community Health Workers in Diagnosing, Treating, and Referring Sick Young Children in a Multicountry Study. CID 2016; 63(S5):S264–9. -­‐ J. Singlovic, I. O. Ajayi, J. Nsungwa-Sabiiti, M. Siribié, A. K. Sanou, A. S. Jegede, C. O. Falade, L. Sermé, Z. Gansane, C. Afonne, V. Kabarungi, J. Kyaligonza, J. Castellani, M. Petzold, and M. Gomes. Compliance with Malaria Rapid Diagnostic Testing by Community Health Workers in 3 Malaria-Endemic Countries of Sub-Saharan Africa: An Observational Study. CID 2016; 63(S5):S276–82.  -­‐ M. Siribié, I. O. Ajayi, J. Nsungwa-Sabiiti, A. K. Sanou, A. S. Jegede, C. Afonne, Catherine O. Falade, and M. Gomes. Compliance with Referral Advice after Treatment with Prereferral Rectal Artesunate: A Study in 3 Sub-Saharan African Countries. CID 2016; 63(S5):S283–9.  -­‐ C. O. Falade, I. O. Ajayi, J. Nsungwa-Sabiiti, M. Siribié, A. Diarra, L. Sermé, C. Afonne, O. B. Yusuf, Z. Gansane, A. S. Jegede, J. Singlovic, and M. Gomes. Malaria Rapid Diagnostic Tests and Malaria Microscopy for Guiding Malaria Treatment of Uncomplicated Fevers in Nigeria and Prereferral Cases in 3 African Countries. CID 2016; 63(S5):S290–7.  -­‐ J. Castellani, B. Mihaylova, I. O. Ajayi, M. Siribié, J. Nsungwa-Sabiiti, C. Afonne, L. Sermé, A. Balyeku, V. Kabarungi, J. Kyaligonza, S. M. A. A. Evers, A. T. G. Paulus, M. Petzold, J. Singlovic, and M. Gomes. Quantifying and Valuing Community Health Worker Time in Improving Access to Malaria Diagnosis and Treatment. CID 2016; 63(S5):S298–305. -­‐ A. S. Jegede, F. O. Oshiname, A. K. Sanou, J. Nsungwa-Sabiiti, I. O. Ajayi, M. Siribié, C. Afonne, L. Sermé, and C. O. Falade. Assessing Acceptability of a 
+Page 12 of 13
 
 
 --- Page 14 ---
+Diagnostic and Malaria Treatment Package Delivered by Community Health Workers
+in Malaria-Endemic Settings of Burkina Faso, Nigeria, and Uganda. CID 2016;
+63(S5):S306–11.
 
-Page 13 of 13	  	  
-Diagnostic and Malaria Treatment Package Delivered by Community Health Workers in Malaria-Endemic Settings of Burkina Faso, Nigeria, and Uganda. CID 2016; 63(S5):S306–11. 
+Page 13 of 13

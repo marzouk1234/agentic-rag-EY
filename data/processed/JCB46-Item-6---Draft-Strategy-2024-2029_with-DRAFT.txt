@@ -1,1421 +1,1376 @@
-
-
 --- Page 1 ---
-
-A A 
-TDR Strategy 
+A A
+TDR Strategy DRAFT
 2024-2029
-Building local research 
-solutions to improve 
+Building local research
+solutions to improve
 global health
-DRAFT
 
 
 --- Page 3 ---
-
-TDR Strategy 
+TDR Strategy
 2024-2029
-Building local research 
-solutions to improve 
+Building local research
+solutions to improve
 global health
 
 
 --- Page 4 ---
-
 ii
+
 TDR strategy 2024–2029: building local research solutions to improve global health
-ISBN 978-92-4-007478-1 (electronic version) 
+
+ISBN 978-92-4-007478-1 (electronic version)
 ISBN 978-92-4-007479-8 (print version)
-© World Health Organization on behalf of  
-the UNICEF/UNDP/World Bank/WHO Special Programme for  
+
+© World Health Organization on behalf of
+the UNICEF/UNDP/ World Bank/ WHO Special Programme for
 Research and Training in Tropical Diseases, 2023
+
 Some rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence (CC BY-NC-
-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo). 
-Under the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes, provided the work is 
-appropriately cited, as indicated below. In any use of this work, there should be no suggestion that the World Health Organization (WHO), 
-including the UNICEF/UNDP/World Bank/WHO Special Programme for Research and Training in Tropical Diseases (TDR), endorses any specific 
-organization, products or services. The use of WHO and TDR logos is not permitted. If you adapt the work, then you must license your work 
-under the same or equivalent Creative Commons licence. If you create a translation of this work, you should add the following disclaimer 
-along with the suggested citation: “This translation was not created by the World Health Organization (WHO) or by the UNICEF/UNDP/World 
-Bank/WHO Special Programme for Research and Training in Tropical Diseases (TDR). WHO, including TDR is not responsible for the content 
+SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo ).
+
+Under the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes, provided the work is
+appropriately cited, as indicated below. In any use of this work, there should be no suggestion that the World Health Organization (WHO),
+including the UNICEF/UNDP/World Bank/WHO Special Programme for Research and Training in Tropical Diseases (TDR), endorses any specific
+organization, products or services. The use of WHO and TDR logos is not permitted. If you adapt the work, then you must license your work
+under the same or equivalent Creative Commons licence. If you create a translation of this work, you should add the following disclaimer
+along with the suggested citation: “This translation was not created by the World Health Organization (WHO) or by the UNICEF/UNDP/World
+Bank/WHO Special Programme for Research and Training in Tropical Diseases (TDR). WHO, including TDR is not responsible for the content
 or accuracy of this translation. The original English edition shall be the binding and authentic edition”.
-Any mediation relating to disputes arising under the licence shall be conducted in accordance with the mediation rules of the World 
+
+Any mediation relating to disputes arising under the licence shall be conducted in accordance with the mediation rules of the World
 Intellectual Property Organization.
-Suggested citation. TDR strategy 2024–2029: building local research solutions to improve global health. Geneva: World Health Organization; 
-2023. Licence: CC BY-NC-SA 3.0 IGO.
+
+Suggested citation. TDR strategy 2024–2029: building local research solutions to improve global health. Geneva: World Health Organization;
+2023. Licence: CC BY-NC-SA 3.0 IGO .
+
 Cataloguing-in-Publication (CIP) data. CIP data are available at http://apps.who.int/iris.
-Sales, rights and licensing. To purchase WHO publications, see https://www.who.int/publications/book-orders. To submit requests for 
+
+Sales, rights and licensing. To purchase WHO publications, see https://www.who.int/publications/book-orders. To submit requests for
 commercial use and queries on rights and licensing, see http://www.who.int/copyright.
-Third-party materials. If you wish to reuse material from this work that is attributed to a third party, such as tables, figures or images, it is 
-your responsibility to determine whether permission is needed for that reuse and to obtain permission from the copyright holder. The risk of 
+
+Third-party materials. If you wish to reuse material from this work that is attributed to a third party, such as tables, figures or images, it is
+your responsibility to determine whether permission is needed for that reuse and to obtain permission from the copyright holder. The risk of
 claims resulting from infringement of any third-party-owned component in the work rests solely with the user.
-General disclaimers. The designations employed and the presentation of the material in this publication do not imply the expression of any 
-opinion whatsoever on the part of WHO, including TDR, concerning the legal status of any country, territory, city or area or of its authorities, 
-or concerning the delimitation of its frontiers or boundaries. Dotted and dashed lines on maps represent approximate border lines for which 
-there may not yet be full agreement. 
-The mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed or recommended by WHO, 
-including TDR, in preference to others of a similar nature that are not mentioned. Errors and omissions excepted, the names of proprietary 
+
+General disclaimers. The designations employed and the presentation of the material in this publication do not imply the expression of any
+opinion whatsoever on the part of WHO, including TDR, concerning the legal status of any country, territory, city or area or of its authorities,
+or concerning the delimitation of its frontiers or boundaries. Dotted and dashed lines on maps represent approximate border lines for which
+there may not yet be full agreement.
+
+The mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed or recommended by WHO,
+including TDR, in preference to others of a similar nature that are not mentioned. Errors and omissions excepted, the names of proprietary
 products are distinguished by initial capital letters.
-All reasonable precautions have been taken by WHO, including TDR, to verify the information contained in this publication. However, the 
-published material is being distributed without warranty of any kind, either expressed or implied. The responsibility for the interpretation 
-and use of the material lies with the reader. In no event shall WHO, including TDR, be liable for damages arising from its use. 
+
+All reasonable precautions have been taken by WHO, including TDR, to verify the information contained in this publication. However, the
+published material is being distributed without warranty of any kind, either expressed or implied. The responsibility for the interpretation
+and use of the material lies with the reader. In no event shall WHO, including TDR, be liable for damages arising from its use.
 
 
 --- Page 5 ---
+ii iii
 
-ii iii 
-Contents
-This page allows you to navigate to the different components of the TDR Strategy 
-document. Click on the arrows to jump directly to a section or topic.
-What is 
-TDR? 
-p. 1  
-Who do we 
-serve?  
-p. 2  
-What have 
-we achieved?
-p. 2   
-How are we 
-evolving?  
-p. 4   
-WHO’s Triple 
-Billion Goals and 
-the Sustainable 
-Development 
-Goals   
-p. 5  
-Multisectoral 
-engagement 
-and a One 
-Health 
-approach  
-p. 6  
-Equity focus
-p. 6  
-Targeted 
-investment  
-p. 7  
-3.1 Research for 
-global health 
+This page allows you to navigate to the different component s of the TDR Strategy
+Contents document . Click on the arrows to jump directly to a section or topic .
+
+TDR’s vision and missionp. iv Summar yp. v
+
+1 Histor y and achievementsp. 1 2 Principles and frameworksp. 5
+
+What is Who do we What have How are we WHO’s Triple Multisectoral Equit y focus Ta r g e t e d
+TDR? s e r v e? we achieved? evolving? Billion Goals and engagement p. 6 inves t m en t
+p. 1 p. 2 p. 2 p. 4 the Sustainable and a One p. 7
+Development Health
+Goal s approach
+p. 5 p. 6
+
+3 Making an impactp. 8
+3.1 Research for 3.2 Research 3.3 Research 3.4 Global
+global health support p. 16 training p. 21 engagement p. 30
 challenges p. 11
-Four challenges 
-contributing to infectious 
-diseases of poverty  
-p. 11  
-Research for delivery and 
-access  p. 18   
-Research for innovative 
-solutions  p. 19  
-Research for decision-
-making  p. 20  
-3.2 Research 
-support p. 16
-Shaping research priorities 
-and systems  p. 30  
-Research uptake and use 
-p. 32  
-Addressing gender and 
-other determinants of 
-health  p. 33  
-3.4 Global 
-engagement p. 30
-Our approaches to training  
-p. 22  
-Strengthening the capacity 
-of implementation research 
-training institutions 
-p. 29   
-3.3 Research 
-training p. 21
-1 History and achievements p. 1
-TDR’s vision and mission  p. iv Summary p. v
-2  Principles and frameworks p. 5
-3 Making an impact p. 8
-4 Partnerships 
-and governance p. 34
-5 Managing 
-for success p. 36
-6 Acknowledging 
-our funders p. 38
+Research for deliver y and Our approaches to training Shaping research priorities
+Four challenges access p . 18 p. 22 and systems p. 30
+contributing to infectious
+diseases of povert y Research for innovative Strengthening the capacit y Research uptake and use
+p . 11 solutions p. 19 of implementation research p . 32
+training institutions
+Research for decision - p. 29 Addressing gender and
+
+making p. 20 other determinant s of
+health p. 33
+
+4 Partnerships 5 Managing 6 Acknowledging
+andgovernancep. 34 forsuccessp. 36 our fundersp. 38
 
 
 --- Page 6 ---
-
-TDR Strategy 2024-2029 
 iv
+
 TDR Strategy 2024–2029
-Building local research solutions to 
+
+Building local research solutions to
 improve global health
-Vision 
-The health and well-being of people burdened by infectious diseases of poverty is 
+
+Vision
+The health and well-being of people burdened by infectious diseases of poverty is
 improved through the power of research and innovation.
-Mission 
-To support innovative global health research, strengthen in-country health research 
-systems and promote the translation of evidence to improve interventions that reduce the 
+
+Mission
+To support innovative global health research, strengthen in-country health research
+systems and promote the translation of evidence to improve interventions that reduce the
 burden of infectious diseases for the most under-served and vulnerable populations.
-TDR’s unique value 
-TDR’s focus on supporting implementation research and strengthening research 
-capacity in low- and middle-income countries, combined with our position in the 
-United Nations through our co-sponsors – the United Nations Children’s Fund 
-(UNICEF), the United Nations Development Programme (UNDP), the World Bank and 
-the World Health Organization (WHO) - is our unique value. This gives TDR direct 
-access to our co-sponsors’ health programmes and country and regional offices, as 
-well as convening power to ensure key stakeholders from health and related sectors, 
-national governments and academia share their expertise, experience and resources. 
-Our unique position within the United Nations family allows us to create a bridge 
-from local communities and researchers in countries to the World Health Assembly, 
-enabling the broadest possible scope of dialogue and debate across the spectrum of 
+
+TDR’s unique value
+TDR’s focus on supporting implementation research and strengthening research
+capacity in low- and middle-income countries, combined with our position in the
+United Nations through our co-sponsors – the United Nations Children’s Fund
+(UNICEF), the United Nations Development Programme (UNDP), the World Bank and
+the World Health Organization (WHO) - is our unique value. This gives TDR direct
+access to our co-sponsors’ health programmes and country and regional offices, as
+well as convening power to ensure key stakeholders from health and related sectors,
+national governments and academia share their expertise, experience and resources.
+Our unique position within the United Nations family allows us to create a bridge
+from local communities and researchers in countries to the World Health Assembly,
+enabling the broadest possible scope of dialogue and debate across the spectrum of
 health research.
 
 
 --- Page 7 ---
+iv Summary v
+Summar y
 
-iv vSummary
-Summary
-An unrelenting series of public health emergencies in recent years has highlighted the 
-critical role of implementation research in informing health policy and practice. But 
-evidence is not only fundamental to emergency response efforts. Building capacity for 
-health research strengthens the resilience of health systems as a whole, so they can serve 
+An unrelenting series of public health emergencies in recent years has highlighted the
+critical role of implementation research in informing health policy and practice. But
+evidence is not only fundamental to emergency response efforts. Building capacity for
+health research strengthens the resilience of health systems as a whole, so they can serve
 all people all the time.
-For almost 50 years, TDR has been a leader in research to address infectious diseases of 
-poverty and in building the capacity of people, communities and institutions in low- and 
-middle-income countries. We support evidence generation in disease-affected countries to 
-foster innovations that improve health. 
 
+For almost 50 years, TDR has been a leader in research to address infectious diseases of
+poverty and in building the capacity of people, communities and institutions in low- and
+middle-income countries. We support evidence generation in disease-affected countries to
+foster innovations that improve health.
 
 
 --- Page 8 ---
-
-TDR Strategy 2024-2029 
 vi
-This 2024–2029 strategy builds on our experience, to support country-led implementation 
-research that improves access to, and scale-up of, health interventions, strategies and 
+
+This 2024–2029 strategy builds on our experience, to support country-led implementation
+research that improves access to, and scale-up of, health interventions, strategies and
 policies and strengthens health systems.
-We will work with implementers and social innovators, alongside researchers, to help 
-democratize research and demonstrate that it is a useful and practical tool for people 
+
+We will work with implementers and social innovators, alongside researchers, to help
+democratize research and demonstrate that it is a useful and practical tool for people
 tackling health issues on the ground.
-PHOTO
-In collaboration with universities and research organizations in low- and middle-income 
-countries, we will meet the growing demand for implementation research training and 
-contribute to a new generation of public health leaders. 
-The implementation of our new strategy relies heavily on how we partner with 
-stakeholders. As a Special Programme based at WHO headquarters, we will continue to 
-work closely with many WHO departments and the six WHO regional offices. This strong 
-connection helps us to coordinate our work and leverage WHO actions that improve health 
-on the ground. 
-Relationships with our other co-sponsors at UNICEF, UNDP and the World Bank, and with 
-numerous other global health partners, are also critical to our success, particularly in 
-optimizing our contribution to the Sustainable Development Goals. 
-Democratizing research 
-“I am not an academic researcher, but TDR has made it possible for me to conduct 
-rigorous studies and generate powerful insights that my country is using to improve 
-surveillance of antimicrobial use in the agricultural and human health sectors. In 
-this way, TDR is expanding access to research for implementers, decision-makers, 
-frontline health workers and communities who have a vested interest in using the 
+
+Democratizing research
+
+“I am not an academic researcher, but TDR has made it possible for me to conduct
+rigorous studies and generate powerful insights that my country is using to improve
+surveillance of antimicrobial use in the agricultural and human health sectors. In
+PHOTO this way, TDR is expanding access to research for implementers, decision-makers,
+frontline health workers and communities who have a vested interest in using the
 evidence to make an impact on health.”
+
 - Dr Amara Leno, Ministry of Agriculture and Forestry, Sierra Leone
 
+In collaboration with universities and research organizations in low- and middle-income
+countries, we will meet the growing demand for implementation research training and
+contribute to a new generation of public health leaders.
+
+The implementation of our new strategy relies heavily on how we partner with
+stakeholders. As a Special Programme based at WHO headquarters, we will continue to
+work closely with many WHO departments and the six WHO regional offices. This strong
+connection helps us to coordinate our work and leverage WHO actions that improve health
+on the ground.
+
+Relationships with our other co-sponsors at UNICEF, UNDP and the World Bank, and with
+numerous other global health partners, are also critical to our success, particularly in
+optimizing our contribution to the Sustainable Development Goals.
 
 
 --- Page 9 ---
+vi Summary vii
 
-vi viiSummary
-Why did 10 million eligible children in sub-Saharan Africa 
-not have access to medicines that would protect them 
-against seasonal malaria outbreaks in 2020? 
-Source: Medicines for Malaria Venture
-Why did only 36% of people in the world with  
-drug-resistant TB have access to treatment in 2021?  
+Implementation research is essential to understanding
+and overcoming challenges to accessing health care and
+achieving universal health coverage
+
+Why did only 36% of people in the world with
+drug-resistant TB have access to treatment in 2021?
 Source: Global Tuberculosis Report 2022
-How can a new drug to treat river blindness – moxidectin – be 
-rolled out in the most effective way? How can moxidectin be 
+
+Why did 10 million eligible children in sub-Saharan Africa
+not have access to medicines that would protect them
+against seasonal malaria outbreaks in 2020?
+Source: Medicines for Malaria Venture
+
+How can a new drug to treat river blindness – moxidectin – be
+rolled out in the most effective way? How can moxidectin be
 reformulated to treat children who can’t swallow a tablet?
-Implementation research is essential to understanding 
-and overcoming challenges to accessing health care and 
-achieving universal health coverage 
-Our focus remains firmly on addressing infectious diseases of poverty, and our new 
-strategy is grounded in country-led priorities. However, we recognize that this cannot be 
-done effectively without taking into consideration the changing global context - political, 
-economic, social and environmental – in which we work. We will be proactive in identifying 
-opportunities where our activities can contribute to building country resilience to four 
-major global health challenges. 
+
+Our focus remains firmly on addressing infectious diseases of poverty, and our new
+strategy is grounded in country-led priorities. However, we recognize that this cannot be
+done effectively without taking into consideration the changing global context - political,
+economic, social and environmental – in which we work. We will be proactive in identifying
+opportunities where our activities can contribute to building country resilience to four
+major global health challenges.
 
 
 --- Page 10 ---
-
-TDR Strategy 2024-2029 
 viii
-These global health challenges will be addressed through three strategic approaches:
-• Research support - We will continue to support and facilitate implementation research to 
-improve access to quality interventions that reduce the burden of infectious diseases on 
-the most vulnerable. This includes research for delivery and access, research for innovative 
-solutions and research for decision-making.
-Research to address global health challenges 
-TDR will focus on four major global health 
-challenges affecting infectious diseases of 
+
+Research to address global health challenges
+
+TDR will focus on four major global health
+challenges affecting infectious diseases of
 poverty using a One Health approach.
-Infectious diseases 
+
+Infectious diseases
 of poverty
+
+These global health challenges will be addressed through three strategic approaches:
+
+• Research support - We will continue to support and facilitate implementation research to
+improve access to quality interventions that reduce the burden of infectious diseases on
+the most vulnerable. This includes research for delivery and access, research for innovative
+solutions and research for decision-making.
 
 
 --- Page 11 ---
+viii Summary ix
 
-viii ixSummary
-• Research training for capacity strengthening - We will continue to respond to growing 
-demand for implementation research training, in collaboration with partners in low- and 
-middle-income countries. This training goes beyond academics to include those working 
-in the community, implementing programmes and policy-makers. We will also develop 
-health research leadership in low- and middle-income countries, through the Postgraduate 
+• Research training for capacity strengthening - We will continue to respond to growing
+demand for implementation research training, in collaboration with partners in low- and
+middle-income countries. This training goes beyond academics to include those working
+in the community, implementing programmes and policy-makers. We will also develop
+health research leadership in low- and middle-income countries, through the Postgraduate
 Training Scheme and the Clinical Research Leadership programme.
-• Global engagement – We will continue to engage with the global health community to 
-promote and facilitate the role of research for development and to advocate for the use 
-of high-quality evidence to inform policy. Our unique position within the United Nations 
-family through our co-sponsors allows us to create a bridge from local communities to 
-the World Health Assembly, enabling the broadest possible scope of dialogue and debate 
+
+• Global engagement – We will continue to engage with the global health community to
+promote and facilitate the role of research for development and to advocate for the use
+of high-quality evidence to inform policy. Our unique position within the United Nations
+family through our co-sponsors allows us to create a bridge from local communities to
+the World Health Assembly, enabling the broadest possible scope of dialogue and debate
 across the spectrum of health research.
-Our experience has shown the importance of cross-cutting, multisectoral and One 
-Health approaches to tackling diseases. Maintaining our focus on human diseases, we 
-will continue to engage health-related sectors such as water, agriculture, housing and 
-education. We will work across silos applying systems thinking to understand the complex 
-interactions between humans, animals and their shared environment in driving human 
-diseases of poverty and seek solutions through multidisciplinary collaboration. 
-Our work reflects our core values of equity and sustainability. TDR strives to make research 
-and innovation work for the benefit of the most neglected populations. This new strategy 
-will lead to robust research evidence for innovations that improve their health and  
-well-being. 
-We are also supporting researchers to apply an intersectional gender lens to infectious 
-diseases by exploring links between health-related social inequities and solutions that 
-enhance equality in access to health care. We will take holistic approaches, considering 
-and addressing conditions such as noncommunicable diseases where they intersect with 
+
+Our experience has shown the importance of cross-cutting, multisectoral and One
+Health approaches to tackling diseases. Maintaining our focus on human diseases, we
+will continue to engage health-related sectors such as water, agriculture, housing and
+education. We will work across silos applying systems thinking to understand the complex
+interactions between humans, animals and their shared environment in driving human
+diseases of poverty and seek solutions through multidisciplinary collaboration.
+
+Our work reflects our core values of equity and sustainability. TDR strives to make research
+and innovation work for the benefit of the most neglected populations. This new strategy
+will lead to robust research evidence for innovations that improve their health and
+well-being.
+
+We are also supporting researchers to apply an intersectional gender lens to infectious
+diseases by exploring links between health-related social inequities and solutions that
+enhance equality in access to health care. We will take holistic approaches, considering
+and addressing conditions such as noncommunicable diseases where they intersect with
 infectious diseases.
 
 
 --- Page 12 ---
-
-TDR Strategy 2024-2029 
 x
-This strategy includes our criteria for supporting research activities and the ways in 
-which we will monitor and evaluate our work. An updated results framework with key 
-performance indicators will accompany this strategy. This will include measurement of 
-impact, such as when research projects supported by TDR inform policy or practice in 
+
+This strategy includes our criteria for supporting research activities and the ways in
+which we will monitor and evaluate our work. An updated results framework with key
+performance indicators will accompany this strategy. This will include measurement of
+impact, such as when research projects supported by TDR inform policy or practice in
 countries to tackle infectious diseases of poverty.
-The 2024–2029 strategy will set the course for TDR to build on its past to address current 
+
+The 2024–2029 strategy will set the course for TDR to build on its past to address current
 and future challenges and build capacity and resilience through country-led responses.
 
 
 --- Page 13 ---
-
-x 11. History and achievements
-1. History and  
+x 1. Histor y and achievements 1
+1. Histor y and
 achievements
+
 What is TDR?
-A World Health Assembly resolution in 1974 called for the establishment of a research 
-programme that became TDR, the Special Programme for Research and Training in 
-Tropical Diseases. TDR is a global programme of scientific collaboration that helps 
-facilitate, support and influence efforts to combat diseases of poverty. It is a cross-UN 
+
+A World Health Assembly resolution in 1974 called for the establishment of a research
+programme that became TDR, the Special Programme for Research and Training in
+Tropical Diseases. TDR is a global programme of scientific collaboration that helps
+facilitate, support and influence efforts to combat diseases of poverty. It is a cross-UN
 agency, co-sponsored by UNICEF, UNDP, the World Bank and WHO.
-We receive core funds from a range of governments across the globe, all committed to 
-using research evidence to improve health outcomes in low- and middle-income countries. 
-Since its earliest days, TDR has been focused on supporting research to improve the 
-control of infectious diseases and strengthening the capacity of disease-affected countries 
+
+We receive core funds from a range of governments across the globe, all committed to
+using research evidence to improve health outcomes in low- and middle-income countries.
+Since its earliest days, TDR has been focused on supporting research to improve the
+control of infectious diseases and strengthening the capacity of disease-affected countries
 to perform valuable health research themselves.
 
 
 --- Page 14 ---
-
-TDR Strategy 2024-2029 
 2
-Who do we serve?
-TDR supports people and institutions in countries and communities where communicable 
-diseases have a major impact on health and livelihood. Over time, TDR has evolved to 
-meet changing needs, moving from a focus on neglected tropical diseases to a focus on 
-the well-being of neglected and vulnerable people and communities. Many factors create 
-environments where the burden of infectious disease is unacceptably high, for example, 
-low socio-economic status, lack of education, inefficient and under-resourced health 
-systems, stigma and discrimination, geographical location and limited access to water 
+
+Who do we ser ve?
+
+TDR supports people and institutions in countries and communities where communicable
+diseases have a major impact on health and livelihood. Over time, TDR has evolved to
+meet changing needs, moving from a focus on neglected tropical diseases to a focus on
+the well-being of neglected and vulnerable people and communities. Many factors create
+environments where the burden of infectious disease is unacceptably high, for example,
+low socio-economic status, lack of education, inefficient and under-resourced health
+systems, stigma and discrimination, geographical location and limited access to water
 and sanitation.
- 
+
 What have we achieved?
-Over the last 50 years, TDR’s approach has led to significant achievements, including 
-the co-development of 13 new drugs for infectious diseases, such as malaria, leprosy, 
-leishmaniasis, sleeping sickness and river blindness. We have also partnered with WHO and 
-countries on five major elimination campaigns for neglected tropical diseases – leprosy, 
-river blindness, Chagas disease and lymphatic filariasis globally, and visceral leishmaniasis 
+
+Over the last 50 years, TDR’s approach has led to significant achievements, including
+the co-development of 13 new drugs for infectious diseases, such as malaria, leprosy,
+leishmaniasis, sleeping sickness and river blindness. We have also partnered with WHO and
+countries on five major elimination campaigns for neglected tropical diseases – leprosy,
+river blindness, Chagas disease and lymphatic filariasis globally, and visceral leishmaniasis
 on the Indian subcontinent.
-TDR has invested in the expansion of national and regional research capacity to support 
-this approach. Today, at least three generations of researchers are part of the TDR 
-Global community, including many who have become prominent global health leaders in 
+
+TDR has invested in the expansion of national and regional research capacity to support
+this approach. Today, at least three generations of researchers are part of the TDR
+Global community, including many who have become prominent global health leaders in
 their countries.
 
 
 --- Page 15 ---
+2 1. Histor y and achievements 3
 
-2 31. History and achievements
 Key achievements: The impact of TDR’s 2018–2023 Strategy
-Evidence to policy: new 
-solutions applied in 
-countries since 2018
-84
-instances when research projects supported by 
-TDR informed policy and/or practice in countries 
-to tackle infectious diseases of poverty
-Research grantees and 
-trainees supported since 
-2018
-624
-scientists supported through programmes 
-such as the Postgraduate Training Scheme, 
-Impact Grants for Regional Priorities and the 
-Clinical Research and Development Fellowship 
+
+Evidence to policy: new instances when research projects supported by
+solutions applied in TDR informed policy and/or practice in countries
+countries since 2018 84to tackle infectious diseases of poverty
+
+Research grantees and scientists supported through programmes
+trainees supported since such as the Postgraduate Training Scheme,
+2018 624Impact Grants for Regional Priorities and the
+Clinical Research and Development Fellowship
 Programme
-Institutions and networks 
-strengthened since 2018 17
-research institutions and networks in disease-
-endemic countries expanded their scope of 
-activities or increased fundraising because of 
+
+Institutions and networks research institutions and networks in disease-
+strengthened since 2018 17endemic countries expanded their scope of
+activities or increased fundraising because of
 TDR support
-Evidence to policy for elimination of visceral leishmaniasis 
-TDR has supported scientists in Bangladesh and Nepal who 
-have conducted implementation research on strategies 
-for eliminating visceral leishmaniasis (also known as 
-kala-azar). This research has informed efforts to deliver 
-single-dose treatment to rural populations and validated 
-an innovative diagnostic test. Such research findings have 
-been incorporated into national elimination guidelines – a 
-powerful example of research for decision-making. New 
-efforts to eliminate visceral leishmaniasis in Eastern Africa 
-are now drawing on the success and lessons learned from 
-this project, showing how we have catalysed South-to-South 
+
+Evidence to policy for elimination of visceral leishmaniasis
+
+TDR has supported scientists in Bangladesh and Nepal who
+have conducted implementation research on strategies
+for eliminating visceral leishmaniasis (also known as
+kala-azar). This research has informed efforts to deliver
+single-dose treatment to rural populations and validated
+an innovative diagnostic test. Such research findings have
+been incorporated into national elimination guidelines – a
+powerful example of research for decision-making. New
+efforts to eliminate visceral leishmaniasis in Eastern Africa
+are now drawing on the success and lessons learned from
+this project, showing how we have catalysed South-to-South
 learning and exchange
 
 
-
 --- Page 16 ---
-
-TDR Strategy 2024-2029 
 4
-How are we evolving?
-An important factor in our success has been our ability to respond to changing global 
-health challenges, while maintaining our core principles. While major milestones have 
-been achieved with the development of new health products, implementation of these 
-innovations remains a major challenge. A lack of solid implementation research evidence 
-at the country level has been identified as a weak link in the chain from product discovery 
-to health impact and was recognized as an area of research where TDR could best make 
-a difference. Since 2012, our strategy has shifted from a focus on discovery research and 
-product development towards a greater emphasis on research to implement these health 
-tools and resources. 
 
+How are we evolving?
+
+An important factor in our success has been our ability to respond to changing global
+health challenges, while maintaining our core principles. While major milestones have
+been achieved with the development of new health products, implementation of these
+innovations remains a major challenge. A lack of solid implementation research evidence
+at the country level has been identified as a weak link in the chain from product discovery
+to health impact and was recognized as an area of research where TDR could best make
+a difference. Since 2012, our strategy has shifted from a focus on discovery research and
+product development towards a greater emphasis on research to implement these health
+tools and resources.
 
 
 --- Page 17 ---
+4 2. Principles and frameworks 5
+2. Principles and
+frameworks
 
-4 52. Principles and frameworks 
-2. Principles and 
-frameworks 
-The following principles and frameworks guide our work, to ensure it is relevant, effective 
+The following principles and frameworks guide our work, to ensure it is relevant, effective
 and efficient in a dynamic global environment.
-WHO’s Triple Billion Goals and the 
+
+WHO’s Triple Billion Goals and the
 Sustainable Development Goals
-TDR ensures the activities it supports align with other global development processes and 
-targets. We are embedded within WHO and are contributing towards the targets set out 
+
+TDR ensures the activities it supports align with other global development processes and
+targets. We are embedded within WHO and are contributing towards the targets set out
 by its Member States in WHO’s Triple Billion Goals. By 2023, WHO aims to achieve:
+
 • 1 billion more people benefiting from universal health coverage
+
 • 1 billion more people better protected from health emergencies
+
 • 1 billion more people enjoying better health and well-being
-We are also supporting progress towards the Sustainable Development Goals in the 
-areas of health, education, gender equality and equity, water and sanitation, equitable 
+
+We are also supporting progress towards the Sustainable Development Goals in the
+areas of health, education, gender equality and equity, water and sanitation, equitable
 access and countering climate change.
 
 
 --- Page 18 ---
-
-TDR Strategy 2024-2029 
 6
-Multisectoral engagement and a One 
+
+Multisectoral engagement and a One
 Health approach
-TDR delivers sustainability through multisectoral partnerships and One Health research. 
-We will build on our pioneering initiative on operationalizing a One Health approach to 
-tackling vector-borne diseases in the context of climate change. The aim is to catalyse 
-a move beyond disease-focused interventions towards a more holistic integration of 
-health, environment and development through active engagement of the most affected 
+
+TDR delivers sustainability through multisectoral partnerships and One Health research.
+We will build on our pioneering initiative on operationalizing a One Health approach to
+tackling vector-borne diseases in the context of climate change. The aim is to catalyse
+a move beyond disease-focused interventions towards a more holistic integration of
+health, environment and development through active engagement of the most affected
 stakeholders in their individual contexts.
+
 Equity focus
-Our focus is on underserved populations heavily burdened by infectious diseases, in 
-situations where resources, such as financing of health services or the health workforce, 
-are limited. These populations are mostly found in low-income countries, in the poorer 
-areas of middle-income countries or among vulnerable migrants and refugees. We also 
-strengthen local research capacity in countries whose populations are most affected by 
+
+Our focus is on underserved populations heavily burdened by infectious diseases, in
+situations where resources, such as financing of health services or the health workforce,
+are limited. These populations are mostly found in low-income countries, in the poorer
+areas of middle-income countries or among vulnerable migrants and refugees. We also
+strengthen local research capacity in countries whose populations are most affected by
 infectious diseases of poverty.
-We support gender equity – both in terms of access to services and health outcomes 
-as well as within research systems. TDR builds on WHO’s research strategy principles of 
-impact, quality and inclusivity in its work. Mainstreaming gender equity in the way we 
-conduct our work led to an increase in the proportion of grants and contracts awarded to 
-women from 22% to 52% over the last decade. 
-We have supported researchers to generate new knowledge on the intersection of sex 
-and gender with other axes of inequality that affect access to health services and health 
-outcomes. Investigators in low- and middle-income countries have played a critical role in 
-piloting and applying new research tools on intersectional gender analysis to ensure their 
-relevance for implementers, health programme managers and decision-makers. Further 
+
+We support gender equity – both in terms of access to services and health outcomes
+as well as within research systems. TDR builds on WHO’s research strategy principles of
+impact, quality and inclusivity in its work. Mainstreaming gender equity in the way we
+conduct our work led to an increase in the proportion of grants and contracts awarded to
+women from 22% to 52% over the last decade.
+
+We have supported researchers to generate new knowledge on the intersection of sex
+and gender with other axes of inequality that affect access to health services and health
+outcomes. Investigators in low- and middle-income countries have played a critical role in
+piloting and applying new research tools on intersectional gender analysis to ensure their
+relevance for implementers, health programme managers and decision-makers. Further
 information can be found in our Intersectional gender research strategy.
 
 
-
 --- Page 19 ---
+6 2. Principles and frameworks 7
 
-6 72. Principles and frameworks 
 Targeted investment
-While our work is country-led, TDR draws on many external sources to make sure its 
-work responds to global health needs and priorities. Our secretariat and scientific 
-committees are informed by the strategic plans of our co-sponsors and WHO disease 
-control programmes, global health observatories and close engagement with a wide 
-variety of communities of practice in countries and regions. We focus where TDR’s 
-unique, holistic approach can bring the most value. This means that our workplan isn’t 
-developed in disease-focused silos, but rather we prioritize our portfolio in line with our 
-strategic direction. 
-What do we mean by tools and resources? 
-We help develop health tools and resources 
-that support the generation and use of 
-evidence to tackle infectious diseases of 
+
+While our work is country-led, TDR draws on many external sources to make sure its
+work responds to global health needs and priorities. Our secretariat and scientific
+committees are informed by the strategic plans of our co-sponsors and WHO disease
+control programmes, global health observatories and close engagement with a wide
+variety of communities of practice in countries and regions. We focus where TDR’s
+unique, holistic approach can bring the most value. This means that our workplan isn’t
+developed in disease-focused silos, but rather we prioritize our portfolio in line with our
+strategic direction.
+
+What do we mean by tools and resources?
+
+We help develop health tools and resources
+that support the generation and use of
+evidence to tackle infectious diseases of
 poverty. These include:
-•  best practice guidance 
-•  evidence briefs  
-•  policies 
-•  methodologies  
-•  online platforms for networking 
+
+• best practice guidance
+
+• evidence briefs
+
+• policies
+
+• methodologies
+
+• online platforms for networking
 
 
 --- Page 20 ---
-
-TDR Strategy 2024-2029 
 8
-3. Making 
+3. Making
 an impact
-TDR will continue the successful arrangement of three closely 
-interconnected programmes: 
- Research support,  
- Research training and capacity strengthening and  
-  Global engagement.
-This strategy was developed as the world readjusts to the impact of the COVID-19 
-pandemic. There is an increasing acknowledgement that global health must respond 
-to ongoing poly-crises if we are to reach universal health coverage and achieve the 
-Sustainable Development Goals. COVID-19 has demonstrated the importance of the rapid 
+
+TDR will continue the successful arrangement of three closely
+interconnected programmes:
+
+Research support,
+
+Research training and capacity strengthening and
+
+Global engagement.
+
+This strategy was developed as the world readjusts to the impact of the COVID-19
+pandemic. There is an increasing acknowledgement that global health must respond
+to ongoing poly-crises if we are to reach universal health coverage and achieve the
+Sustainable Development Goals. COVID-19 has demonstrated the importance of the rapid
 uptake and use of quality health research and the resilience of national health systems.
-TDR will continue to support activities that focus on research that improves our 
-understanding of how health interventions are implemented in real-life situations. 
-High-quality research evidence is essential to make sure that new interventions can be 
-introduced effectively and safely, and proven interventions can be scaled up and deployed 
+
+TDR will continue to support activities that focus on research that improves our
+understanding of how health interventions are implemented in real-life situations.
+High-quality research evidence is essential to make sure that new interventions can be
+introduced effectively and safely, and proven interventions can be scaled up and deployed
 to their full potential
 
 
 --- Page 21 ---
+8 3. Making an impact 9
 
-8 93. Making an impact
-Our three closely interconnected strategic approaches - Research support, Research 
-training for capacity strengthening, and Global engagement - feed into a theory of change 
+Our three closely interconnected strategic approaches - Research support, Research
+training for capacity strengthening, and Global engagement - feed into a theory of change
 that carries their outputs towards health impact, as illustrated below.
 
 
 --- Page 22 ---
-
-TDR Strategy 2024-2029 
 10
-TDR’s Theory of Change 
+
+TDR’s Theor y of Change
 
 
 --- Page 23 ---
+10 3. Making an impact 11
 
-10 113. Making an impact
-3.1 Country-led research for  
+3.1 Countr y-led research for
 global health challenges
-While sticking to our strengths and prioritizing our strategic approaches based on the 
-principles and frameworks discussed in this strategy, we will be proactive in identifying 
-opportunities where our activities can contribute to building country resilience to four 
-important global health challenges: 
-TDR will focus on four major global health challenges affecting 
+
+While sticking to our strengths and prioritizing our strategic approaches based on the
+principles and frameworks discussed in this strategy, we will be proactive in identifying
+opportunities where our activities can contribute to building country resilience to four
+important global health challenges:
+
+TDR will focus on four major global health challenges affecting
 infectious diseases of poverty using a One Health approach
 
 
 --- Page 24 ---
-
-TDR Strategy 2024-2029 
 12
-Epidemics and outbreaks
-Implementation research is crucial to strategies for prevention, preparedness and 
-response in the face of public health outbreaks and emergencies. The succession of global 
-public health emergencies the world has experienced in recent years is likely to continue, 
-and epidemic threats remain inevitable, with potential for added reversal of public health 
-gains, as witnessed with Ebola, Zika and COVID-19. New and improved tools, approaches 
-and interventions are required to detect and counteract emerging infectious disease 
-threats and population vulnerabilities early. We will support the generation of evidence 
-that strengthens epidemic preparedness and the resilience of health systems to minimize 
-the impact on existing programmes such as established vaccination measures. We will 
-also support research that informs equitable and inclusive health system responses to 
-epidemics and outbreaks, which reach the most vulnerable populations and leave no one 
-behind. This will strengthen health security for all.
-Establishing Early Warning and Response Systems for 
-dengue in Colombia and Thailand  
-TDR has been establishing and/or 
-strengthening countries’ capacities 
-to identify signals of an impending 
-dengue outbreak. This has led to the 
-development of an Early Warning and 
-Response System. We are currently 
-supporting two countries, Colombia and 
-Thailand, which were selected through 
-an open call to evaluate the feasibility 
-and effectiveness of using the system 
-for predicting dengue outbreaks and 
-implementing early response. 
 
+Epidemics and outbreaks
+
+Implementation research is crucial to strategies for prevention, preparedness and
+response in the face of public health outbreaks and emergencies. The succession of global
+public health emergencies the world has experienced in recent years is likely to continue,
+and epidemic threats remain inevitable, with potential for added reversal of public health
+gains, as witnessed with Ebola, Zika and COVID-19. New and improved tools, approaches
+and interventions are required to detect and counteract emerging infectious disease
+threats and population vulnerabilities early. We will support the generation of evidence
+that strengthens epidemic preparedness and the resilience of health systems to minimize
+the impact on existing programmes such as established vaccination measures. We will
+also support research that informs equitable and inclusive health system responses to
+epidemics and outbreaks, which reach the most vulnerable populations and leave no one
+behind. This will strengthen health security for all.
+
+Establishing Early Warning and Response Systems for
+dengue in Colombia and Thailand
+
+TDR has been establishing and/or
+strengthening countries’ capacities
+to identify signals of an impending
+dengue outbreak. This has led to the
+development of an Early Warning and
+Response System. We are currently
+supporting two countries, Colombia and
+Thailand, which were selected through
+an open call to evaluate the feasibility
+and effectiveness of using the system
+for predicting dengue outbreaks and
+implementing early response.
 
 
 --- Page 25 ---
+12 3. Making an impact 13
 
-12 133. Making an impact
-Control and elimination of diseases 
+Control and elimination of diseases
 of poverty
-Tuberculosis, malaria and neglected tropical diseases disproportionally affect the 
-poorest and most vulnerable. TDR will support research that leads to integrated, holistic 
-approaches to elimination – reducing the burden of disease and building resilient health 
+
+Tuberculosis, malaria and neglected tropical diseases disproportionally affect the
+poorest and most vulnerable. TDR will support research that leads to integrated, holistic
+approaches to elimination – reducing the burden of disease and building resilient health
 systems.
-We support work that crosses the disciplines of human, animal and environmental health 
-and promote the importance of applying an intersectional gender lens to infectious 
-disease research. 
- 
- 
-Supporting the NTD road map  
-TDR is committed to supporting the implementation 
-of WHO’s road map for neglected tropical diseases 
-2021–2030. In particular, TDR-supported research on 
-visceral leishmaniasis and onchocerciasis have 
+
+We support work that crosses the disciplines of human, animal and environmental health
+and promote the importance of applying an intersectional gender lens to infectious
+disease research.
+
+Supporting the NTD road map
+
+TDR is committed to supporting the implementation
+of WHO’s road map for neglected tropical diseases
+2021–2030. In particular, TDR-supported research on
+visceralleishmaniasis and onchocerciasis have
 contributed to major milestones toward elimination.
 
 
-
 --- Page 26 ---
-
-TDR Strategy 2024-2029 
 14
-Climate change’s impact on health
-Climate change and loss of biodiversity affect the epidemiology of infectious diseases 
-- altering drivers of disease, risks to populations and the effectiveness of control 
-programmes. TDR will support research through a One Health approach to better 
-understand these changes and inform adaptation strategies.
-Scaling up the One Health approach 
-Over the last few years, TDR has been developing and 
-piloting a framework for operationalizing a One Health 
-approach to tackling vector-borne diseases in the context of 
-climate change in Africa. TDR, WHO’s Department of Control 
-of Neglected Tropical Diseases and the Climate, Health and 
-Environment team at the WHO Regional Office for Africa are 
-now supporting four research teams that are scaling up the 
-implementation of the One Health approach.
-The selected projects will contribute to WHO’s 2021–2030 
-road map for neglected tropical diseases, the WHO Regional 
-Office for Africa’s 2019–2029 strategic action plan to scale 
-up health and environment Interventions in Africa, and its 
-2022-2032 updated regional strategy for the management 
-of environmental determinants of human health in the 
-WHO African Region. 
 
+Climate change’s impact on health
+
+Climate change and loss of biodiversity affect the epidemiology of infectious diseases
+- altering drivers of disease, risks to populations and the effectiveness of control
+programmes. TDR will support research through a One Health approach to better
+understand these changes and inform adaptation strategies.
+
+Scaling up the One Health approach
+
+Over the last few years, TDR has been developing and
+piloting a framework foroperationalizing a One Health
+approach to tackling vector-borne diseases in the context of
+climate change in Africa. TDR, WHO’s Department of Control
+of Neglected Tropical Diseases and the Climate, Health and
+Environment team at the WHO Regional Office for Africaare
+now supporting four research teams that are scaling up the
+implementation of the One Health approach.
+
+The selected projects will contribute to WHO’s 2021–2030
+road map for neglected tropical diseases, the WHO Regional
+Office for Africa’s 2019–2029 strategic action plan to scale
+up health and environment Interventions in Africa, and its
+2022-2032 updated regional strategy for the management
+of environmental determinants of human health in the
+WHO African Region.
 
 
 --- Page 27 ---
+14 3. Making an impact 15
 
-14 153. Making an impact
-Resistance to treatment and 
+Resistance to treatment and
 control agents
-There is a dynamic interaction between interventions to control and eradicate diseases 
-caused by microbes (bacteria, viruses, fungi, parasites, etc.) and the vectors that often 
-transmit them (mosquitoes, flies, snails, etc.). Over time, resistance to interventions 
-can develop and reduce their effectiveness. Antimicrobial resistance, resistance to 
-antiparasitic diseases and insecticide resistance now all pose significant global threats. 
-TDR will support multisectoral research to inform national action plans and strategies to 
-prevent and combat resistance. We will contribute to research that strengthens resilience 
-through improved surveillance, better risk assessment, enhanced awareness and better 
+
+There is a dynamic interaction between interventions to control and eradicate diseases
+caused by microbes (bacteria, viruses, fungi, parasites, etc.) and the vectors that often
+transmit them (mosquitoes, flies, snails, etc.). Over time, resistance to interventions
+can develop and reduce their effectiveness. Antimicrobial resistance, resistance to
+antiparasitic diseases and insecticide resistance now all pose significant global threats.
+TDR will support multisectoral research to inform national action plans and strategies to
+prevent and combat resistance. We will contribute to research that strengthens resilience
+through improved surveillance, better risk assessment, enhanced awareness and better
 understanding of underpinning human behaviour related to the spread of resistance.
+
 Building systems to tackle antimicrobial resistance
-Through SORT IT, TDR has been 
-building sustainable operational 
-research capacity to generate 
-and utilize evidence to tackle the 
-emergence, spread and health impact 
-of antimicrobial resistance in low- 
-and middle-income countries. This 
-involves strong engagement with 
-WHO country offices, antimicrobial 
-resistance committees and SORT 
-IT partners. Research priorities are 
-tailored to national action plans and 
+
+Through SORT IT, TDR has been
+building sustainable operational
+research capacity to generate
+and utilize evidence to tackle the
+emergence, spread and health impact
+of antimicrobial resistance in low-
+and middle-income countries. This
+involves strong engagement with
+WHO country offices, antimicrobial
+resistance committees and SORT
+IT partners. Research priorities are
+tailored to national action plans and
 local needs.
 
 
-
 --- Page 28 ---
-
-TDR Strategy 2024-2029 
 16
+
 3.2 Research support
-We will continue to support and facilitate implementation research to improve 
-access to quality interventions that reduce the burden of infectious diseases on the 
-most vulnerable. 
-This includes: 
-TDR will support and facilitate country-led implementation research to improve access to 
-quality services among vulnerable groups. We will close the gap between research and 
-health service practice. Our research will be led by the questions raised by stakeholders, 
-such as frontline workers and development partners, and employ a range of methods and 
-disciplines, depending on the challenge at hand. Our work will take into account context 
-and the interaction of people and environment (both biological and socio-economic) to 
+
+We will continue to support and facilitate implementation research to improve
+access to quality inter ventions that reduce the burden of infectious diseases on the
+most vulnerable.
+
+This includes:
+
+Research for Research for Research for
+deliver y and access innovative solutions decision-making
+
+TDR will support and facilitate country-led implementation research to improve access to
+quality services among vulnerable groups. We will close the gap between research and
+health service practice. Our research will be led by the questions raised by stakeholders,
+such as frontline workers and development partners, and employ a range of methods and
+disciplines, depending on the challenge at hand. Our work will take into account context
+and the interaction of people and environment (both biological and socio-economic) to
 build resilient systems for health.
- 
-Research for 
-delivery and access
-Research for 
-decision-making
-Research for 
-innovative solutions
-PHOTO
-Embedding systems strengthening in our support for research 
+
+Embedding systems strengthening in our support for research
+
 “TDR doesn’t just give grants and wait for reports to come back. It is never a one-
-time transaction. Over the last eight years, TDR has worked closely with our national 
-TB programme to not only produce research results but to empower us as well. We 
-now feel more in control and bolder in doing research with a stronger, sustainable 
-research system in place. We have also benefited enormously from being part of a 
-regional network that allows us to share and exchange experiences with  
+time transaction. Over the last eight years, TDR has worked closely with our national
+TB programme to not only produce research results but to empower us as well. We
+PHOTO now feel more in control and bolder in doing research with a stronger, sustainable
+research system in place. We have also benefited enormously from being part of a
+regional network that allows us to share and exchange experiences with
 colleagues in other countries.”
-- Professor Dissou Affolabi, National TB Programme manager, Benin;  
-Executive Secretary of the West and Central African Regional Networks  
+
+- Professor Dissou Affolabi, National TB Programme manager, Benin;
+Executive Secretary of the West and Central African Regional Networks
 for TB Control (WARN/CARN-TB)
 
 
-
 --- Page 29 ---
+16 3. Making an impact 17
 
-16 173. Making an impact
-The TDR checklist 
-to identify research 
-priorities
-These criteria allow TDR’s portfolio 
-to be responsive to specific country 
-demands and give back the evidence, 
-knowledge and tools – especially 
-to researchers, practitioners and to 
-communities that most need them, 
-thus democratizing research.
-Potential initiatives should address 
-the following criteria:
-  Local priority leading 
-to effective solutions: 
-the research question is 
-identified as important to 
-local stakeholders and the 
-expected results can be 
-translated into feasible and 
-cost-effective solutions.
-  Strengthens research 
-capacity: the research 
-contributes to the 
-development of skills and 
-capacities of individuals 
-and institutions in low- and 
-middle-income countries 
-to design and undertake 
-research.
-  
-Addresses a global health 
-challenge: the work 
-addresses epidemics and 
-outbreaks, control and 
-elimination of diseases of 
-poverty, climate change or 
-resistance to treatment or 
-control agents.
-  Applies a multisectoral 
-or One Health lens: the 
-research brings together 
-relevant disciplines and 
-sectors in novel and holistic 
-approaches.
-•   Promotes equity and ethics: 
-the research enhances 
-social, economic and gender 
-equity, reaching the most 
-disadvantaged people, 
-including hard-to-reach, 
-mobile, marginalized and 
-stigmatized groups.
-•   Open science: data are 
-shared and research outputs 
-are made accessible for policy 
-and practice improvements 
-in ways that are fair to those 
-who conducted the work and 
-the communities where the 
-research took place.
-•   Value for money: 
-the initiative balances 
-economy, efficiency and 
-effectiveness to maximize 
-impact and builds on 
+The TDR checklist Potential initiatives should address Applies a multisectoral
+to identif y research the following criteria: or One Health lens: the
+priorities research brings together
+Local priority leading relevant disciplines and
+to effective solutions: sectors in novel and holistic
+the research question is approaches.
+These criteria allow TDR’s portfolio identified as important to
+to be responsive to specific country local stakeholders and the • Promotes equity and ethics:
+demands and give back the evidence, expected results can be the research enhances
+knowledge and tools – especially translated into feasible and social, economic and gender
+to researchers, practitioners and to cost-effective solutions. equity, reaching the most
+communities that most need them, disadvantaged people,
+thus democratizing research. Strengthens research including hard-to-reach,
+capacity: the research mobile, marginalized and
+contributes to the stigmatized groups.
+development of skills and
+capacities of individuals • Open science: data are
+and institutions in low- and shared and research outputs
+middle-income countries are made accessible for policy
+to design and undertake and practice improvements
+research. in ways that are fair to those
+who conducted the work and
+Addresses a global health the communities where the
+challenge: the work research took place.
+addresses epidemics and
+outbreaks, control and • Value for money:
+elimination of diseases of the initiative balances
+poverty, climate change or economy, efficiency and
+resistance to treatment or effectiveness to maximize
+control agents. impact and builds on
 equitable partnerships.
 
 
 --- Page 30 ---
-
-TDR Strategy 2024-2029 
 18
-Research for delivery and access
-Inform health system practices for effective delivery and equitable access
-TDR will support research to understand how new tools, strategies and interventions can 
-deliver improved policy and practice and service delivery in ‘real world’ settings, with a 
+
+Research for deliver y and access
+
+Inform health system practices for effective deliver y and equitable access
+
+TDR will support research to understand how new tools, strategies and interventions can
+deliver improved policy and practice and service delivery in ‘real world’ settings, with a
 focus on scale-up and equity.
-Supporting the development of gender-responsive 
-health interventions
-TDR is supporting researchers to generate new knowledge 
-on the intersection of sex and gender with other axes of 
-inequality that affect equitable access to health services 
-and health outcomes. 
-Investigators in low- and middle-income countries have 
-played a critical role in piloting and applying new research 
-tools on intersectional gender analysis that are designed 
-to support implementers, health programme managers 
-and decision-makers.
-Further information can be found in our Intersectional 
-gender research strategy.
-INCORPORATING
+
+Supporting the development of gender-responsive
+health inter ventions
+
+TDR is supporting researchers to generate new knowledge
+INCORPORATING on the intersection of sex and gender with other axes of
 INTERSECTIONAL GENDER
-ANALYSIS INTO RESEARCH
-ON INFECTIOUS DISEASES 
-OF POVERTY: 
+ANALYSIS INTO RESEARCH inequality that affect equitable access to health services
+ON INFECTIOUS DISEASES
+OF POVERTY: and health outcomes.
 A toolkit for health researchers
+
+Investigators in low- and middle-income countries have
+played a critical role in piloting and applying new research
+tools on intersectional gender analysis that are designed
+to support implementers, health programme managers
+and decision-makers.
+
+Further information can be found in our Intersectional
+gender research strategy.
 
 
 --- Page 31 ---
+18 3. Making an impact 19
 
-18 193. Making an impact
 Research for innovative solutions
-Filling the gaps in tools, strategies and interventions
-TDR will support implementation research that identifies gaps in existing tools, strategies 
-or interventions and facilitates the development or adaptation of innovative solutions. 
-Research will address gaps in treatment, control, elimination and safety monitoring, as 
-well as in surveillance systems and outbreak response. We aim to ensure that low- and 
-middle-income countries benefit from innovative technologies such as the digital tools 
-available in high-income countries.
-The School Guppy Project: A multisectoral socially 
-innovative approach to dengue control in Cambodia 
-In Cambodia, mosquitoes which can carry dengue virus breed in fresh 
-water collected in containers such as large clay jars used for domestic 
-water storage. TDR supported a study that examined interventions 
-including putting mosquito larvae-eating guppy fish in household 
-water containers, trapping adult mosquitoes, removing mosquito 
-breeding sites near homes and providing community education about 
-dengue, particularly to school children. Stakeholders that participated 
-in the project included the National Malaria and Dengue Control 
-Programme, the Ministry of Health and the Ministry of Education. The 
-School Guppy Project exemplifies TDR’s expertise in social science 
-research to enable multisectoral, community-based solutions to 
-improve health.   
 
+Filling the gaps in tools, strategies and inter ventions
+
+TDR will support implementation research that identifies gaps in existing tools, strategies
+or interventions and facilitates the development or adaptation of innovative solutions.
+Research will address gaps in treatment, control, elimination and safety monitoring, as
+well as in surveillance systems and outbreak response. We aim to ensure that low- and
+middle-income countries benefit from innovative technologies such as the digital tools
+available in high-income countries.
+
+The School Guppy Project: A multisectoral socially
+innovative approach to dengue control in Cambodia
+
+In Cambodia, mosquitoes which can carry dengue virus breed in fresh
+water collected in containers such as large clay jars used for domestic
+water storage. TDR supported a study that examined interventions
+including putting mosquito larvae-eating guppy fish in household
+water containers, trapping adult mosquitoes, removing mosquito
+breeding sites near homes and providing community education about
+dengue, particularly to school children. Stakeholders that participated
+in the project included the National Malaria and Dengue Control
+Programme, the Ministry of Health and the Ministry of Education. The
+School Guppy Project exemplifies TDR’s expertise in social science
+research to enable multisectoral, community-based solutions to
+improve health.
 
 
 --- Page 32 ---
-
-TDR Strategy 2024-2029 
 20
-Research for decision-making
-Providing data for evidence-based decisions on guidelines and policies
-TDR will support research that facilitates the formulation of new guidelines and policies. 
-We will find pathways for the accelerated translation of research into policies and 
-guidance for practice. TDR-supported research will include:
-• Addressing last-mile challenges of disease elimination where integration into primary 
-health services is particularly important to sustain gains;
-• Developing systems for the prevention, early detection and containment of 
-antimicrobial resistance; 
-• Conducting situation analyses and systematic reviews; and 
-• Maximizing the utilization of data for public health decision-making, including 
-strengthening researchers’ capacity to communicate their findings.
-Evidence for guidelines and country policies to 
-eliminate onchocerciasis
-In 2018, U.S. regulators approved moxidectin as the first 
-new treatment for onchocerciasis in 20 years. This was 
-the result of two decades of collaboration between 
-TDR, researchers in onchocerciasis endemic and other 
-countries, WHO country offices and the not-for-profit 
-biopharmaceutical company Medicines Development for 
-Global Health. 
-We are currently supporting the generation of data 
-to inform WHO guidelines and country policies on 
-implementation of moxidectin. 
 
+Research for decision-making
+
+Providing data for evidence-based decisions on guidelines and policies
+
+TDR will support research that facilitates the formulation of new guidelines and policies.
+We will find pathways for the accelerated translation of research into policies and
+guidance for practice. TDR-supported research will include:
+
+• Addressing last-mile challenges of disease elimination where integration into primary
+health services is particularly important to sustain gains;
+
+• Developing systems for the prevention, early detection and containment of
+antimicrobial resistance;
+
+• Conducting situation analyses and systematic reviews; and
+
+• Maximizing the utilization of data for public health decision-making, including
+strengthening researchers’ capacity to communicate their findings.
+
+Evidence for guidelines and countr y policies to
+eliminate onchocerciasis
+
+In 2018, U.S. regulators approved moxidectin as the first
+new treatment for onchocerciasis in 20 years. This was
+the result oftwo decades of collaborationbetween
+TDR, researchers in onchocerciasis endemic and other
+countries, WHO country offices and the not-for-profit
+biopharmaceutical companyMedicines Development for
+Global Health.
+
+We are currently supporting the generation of data
+to inform WHO guidelines and country policies on
+implementation of moxidectin.
 
 
 --- Page 33 ---
+20 3. Making an impact 21
 
-20 213. Making an impact
-3.3 Research training for capacity 
+3.3 Research training for capacit y
 strengthening
-A growing demand for implementation research training inspired TDR to develop a range 
-of training options in collaboration with research partners in low- and middle-income 
-countries. We aim to strengthen the capacity of people, institutions and societies to 
-produce research evidence that is useful for reducing the burden of infectious diseases of 
-poverty. Partner universities and training institutions in low- and middle-income countries 
+
+A growing demand for implementation research training inspired TDR to develop a range
+of training options in collaboration with research partners in low- and middle-income
+countries. We aim to strengthen the capacity of people, institutions and societies to
+produce research evidence that is useful for reducing the burden of infectious diseases of
+poverty. Partner universities and training institutions in low- and middle-income countries
 are critical to jointly achieving this goal.
-An innovative training model 
-“TDR has revolutionized research capacity building by co-creating training models 
-with institutions in low- and middle-income countries and identifying the best 
-training partners through a competitive selection process. We are seeing a snowball 
-effect where we, as a training hub in South-East Asia, have enabled other institutions 
-in the region to access and offer TDR’s gold standard research training tools. We are 
-also learning from our counterparts in other regions of the world, where materials 
-are adapted to different contexts and audiences. Together with TDR, we are  
-building a global community of practice in implementation research, which  
+
+An innovative training model
+
+“TDR has revolutionized research capacity building by co-creating training models
+with institutions in low- and middle-income countries and identifying the best
+training partners through a competitive selection process. We are seeing a snowball
+effect where we, as a training hub in South-East Asia, have enabled other institutions
+in the region to access and offer TDR’s gold standard research training tools. We are
+also learning from our counterparts in other regions of the world, where materials
+are adapted to different contexts and audiences. Together with TDR, we are
+building a global community of practice in implementation research, which
 inspires me every day.”
-- Dr Yodi Mahendradhata, Dean of the Faculty of Medicine, Public Health and  
+
+- Dr Yodi Mahendradhata, Dean of the Faculty of Medicine, Public Health and
 Nursing, Universitas Gadjah Mada, Indonesia
-From short training courses implemented by Regional Training Centres, to fully accredited 
-programmes in the TDR Postgraduate Training Scheme, developed in partnership with 
-eight universities, this training goes beyond academic researchers and includes those 
-working in the community and in implementation programmes, as well as decision- and 
-policy-makers.  
+
+From short training courses implemented by Regional Training Centres, to fully accredited
+programmes in the TDR Postgraduate Training Scheme, developed in partnership with
+eight universities, this training goes beyond academic researchers and includes those
+working in the community and in implementation programmes, as well as decision- and
+policy-makers.
 
 
 --- Page 34 ---
-
-TDR Strategy 2024-2029 
 22
+
 Our approaches to training
-We aim to strengthen research capacity and to create health research leaders in low- and 
+
+We aim to strengthen research capacity and to create health research leaders in low- and
 middle-income countries using the following training approaches:
 
 
 --- Page 35 ---
+22 3. Making an impact 23
 
-22 233. Making an impact
-• Flagship implementation research training courses - Over the years, TDR, in 
-collaboration with partners, has developed a suite of flagship training courses relevant 
-to implementation research, aimed at improving access to, and delivery of, public 
-health strategies and interventions. The objective and target audience for each course 
-are detailed below. These courses are co-developed, managed and disseminated by 
-Regional Training Centres that have been identified as leading research and training 
-organizations through a competitive selection process. Many have been produced in 
+• Flagship implementation research training courses - Over the years, TDR, in
+collaboration with partners, has developed a suite of flagship training courses relevant
+to implementation research, aimed at improving access to, and delivery of, public
+health strategies and interventions. The objective and target audience for each course
+are detailed below. These courses are co-developed, managed and disseminated by
+Regional Training Centres that have been identified as leading research and training
+organizations through a competitive selection process. Many have been produced in
 multiple languages, benefitting thousands of scientists across the world.
-IR Toolkit
-To develop a strong IR 
-project proposal and a 
-plan for implementing 
-the project
-Objective
-• Researchers
-• Implementers
-• Public officials
-Audience
-Massive Open Online 
-Course (MOOC) on IR
-To provide introduction  
-to all concepts and  
-principles in IR
-Objective
-• Researchers
-• Implementers
-• Public officials
-Audience
-To provide training on 
-the important ethical 
-considerations in IR
-Objective
-• Researchers
-• Research ethics 
-committees
-Audience
-Ethics in IR
 
+Massive Open Online Ethics in IR IR Toolkit
+Course (MOOC) on IR
+
+Objective Objective Objective
+To provide introduction To provide training on To develop a strong IR
+to all concepts and the important ethical project proposal and a
+principles in IR considerations in IR plan for implementing
+the project
+Audience Audience
+• Researchers • Researchers Audience
+• Implementers • Research ethics • Researchers
+• Public officials committees • Implementers
+• Public officials
 
 
 --- Page 36 ---
-
-TDR Strategy 2024-2029 
 24
-• The Postgraduate Training Scheme – This scheme provides a full academic scholarship 
-for master’s degree training focused on implementation research, in collaboration with 
-competitively selected universities located in low- and middle- income countries. The 
-scheme has built cadres of skilled professionals in infectious diseases of poverty across 
-Africa, Asia and Latin America who have become influential figures in research and 
+
+• The Postgraduate Training Scheme – This scheme provides a full academic scholarship
+for master’s degree training focused on implementation research, in collaboration with
+competitively selected universities located in low- and middle- income countries. The
+scheme has built cadres of skilled professionals in infectious diseases of poverty across
+Africa, Asia and Latin America who have become influential figures in research and
 public health.
 428
-MASTER’S 
-STUDENTS 
-TRAINED
-TOTAL WORLDWIDE 
+10 MASTER’S
+6 STUDENTS
+1 2 7 TR AINED
+3 8 9
+
+4
+
+5 TOTAL WORLDWIDE
 SINCE 2015
-COLOMBIA:  
-The National School 
-of Public Health, 
-University of 
+1 452 4634 5
+49 34 46
+students students students students students
+from Latin from West from Africa from Africa from Africa
+America Africa
+
+COLOMBIA: SENEGAL: GHANA:School ZAMBIA: SOUTH AFRIC A:
+The National School Cheikh Anta Diop of Public Health, Department of Public University of the
+of Public Health, University, Dakar University of Health, University of Witwatersrand,
+University of Ghana, Accra Zambia, Lusaka Johannesburg
 Antioquia, Medellín
-SENEGAL: 
-Cheikh Anta Diop 
-University, Dakar
-2
-46
-students 
-from West 
-Africa
-GHANA: School 
-of Public Health, 
-University of 
-Ghana, Accra
-49
-students  
-from Africa
-3
-ZAMBIA: 
-Department of Public 
-Health, University of 
-Zambia, Lusaka
-34
-students 
-from Africa
-4
-SOUTH AFRICA: 
-University of the 
-Witwatersrand, 
-Johannesburg
-46
-students 
-from Africa
-5
-LEBANON: 
-Faculty of Health 
-Sciences, American 
-University of Beirut
-33
-students from 
-Eastern  
-Mediterranean
-6
-BANGLADESH:  
-James P. Grant School 
-of Public Health, BRAC 
-University, Dhaka
-75
-students 
-from Asia
-7
-INDIA:  
-Indian Institute of 
-Health Management 
-Research, Jaipur
-14
-students 
-from Asia
-8
-INDONESIA: 
-Faculty of Medicine, 
-University Gadjah 
-Mada, Yogyakarta
-MALI: 
-University of Sciences, 
-Techniques and 
-Technologies Bamako
-86
-students  
-from Asia
-9
-19
-students  
-from West 
-Africa
-10
-1
-45
-students  
-from Latin 
-America
-1 2
-3
-5
-6
-78 9
-4
-10
+6 7 8 9 10
+33 75 14 86 19
+students from students students students students
+Eastern from Asia from Asia from Asia from West
+Mediterranean Africa
+
+LEBANON: BANGL ADESH: INDIA: INDONESIA: MALI:
+Faculty of Health James P. Grant School Indian Institute of Faculty of Medicine, University of Sciences,
+Sciences, American of Public Health, BR AC Health Management University Gadjah Techniques and
+University of Beirut University, Dhaka Research, Jaipur Mada, Yogyakarta Technologies Bamako
 
 
 --- Page 37 ---
+24 3. Making an impact 25
 
-24 253. Making an impact
-• Clinical Research Leadership programme - Complementing our training programmes 
-focused on implementation research, TDR’s Clinical Research Leadership programme 
+• Clinical Research Leadership programme - Complementing our training programmes
+focused on implementation research, TDR’s Clinical Research Leadership programme
 aims to develop internationally recognized clinical research leaders in low- and middle-
-income countries. The programme builds on the success of the Clinical Research and 
-Development Fellowship programme, which ran between 1998 and 2021, developing 
+income countries. The programme builds on the success of the Clinical Research and
+Development Fellowship programme, which ran between 1998 and 2021, developing
 some outstanding leaders in their field.
-The Clinical Research Leadership programme:  
-Developing leadership in clinical research in low- and 
+
+The Clinical Research Leadership programme:
+Developing leadership in clinical research in low- and
 middle-income countries
+
 LYDA OSORIO
-•  Former TDR fellow who advised the state government 
-of Valle del Cauca in Colombia on COVID-19 response 
+
+• Former TDR fellow who advised the state government
+of Valle del Cauca in Colombia on COVID-19 response
 strategies and public outreach
-•  Described by Colombia’s El País newspaper as “one of the 
-people who knows the most about the behavior of the 
+
+• Described by Colombia’s El País newspaper as “one of the
+people who knows the most about the behavior of the
 coronavirus in Cali”
-1
-23+
-Selection through open and transparent selection process
-Flexible placement of 60 fellows
-Placement of fellows at Training Partner Organizations
-6- to 12-month assignment at a pharmaceutical company, 
-product development partnership or research institution
+
+Fellowship Selection through open and transparent selection process
+programme’s Flexible placement of 60 fellows
+3-year cycle
+1 Placement of fellows at Training Partner Organizations
+6- to 12-month assignment at a pharmaceutical company,
+Year product development partnership or research institution
+3+ 2
 Post-fellowship capacity building activities
 Reintegration plan + research project at home institution
 Networking activities (alumni meetings and community website for alumni)
-Year
-Fellowship 
-programme’s 
-3-year cycle
 
 
 --- Page 38 ---
-
-TDR Strategy 2024-2029 
 26
-• The Structured Operational Research and Training Initiative (SORT IT) – SORT 
-IT is a global partnership coordinated by TDR and implemented in low- and middle-
-income countries. SORT IT supports countries and institutions to conduct operational 
-research on national priorities, build sustainable operational research capacity and 
-make evidence-informed decisions for improving programme performance. It targets 
-implementers using their own routinely collected data to solve problems they face and 
-improve the programmes they manage.
-Strengthening research communication skills to tackle 
-antimicrobial resistance in Sierra Leone
-Recently, TDR and SORT IT partners developed a 
-new training module on research communication to 
-bridge the gap between researchers and decision-makers. 
-Amara Leno applied this training to communicate findings 
-from his study on antimicrobial use in livestock in Sierra 
-Leone. The study documented incomplete reporting 
-and insufficient resources to collect surveillance data. 
-After being presented with these findings, the Ministry 
-of Livestock and the Food and Agriculture Organization 
-mandated country-wide weekly reporting, conducted 
-trainings on data collection and provided computer tablets 
-and motorbikes to livestock officers. A year later a second 
-study assessed the impact of these actions and found the 
-percentage of districts reporting data increased from 3% to 
-100%, and report completeness from 1% to 88%.  
 
+• The Structured Operational Research and Training Initiative (SORT IT ) – SORT
+IT is a global partnership coordinated by TDR and implemented in low- and middle-
+income countries. SORT IT supports countries and institutions to conduct operational
+research on national priorities, build sustainable operational research capacity and
+make evidence-informed decisions for improving programme performance. It targets
+implementers using their own routinely collected data to solve problems they face and
+improve the programmes they manage.
+
+Strengthening research communication skills to tackle
+antimicrobial resistance inSierra Leone
+
+Recently, TDR and SORT IT partners developed a
+newtraining module on research communicationto
+bridge the gap between researchers and decision-makers.
+Amara Leno applied this training to communicate findings
+fromhis study on antimicrobial use in livestock in Sierra
+Leone. The study documented incomplete reporting
+and insufficientresources to collect surveillance data.
+After being presented with these findings, the Ministry
+of Livestock and the Food and Agriculture Organization
+mandated country-wide weekly reporting, conducted
+trainings on data collection and provided computer tablets
+and motorbikes to livestock officers.A year later a second
+study assessed the impact of these actions and found the
+percentage of districts reporting data increased from 3% to
+100%, and report completeness from 1% to 88%.
 
 
 --- Page 39 ---
+26 3. Making an impact 27
 
-26 273. Making an impact
-• Strengthening capacity in communities outside academia - We will work at the 
-forefront of democratizing research and building local capacity for communities 
-and social innovators so that they engage and directly contribute to open science, 
-while maximizing the impact of grassroots innovations. We will do this through 
-innovative hubs that bring together communities and their innovators with academia, 
-governments, funders and entrepreneurs. Research skills will help the innovators 
+• Strengthening capacity in communities outside academia - We will work at the
+forefront of democratizing research and building local capacity for communities
+and social innovators so that they engage and directly contribute to open science,
+while maximizing the impact of grassroots innovations. We will do this through
+innovative hubs that bring together communities and their innovators with academia,
+governments, funders and entrepreneurs. Research skills will help the innovators
 evaluate and scale up their programmes to reach their full potential.
-Implementation research on social innovation improves 
-access to health services in rural Malawi
-CHALLENGE: 
-In remote and rural communities, distance often 
-prevents people from seeking health care when they 
-need it.
-SOLUTION: 
-Health Centre by Phone - a toll-free hotline where 
-callers can speak with trained health workers. 
-EVIDENCE TO POLICY IMPACT:  
-Evidence from research on Health Centre by Phone 
-prompted Malawi’s Ministry of Health to finance and 
-integrate the innovation in the health system. 
 
+Implementation research on social innovation improves
+access to health ser vices in rural Malawi
+
+CHALLENGE:
+In remote and rural communities, distance often
+prevents people from seeking health care when they
+need it.
+
+SOLUTION:
+Health Centre by Phone - a toll-free hotline where
+callers can speak with trained health workers.
+
+EVIDENCE TO POLICY IMPACT:
+Evidence from research on Health Centre by Phone
+prompted Malawi’s Ministry of Health to finance and
+integrate the innovation in the health system.
 
 
 --- Page 40 ---
-
-TDR Strategy 2024-2029 
 28
-• Fostering mentorship and collaborative science - We will take advantage of the 
-wealth of expertise in our global community of trainees, grantees and experts to 
-bridge the generational gap and ensure that young scientists can build on the wealth of 
-knowledge and wisdom of their experienced colleagues. Using the TDR Global platform, 
-we will promote and support career development that nurtures research impact, by 
-leveraging recognized expertise in our networks to strengthen individual scientists 
-and institutional capacity, while also addressing important aspects of equity in health 
+
+• Fostering mentorship and collaborative science - We will take advantage of the
+wealth of expertise in our global community of trainees, grantees and experts to
+bridge the generational gap and ensure that young scientists can build on the wealth of
+knowledge and wisdom of their experienced colleagues. Using the TDR Global platform,
+we will promote and support career development that nurtures research impact, by
+leveraging recognized expertise in our networks to strengthen individual scientists
+and institutional capacity, while also addressing important aspects of equity in health
 and education.
-Our inclusive, gender-responsive approach to 
+
+Our inclusive, gender-responsive approach to
 capacity strengthening
-TDR is committed to equality, diversity and inclusivity in science as essential approaches 
-to achieving universal health coverage. We encourage researchers to participate in 
-our training programmes, irrespective of gender identity, sexual orientation, ethnicity, 
-religious, cultural and social backgrounds, or (dis)ability status. For our Clinical Research 
-Leadership programme, a flexible placement can be arranged for candidates with young 
-families, including a mix of remote and on-site training at the home institution with 
-intensive and well-structured mentoring. In addition, to support women with professional 
-and personal challenges linked to this fellowship and how to overcome them, TDR has 
-made previous women fellows available as mentors. Following efforts to encourage 
-more applications from women, in the 2020–2021 application round, 55% of the selected 
+
+TDR is committed to equality, diversity and inclusivity in science as essential approaches
+to achieving universal health coverage. We encourage researchers to participate in
+our training programmes, irrespective of gender identity, sexual orientation, ethnicity,
+religious, cultural and social backgrounds, or (dis)ability status. For our Clinical Research
+Leadership programme, a flexible placement can be arranged for candidates with young
+families, including a mix of remote and on-site training at the home institution with
+intensive and well-structured mentoring. In addition, to support women with professional
+and personal challenges linked to this fellowship and how to overcome them, TDR has
+made previous women fellows available as mentors. Following efforts to encourage
+more applications from women, in the 2020–2021 application round, 55% of the selected
 fellows were women.
 
 
 --- Page 41 ---
+28 3. Making an impact 29
 
-28 293. Making an impact
-Strengthening the capacity of 
-implementation research training 
+Strengthening the capacity of
+implementation research training
 institutions
-In addition to strengthening research capacity of individual researchers, TDR is committed 
-to building the capacity of research institutions in low- and middle-income countries 
-that disseminate implementation research training materials to health professionals and 
+
+In addition to strengthening research capacity of individual researchers, TDR is committed
+to building the capacity of research institutions in low- and middle-income countries
+that disseminate implementation research training materials to health professionals and
 researchers. TDR will continue to strengthen the capacity of training institutions by:
+
 • Supporting the Postgraduate Training Scheme and Regional Training Centres
+
 • Developing regional networks of training institutions
-• Strengthening links between learners and local institutions through information sharing 
-on trainings on implementation research or other health policy and systems research 
+
+• Strengthening links between learners and local institutions through information sharing
+on trainings on implementation research or other health policy and systems research
 (through the TDR Global platform and activities)
-Over time, TDR has moved most of its training to institutions in low- and middle-income 
-countries. This not only sets the training in an appropriate context, it allows the institutions 
-to build strength and sustainability beyond the TDR-sponsored students. This has resulted 
-in the adaptation and adoption of TDR’s training materials by other courses running in 
+
+Over time, TDR has moved most of its training to institutions in low- and middle-income
+countries. This not only sets the training in an appropriate context, it allows the institutions
+to build strength and sustainability beyond the TDR-sponsored students. This has resulted
+in the adaptation and adoption of TDR’s training materials by other courses running in
 the institutions.
-Addressing health inequities and incorporating an 
-intersectional gender perspective in research 
-TDR has made efforts to improve researchers’ capacity to incorporate an intersectional 
-gender perspective in their work by developing a MOOC and a module of the TDR IR 
-toolkit on gender and intersectionality. TDR will work to harness the power of IR to 
-identify and address factors driving inequity by developing innovative and tailored 
-didactic training. 
+
+Addressing health inequities and incorporating an
+intersectional gender perspective in research
+
+TDR has made efforts to improve researchers’ capacity to incorporate an intersectional
+gender perspective in their work by developing a MOOC and a module of the TDR IR
+toolkit on gender and intersectionality. TDR will work to harness the power of IR to
+identify and address factors driving inequity by developing innovative and tailored
+didactic training.
 
 
 --- Page 42 ---
-
-TDR Strategy 2024-2029 
 30
+
 3.4 Global engagement
-TDR is committed to meaningful engagement and collaboration with the wider global 
-health effort. This is important in order to promote and facilitate the role of research for 
-development and to advocate for the use of high-quality evidence to inform policy. TDR is 
-embedded in the United Nations family at the interface between research and health care 
-delivery, with a reach from the communities we work with through to the World Health 
-Assembly, the WHO regional offices and other TDR co-sponsors’ regional and country 
-structures. We will leverage this unique position to engage in the broader debate across 
-the process of health research, from priority setting through to evidence for policy-making 
+
+TDR is committed to meaningful engagement and collaboration with the wider global
+health effort. This is important in order to promote and facilitate the role of research for
+development and to advocate for the use of high-quality evidence to inform policy. TDR is
+embedded in the United Nations family at the interface between research and health care
+delivery, with a reach from the communities we work with through to the World Health
+Assembly, the WHO regional offices and other TDR co-sponsors’ regional and country
+structures. We will leverage this unique position to engage in the broader debate across
+the process of health research, from priority setting through to evidence for policy-making
 at local, regional, national and global levels.
-Shaping research priorities 
+
+Shaping research priorities
 and systems
-We will help develop research priorities that benefit underserved and vulnerable 
+
+We will help develop research priorities that benefit underserved and vulnerable
 populations, within the framework of the Sustainable Development Goals, by:
-• Maintaining a governance system that brings together the disease-affected countries 
-and the research funders for joint decision-making and complementarity in programme 
+
+• Maintaining a governance system that brings together the disease-affected countries
+and the research funders for joint decision-making and complementarity in programme
 development.
-• Engaging with relevant stakeholders, including WHO disease control programmes and 
-other implementers, to identify demand-driven research priorities and develop research 
+
+• Engaging with relevant stakeholders, including WHO disease control programmes and
+other implementers, to identify demand-driven research priorities and develop research
 strategies through specific impact grants.
-• Developing multisectoral and multidisciplinary research approaches, including research 
+
+• Developing multisectoral and multidisciplinary research approaches, including research
 on social and other innovations in response to regional and local priorities.
 
 
 --- Page 43 ---
+30 3. Making an impact 31
 
-30 313. Making an impact
-• Strengthening the research system by developing in-country tools to support the 
-financing of research and by working with all stakeholders to develop and promote 
-best practices in research management, standard methodologies and approaches to 
+• Strengthening the research system by developing in-country tools to support the
+financing of research and by working with all stakeholders to develop and promote
+best practices in research management, standard methodologies and approaches to
 monitoring and evaluation of impact.
-• Facilitating equitable open innovation through, for example, platforms to share and 
-analyse research data in line with the FAIR principles and research tools and open 
+
+• Facilitating equitable open innovation through, for example, platforms to share and
+analyse research data in line with the FAIR principles and research tools and open
 access to research literature.
-• Promoting research ethics and research integrity and strengthening local capacity for 
+
+• Promoting research ethics and research integrity and strengthening local capacity for
 community participation in ethics oversight.
-• Promoting equitable research partnerships that empower research institutions in low- 
+
+• Promoting equitable research partnerships that empower research institutions in low-
 and middle-income countries.
-TDR promotes open science 
-•      Active member of the coalition for open access 
+
+TDR promotes open science
+
+• Active member of the coalition for open access
 – cOAlition S
-•     Supports researchers on FAIR data sharing 
-•      Produced a new WHO policy and guidance 
+
+• Supports researchers on FAIR data sharing
+
+• Produced a new WHO policy and guidance
 document for sharing research data
-•      Chairs Data Access Committees on malaria, Ebola, 
+
+• Chairs Data Access Committees on malaria, Ebola,
 COVID-19
-•     Part of the COVID-19 Clinical Research Coalition
+
+• Part of the COVID-19 Clinical Research Coalition
 
 
 --- Page 44 ---
-
-TDR Strategy 2024-2029 
 32
+
 Research uptake and use
+
 Enabling the new evidence that is generated from research projects to reach the decision-
-makers and the populations they serve so that changes in behaviour and policies are 
-informed by the best available evidence. This includes integrating research within health 
-systems by engaging key stakeholders including decision-makers early in the research 
+makers and the populations they serve so that changes in behaviour and policies are
+informed by the best available evidence. This includes integrating research within health
+systems by engaging key stakeholders including decision-makers early in the research
 process and effective communication of research findings.
-We will continue to facilitate the use of evidence to inform policy at local, national, 
+
+We will continue to facilitate the use of evidence to inform policy at local, national,
 regional and global levels, including:
-• Providing evidence synthesis for policy review through policy briefs, briefing notes, 
+
+• Providing evidence synthesis for policy review through policy briefs, briefing notes,
 evidence summaries and expert reviews.
-• Increasing interest and capacity among policy-makers and stakeholders to use evidence 
+
+• Increasing interest and capacity among policy-makers and stakeholders to use evidence
 to develop policy solutions and trigger action.
-• Strengthening systematic processes of collating, organizing, synthesizing and 
-disseminating research evidence, particularly local evidence and knowledge, and the 
+
+• Strengthening systematic processes of collating, organizing, synthesizing and
+disseminating research evidence, particularly local evidence and knowledge, and the
 measurement of impact.
-• Integrating evidence and good practices of funders, providers, implementers and other 
+
+• Integrating evidence and good practices of funders, providers, implementers and other
 actors in global health via innovative advocacy and communications.
 
 
-
 --- Page 45 ---
+32 3. Making an impact 33
 
-32 333. Making an impact
-Addressing gender and other social 
+Addressing gender and other social
 determinants of health
-Social determinants of health such as gender influence a person’s risks from exposure 
-and vulnerability to disease. These influence a person’s susceptibility to different health 
-conditions, their access to, and uptake of, health services and the health outcomes they 
-experience. We will strengthen gender-responsive efforts in research on infectious 
-diseases by:
-• Building research capacities on intersectional gender analysis in research on 
-infectious diseases.
-• Supporting research that explores how gender dimensions intersect with other social 
-determinants of health to improve health interventions’ impact and equity.
-• Supporting research on grassroots-level social innovations that can be scaled up by 
-communities to improve health systems and access to health care, especially for the 
-most vulnerable.
-• Mainstreaming community engagement and equitable partnerships in research and 
-capacity strengthening.
-• Facilitating collaboration and engagement with local scientists through TDR networks 
-and partners globally.
-TDR Global: A network of passionate alumni 
-“My 42-year affiliation with TDR has made many things possible in improving the lives 
-of women and girls in rural parts of sub-Saharan Africa suffering from river blindness. 
-TDR has provided funding, guidance, networking opportunities and training on social 
-sciences and anthropology that have been instrumental throughout my career.”
-- Dr Uche Amazigo, CEO, Pan-African Community Initiative on Education  and Health
 
+Social determinants of health such as gender influence a person’s risks from exposure
+and vulnerability to disease. These influence a person’s susceptibility to different health
+conditions, their access to, and uptake of, health services and the health outcomes they
+experience. We will strengthen gender-responsive efforts in research on infectious
+diseases by:
+
+• Building research capacities on intersectional gender analysis in research on
+infectious diseases.
+
+• Supporting research that explores how gender dimensions intersect with other social
+determinants of health to improve health interventions’ impact and equity.
+
+• Supporting research on grassroots-level social innovations that can be scaled up by
+communities to improve health systems and access to health care, especially for the
+most vulnerable.
+
+• Mainstreaming community engagement and equitable partnerships in research and
+capacity strengthening.
+
+• Facilitating collaboration and engagement with local scientists through TDR networks
+and partners globally.
+
+TDR Global: A network of passionate alumni
+
+“My 42-year affiliation with TDR has made many things possible in improving the lives
+of women and girls in rural parts of sub-Saharan Africa suffering from river blindness.
+TDR has provided funding, guidance, networking opportunities and training on social
+sciences and anthropology that have been instrumental throughout my career.”
+
+- Dr Uche Amazigo, CEO, Pan-African Community Initiative on Education and Health
 
 
 --- Page 46 ---
-
-TDR Strategy 2024-2029 
 34
-4. Partnerships  
+4. Partnerships
 and governance
-TDR’s work is made possible by strong and inclusive governance. The Joint Coordinating 
+
+TDR’s work is made possible by strong and inclusive governance. The Joint Coordinating
 Board oversees TDR’s work and is made up of governments and institutions of disease-
-affected countries, UN co-sponsors, development partners and other global stakeholders. 
-This is complemented by the managerial and financial oversight of the Standing 
-Committee. Scientific oversight is provided by the Scientific and Technical Advisory 
-Committee. 
-The implementation of our new strategy relies heavily on how we partner with 
-stakeholders. Our core work is supported by programme funding from our long-term 
-contributors, and specific project funding is sought to build off this to expand the scope or 
+affected countries, UN co-sponsors, development partners and other global stakeholders.
+This is complemented by the managerial and financial oversight of the Standing
+Committee. Scientific oversight is provided by the Scientific and Technical Advisory
+Committee.
+
+The implementation of our new strategy relies heavily on how we partner with
+stakeholders. Our core work is supported by programme funding from our long-term
+contributors, and specific project funding is sought to build off this to expand the scope or
 deepen the impact. We will provide opportunities for a range of actors to work together.
-As a Special Programme based at WHO headquarters, we will continue to work closely 
-with many WHO departments, the six WHO regional offices and other research entities in 
-Geneva. This strong connection helps us to coordinate our work and connect directly with 
-WHO actions that improve health on the ground. 
-Relationships with our other co-sponsors at UNICEF, UNDP and the World Bank are also 
-critical to our success, particularly in optimising our contribution to the Sustainable 
-Development Goals. For example, we will continue to work with UNICEF on common 
-approaches to children affected by poverty-related diseases, such as malaria and 
-tuberculosis; with UNDP, we will work to increase access to new products by engaging 
+
+As a Special Programme based at WHO headquarters, we will continue to work closely
+with many WHO departments, the six WHO regional offices and other research entities in
+Geneva. This strong connection helps us to coordinate our work and connect directly with
+WHO actions that improve health on the ground.
+
+Relationships with our other co-sponsors at UNICEF, UNDP and the World Bank are also
+critical to our success, particularly in optimising our contribution to the Sustainable
+Development Goals. For example, we will continue to work with UNICEF on common
+approaches to children affected by poverty-related diseases, such as malaria and
+tuberculosis; with UNDP, we will work to increase access to new products by engaging
 
 
 --- Page 47 ---
+34 4. Partnerships and governance 35
 
-34 354. Partnerships and governance
-various stakeholders in countries and strengthening national capacities; and the World 
-Bank’s agenda of increased health system resilience provides an opportunity for us to work 
+various stakeholders in countries and strengthening national capacities; and the World
+Bank’s agenda of increased health system resilience provides an opportunity for us to work
 together on implementation issues specific to country needs.
-In this strategy, our work will be tackling more complex issues that require different 
-relationships with a variety of organizations. Areas such as One Health call for engagement 
-with organizations such as the World Organization for Animal Health, the Food and 
-Agriculture Organization and the UN Environment Programme. Health systems resilience 
-will be built through relationships with a range of research management associations, 
-as well as partnerships for Universal Health Coverage and primary healthcare and the 
-ESSENCE on Health Research initiative. 
-We will also continue to work hand in hand with product development partnerships such 
-as the Drugs for Neglected Diseases initiative, and global organizations like the Global 
-Fund to Fight AIDS, Tuberculosis and Malaria and GAVI, the Vaccine Alliance, to provide 
+
+In this strategy, our work will be tackling more complex issues that require different
+relationships with a variety of organizations. Areas such as One Health call for engagement
+with organizations such as the World Organization for Animal Health, the Food and
+Agriculture Organization and the UN Environment Programme. Health systems resilience
+will be built through relationships with a range of research management associations,
+as well as partnerships for Universal Health Coverage and primary healthcare and the
+ESSENCE on Health Research initiative.
+
+We will also continue to work hand in hand with product development partnerships such
+as the Drugs for Neglected Diseases initiative, and global organizations like the Global
+Fund to Fight AIDS, Tuberculosis and Malaria and GAVI, the Vaccine Alliance, to provide
 them with the evidence they need to implement the roll-out of new products and tools.
-We will work to increase our impact by putting out joint grant calls such as with the 
-European and Developing Countries Clinical Trials Partnership, the Coalition for Epidemic 
-Preparedness Innovations, GLOpidR, the Global Health Innovative Technology Fund and 
+
+We will work to increase our impact by putting out joint grant calls such as with the
+European and Developing Countries Clinical Trials Partnership, the Coalition for Epidemic
+Preparedness Innovations, GLOpidR, the Global Health Innovative Technology Fund and
 others.
-We will also work with regional bodies such as Africa Centers for Disease Control and 
-Prevention, the West African Health Organization, Eastern and Southern Africa Health 
-Community, Oswaldo Cruz Foundation of Brazil, African Academy of Sciences, regional 
-research and innovation management associations in Asia, Africa, Europe and the 
+
+We will also work with regional bodies such as Africa Centers for Disease Control and
+Prevention, the West African Health Organization, Eastern and Southern Africa Health
+Community, Oswaldo Cruz Foundation of Brazil, African Academy of Sciences, regional
+research and innovation management associations in Asia, Africa, Europe and the
 Americas, as well as the newly established Science for Africa Foundation.
 
 
-
 --- Page 48 ---
-
-TDR Strategy 2024-2029 
 36
-5. Managing  
+5. Managing
 for success
-Successful implementation of the Strategy will require sufficient resources. To secure 
-these, we will develop fundraising strategies to maintain financing throughout the life of 
+
+Successful implementation of the Strategy will require sufficient resources. To secure
+these, we will develop fundraising strategies to maintain financing throughout the life of
 the Strategy and its implementation.
-We will work to achieve the best possible impact for the communities with whom 
-we engage, while demonstrating focus and value for money to those who fund our 
-programmes. We pride ourselves that TDR’s lean organization is able to anticipate change 
-and design appropriate responses based on strong systems and careful management. 
-Solid business and management practices at all levels of our operations, in addition to 
-adherence to WHO rules and regulations and international standards, ensure we are on 
+
+We will work to achieve the best possible impact for the communities with whom
+we engage, while demonstrating focus and value for money to those who fund our
+programmes. We pride ourselves that TDR’s lean organization is able to anticipate change
+and design appropriate responses based on strong systems and careful management.
+Solid business and management practices at all levels of our operations, in addition to
+adherence to WHO rules and regulations and international standards, ensure we are on
 track, efficient and focused.
-We will drive and support TDR’s core activities of quality research, training and global 
+
+We will drive and support TDR’s core activities of quality research, training and global
 engagement, by acting to:
+
 • Promote quality and values-based leadership
+
 • Ensure efficiency and value for money
+
 • Seize opportunities and manage risks
+
 • Foster a culture of results and continuous improvement
 
 
 --- Page 49 ---
+36 5. Managing for success 37
 
-36 375. Managing for success
 • Value diversity and inclusiveness
+
 • Communicate and openly share knowledge
+
 • Nurture a motivating and conducive environment.
-This six-year Strategy will cover three biennial workplans. Each of them will have clear and 
-specific strategic goals, indicators, targets and deliverables, approved by our governance, 
-which includes representation from countries in which we work. Progress will be measured 
-against the agreed set of ambitious yet achievable indicators, overseen by our governance. 
+
+This six-year Strategy will cover three biennial workplans. Each of them will have clear and
+specific strategic goals, indicators, targets and deliverables, approved by our governance,
+which includes representation from countries in which we work. Progress will be measured
+against the agreed set of ambitious yet achievable indicators, overseen by our governance.
 We implement our projects in partnership with principal investigators in low- and middle-
-income countries. Our work is supported by a totally integrative online platform that 
-covers everything from strategic planning to project and grant management and progress 
+income countries. Our work is supported by a totally integrative online platform that
+covers everything from strategic planning to project and grant management and progress
 monitoring, ensuring transparency, accountability and traceability.
+
 Monitoring and evaluating our impact
-The success of this Strategy will depend on a robust monitoring and evaluation plan. 
-Measuring success through a participatory approach will be guided by a Performance 
-Framework established in agreement with TDR’s stakeholders. This framework provides 
-indicators and targets that reflect TDR’s contribution to global health and the Sustainable 
-Development Goals. The monitoring and evaluation plan aligns with TDR’s partnership 
-working model, including early and continuous engagement with countries and 
-stakeholders. The framework will be used to continually improve processes and results, 
-in order to maximize the impact and sustainability of the outcomes. Learning from 
-success and failure will continue to be embedded in the organizational culture in order to 
+
+The success of this Strategy will depend on a robust monitoring and evaluation plan.
+Measuring success through a participatory approach will be guided by a Performance
+Framework established in agreement with TDR’s stakeholders. This framework provides
+indicators and targets that reflect TDR’s contribution to global health and the Sustainable
+Development Goals. The monitoring and evaluation plan aligns with TDR’s partnership
+working model, including early and continuous engagement with countries and
+stakeholders. The framework will be used to continually improve processes and results,
+in order to maximize the impact and sustainability of the outcomes. Learning from
+success and failure will continue to be embedded in the organizational culture in order to
 continuously improve performance.
 
 
 --- Page 50 ---
-
-TDR Strategy 2024-2029 
 38
-6. Acknowledging 
+6. Acknowledging
 our funders
-TDR has been able to continue its strong performance due to long-term, consistent 
-funding from core donors – large and small – with additional support from project-specific 
-funders. We would like to thank all donors and provide recognition here to TDR’s top 
-funders in the last five years, listed in order of their level of contribution. 
 
+TDR has been able to continue its strong performance due to long-term, consistent
+funding from core donors – large and small – with additional support from project-specific
+funders. We would like to thank all donors and provide recognition here to TDR’s top
+funders in the last five years, listed in order of their level of contribution.
 
 
 --- Page 51 ---
-
 38

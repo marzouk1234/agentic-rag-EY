@@ -1,669 +1,722 @@
-
-
 --- Page 1 ---
+Towards a network of
+European FAIR-enabling
+Trustworthy Digital Repositories
 
-Towards a network of 
-European FAIR-enabling 
-Trustworthy Digital Repositories 
 Co-organised by FAIRsFAIR, SSHOC and EOSC-Nordic projects
-Online workshop - 13 January 2022 
+
+Online workshop - 13 January 2022
 
 
 --- Page 2 ---
-
 Trigger
-● FAIRsFAIR, EOSC-Nordic and SSHOC  
-repository support initiatives seeking to 
+● FAIRsFAIR, EOSC-Nordic and SSHOC
+repository support initiatives seeking to
 sustain the efforts.
+
 Today’s objective
 ● Explore ideas and needs of such a network.
+
 Proposed outcome
-● Identify steps to progress towards a European 
+● Identify steps to progress towards a European
 TDR network.
-2
+
 https://www.fairsfair.eu/events/fairsfair-event/workshop-network-fair-ena
-bling-trustworthy-digital-repositories-tdrs 
+bling-trustworthy-digital-repositories-tdrs
+
+2
 
 
 --- Page 3 ---
+Programme
 
-Programme 
-3
 Introduction
 11:00 - 11:10 Welcome and introduction of the initiative (Ingrid Dillo, DANS)
 11:10 - 11:15 Horizon Europe, INFRAEOSC and a TDR network (Christian Cuciniello, European Commission)
 11:15 - 11:20 EOSC Task Force Long Term Data Preservation (Hervé L’Hours, UKDA)
+
 Overview of repository support approaches
 11:20 - 11:25 FAIRsFAIR (Linas Cepinskas, DANS)
 11:25 - 11:30 SSHOC (Henri Ala-Lahti, Finnish Social Science Data Archive)
 11:30 - 11:35 EOSC-Nordic (Tuomas J. Alaterä, Finnish Social Science Data Archive)
-11:35 - 11:40 Q&A 
+11:35 - 11:40 Q&A
+
 Towards a network of European FAIR-enabling TDRs
-11:40-11:45 Towards a TDR network (Ilona von Stein, DANS) 
+11:40-11:45 Towards a TDR network (Ilona von Stein, DANS)
 11:45-12:25 Discussion
 12:25-12:30 Wrap-up
+
 *All times indicated above are in CET.
+3
 
 
 --- Page 4 ---
+Registration
+• Please add your name, affiliation and email address to the minutes:
+https://bit.ly/TDRnetwork
 
-4
-Registration 
-• Please add your name, affiliation and email address  to the minutes: 
-https://bit.ly/TDRnetwork 
 Zoom call
 • Please mute your microphone if you are not speaking.
-• Please feel free to ask questions via microphone or chat. 
+• Please feel free to ask questions via microphone or chat.
+
 Recording
-• This workshop will be recorded. 
+• This workshop will be recorded.
 • Recording and slides will be made available on FAIRsFAIR website.
-Icon by Freepik on Flaticon.com
+
+4 Icon by Freepik on Flaticon.com
 
 
 --- Page 5 ---
-
 European network of FAIR-enabling TDRs
-5
-TRUST and FAIR 
-certifications
-~70 
-TDRs
-European FAIR-enabling 
+
+TRUST and FAIR
+certifications European FAIR-enabling
 TDR Network
-● Cross-disciplinary/border 
+● Cross-disciplinary/border
 coordination
-● Trustworthy (LTP) + FAIR 
+● Trustworthy (LTP) + FAIR
 enabling
 
+~70
+TDRs
+
+5
 
 
 --- Page 6 ---
+Geographical spread
+European CTS repositories
 
 6
-Geographical spread 
-European CTS repositories
 
 
 --- Page 7 ---
-
 European network of FAIR-enabling TDRs
-7
-Regional/National 
-Networks e.g.
-TRUST and FAIR 
-certifications
-Disciplinary 
-Infrastructures e.g. 
-~70 
-TDRs
-European FAIR-enabling 
-TDR Network
-● Cross-disciplinary/border 
-coordination
-● Trustworthy (LTP) + FAIR 
-enabling
 
+TRUST and FAIR Disciplinary
+certifications Infrastructures e.g. European FAIR-enabling
+TDR Network
+● Cross-disciplinary/border
+coordination
+● Trustworthy (LTP) + FAIR
+enabling
+Regional/National
+Networks e.g.
+
+~70
+TDRs
+
+7
 
 
 --- Page 8 ---
-
 European network of FAIR-enabling TDRs
-8
-European FAIR-enabling 
-TDR Network
-● Cross-disciplinary/border 
-coordination
-● Trustworthy (LTP) + FAIR 
-enabling
-Regional/National 
-Networks e.g.
-TRUST and FAIR 
-certifications
-Disciplinary 
-Infrastructures e.g. 
-~70 
-TDRs
-Technology providers e.g.
 
+TRUST and FAIR Disciplinary
+certifications Infrastructures e.g. European FAIR-enabling
+TDR Network
+● Cross-disciplinary/border
+coordination
+● Trustworthy (LTP) + FAIR
+enabling
+Regional/National Technology providers e.g.
+Networks e.g.
+~70
+TDRs
+
+8
 
 
 --- Page 9 ---
-
 Potential value of the network
-For the EOSC:
-• Enhance repository compliance with EOSC RoP 
-• Help implement FAIR and TRUST assessments
-9
-For researchers:
-• Facilitate researchers’ access to Long Term Preservation
+
 For repositories:
 • Promote adoption of FAIR and TRUST practices
-• Strengthen the voice of TDRs in Europe 
+• Strengthen the voice of TDRs in Europe
 
+For researchers:
+• Facilitate researchers’ access to Long Term Preservation
+
+For the EOSC:
+• Enhance repository compliance with EOSC RoP
+• Help implement FAIR and TRUST assessments
+
+9
 
 
 --- Page 10 ---
-
 Potential value of the network
+
 For all stakeholders involved:
 Keep data FAIR over time
+
 10
 
 
-
 --- Page 11 ---
-
-HE Work Programme 2023-24:  
-draft priorities of the EOSC-A
-11
 SRIA of the EOSC 2021:
-EOSC will ensure long-term preservation and 
-long-term availability of these research data and 
-tools. 
+EOSC will ensure long-term preservation and
+long-term availability of these research data and
+tools.
 
+HE Work Programme 2023-24:
+draft priorities of the EOSC-A
+
+11
 
 
 --- Page 12 ---
-
 EOSC TF Long Term Data Preservation
-• Recommendations on the creation of a European network of 
-trustworthy digital repositories following FAIR-enabling principles with 
+
+• Recommendations on the creation of a European network of
+trustworthy digital repositories following FAIR-enabling principles with
 disciplinary and geographical spread.
-• Recommendations for EOSC data services to connect to this network 
-and a roadmap to further mature the LTP aspects of these repository 
+
+• Recommendations for EOSC data services to connect to this network
+and a roadmap to further mature the LTP aspects of these repository
 services.
-12
+
 https://www.eosc.eu/advisory-groups/
 long-term-data-preservation
 
+12
 
 
 --- Page 13 ---
-
 Thank you for listening!
+
 13
 
 
-
 --- Page 14 ---
-
-European Commission - Christian 
+European Commission - Christian
 Cuciniello, EC
-Trusted repositories and the concept of network of 
-TDR in Horizon Europe 
+Trusted repositories and the concept of network of
+TDR in Horizon Europe
+
 14
 
 
 --- Page 15 ---
-
 Priorities for Open Science
+
 15
 
 
-
 --- Page 16 ---
-
-How the EC supports the operationalisation of Open 
+How the EC supports the operationalisation of Open
 Science
 With projects under WIDERA WP:
-• open access publishing; reforms of research assessment reproducibility of 
+• open access publishing; reforms of research assessment reproducibility of
 research results; citizen science
 With projects under INFRA WP:
 • EOSC implementation à Horizon Europe co-programmed partnership
-• EOSC federation layer; EOSC core and advanced services; FAIR data 
-services and support to adoption and implementation; governance; skills 
+• EOSC federation layer; EOSC core and advanced services; FAIR data
+services and support to adoption and implementation; governance; skills
 and training; etc. data trusted, virtual, federated environment
 With HE programme provisions on OS
 With programme services à to “walk the talk” and “lead by example”
+
 16
 
 
 --- Page 17 ---
-
 Requirements in Horizon Europe
-1. Open access to scientific publications 
-Beneficiaries must ensure OA to peer-reviewed scientific publications relating to their 
+1. Open access to scientific publications
+Beneficiaries must ensure OA to peer-reviewed scientific publications relating to their
 results. In particular, they must ensure:
-• deposition in a trusted repository + immediate open access via the repository 
-under CC BY or  equivalent (CC BY-NC/CC BY-ND are allowed for long-text formats)
-• information via the repository about any research output/tools/instruments 
+• deposition in a trusted repository + immediate open access via the repository
+under CC BY or equivalent (CC BY-NC/CC BY-ND are allowed for long-text formats)
+• information via the repository about any research output/tools/instruments
 needed to validate the conclusions of the scientific publication
-Metadata must be open under CC 0 or equivalent, in line with the FAIR principles and 
+Metadata must be open under CC 0 or equivalent, in line with the FAIR principles and
 provide information about the licensing terms and persistent identifiers, amongst others.
-Beneficiaries (or authors) must retain sufficient intellectual property rights to comply with 
+Beneficiaries (or authors) must retain sufficient intellectual property rights to comply with
 the OA requirements
 Publication fees are reimbursable only if publishing venue is full open access.
+
 17
 
 
 --- Page 18 ---
-
 Requirements in Horizon Europe
 2. Research data management
-Beneficiaries must manage the digital research data in line with the FAIR principles and: 
-• establish + regularly update a data management plan (‘DMP’) for generated (and/or 
+
+Beneficiaries must manage the digital research data in line with the FAIR principles and:
+• establish + regularly update a data management plan (‘DMP’) for generated (and/or
 collected) data;
-• deposit the data in a trusted repository (federated in the EOSC if required in the call 
-conditions) + ensure OA under CC BY , CC 0 or equivalent, following the principle ‘as 
+• deposit the data in a trusted repository (federated in the EOSC if required in the call
+conditions) + ensure OA under CC BY, CC 0 or equivalent, following the principle ‘as
 open as possible as closed as necessary’
-• provide information via the repository about any research output/tools/instruments 
+• provide information via the repository about any research output/tools/instruments
 needed to re-use or validate the data
-Metadata must be open under CC 0 or equivalent (to the extent legitimate interests or constraints are 
-safeguarded), in line with the FAIR principles and provide information about the licensing terms and 
-persistent identifiers, amongst others. 
+Metadata must be open under CC 0 or equivalent (to the extent legitimate interests or constraints are
+safeguarded), in line with the FAIR principles and provide information about the licensing terms and
+persistent identifiers, amongst others.
+
 18
 
 
 --- Page 19 ---
-
 Requirements in Horizon Europe
 Definition of trusted repository
+
 What is required to be TRUSTED
-• display specific characteristics of organisational, technical and procedural quality (e.g. secure 
+• display specific characteristics of organisational, technical and procedural quality (e.g. secure
 integrity and authenticity facilitating their use and re-use short- and long-term
-• offer explicit information online about their policies, services (e.g. acquisition, access, security 
+• offer explicit information online about their policies, services (e.g. acquisition, access, security
 of content, long-term sustainability of service including funding etc.).
 • provide ideally open access to content free at the point of use
 • respect applicable legal and ethical limitations
 • assign persistent unique identifiers to contents (e.g. DOIs, handles, etc.)
-• ensure metadata sufficiently detailed and of sufficiently high quality following the standards 
+• ensure metadata sufficiently detailed and of sufficiently high quality following the standards
 of the respective community
 • facilitate mid- and long-term preservation of the deposited material
-• have mechanisms or provisions for expert curation and quality assurance for the accuracy and 
+• have mechanisms or provisions for expert curation and quality assurance for the accuracy and
 integrity of datasets and metadata
 • meet generally accepted criteria for security
+
 19
 
 
 --- Page 20 ---
-
 HE - RI - INFRAEOSC tentative list of objectives 2023-2024
-• Further consolidation & development of the EOSC Core, as well as, extension of the 
+
+• Further consolidation & development of the EOSC Core, as well as, extension of the
 resource offering via EOSC Exchange
 • Competence centers, supporting research communities
 • Expansion of EOSC’s access to resources provided by public authorities
 • Cross-articulation with sectoral data spaces & other relevant EU cloud & data infrastructures
 • Federated network of trusted repositories for data & other research digital objects
-• Development of community-based approaches for ensuring and improving the quality of 
+• Development of community-based approaches for ensuring and improving the quality of
 scientific software and code
 • Quality of data and long-term access and preservation within EOSC
 • FAIR and open data sharing in support of the mission: Adaptation to Climate Change;
-• Planning, tracking and assessing scientific knowledge production (e.g., science knowledge 
+• Planning, tracking and assessing scientific knowledge production (e.g., science knowledge
 graphs, data management plans, extension of metrics);
 • Support to the coordination and consolidation of the EOSC Partnership;
-• Build on the science cluster approach to ensure the uptake of EOSC by all RIs and research 
+• Build on the science cluster approach to ensure the uptake of EOSC by all RIs and research
 communities.
+
 20
 
 
 --- Page 21 ---
-
 Next planned service
 Multidisciplinary cloud based repository
 for research data and other research digital objects
 Horizontal Expenditure for HE 2021-2022
-• provide a centrally-managed, cloud-based repository platform to offer services at 
+• provide a centrally-managed, cloud-based repository platform to offer services at
 no cost to beneficiaries during and after the end of their grants
-• accept research data and other outputs from all scientific disciplines (easily 
+• accept research data and other outputs from all scientific disciplines (easily
 adaptable to new provisions and practices)
-• implement a reach research data management cycle, including a framework for 
+• implement a reach research data management cycle, including a framework for
 data curation
-• ensure the implementation of the FAIR principles in line with the specificity of the 
+• ensure the implementation of the FAIR principles in line with the specificity of the
 different communities
-• be included among the service providers of the EOSC federation and in the 
+• be included among the service providers of the EOSC federation and in the
 network of trusted repositories
-21
-→ From the new ERA perspective, an EU repository for research data could play a catalytic role towards a wider, 
+
+→ From the new ERA perspective, an EU repository for research data could play a catalytic role towards a wider,
 interconnected network of general-purpose research repositories operated by research funders at European and national levels
+
+21
 
 
 --- Page 22 ---
-
 Thank you for listening!
+
 22
 
 
-
 --- Page 23 ---
-
 EOSC LTDP TF Overview
+
 EOSC Long Term Digital Preservation Task Force Overview
-Hervé L’Hours/Roxanne Wyns (LTDP TF Co-Chairs)
+
 Workshop: European network of Trustworthy Digital Repositories (TDRs)
+
+Hervé L’Hours/Roxanne Wyns (LTDP TF Co-Chairs)
 2022-01-13
 
 
 --- Page 24 ---
-
 EOSC Advisory Groups / Task Forces
+
 Community Consultation on Topics has lead to:
-● 5 Advisory Groups containing 13 Task Forces 
-● Inform Association/others to help steer the 
+● 5 Advisory Groups containing 13 Task Forces
+● Inform Association/others to help steer the
 implementation of EOSC
-● Identify strategic gaps and areas for investment as input to 
+● Identify strategic gaps and areas for investment as input to
 SRIA
 ● Liaise with EOSC projects and offer feedback and advice
 
 
 --- Page 25 ---
-
 Task Force topics
+
 Implementation of EOSC
-• Rules of Participation compliance monitoring
-• PID policy and implementation
-• Researcher engagement and adoption
-Technical challenges on EOSC
+• Rules of Participation compliance monitoring Research careers and curricula
+• PID policy and implementation • Data stewardship curricula and career paths
+• Researcher engagement and adoption • Research careers, recognition and credit
+
+Technical challenges on EOSC • Upskilling countries to engage in EOSC
+
 • Technical interoperability of data and services
-• Infrastructure for quality research software
-• AAI Architecture
-Metadata and data quality
+• Infrastructure for quality research software Sustaining EOSC
+
+• AAI Architecture • Defining funding models for EOSC
+
+Metadata and data quality • Long-term data preservation
+
 • Semantic interoperability
 • FAIR metrics and data quality
-Research careers and curricula
-• Data stewardship curricula and career paths
-• Research careers, recognition and credit
-• Upskilling countries to engage in EOSC
-Sustaining EOSC
-• Defining funding models for EOSC
-• Long-term data preservation
 
 
 --- Page 26 ---
-
 Liaisons for questions / approvals
+
 • Implementation of EOSC – Suzanne Dumouchel
+
 • Technical challenges on EOSC – Ignacio Blanquer
+
 • Metadata and data quality – Sarah Jones
+
 • Research careers & curricula – Wilhelm Widmark
+
 • Sustaining EOSC – Bob Jones
+
 26
 
 
 --- Page 27 ---
-
-Horizon Europe Work Programme: TF 
+Horizon Europe Work Programme: TF
 Input
+
 • Quality of Research Repositories
- Task Forces: Infrastructure for Quality Software, Long-Term Data Preservation
+Task Forces: Infrastructure for Quality Software, Long-Term Data Preservation
 • Long-term access to and preservation of data
- Task Forces: AAI Architecture, PID Policy and Implementation; Long-Term Data Preservation
+Task Forces: AAI Architecture, PID Policy and Implementation; Long-Term Data
+Preservation
 • Other Topics
- Quality of Software Linking to sensitive data from public authorities AI and access to un-structured and non-standard data Multilingualism in EOSC Science Clusters and the long-tail  Quality of Research Data
+Quality of Software
+Linking to sensitive data from public authorities
+AI and access to un-structured and non-standard data
+Multilingualism in EOSC
+Science Clusters and the long-tail
+Quality of Research Data
+
 27
 
 
 --- Page 28 ---
-
 Schedule for inputs to the Work Programme
+
 28
 
 
-
 --- Page 29 ---
-
 Horizon Europe Work Programme: Next steps
+
 • LTDP EC meetings initiated
+
 • LTDP TF inputs to WP 23/24 provided
-• EOSC-Association summarised and shared with the Commission
-• Consultation on inputs to the Work Programme in Q1 2022
-• Inputs to update SRIA, specifically Multi-annual roadmap in Spring 2022
+
+• EOSC-Association summarised and shared with
+the Commission
+
+• Consultation on inputs to the Work Programme in
+Q1 2022
+
+• Inputs to update SRIA, specifically Multi-annual
+roadmap in Spring 2022
+
 29
 
 
 --- Page 30 ---
-
 Initial activities to establish LTDP TF
+
 • Arrange initial meeting
 • Start process to identify chairs
-• Approve the charter with full membership 
+• Approve the charter with full membership
 • Define a comprehensive workplan for the first year
 
 
-
 --- Page 31 ---
-
 LTDP TF Sub-groups
+
 • Creation of shared understanding and vision
-• Mapping the financial aspects of  long-term data preservation
+• Mapping the financial aspects of long-term data preservation
 • Mapping and promotion of the roles , responsibilities and accountability
-• Recommendations on the creation of a European network of trustworthy digital repositories and for EOSC data services
+• Recommendations on the creation of a European network of trustworthy
+digital repositories and for EOSC data services
 Plus shared activities
 
 
-
 --- Page 32 ---
-
 Creation of a shared understanding and vision
-• Starting from what we mean by digital preservation in the 
+
+• Starting from what we mean by digital preservation in the
 context of EOSC and a mapping of the existing landscape
-• Resulting in a suggestion for a strategy, where horizontal EOSC 
-preservation policy enables the connection and collaboration on 
+• Resulting in a suggestion for a strategy, where horizontal EOSC
+preservation policy enables the connection and collaboration on
 national, community and local level
-• This TF will provide recommendations for the EOSC board on the 
-vision and sustainable implementation of long-term data 
-preservation policies and practices, as well as suggestions to later 
+• This TF will provide recommendations for the EOSC board on the
+vision and sustainable implementation of long-term data
+preservation policies and practices, as well as suggestions to later
 strategy execution
 
 
-
 --- Page 33 ---
-
 Mapping of the financial aspects of LTDP
-• Mapping the financial aspects of long term data 
+
+• Mapping the financial aspects of long term data
 preservation
-• The cost of digital preservation, financial 
-responsibilities of the different stakeholders, as 
+• The cost of digital preservation, financial
+responsibilities of the different stakeholders, as
 well as possible business models for repositories
 
 
 --- Page 34 ---
-
-Mapping and promotion of the roles, responsibilities 
+Mapping and promotion of the roles, responsibilities
 and accountability
-• Mapping and promotion of the roles, responsibilities and accountability of the actors within the EOSC ecosystem with respect to long-term data preservation and responsibility levels defined in the SRIA
-• Complementing this by identifying the stakeholders in the different stages of the research data life cycle and their respective roles and responsibilities, including recommendations for awareness raising and training, especially on comprehensive and accountable DMPs
 
+• Mapping and promotion of the roles, responsibilities
+and accountability of the actors within the EOSC
+ecosystem with respect to long-term data preservation
+and responsibility levels defined in the SRIA
+• Complementing this by identifying the stakeholders in
+the different stages of the research data life cycle and
+their respective roles and responsibilities, including
+recommendations for awareness raising and training,
+especially on comprehensive and accountable DMPs
 
 
 --- Page 35 ---
-
 Recommendations trustworthy digital repositories
-• Recommendations on the creation of a European 
-network of trustworthy digital repositories 
-following FAIR-enabling principles with disciplinary 
+
+• Recommendations on the creation of a European
+network of trustworthy digital repositories
+following FAIR-enabling principles with disciplinary
 and geographical spread
-• Recommendations for EOSC data services to 
-connect to this network and a roadmap to further 
-mature the LTP aspects of these repository 
+• Recommendations for EOSC data services to
+connect to this network and a roadmap to further
+mature the LTP aspects of these repository
 services
 
 
 --- Page 36 ---
-
 Engage
+
 • Projects
 • Wider community consultation
 • Identify other initiatives and align
+
 36
 
 
 --- Page 37 ---
-
 Validating / endorsing outputs
-• Consensus within Task Force - discussion across sub-groups
+
+• Consensus within Task Force - discussion across
+sub-groups
+
 • Consultation with projects and wider community
+
 • Solicit inputs from EOSC Association Membership
+
 • Consultation across Task Forces via Chairs forum
+
 • Proposal to Board via liaison
+
 37
 
 
 --- Page 38 ---
-
 Draft TF Roadmap
 
 
-
 --- Page 39 ---
-
 Thank You
+
 Recommendations trustworthy digital repositories
-• Recommendations on the creation of a European network of 
-trustworthy digital repositories following FAIR-enabling 
+• Recommendations on the creation of a European network of
+trustworthy digital repositories following FAIR-enabling
 principles with disciplinary and geographical spread
-• Recommendations for EOSC data services to connect to this 
-network and a roadmap to further mature the LTP aspects of 
+• Recommendations for EOSC data services to connect to this
+network and a roadmap to further mature the LTP aspects of
 these repository services
 
 
 --- Page 40 ---
-
 Overview of repository support approaches
-40
- Photo by Hannah Busing on Unsplash
+
+40 Photo by Hannah Busing on Unsplash
 
 
 --- Page 41 ---
+Towards making your repository more
+trustworthy and FAIR-enabling
 
-Towards making your repository more 
-trustworthy and FAIR-enabling 
 Linas Čepinskas, Policy Officer, DANS (The Netherlands)
 13 January 2022
 
 
 --- Page 42 ---
-
 FAIRsFAIR - Fostering FAIR data practices in Europe
-42
-● Goal: Practical solutions for the 
-use of FAIR principles 
-throughout the research data 
-life cycle 
-● Budget: €10 million
-● Duration: 2019-2022
-● 22 partners from 8 EU member 
-states
-● Project coordinator: DANS
-Image source: https://www.fairsfair.eu 
 
+● Goal: Practical solutions for the
+use of FAIR principles
+throughout the research data
+life cycle
+
+● Budget: €10 million
+
+● Duration: 2019-2022
+
+● 22 partners from 8 EU member
+states
+
+● Project coordinator: DANS
+
+Image source: https://www.fairsfair.eu
+
+42
 
 
 --- Page 43 ---
-
 A journey towards becoming trustworthy and FAIR-enabling
-43 CoreTrustSeal repository certification 
-programme
-Image source: https://unsplash.com/photos/BW0vK-FA3eg
-Research data repositories 
-Trustworthy repository 
-practices and lessons learnt 
-Support with CoreTrustSeal 
+
+Support with CoreTrustSeal
 certification
+
+Trustworthy repository
+43 practices and lessons learnt
+Research data repositories CoreTrustSeal repository certification
+programme
+
+Image source: https://unsplash.com/photos/BW0vK-FA3eg
 
 
 --- Page 44 ---
+Repository support: services Test
+reviews
 
-Repository support: services
-44
-5 support 
+5 support
 workshops
-Practical 
-tools 1:1 support 
+
+Practical
+44 tools
+1:1 support
 and advice
-Image sources: https://www.fairsfair.eu/news/journey-coretrustseal-certification-begins-ten-repositories &  https://icon-library.net/icon/icon-help-23.html 
- 
-Test 
-reviews 
+
+Image sources: https://www.fairsfair.eu/news/journey-coretrustseal-certification-begins-ten-repositories & https://icon-library.net/icon/icon-help-23.html
 
 
 --- Page 45 ---
+Our support team
 
-Our support team 
 45
 
 
-
 --- Page 46 ---
-
 Who we work with
-46
-→ a country with a selected repository 
 
+46
+
+→ a country with a selected repository
 
 
 --- Page 47 ---
+Growing together Trust
+and
+Global repository support initiatives, e.g. FAIR
 
-Growing together 
-47
-Global repository support initiatives, e.g.
 • ‘Enabling FAIR Data CoreTrustSeal cohort’
 • ARDC, Australia
-• NDRIO-Portage Network, Canada 
-Image source: flaticon.com
-Trust 
-and 
-FAIR
-Share 
-experiences 
-and lessons 
+• NDRIO-Portage Network, Canada
+
+47 Share
+experiences Explore
+and lessons collaboration
 learned
-Explore
-collaboration
+
+Image source: flaticon.com
 
 
 --- Page 48 ---
+Key takeaways
 
-Key takeaways 
-48
-● Great diversity in terms of geography, domains and maturity of participating 
-repositories. 
-● 9 out of 10 repositories have submitted their applications to CoreTrustSeal 
+● Great diversity in terms of geography, domains and maturity of participating
+repositories.
+● 9 out of 10 repositories have submitted their applications to CoreTrustSeal
 and the other repository is on its way to do so.
-● 1-on-1 support and a hybrid approach are appreciated the most. 
+● 1-on-1 support and a hybrid approach are appreciated the most.
 ● Taking into account the starting point of each repository is key.
-● Initiatives should take note of which CoreTrustSeal aspects are found most 
-difficult and dedicate more support to those areas. 
-● The support is most useful when it mimics the actual certification process as 
-closely as possible. 
+● Initiatives should take note of which CoreTrustSeal aspects are found most
+difficult and dedicate more support to those areas.
+48 ● The support is most useful when it mimics the actual certification process as
+closely as possible.
 
 
 --- Page 49 ---
+Recommendations for developing a support programme
 
-49
- 
-Recommendations for developing a support programme 
-Source: Maaike Verburg, Ilona von Stein, Linas Cepinskas, Hervé L'Hours, Patricia Herterich, Joy Davidson, Kevin Ashley, Olivier Rouchon, Andrea Greco, Serenella Muradore Gallas, & Sara Pittonet Gaiarin. (2021). D4.3 Report on the certification support and guidance for repositories and reviewers. Zenodo. https://doi.org/10.5281/zenodo.5137552 
-Broad engagement within applicant organisations can minimise the effort of preparing self-assessments while 
-maximising internal communication and knowledge exchange. 
-In setting up a support team, include members with a variety of backgrounds and disciplinary experience to 
+Broad engagement within applicant organisations can minimise the effort of preparing self-assessments while
+maximising internal communication and knowledge exchange.
+
+In setting up a support team, include members with a variety of backgrounds and disciplinary experience to
 provide high-quality support.
-After the introductory information stage, consider dividing support work across the supported repositories 
-based on their experience of CoreTrustSeal, their maturity as an organisation and the outcomes they have 
-identified as key goals of the process. 
-Design the support programme with different support routes and engagement types. Identify and divide 
-content into specific areas of focus. This enables targeted learning and the revision and re-use of support content 
+
+After the introductory information stage, consider dividing support work across the supported repositories
+based on their experience of CoreTrustSeal, their maturity as an organisation and the outcomes they have
+identified as key goals of the process.
+
+Design the support programme with different support routes and engagement types. Identify and divide
+content into specific areas of focus. This enables targeted learning and the revision and re-use of support content
 so that it is optimised for different approaches.
 
+Source: Maaike Verburg, Ilona von Stein, Linas Cepinskas, Hervé L'Hours, Patricia Herterich, Joy Davidson, Kevin Ashley, Olivier Rouchon, Andrea Greco, Serenella Muradore Gallas, & Sara Pittonet Gaiarin. (2021).
+D4.3 Report on the certification support and guidance for repositories and reviewers. Zenodo. https://doi.org/10.5281/zenodo.5137552
+
+49
 
 
 --- Page 50 ---
-
-Further information 
-50
+Further information
 Practical tools
- • Hervé L'Hours, & Linas Cepinskas. (2021). Policy and Evidence Planning for Data Services: Business Information Management. Zenodo. https://doi.org/10.5281/zenodo.5779791 • Herterich, Patricia. (2020, April 6). FAIRsFAIR support towards achieving CoreTrustSeal certification - roadmapping exercise. Zenodo. http://doi.org/10.5281/zenodo.3741693• FAIR-Aware tool to assess knowledge of FAIR (en français aussi)• F-UJI tool to assess FAIRness of datasets• FAIR Data Forum. A gateway to FAIR data practices
-Certification support programme 
-• Ilona von Stein, Olivier Rouchon, Maaike Verburg, Serenella Muradore Gallas, Sara Pittonet Gaiarin, & Andrea Greco. (2021). Making your repository more trustworthy and FAIR-enabling a support programme. Zenodo. https://doi.org/10.5281/zenodo.5106165 • Hervé L'Hours, Ilona von Stein, Jerry deVries, Linas Cepinskas, Joy Davidson, Patricia Herterich, Robert Huber, & Benjamin Jacob Mathers. (2021). M4.3 CoreTrustSeal+FAIRenabling, Capability and Maturity (1.0). Zenodo. https://doi.org/10.5281/zenodo.5346822 • Maaike Verburg, Ilona von Stein, Linas Cepinskas, Hervé L'Hours, Patricia Herterich, Joy Davidson, Kevin Ashley, Olivier Rouchon, Andrea Greco, Serenella Muradore Gallas, & Sara Pittonet Gaiarin. (2021). D4.3 Report on the certification support and guidance for repositories and reviewers. Zenodo. https://doi.org/10.5281/zenodo.5137552• FAIRsFAIR support programme for repositories https://www.fairsfair.eu/application-results-open-call-data-repositories • Frans Huigen and Ilona von Stein (8 October 2020). How is FAIRsFAIR supporting the repositories selected for CoreTrustSeal Certification?https://www.fairsfair.eu/articles-publications/how-fairsfair-supporting-repositories-selected-coretrustseal-certification 
+
+• Hervé L'Hours, & Linas Cepinskas. (2021). Policy and Evidence Planning for Data Services: Business Information Management.
+Zenodo. https://doi.org/10.5281/zenodo.5779791
+• Herterich, Patricia. (2020, April 6). FAIRsFAIR support towards achieving CoreTrustSeal certification - roadmapping exercise.
+Zenodo. http://doi.org/10.5281/zenodo.3741693
+• FAIR-Aware tool to assess knowledge of FAIR (en français aussi)
+• F-UJI tool to assess FAIRness of datasets
+• FAIR Data Forum. A gateway to FAIR data practices
+Certification support programme
+• Ilona von Stein, Olivier Rouchon, Maaike Verburg, Serenella Muradore Gallas, Sara Pittonet Gaiarin, & Andrea Greco. (2021).
+Making your repository more trustworthy and FAIR-enabling a support programme. Zenodo.
+https://doi.org/10.5281/zenodo.5106165
+• Hervé L'Hours, Ilona von Stein, Jerry deVries, Linas Cepinskas, Joy Davidson, Patricia Herterich, Robert Huber, & Benjamin Jacob
+Mathers. (2021). M4.3 CoreTrustSeal+FAIRenabling, Capability and Maturity (1.0). Zenodo.
+https://doi.org/10.5281/zenodo.5346822
+• Maaike Verburg, Ilona von Stein, Linas Cepinskas, Hervé L'Hours, Patricia Herterich, Joy Davidson, Kevin Ashley, Olivier Rouchon,
+50 Andrea Greco, Serenella Muradore Gallas, & Sara Pittonet Gaiarin. (2021). D4.3 Report on the certification support and
+guidance for repositories and reviewers. Zenodo. https://doi.org/10.5281/zenodo.5137552
+• FAIRsFAIR support programme for repositories https://www.fairsfair.eu/application-results-open-call-data-repositories
+• Frans Huigen and Ilona von Stein (8 October 2020). How is FAIRsFAIR supporting the repositories selected for CoreTrustSeal
+Certification?https://www.fairsfair.eu/articles-publications/how-fairsfair-supporting-repositories-selected-coretrustseal-certific
+ation
 
 
 --- Page 51 ---
-
-This project is funded from the EU Horizon 2020 Research and Innovation Programme (2014-2020) under Grant Agreement No. 823782
-Promoting trust through 
+Promoting trust through
 repository support
-A brief look at SSHOC Certification 
+A brief look at SSHOC Certification
 support
-Henri Ala-Lahti, Information Specialist, 
+
+Henri Ala-Lahti, Information Specialist,
 Finnish Social Science Data Archive
 Towards a network of
 European FAIR-enabling
@@ -671,42 +724,38 @@ Trustworthy Digital Repositories
 13 January 2022
 Online workshop
 
+This project is funded from the EU Horizon 2020 Research and Innovation Programme (2014-2020) under Grant Agreement No. 823782
 
 
 --- Page 52 ---
-
-This project is funded from the EU Horizon 2020 Research and Innovation Programme (2014-2020) under Grant Agreement No. 823782
-Duration: 40 months 
-(January 2019 – 30 April 2022)
-Partners: 45 
-(20 beneficiaries + 25 LTPs)
-SSH ESFRI Landmarks and Projects 
-& international SSH data infrastructures
-Project budget: 
-€ 14,455,594.08
-Type of action & funding:
-Research and Innovation action
-(INFRAEOSC-04-2018) 
-Project website: 
-www.SSHopencloud.eu
-Objectives:
-• creating the social sciences and humanities (SSH) part of European Open Science Cloud (EOSC) 
-• maximising re-use through Open Science and FAIR principles (standards, common catalogue, access control, semantic techniques, training)
-• interconnecting existing and new infrastructures (clustered cloud infrastructure)
-• establishing appropriate governance model for SSH-EOSC
 Project:
 
+Type of action & funding:
+Research and Innovation action
+Partners: 45 (INFRAEOSC-04-2018)
+(20 beneficiaries + 25 LTPs) Project budget:
+SSH ESFRI Landmarks and Projects € 14,455,594.08
+& international SSH data infrastructures Project website:
+Duration: 40 months www.SSHopencloud.eu
+(January 2019 – 30 April 2022)
+
+Objectives:
+• creating the social sciences and humanities (SSH) part of European Open Science Cloud (EOSC)
+• maximising re-use through Open Science and FAIR principles (standards, common catalogue, access control, semantic techniques, training)
+• interconnecting existing and new infrastructures (clustered cloud infrastructure)
+
+This project is funded from the EU Horizon 2020 Research and Innovation Programme (2014-2020) under Grant Agreement No. 823782•establishing appropriate governance model for SSH-EOSC
 
 
 --- Page 53 ---
-
-This project is funded from the EU Horizon 2020 Research and Innovation Programme (2014-2020) under Grant Agreement No. 823782
 SSHOC Task 8.2 Trust & Quality Assurance
-Purpose: Bolstering and improving trust in and quality of the SSHOC repositories by 
-supporting them and by exploring the trust landscape and providing feedback to 
+
+Purpose: Bolstering and improving trust in and quality of the SSHOC repositories by
+supporting them and by exploring the trust landscape and providing feedback to
 certification bodies.
+
 Team:
-• CESSDA/FSD 
+• CESSDA/FSD
 • CESSDA/SND
 • CESSDA/UKDS
 • KNAW/DANS
@@ -714,248 +763,247 @@ Team:
 • CNR/E-RIHS
 • DARIAH/PNSC
 
+This project is funded from the EU Horizon 2020 Research and Innovation Programme (2014-2020) under Grant Agreement No. 823782
 
 
 --- Page 54 ---
-
-This project is funded from the EU Horizon 2020 Research and Innovation Programme (2014-2020) under Grant Agreement No. 823782
 Supported repositories
+
 • CLARIN-LV
 • Corpus OVI dell'italiano antico
-• Croatian Social Science Data Archive 
+• Croatian Social Science Data Archive
 (CROSSDA)
-• DAIS - Digital Archive of the Serbian Academy of 
+• DAIS - Digital Archive of the Serbian Academy of
 Sciences and Arts
 • DARIAH-DE Repository
 • Digital Library of University of Maribor
 • Digital Repository of Scientific Institutes
 • Historic Graves
-• Lithuanian Data Archive for Social Sciences and 
+• Lithuanian Data Archive for Social Sciences and
 Humanities (LiDA)
 • mdw Repository
 • NAKALA
-• SB/CLARIN Repository (Språkbanken Text 
+• SB/CLARIN Repository (Språkbanken Text
 CLARIN Repository)
-• Sciences Po, Center for Socio-Political Data 
+• Sciences Po, Center for Socio-Political Data
 (CDSP)
 • Slovak Archive of Social Data (SASD)
 
+This project is funded from the EU Horizon 2020 Research and Innovation Programme (2014-2020) under Grant Agreement No. 823782
 
 
 --- Page 55 ---
-
-This project is funded from the EU Horizon 2020 Research and Innovation Programme (2014-2020) under Grant Agreement No. 823782
 Support activities
+
 • Online webinars and workshops on certification
-• Regular one-on-one meetings with repository representatives and 
+• Regular one-on-one meetings with repository representatives and
 reviewers assigned to them from T8.2
 • Comments and feedback on self-assessments
 • Webpage for repositories seeking certification
 
+This project is funded from the EU Horizon 2020 Research and Innovation Programme (2014-2020) under Grant Agreement No. 823782
+
 
 --- Page 56 ---
-
-This project is funded from the EU Horizon 2020 Research and Innovation Programme (2014-2020) under Grant Agreement No. 823782
 Key takeaways
-• Result: facilitation of the certification process, increased 
+
+• Result: facilitation of the certification process, increased
 understanding of what is required for certification
-• Result: improved repository practices and documentation through 
+• Result: improved repository practices and documentation through
 self-assessments
 • Result: feedback from repositories to improve certification
+
 • Varying repository types, practices and levels of maturity
 • Notable differences in resources available
-• Need for increased cooperation and peer-to-peer networks not only 
+• Need for increased cooperation and peer-to-peer networks not only
 in terms of certification but also other aspects of repository practices
+
+This project is funded from the EU Horizon 2020 Research and Innovation Programme (2014-2020) under Grant Agreement No. 823782
 
 
 --- Page 57 ---
+Further information
+
+• Mari Kleemola, Tuomas J. Alaterä, Niko Koski, Henri Ala-Lahti, Birger Jerlehag, Hervé
+L'Hours, Franciska De Jong, Dieter Van Uytvanck, Tomasz Parkoła, Emiliano
+Degl'Innocenti, Roberta Giacomi, Maurizio Sanesi & René Van Horik. (2020). SSHOC D8.2
+Certification plan for SSHOC repositories (v1.0). Zenodo.
+https://doi.org/10.5281/zenodo.4558303
+• SSHOC Trusted Repositories: https://sshopencloud.eu/sshoc-trusted-repositories
+• Mari Kleemola et al. (forthcoming) SSHOC D8.3 Trustworthy Digital Repository status
+update and certification solutions for SSHOC repositories
 
 This project is funded from the EU Horizon 2020 Research and Innovation Programme (2014-2020) under Grant Agreement No. 823782
-Further information
-• Mari Kleemola, Tuomas J. Alaterä, Niko Koski, Henri Ala-Lahti, Birger Jerlehag, Hervé 
-L'Hours, Franciska De Jong, Dieter Van Uytvanck, Tomasz Parkoła, Emiliano 
-Degl'Innocenti, Roberta Giacomi, Maurizio Sanesi & René Van Horik. (2020). SSHOC D8.2 
-Certification plan for SSHOC repositories (v1.0). Zenodo. 
-https://doi.org/10.5281/zenodo.4558303 
-• SSHOC Trusted Repositories: https://sshopencloud.eu/sshoc-trusted-repositories 
-• Mari Kleemola et al. (forthcoming) SSHOC D8.3 Trustworthy Digital Repository status 
-update and certification solutions for SSHOC repositories
 
 
 --- Page 58 ---
+Thank you for your attention!
+
+Join our community
+
+https://www.sshopencloud.eu @SSHOpenCloud
+
+info@sshopencloud.eu /in/sshopencloud
 
 This project is funded from the EU Horizon 2020 Research and Innovation Programme (2014-2020) under Grant Agreement No. 823782
-Thank you for your attention!
-https://www.sshopencloud.eu
-info@sshopencloud.eu
-@SSHOpenCloud
-/in/sshopencloud
-Join our community
 
 
 --- Page 59 ---
-
-EOSC-Nordic project has received funding from the European Union’s Horizon 
-2020 research and innovation programme under grant agreement No 857652
-Supporting the adoption of FAIR 
+Supporting the adoption of FAIR
 data standards and certification:
 Case EOSC-Nordic
-T uomas J. Alaterä, FSD / T ampere University
-T owards a network of European FAIR-enabling Trustworthy 
+Tuomas J. Alaterä, FSD / Tampere University
+Towards a network of European FAIR-enabling Trustworthy
 Digital Repositories
 January 13, 2022
 
+EOSC-Nordic project has received funding from the European Union’s Horizon
+2020 research and innovation programme under grant agreement No 857652
+
 
 --- Page 60 ---
-
 EOSC-Nordic 9/2019 - 8/2022
-• Regional EOSC implementation project• Collaboration with FsF• Nordic-Baltic testbed
-• Cross-disciplinary
-• 6 work-packages, 24 partners from 10 countries
-• WP4 on FAIR Data and certification support
+• Regional EOSC
+implementation
+project•Collaboration
+with FsF
+• Nordic-Baltic
+testbed
 
+• Cross-disciplinary
+
+• 6 work-packages,
+24 partners from
+10 countries
+
+• WP4 on FAIR Data
+and certification
+support
 
 
 --- Page 61 ---
-
 EOSC-Nordic WP4 Goal
+
 FAIR digital objects in Trustworthy digital repositories
-Automated FAIR evaluation, 
-FAIRicifation support, 
-identifying incentives for 
-FAIR uptake
-CoreTrustSeal support and 
-repository specific 
-guidance for certification,
-FAIR certification feedback
+
+Automated FAIR evaluation, CoreTrustSeal support and
+FAIRicifation support, repository specific
+identifying incentives for guidance for certification,
+FAIR uptake FAIR certification feedback
 
 
 --- Page 62 ---
-
 Support timeline
+
+Identification of •FAIR Evaluation •FAIR evaluation Evaluation and
+2019 repositories 2020 •Identification of 2021 •Tailored support 2022 support wrap-up
+support needs and webinars
+
 • Initially identified 98 evaluation / support candidates
-• Automated FAIR evaluation of the most continues 
+• Automated FAIR evaluation of the most continues
 • Based on invitation and interest, 13 repositories selected as support recipients
-Identification of 
-repositories2019
-•FAIR Evaluation
-•Identification of 
-support needs2020
-•FAIR evaluation
-•Tailored support 
-and webinars2021
-Evaluation and 
-support wrap-up2022
-Bolin Centre Database, Sweden
-DataDOI, Estonia
-DTU, Denmark
-Finnish Biodiversity Information Facility (FinBIF)
-Icelandic Social Science Data Service (DATICE)
-Lithuanian Data Archive for Social Sciences and 
-Humanities (LiDA)
-Music Archive Finland
-NIRD Research Data Archive, Norway
-QSAR DataBase, Estonia
-SU, Sweden
-AIDA Data Hub, Sweden
-Metabolic Atlas, Sweden
-USN, Norway
+
+Bolin Centre Database, Sweden Music Archive Finland
+DataDOI, Estonia NIRD Research Data Archive, Norway
+DTU, Denmark QSAR DataBase, Estonia
+Finnish Biodiversity Information Facility (FinBIF) SU, Sweden
+Icelandic Social Science Data Service (DATICE) AIDA Data Hub, Sweden
+Lithuanian Data Archive for Social Sciences and Metabolic Atlas, Sweden
+Humanities (LiDA) USN, Norway
 
 
 --- Page 63 ---
-
 Support activities provided
-• Conversational webinars on CTS & “FAIRification Steps” 
+
+• Conversational webinars on CTS & “FAIRification Steps”
 webinar series
-• Goal setting for each repository (certification, self-assessment, 
+• Goal setting for each repository (certification, self-assessment,
 FAIRification, or both)
-• Regular/themed support meetings of dedicated WP4 experts 
+• Regular/themed support meetings of dedicated WP4 experts
 and repository representatives
 • Feedback on self-assessments (google docs, email)
-• Knowledge hub for participants 
-
+• Knowledge hub for participants
 
 
 --- Page 64 ---
-
 Key takeaways (with 8 months to go)
-• Supporting both FAIRification and certification not always simple 
+
+• Supporting both FAIRification and certification not always simple
 and mutually productive
 • Technology dependence, knowledge base, requirement
-• Interest often exceeds resources available 
+• Interest often exceeds resources available
 • Need for support within the infrastructures / countries
-• Notable progress in documentation, cooperation and understanding 
+• Notable progress in documentation, cooperation and understanding
 of certification concepts via self-assessments and support calls
-• CTS and FAIR applicable to various disciplines - easier to see and 
+• CTS and FAIR applicable to various disciplines - easier to see and
 implement when networking with various actors
+
 • What is a “repository” still a bit of a mystery!
 
 
-
 --- Page 65 ---
-
 Further information
-• Tuomas J. Alaterä: Takeaways from the EOSC-Nordic WP4 Workshop 
-“From Self-Assessment to Certification with FAIR Results” (2021). 
+
+• Tuomas J. Alaterä: Takeaways from the EOSC-Nordic WP4 Workshop
+“From Self-Assessment to Certification with FAIR Results” (2021).
 https://www.eosc-nordic.eu/takeaways-from-the-eosc-nordic-wp4-
 workshop-from-self-assessment-to-certification-with-fair-results/
-• Andreas Ortmann Jaunsen, Mari Kleemola, Tuomas J. Alaterä, Heikki 
-Lehvaslaiho, Adil Hasan, Josefine Nordling, & Pauli Assinen. (2020). 
-D4.1 An assessment of FAIR-uptake among regional digital 
+• Andreas Ortmann Jaunsen, Mari Kleemola, Tuomas J. Alaterä, Heikki
+Lehvaslaiho, Adil Hasan, Josefine Nordling, & Pauli Assinen. (2020).
+D4.1 An assessment of FAIR-uptake among regional digital
 repositories (1.0). Zenodo. https://doi.org/10.5281/zenodo.4045402
-www.eosc-nordic.eu | twitter.com/EOSC_Nordic | YouTube 
 
+www.eosc-nordic.eu | twitter.com/EOSC_Nordic | YouTube
 
 
 --- Page 66 ---
-
 Q&A
+
 66
 
 
 --- Page 67 ---
-
 Towards a network of European FAIR-enabling TDRs
-67
- Photo by Eileen Pan on Unsplash
+
+67 Photo by Eileen Pan on Unsplash
 
 
 --- Page 68 ---
+Scope Today Scope Later
+
+● initial network of existing and aspiring ● wider network of existing and aspiring
+Trustworthy Digital Repositories (TDRs) trustworthy data services
+● increase the number of FAIR-enabling ● increase the number of FAIR-enabling
+TDRs trustworthy data services
+● initial focus on Europe and EOSC ● focus reach beyond Europe on other
+federated research (meta)data
+infrastructures
+FAIRsFAIR D4.4 Coordination Plan for a sustainable network of
+FAIR-enabling Trustworthy Digital Repositories
+https://doi.org/10.5281/zenodo.5726691
 
 68
-Scope Today
-● initial network of existing and aspiring 
-Trustworthy Digital Repositories (TDRs)
-● increase the number of FAIR-enabling 
-TDRs
-● initial focus on Europe and EOSC
-Scope Later  
-● wider network of existing and aspiring 
-trustworthy data services 
-● increase the number of FAIR-enabling 
-trustworthy data services
-● focus reach beyond Europe on other 
-federated research (meta)data 
-infrastructures
-FAIRsFAIR D4.4 Coordination Plan for a sustainable network of FAIR-enabling Trustworthy Digital Repositories  https://doi.org/10.5281/zenodo.5726691 
 
 
 --- Page 69 ---
-
 Discussions
+
 Menti.com
+
 Please enter code 3208 0926
+
 69
 
 
 --- Page 108 ---
+Wrap-up
 
-Wrap-up 
 70
 
 
 --- Page 109 ---
-
 Thank you!
-For further questions: ingrid.dillo@dans.knaw.nl  
+
+For further questions: ingrid.dillo@dans.knaw.nl
+
 71

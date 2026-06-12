@@ -20,14 +20,27 @@ def list_pdf_files(raw_dir: Path) -> list[Path]:
     )
 
 
+import re
+
+
 def extract_text_from_pdf(pdf_path: Path) -> str:
     reader = PdfReader(str(pdf_path))
     full_text = []
 
     for page_number, page in enumerate(reader.pages, start=1):
-        text = page.extract_text()
+        # Use layout mode to preserve word spaces in complex PDF layouts/fonts
+        text = page.extract_text(extraction_mode="layout")
 
         if text and text.strip():
+            # Clean up null bytes from ligature conversion errors
+            text = text.replace("\u0000", "")
+            # Collapse consecutive horizontal spaces
+            text = re.sub(r'[ \t]+', ' ', text)
+            # Collapse consecutive newlines
+            text = re.sub(r'\n\s*\n+', '\n\n', text)
+            # Remove leading/trailing spaces from each line
+            text = "\n".join(line.strip() for line in text.splitlines())
+            
             full_text.append(f"\n\n--- Page {page_number} ---\n{text}")
 
     return "\n".join(full_text).strip()

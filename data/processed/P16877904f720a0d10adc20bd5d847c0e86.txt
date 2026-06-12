@@ -1,3320 +1,1860 @@
-
-
 --- Page 1 ---
-
 PLAN DE PASSATION DE MARCHES
-Information sur le Projet : Niger LIRE – Learning Improvement for Results in 
-Education - P168779
-Agence d’exécution du Projet : 
--Ministère des Enseignements Secondaires (MES), et 
--Ministère de l’Enseignement Primaire, de l’Alphabétisation, de la 
-Promotion des Langues Nationales et de l’Education Civique (MEP) 
-Agence d’exécution de l’Avance de Préparation du Projet (PPA) : Unité de 
-Coordination du Projet de Développement des Compétences pour la 
-Croissance (PRODEC) 
- 
-Date du plan de passation des marchés : 29-juillet-2019
-Période couverte par ce plan de passation des marchés : Septembre 2019 
-– Décembre 2020
-Préambule
-Conformément au paragraphe 5.9 du “Règlement de Passation des Marchés pour 
-les Emprunteurs sollicitant le Financement de Projets d’Investissement (FPI)” 
-(Juillet 2016), révisé en Novembre 2017 et en Août 2018 (“Règlement de Passation 
-des Marchés”) le Système électronique de la Banque de suivi systématique des 
-transactions de marchés publics (STEP) sera utilisé pour préparer, valider et 
-actualiser les plans de passation des marchés et effectuer toutes les transactions 
-liées à la passation des marchés du projet. 
-Ce texte ainsi que les tableaux du plan de passation des marchés présents dans 
-STEP constituent le plan de passation des marchés du projet. Les conditions 
-suivantes s'appliquent à toutes les activités de passation de marchés du plan de 
-passation de marchés. Les autres éléments du plan de passation des marchés tels 
-que requis au paragraphe 4.4 du Règlement de passation des marchés sont 
-énoncés dans STEP. 
-Les Dossiers types de passation des marchés publics de la Banque devront 
-être utilisés pour tous les contrats soumis à la concurrence internationale, ainsi 
-que pour tous les autres contrats soumis à cette obligation telle que spécifiée dans 
-les tableaux du plan de passation des marchés de STEP.
-Procédures nationales de passation des marchés : En accord avec le 
-paragraphe 5.3 du Règlement de passation des marchés, dans le cas où la 
-procédure de passation des marchés se fera au niveau national (telle que spécifiée 
-dans les tableaux du plan de passation des marchés inclus de STEP), les 
-procédures nationales de passation des marchés du Niger pourront être utilisées. 
-Si l’Emprunteur utilise ses propres procédures d’appel d’offres national ouvert 
-telles qu’énoncées dans la Loi N°2011-37 du 28 Octobre 2011 portant principes 
-généraux, contrôle and régulation des marchés publics et des délégations de 
-service public au Niger et le Décret N° 2016-641/PRN/PM du 21/Décembre 2016 
-portant Code des marchés Publics et des Délégations de Service Public, ces 
- Public Disclosure Authorized
-Public Disclosure Authorized
-Public Disclosure Authorized
-Public Disclosure Authorized
 
+Information sur le Projet : Niger LIRE – Learning Improvement for Results in
+Education - P168779
+
+Agence d’exécution du Projet :
+- Ministère des Enseignements Secondaires (MES), et
+- Ministère de l’Enseignement Primaire, de l’Alphabétisation, de la
+Promotion des Langues Nationales et de l’Education Civique (MEP)
+
+Agence d’exécution de l’Avance de Préparation du Projet (PPA) : Unité de
+Coordination du Projet de Développement des Compétences pour la
+Croissance (PRODEC)
+
+Date du plan de passation des marchés : 29-juillet-2019
+
+Période couverte par ce plan de passation des marchés : Septembre 2019
+– Décembre 2020
+
+Préambule
+Conformément au paragraphe 5.9 du “Règlement de Passation des Marchés pour
+les Emprunteurs sollicitant le Financement de Projets d’Investissement (FPI)”
+(Juillet 2016), révisé en Novembre 2017 et en Août 2018 (“Règlement de Passation
+des Marchés”) le Système électronique de la Banque de suivi systématique des
+transactions de marchés publics (STEP) sera utilisé pour préparer, valider et
+actualiser les plans de passation des marchés et effectuer toutes les transactions
+liées à la passation des marchés du projet.
+Ce texte ainsi que les tableaux du plan de passation des marchés présents dans
+STEP constituent le plan de passation des marchés du projet. Les conditions
+suivantes s'appliquent à toutes les activités de passation de marchés du plan de
+passation de marchés. Les autres éléments du plan de passation des marchés tels
+que requis au paragraphe 4.4 du Règlement de passation des marchés sont
+énoncés dans STEP.
+
+Les Dossiers types de passation des marchés publics de la Banque devront
+être utilisés pour tous les contrats soumis à la concurrence internationale, ainsi
+que pour tous les autres contrats soumis à cette obligation telle que spécifiée dans
+les tableaux du plan de passation des marchés de STEP.
+
+Procédures nationales de passation des marchés : En accord avec le
+paragraphe 5.3 du Règlement de passation des marchés, dans le cas où la
+procédure de passation des marchés se fera au niveau national (telle que spécifiée
+dans les tableaux du plan de passation des marchés inclus de STEP), les
+procédures nationales de passation des marchés du Niger pourront être utilisées.
+Si l’Emprunteur utilise ses propres procédures d’appel d’offres national ouvert
+telles qu’énoncées dans la Loi N°2011-37 du 28 Octobre 2011 portant principes
+généraux, contrôle and régulation des marchés publics et des délégations de
+service public au Niger et le Décret N° 2016-641/PRN/PM du 21/Décembre 2016
+portant Code des marchés Publics et des Délégations de Service Public, ces
 
 
 --- Page 2 ---
+arrangements sont soumis aux dispositions du paragraphe 5.4 du Règlement de
+passation des marchés et aux conditions suivantes :
 
-arrangements sont soumis aux dispositions du paragraphe 5.4 du Règlement de 
-passation des marchés et aux conditions suivantes : 
-Les dispositions à respecter pour un appel d’offres/à propositions ouvert national 
-sont les suivantes : 
-a. le dossier d’appel d’offres/à propositions oblige le 
-Soumissionnaire/Proposant présentant une Offre/Proposition à déposer 
-un agrément signé, qui sera joint à tout contrat éventuel, pour confirmer 
-qu’il applique et respecte les Directives de la Banque pour la lutte contre 
-la corruption, y compris sans limitation, le droit de la Banque de 
+Les dispositions à respecter pour un appel d’offres/à propositions ouvert national
+sont les suivantes :
+a. le dossier d’appel d’offres/à propositions oblige le
+Soumissionnaire/Proposant présentant une Offre/Proposition à déposer
+un agrément signé, qui sera joint à tout contrat éventuel, pour confirmer
+qu’il applique et respecte les Directives de la Banque pour la lutte contre
+la corruption, y compris sans limitation, le droit de la Banque de
 sanctionner et les droits de la Banque pour l’inspection et l’audit ;
-b. Les documents de passation des marchés incluent des dispositions, 
-convenues avec la Banque, destinées à atténuer de manière adéquate 
-les risques et impacts environnementaux, sociaux (y compris 
-l'exploitation et les abus sexuels et la violence basée sur le genre), 
-l’hygiène et la sécurité (« ESHS ») ; 
-c. les droits de la Banque d’examiner le dossier et les activités de 
-passation des marchés ; 
+b. Les documents de passation des marchés incluent des dispositions,
+convenues avec la Banque, destinées à atténuer de manière adéquate
+les risques et impacts environnementaux, sociaux (y compris
+l'exploitation et les abus sexuels et la violence basée sur le genre),
+l’hygiène et la sécurité (« ESHS ») ;
+c. les droits de la Banque d’examiner le dossier et les activités de
+passation des marchés ;
 d. l’existence d’un mécanisme efficace d’examen des plaintes ; et
-e. la gestion et l’archivage des dossiers relatifs au Processus de la 
-Passation des Marchés. 
-Les autres modalités nationales de passation des marchés (autres que sous forme 
-d’appel d’offres/à propositions national ouvert) qui pourraient être appliquées par 
-l’Emprunteur (appel d’offres limité/restreint, demande de prix/consultation de 
-fournisseurs, entente directe) doivent être conformes avec les Principes 
-Fondamentaux de Passation des Marchés de la Banque et garantir que les 
-Directives de la Banque contre la corruption, son Cadre de Sanctions et les recours 
+e. la gestion et l’archivage des dossiers relatifs au Processus de la
+Passation des Marchés.
+
+Les autres modalités nationales de passation des marchés (autres que sous forme
+d’appel d’offres/à propositions national ouvert) qui pourraient être appliquées par
+l’Emprunteur (appel d’offres limité/restreint, demande de prix/consultation de
+fournisseurs, entente directe) doivent être conformes avec les Principes
+Fondamentaux de Passation des Marchés de la Banque et garantir que les
+Directives de la Banque contre la corruption, son Cadre de Sanctions et les recours
 contractuels visés dans l’Accord Juridique s’appliquent.
-Crédit-bail tel que spécifié au paragraphe 5.10 du Règlement de Passation des 
-marchés : Le crédit-bail peut être utilisé pour les contrats indiqués comme tel dans 
+
+Crédit-bail tel que spécifié au paragraphe 5.10 du Règlement de Passation des
+marchés : Le crédit-bail peut être utilisé pour les contrats indiqués comme tel dans
 le Plan de passation des marchés. « Sans objet »
-Achat de biens d’occasion tel que spécifié au paragraphe 5.11 du Règlement 
-de Passation des Marchés est autorisé pour les contrats indiqués comme tel dans 
+
+Achat de biens d’occasion tel que spécifié au paragraphe 5.11 du Règlement
+de Passation des Marchés est autorisé pour les contrats indiqués comme tel dans
 le Plan de passation des marchés. « Sans objet »
-Préférence nationale telle que spécifiée au paragraphe 5.51 du Règlement de 
-Passation des Marchés (Fournitures et Travaux). 
-- Fournitures : ne s’applique pas  
-- Travaux : ne s’applique pas 
-L’Assistance directe à la mise en œuvre (sigle HEIS en anglais) tel que 
-précisée aux paragraphes 3.10 et 3.11 du Règlement de Passation des marchés 
+
+Préférence nationale telle que spécifiée au paragraphe 5.51 du Règlement de
+Passation des Marchés (Fournitures et Travaux).
+
+- Fournitures : ne s’applique pas
+
+- Travaux : ne s’applique pas
+
+L’Assistance directe à la mise en œuvre (sigle HEIS en anglais) tel que
+précisée aux paragraphes 3.10 et 3.11 du Règlement de Passation des marchés
 s’applique. « Sans objet »
+
 Autres informations pertinentes sur la passation des marchés :
 
 
 --- Page 3 ---
-
 « Sans objet »
 
 
 --- Page 4 ---
-
-Description
-Numéro 
-de 
-Référence
-Catégorie 
-de 
-passation 
-de 
-marché
-Approche 
-du marché/ 
-Compétitio
-n
-Méthode de 
-passation de 
-marché
-Montant 
-estimé
-(Dollars 
-US)
-% 
-financé 
-par la 
-Banque
-Type de 
-revue
-Date de 
-démarrag
-e prévue
-(jj/mm/aa
-aa)
+Catégorie Approche Montant % Date de
+Numéro de du marché/ Méthode de estimé financé Type de démarrag
+Description de passation Compétitio passation de (Dollars par la revue e prévue
+Référence de n marché US) Banque (jj/mm/aa
+marché aa)
 Fournitures
-Acquisition des mobiliers de bureau F-01/LIRE Fournitures
-Consultation 
-Restreinte
-Demande de 
-cotations
-10 000 100
-A 
-Posteriori
-01-fev-20
-Acquisition de 200 Tablettes F-02/LIRE Fournitures
-Consultation 
-Restreinte
-Consultation 
-Restreinte
-49 990 100
-A 
-Posteriori 01-sept-19
+
+F-01/LIRE Fournitures Consultation Demande de 10 000 100 A 01-fev-20
+Acquisition des mobiliers de bureau Restreinte cotations Posteriori
+
+F-02/LIRE Fournitures Consultation Consultation 49 990 100 A
+Acquisition de 200 Tablettes Restreinte Restreinte Posteriori 01-sept-19
 Services de consultants
-Recrutement d'un 
-cabinet/consultant pour réaliser 
-l'audit organisationnel et 
-institutionnel des onze (11) Ecoles 
-Normales et de l'Ecole Normale 
+
+Recrutement d'un
+cabinet/consultant pour réaliser Sélection
+l'audit organisationnel et SC-01/LIRE Services de Ouverte/Inter Fondée sur la 417 391 100 A 15-oct.-19
+institutionnel des onze (11) Ecoles consultants nationale Qualité et le posteriori
+Normales et de l'Ecole Normale Coût
 Supérieure
-SC-01/LIRE
-Services de 
-consultants
-Ouverte/Inter
-nationale
-Sélection 
-Fondée sur la 
-Qualité et le 
-Coût
-417 391 100
-A 
-posteriori
-15-oct.-19
-Recrutement de trois Consultants 
-pour élaborer les manuels (i) des 
-procédures administratives, 
-comptables et financières, et de 
-passation des marchés (ii) de mise 
-en œuvre du projet avec une 
-version simplifié du manuel de mise 
-en œuvre et (iii) proposition de 
-contrats de performance 
-SC-02/LIRE
-Services de 
-consultants
-Ouverte/Natio
-nale
-Sélection fondée 
-sur les 
-qualifications du 
-Consultant
-52 174 100
-A 
-posteriori
-15-nov.-19
-Recrutement d'un bureau d'études 
-pour former une équipe nationale 
-en technique d’élaboration de 
-leçons, exercices et corrigés 
-modèles. (Modélisation dans la 
-SC-03/LIRE
-Services de 
-consultants
-Ouverte/Inter
-nationale
-Sélection 
-Fondée sur la 
-Qualité et le 
-Coût
-156 522 100
-A 
-posteriori
-15-déc.-19
+
+Recrutement de trois Consultants
+pour élaborer les manuels (i) des
+procédures administratives,
+comptables et financières, et de Services de Ouverte/Natio Sélection fondée A
+passation des marchés (ii) de mise SC-02/LIRE sur les 52 174 100 15-nov.-19
+en œuvre du projet avec une consultants nale qualifications du posteriori
+version simplifié du manuel de mise Consultant
+en œuvre et (iii) proposition de
+contrats de performance
+
+Recrutement d'un bureau d'études Sélection
+pour former une équipe nationale SC-03/LIRE Services de Ouverte/Inter Fondée sur la 156 522 100 A 15-déc.-19
+en technique d’élaboration de consultants nationale Qualité et le posteriori
+leçons, exercices et corrigés Coût
+modèles. (Modélisation dans la
 
 
 --- Page 5 ---
+Catégorie Approche Montant % Date de
+Numéro de du marché/ Méthode de estimé financé Type de démarrag
+Description de passation Compétitio passation de (Dollars par la revue e prévue
+Référence de n marché US) Banque (jj/mm/aa
+marché aa)
+formation des enseignants :
+Primaire et secondaire)
+Recrutement d'un bureau
+d'études/Consultant pour
+Sélectionner et installer une « Task Services de Ouverte/inter Sélection fondée A
+Force » (Experts internationaux) SC-04/LIRE sur les 34 783 100 01-oct.-19
+devant fournir un appui technique à consultants nationale qualifications du posteriori
+la mise en œuvre au projet LIRE par Consultant
+un cabinet
 
-Description
-Numéro 
-de 
-Référence
-Catégorie 
-de 
-passation 
-de 
-marché
-Approche 
-du marché/ 
-Compétitio
-n
-Méthode de 
-passation de 
-marché
-Montant 
-estimé
-(Dollars 
-US)
-% 
-financé 
-par la 
-Banque
-Type de 
-revue
-Date de 
-démarrag
-e prévue
-(jj/mm/aa
-aa)
-formation des enseignants : 
-Primaire et secondaire) 
-Recrutement d'un bureau 
-d'études/Consultant pour 
-Sélectionner et installer une « Task 
-Force » (Experts internationaux) 
-devant fournir un appui technique à 
-la mise en œuvre au projet LIRE par 
-un cabinet 
-SC-04/LIRE
-Services de 
-consultants
-Ouverte/inter
-nationale
-Sélection fondée 
-sur les 
-qualifications du 
+Recrutement d'un bureau
+d'études/Consultant pour réaliser la Services de Ouverte/Natio Sélection fondée A
+cartographie et l'évaluation des SC-05/LIRE sur les 81 739 100 25-nov.-19
+dispositifs de l’éducation non consultants nale qualifications du posteriori
+formelle Consultant
+
+Recrutement d'un Cabinet pour Services de Ouverte/Inter Sélection fondée A
+réaliser l'audit organisationnel et SC-06/LIRE sur les 191 304 100 15-oct.-19
+institutionnel du MES et du MEP consultants nationale qualifications du posteriori
 Consultant
-34 783 100
-A 
-posteriori
-01-oct.-19
-Recrutement d'un bureau 
-d'études/Consultant pour réaliser la 
-cartographie et l'évaluation des 
-dispositifs de l’éducation non 
-formelle
-SC-05/LIRE
-Services de 
-consultants
-Ouverte/Natio
-nale
-Sélection fondée 
-sur les 
-qualifications du 
-Consultant
-81 739 100
-A 
-posteriori
-25-nov.-19
-Recrutement d'un Cabinet pour 
-réaliser l'audit organisationnel et 
-institutionnel du MES et du MEP
-SC-06/LIRE
-Services de 
-consultants
-Ouverte/Inter
-nationale
-Sélection fondée 
-sur les 
-qualifications du 
-Consultant
-191 304 100
-A 
-posteriori
-15-oct.-19
-Recrutement du Coordonnateur de 
-l’Unité de Gestion du Projet
-SC-07/LIRE
-Services de 
-consultants Ouverte
-Sélection de 
-Consultants 
+Recrutement du Coordonnateur de SC-07/LIRE Services de Sélection de 37 659 100 A 21-déc.-19
+l’Unité de Gestion du Projet consultants Ouverte Consultants posteriori
 Individuels
-37 659 100
-A 
-posteriori
-21-déc.-19
-Recrutement du spécialiste gestion 
-financière de l’Unité de Gestion du 
-Projet
-SC-08/LIRE
-Services de 
-consultants Ouverte
-Sélection de 
-Consultants 
+Recrutement du spécialiste gestion SC-08/LIRE Services de Sélection de 23 175 100 A 21-déc.-19
+financière de l’Unité de Gestion du consultants Ouverte Consultants posteriori
+Projet Individuels
+
+Recrutement du spécialiste SC-09/LIRE Services de Sélection de 21 726 100 A 21-déc.-19
+passation des marchés de l’Unité de consultants Ouverte Consultants posteriori
+Gestion du Projet Individuels
+
+Recrutement d’un comptable de SC-10/LIRE Services de Sélection de 14 484 100 A 21-déc.-19
+l’Unité de Gestion du Projet consultants Ouverte Consultants posteriori
 Individuels
-23 175 100
-A 
-posteriori
-21-déc.-19
-Recrutement du spécialiste 
-passation des marchés de l’Unité de 
-Gestion du Projet
-SC-09/LIRE
-Services de 
-consultants Ouverte
-Sélection de 
-Consultants 
-Individuels
-21 726 100
-A 
-posteriori
-21-déc.-19
-Recrutement d’un comptable de 
-l’Unité de Gestion du Projet
-SC-10/LIRE
-Services de 
-consultants Ouverte
-Sélection de 
-Consultants 
-Individuels
-14 484 100
-A 
-posteriori
-21-déc.-19
 
 
 --- Page 6 ---
+Catégorie Approche Montant % Date de
+Numéro de du marché/ Méthode de estimé financé Type de démarrag
+Description de passation Compétitio passation de (Dollars par la revue e prévue
+Référence de n marché US) Banque (jj/mm/aa
+marché aa)
+Recrutement d'un Sélection
+Consultant/cabinet pour réaliser la SC-11/LIRE Services de Ouverte/Inter Fondée sur la 1 020 869 100 A priori
+Géolocalisation des établissements consultants nationale Qualité et le 1-nov.-19
+(Primaire et Secondaire) Coût
 
-Description
-Numéro 
-de 
-Référence
-Catégorie 
-de 
-passation 
-de 
-marché
-Approche 
-du marché/ 
-Compétitio
-n
-Méthode de 
-passation de 
-marché
-Montant 
-estimé
-(Dollars 
-US)
-% 
-financé 
-par la 
-Banque
-Type de 
-revue
-Date de 
-démarrag
-e prévue
-(jj/mm/aa
-aa)
-Recrutement d'un 
-Consultant/cabinet pour réaliser la 
-Géolocalisation des établissements 
-(Primaire et Secondaire)
-  
-SC-11/LIRE
-Services de 
-consultants
-Ouverte/Inter
-nationale
-Sélection 
-Fondée sur la 
-Qualité et le 
-Coût
-1 020 869 100 A priori
-1-nov.-19
-Recrutement du consultant pour 
-appui à l’élaboration de la Stratégie 
-de Passation de Marchés de Projet 
-pour le Développement (PPSD)
-SC-12/LIRE
-Services de 
-consultants
-Restreinte
-Sélection de 
-Consultants 
+Recrutement du consultant pour
+appui à l’élaboration de la Stratégie SC-12/LIRE Services de Restreinte Sélection de 12 174 100 A 19-oct.-19
+de Passation de Marchés de Projet consultants Consultants posteriori
+pour le Développement (PPSD) Individuels
+
+Recrutement d’un spécialiste en SC-13/LIRE Services de Ouverte Sélection de 11 739 100 A 19-oct.-19
+sciences sociales consultants Consultants posteriori
 Individuels
-12 174 100
-A 
-posteriori
-19-oct.-19
-Recrutement d’un spécialiste en 
-sciences sociales
-SC-13/LIRE
-Services de 
-consultants
-Ouverte
-Sélection de 
-Consultants 
+Recrutement d'un expert en SC-13/LIRE Services de Ouverte Sélection de 11 739 100 A 19-oct.-19
+sciences environnementales consultants Consultants posteriori
 Individuels
-11 739 100
-A 
-posteriori
-19-oct.-19
-Recrutement d'un expert en 
-sciences environnementales
-SC-13/LIRE
-Services de 
-consultants
-Ouverte
-Sélection de 
-Consultants 
-Individuels
-11 739 100
-A 
-posteriori
-19-oct.-19
 
 
 --- Page 7 ---
-
-Page 1
-PROCUREMENT
-PLAN Niger : Niger Learning Improvement for Results in Education Project
+PROCUREMENT Niger : Niger Learning Improvement for Results in Education Project
+PLAN
 General Information
-Country: Niger Bank’s Approval Date of the Original Procurement Plan: 2020-01-03
-Revised Plan Date(s): (comma delineated, leave blank if none)2023-02-13
+Country: Niger Bank’s Approval Date of the Original Procurement Plan2: 020-01-03
+Revised Plan Date(s): (comma delineated, leave blank i2f0 n2o3n-0e2)-13
 Project ID: P168779 GPN Date: 2021-03-29
 Project Name: Niger Learning Improvement for Results in Education Project
 Loan / Credit No: IDA / V2910, IDA / D5800, IDA / 65720
-Executing Agency(ies):PROJET LIRE
+Executing Agency(iePsR)O:JET LIRE
+
 WORKS
-Activity Reference No. /
-Description Loan / Credit N
-o. Component Review Type Method Market Approac
-h
-Procurement Pro
-cess
-Prequalification
-(Y/N)
-High SEA/SH Ri
-sk
-Procureme
-nt Docume
-nt Type
-Actual Am
-ount (US$
-)
-Process St
-atus
-Draft Pre-qualification
-Documents
-Prequalification Evalu
-ation Report
- Draft Bidding Docum
-ent / Justification
-Specific Procurement
-Notice / Invitation
-Bidding Documents a
-s Issued
-Proposal Submission /
-Opening / Minutes
-Bid Evaluation Report
-and Recommendation
-for Award
-Signed Contract Contract Complet
-ion
+Activity Reference No. / Loan / Credit N Market Approac Procurement Pro Prequalification High SEA/SH Ri Procureme Actual Am Process St Draft Pre-qualification Prequalification Evalu Draft Bidding Docum Specific Procurement Bidding Documents a Proposal Submission / Bid Evaluation Report Contract Complet
+Description o. Component Review Type Method h cess (Y/N) sk nt Docume ount (US$ atus Documents ation Report ent / Justification Notice / Invitation s Issued Opening / Minutes and Recommendation Signed Contract ion
+nt Type ) for Award
 Planned Actual Planned Actual Planned Actual Planned Actual Planned Actual Planned Actual Planned Actual Planned Actual Planned Actual
- NE-PRODEC-192406-CW-RF
-Q / Travaux d'aménagement
+
+NE-PRODEC-192406-CW-RF Project Administration and C Single Stage - One E 2021-05-1 2020-10
+Q / Travaux d'aménagement IDA / 65720 oordination A posteriori Demande de prix Limited nvelope 26,546.57 Achevé 2020-09-20 2020-10-28 2020-11-15 2020-09-25 4 -28
 des locaux de l'UCP/LIRE
-IDA / 65720 Project Administration and C
-oordination A posteriori Demande de prix Limited Single Stage - One E
-nvelope 26,546.57 Achevé 2020-09-20 2020-10-28 2020-11-15 2020-09-25 2021-05-1
-4
-2020-10
--28
- NE-LIRE-204787-CW-RFQ / T
-ravaux d'aménagement des l
+
+NE-LIRE-204787-CW-RFQ / T Project Administration and C Single Stage - One E En attente d 2021-07-2
+ravaux d'aménagement des l IDA / D5800 oordination A posteriori Demande de prix Limited nvelope 0.00 'exécution 2020-12-05 2021-01-30 9
 ocaux de Cinq (5) URCP du pr
-ojet  LIRE
-IDA / D5800 Project Administration and C
-oordination A posteriori Demande de prix Limited Single Stage - One E
-nvelope 0.00 En attente d
-'exécution 2020-12-05 2021-01-30 2021-07-2
-9
- NE-P-LIRE-297623-CW-RFQ /
-Travaux de construction de tr
-ois (03) supports (dallage) de
-s classes Digitales en Bétons
-armé  dans la Région de Tah
-oua
-IDA / D5800 Project Administration and C
-oordination A posteriori Demande de prix Limited Single Stage - One E
-nvelope
+ojet LIRE
 Document na
-tional de pas
-sation des m
-archés - Proc
-essus à une
-enveloppe (D
+NE-P-LIRE-297623-CW-RFQ / tional de pas
+Travaux de construction de tr sation des m
+ois (03) supports (dallage) de IDA / D5800 Project Administration and C A posteriori Demande de prix Limited Single Stage - One E archés - Proc 0.00 En attente d 2022-09-27 2022-11-22 2023-05-2
+s classes Digitales en Bétons oordination nvelope essus à une 'exécution 1
+armé dans la Région de Tah enveloppe (D
+oua TPM ne prov
+enant pas de
+la Banque)
+Document na
+NE-P-LIRE-297625-CW-RFQ / tional de pas
+Travaux de construction de q sation des m
+uatre (04) supports (dallage) IDA / D5800 Project Administration and C A posteriori Demande de prix Limited Single Stage - One E archés - Proc 0.00 En attente d 2022-09-27 2022-11-22 2023-05-2
+des classes Digitales en Béto oordination nvelope essus à une 'exécution 1
+ns armé dans la Région de Z enveloppe (D
+INDER TPM ne prov
+enant pas de
+la Banque)
+Document na
+NE-P-LIRE-297626-CW-RFQ / tional de pas
+Travaux de construction de tr sation des m
+ois (03) supports (dallage) de IDA / D5800 Project Administration and C A posteriori Demande de prix Limited Single Stage - One E archés - Proc 0.00 En attente d 2022-07-27 2022-09-21 2023-03-2
+s classes Digitales en Bétons oordination nvelope essus à une 'exécution 0
+armé dans la Région de DIFF enveloppe (D
+A TPM ne prov
+enant pas de
+lDao Bcaunmqeunet) na
+NE-P-LIRE-297627-CW-RFQ / tional de pas
+Travaux de construction de Q sation des m
+uatre (04) supports (dallage) IDA / D5800 Project Administration and C A posteriori Demande de prix Limited Single Stage - One E archés - Proc 0.00 En attente d 2022-09-27 2022-11-22 2023-05-2
+des classes Digitales en Béto oordination nvelope essus à une 'exécution 1
+ns armé dans la Région de M enveloppe (D
+ARADI TPM ne prov
+enant pas de
+lDao Bcaunmqeunet) na
+NE-P-LIRE-297628-CW-RFQ / tional de pas
+Travaux de construction de tr sation des m
+ois (03) supports (dallage) de IDA / D5800 Project Administration and C A posteriori Demande de prix Limited Single Stage - One E archés - Proc 0.00 En attente d 2022-09-27 2022-11-22 2023-05-2
+s classes Digitales en Bétons oordination nvelope essus à une 'exécution 1
+armé dans la Région de TILL enveloppe (D
+ABEY TPM ne prov
+enant pas de
+lDao Bcaunmqeunet) na
+NE-P-LIRE-297629-CW-RFQ / tional de pas
+Travaux de construction de tr sation des m
+ois (03) supports (dallage) de IDA / D5800 Project Administration and C A posteriori Demande de prix Limited Single Stage - One E archés - Proc 0.00 En attente d 2022-09-27 2022-11-22 2023-05-2
+s classes Digitales en Bétons oordination nvelope essus à une 'exécution 1
+armé dans la Région de NIA enveloppe (D
+MEY TPM ne prov
+enant pas de
+lDao Bcaunmqeunet) na
+NE-P-LIRE-297635-CW-RFQ / tional de pas
+Travaux de construction de d sation des m
+eux (02) supports (dallage) d IDA / D5800 Project Administration and C A posteriori Demande de prix Limited Single Stage - One E archés - Proc 0.00 En attente d 2022-09-27 2022-11-22 2023-05-2
+es classes Digitales en Béton oordination nvelope essus à une 'exécution 1
+s armé dans la Région de DO enveloppe (D
+SSO TPM ne prov
+enant pas de
+lDao Bcaunmqeunet) na
+NE-P-LIRE-297638-CW-RFQ / tional de pas
+Travaux de construction d'un sation des m
+(01) supports (dallage) des cl IDA / D5800 Project Administration and C A posteriori Demande de prix Limited Single Stage - One E archés - Proc 0.00 En attente d 2022-09-27 2022-11-22 2023-05-2
+asses Digitales en Bétons ar oordination nvelope essus à une 'exécution 1
+mé au niveau de l'ENI d'Agad enveloppe (D
+ez TPM ne prov
+enant pas de
+lDao Bcaunmqeunet) na
+NE-P-LIRE-297801-CW-RFB / tional de pas
+Travaux de réhabilitation et a Strengthening Systems and sation des m
+ménagement des écoles ann IDA / D5800 Capacities for the Delivery o A posteriori Appel d'offres Open - National Single Stage - One E archés - Proc 0.00 En attente d 2022-10-30 2022-11-04 2022-12-16 2023-01-15 2023-02-19 2023-08-1
+exes et école de formation d f Education Services nvelope essus à une 'exécution 8
+es enseignants existantes enveloppe (D
 TPM ne prov
 enant pas de
 la Banque)
-0.00 En attente d
-'exécution 2022-09-27 2022-11-22 2023-05-2
-1
- NE-P-LIRE-297625-CW-RFQ /
-Travaux de construction de q
-uatre (04) supports (dallage)
-des classes Digitales en Béto
-ns armé  dans la Région de Z
-INDER
-IDA / D5800 Project Administration and C
-oordination A posteriori Demande de prix Limited Single Stage - One E
-nvelope
-Document na
-tional de pas
-sation des m
-archés - Proc
-essus à une
-enveloppe (D
-TPM ne prov
-enant pas de
-la Banque)
-0.00 En attente d
-'exécution 2022-09-27 2022-11-22 2023-05-2
-1
- NE-P-LIRE-297626-CW-RFQ /
-Travaux de construction de tr
-ois (03) supports (dallage) de
-s classes Digitales en Bétons
-armé  dans la Région de DIFF
-A
-IDA / D5800 Project Administration and C
-oordination A posteriori Demande de prix Limited Single Stage - One E
-nvelope
-Document na
-tional de pas
-sation des m
-archés - Proc
-essus à une
-enveloppe (D
-TPM ne prov
-enant pas de
-la Banque)
-0.00 En attente d
-'exécution 2022-07-27 2022-09-21 2023-03-2
-0
- NE-P-LIRE-297627-CW-RFQ /
-Travaux de construction de Q
-uatre (04) supports (dallage)
-des classes Digitales en Béto
-ns armé  dans la Région de M
-ARADI
-IDA / D5800 Project Administration and C
-oordination A posteriori Demande de prix Limited Single Stage - One E
-nvelope
-Document na
-tional de pas
-sation des m
-archés - Proc
-essus à une
-enveloppe (D
-TPM ne prov
-enant pas de
-la Banque)
-0.00 En attente d
-'exécution 2022-09-27 2022-11-22 2023-05-2
-1
- NE-P-LIRE-297628-CW-RFQ /
-Travaux de construction de tr
-ois (03) supports (dallage) de
-s classes Digitales en Bétons
-armé  dans la Région de TILL
-ABEY
-IDA / D5800 Project Administration and C
-oordination A posteriori Demande de prix Limited Single Stage - One E
-nvelope
-Document na
-tional de pas
-sation des m
-archés - Proc
-essus à une
-enveloppe (D
-TPM ne prov
-enant pas de
-la Banque)
-0.00 En attente d
-'exécution 2022-09-27 2022-11-22 2023-05-2
-1
- NE-P-LIRE-297629-CW-RFQ /
-Travaux de construction de tr
-ois (03) supports (dallage) de
-s classes Digitales en Bétons
-armé  dans la Région de NIA
-MEY
-IDA / D5800 Project Administration and C
-oordination A posteriori Demande de prix Limited Single Stage - One E
-nvelope
-Document na
-tional de pas
-sation des m
-archés - Proc
-essus à une
-enveloppe (D
-TPM ne prov
-enant pas de
-la Banque)
-0.00 En attente d
-'exécution 2022-09-27 2022-11-22 2023-05-2
-1
- NE-P-LIRE-297635-CW-RFQ /
-Travaux de construction de d
-eux (02) supports (dallage) d
-es classes Digitales en Béton
-s armé dans la Région de DO
-SSO
-IDA / D5800 Project Administration and C
-oordination A posteriori Demande de prix Limited Single Stage - One E
-nvelope
-Document na
-tional de pas
-sation des m
-archés - Proc
-essus à une
-enveloppe (D
-TPM ne prov
-enant pas de
-la Banque)
-0.00 En attente d
-'exécution 2022-09-27 2022-11-22 2023-05-2
-1
- NE-P-LIRE-297638-CW-RFQ /
-Travaux de construction d'un
-(01) supports (dallage) des cl
-asses Digitales en Bétons ar
-mé au niveau de l'ENI d'Agad
-ez
-IDA / D5800 Project Administration and C
-oordination A posteriori Demande de prix Limited Single Stage - One E
-nvelope
-Document na
-tional de pas
-sation des m
-archés - Proc
-essus à une
-enveloppe (D
-TPM ne prov
-enant pas de
-la Banque)
-0.00 En attente d
-'exécution 2022-09-27 2022-11-22 2023-05-2
-1
- NE-P-LIRE-297801-CW-RFB /
-Travaux de réhabilitation et a
-ménagement des écoles ann
-exes et école de formation d
-es enseignants existantes
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Appel d'offres Open - National Single Stage - One E
-nvelope
-Document na
-tional de pas
-sation des m
-archés - Proc
-essus à une
-enveloppe (D
-TPM ne prov
-enant pas de
-la Banque)
-0.00 En attente d
-'exécution 2022-10-30 2022-11-04 2022-12-16 2023-01-15 2023-02-19 2023-08-1
-8
+
 GOODS
-Activity Reference No. /
-Description Loan / Credit N
-o. Component Review Type Method Market Approac
-h
-Procurement Pro
-cess
-Prequalification
-(Y/N)
-Actual Amount
-(US$)
-Process St
-atus
-Draft Pre-qualification
-Documents
-Prequalification Evalu
-ation Report
- Draft Bidding Docum
-ent / Justification
-Specific Procurement
-Notice / Invitation
-Bidding Documents a
-s Issued
-Proposal Submission /
-Opening / Minutes
-Bid Evaluation Report
-and Recommendation
+Activity Reference No. / Loan / Credit N Market Approac Procurement Pro Prequalification Actual Amount Process St Draft Pre-qualification Prequalification Evalu Draft Bidding Docum Specific Procurement Bidding Documents a Proposal Submission / Bid Evaluation Report
+Description o. Component Review Type Method h cess (Y/N) (US$) atus Documents ation Report ent / Justification Notice / Invitation s Issued Opening / Minutes and Recommendation Signed Contract Contract Completion
 for Award
-Signed Contract Contract Completion
 Planned Actual Planned Actual Planned Actual Planned Actual Planned Actual Planned Actual Planned Actual Planned Actual Planned Actual
- NE-LIRE-150566-GO-RFP / Ac
-quisition de 200 Tablettes IDA / V2910 Project advance A posteriori Demande de prix Open - National Single Stage - One E
-nvelope 63,306.55 Signé 2019-12-30 2020-02-24 2022-02-05 2020-08-22
- NE-LIRE-164107-GO-RFQ / A
-cquisition des mobiliers de b
+
+NE-LIRE-150566-GO-RFP / Ac IDA / V2910 Project advance A posteriori Demande de prix Open - National Single Stage - One E 63,306.55 Signé 2019-12-30 2020-02-24 2022-02-05 2020-08-22
+quisition de 200 Tablettes nvelope
+
+NE-LIRE-164107-GO-RFQ / A IDA / V2910 Project Administration and C A posteriori Demande de prix Limited Single Stage - One E 0.00 En attente d' 2020-04-29 2020-06-24 2020-12-21
+cquisition des mobiliers de b oordination nvelope exécution
 ureau
-IDA / V2910 Project Administration and C
-oordination A posteriori Demande de prix Limited Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2020-04-29 2020-06-24 2020-12-21
- NE-LIRE-200744-GO-RFQ / A
-cquisition des matériels infor
+
+NE-LIRE-200744-GO-RFQ / A Project Administration and C Single Stage - One E En attente d'
+cquisition des matériels infor IDA / D5800 oordination A posteriori Demande de prix Limited nvelope 0.00 exécution 2020-11-25 2021-01-20 2021-07-19
 matiques au profit de l'UCP d
 u Projet LIRE
-IDA / D5800 Project Administration and C
-oordination A posteriori Demande de prix Limited Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2020-11-25 2021-01-20 2021-07-19
- NE-LIRE-204792-GO-RFB / Ac
-quisition des dix(10) véhicule
-s  pour projet  LIRE
-IDA / D5800 Project Administration and C
-oordination A posteriori Appel d'offres Open - Internationa
-l
-Single Stage - One E
-nvelope 712,985.72 Signé 2020-11-30 2021-01-12 2020-12-05 2021-01-13 2021-01-16 2021-03-02 2021-02-15 2021-03-09 2021-03-22 2021-04-07 2021-09-18
+
+NE-LIRE-204792-GO-RFB / Ac Project Administration and C Open - Internationa Single Stage - One E
+quisition des dix(10) véhicule IDA / D5800 oordination A posteriori Appel d'offres l nvelope 712,985.72 Signé 2020-11-30 2021-01-12 2020-12-05 2021-01-13 2021-01-16 2021-03-02 2021-02-15 2021-03-09 2021-03-22 2021-04-07 2021-09-18
+s pour projet LIRE
+
+Page 1
 
 
 --- Page 8 ---
-
-Page 2
- NE-LIRE-205398-GO-RFB / Ac
-quisition et installation des 0
+NE-LIRE-205398-GO-RFB / Ac Project Administration and C Single Stage - One E
+quisition et installation des 0 IDA / D5800 oordination A posteriori Appel d'offres Open - National nvelope 276,263.32 Signé 2020-12-15 2021-01-25 2020-12-20 2021-01-31 2021-03-01 2021-03-02 2021-03-08 2021-04-06 2021-04-07 2021-10-03
 7 kits de vidéo conférence
-IDA / D5800 Project Administration and C
-oordination A posteriori Appel d'offres Open - National Single Stage - One E
-nvelope 276,263.32 Signé 2020-12-15 2021-01-25 2020-12-20 2021-01-31 2021-03-01 2021-03-02 2021-03-08 2021-04-06 2021-04-07 2021-10-03
- NE-LIRE-205504-GO-DIR / Ac
-quisition des 23 digitrucks IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
+
+NE-LIRE-205504-GO-DIR / Ac Strengthening Systems and Passation de marc
+quisition des 23 digitrucks IDA / D5800 Capacities for the Delivery o A posteriori hé de gré à gré 0.00 Annulé 2021-01-05 2021-01-10 2021-02-14 2021-08-13
 f Education Services
-A posteriori Passation de marc
-hé de gré à gré 0.00 Annulé 2021-01-05 2021-01-10 2021-02-14 2021-08-13
- NE-LIRE-205400-GO-DIR / Ac
-quisition et installation de 30
-kits d'internet  Poulsat
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Passation de marc
-hé de gré à gré Direct 300,792.50 Signé 2021-01-15 2022-09-29 2021-01-20 2022-09-29 2021-02-24 2022-04-22 2021-08-23
- NE-LIRE-219883-GO-RFQ / A
-cquisition d'un groupe électr
+
+NE-LIRE-205400-GO-DIR / Ac Strengthening Systems and Passation de marc
+quisition et installation de 30 IDA / D5800 Capacities for the Delivery o A posteriori hé de gré à gré Direct 300,792.50 Signé 2021-01-15 2022-09-29 2021-01-20 2022-09-29 2021-02-24 2022-04-22 2021-08-23
+kits d'internet Poulsat f Education Services
+
+NE-LIRE-219883-GO-RFQ / A Project Administration and C Single Stage - One E
+cquisition d'un groupe électr IDA / D5800 oordination A posteriori Demande de prix Limited nvelope 45,281.67 Achevé 2021-03-30 2021-03-08 2021-06-16 2021-03-26 2021-07-16 2021-05-04
 ogène au profit du Projet NIG
 ER-LIRE
-IDA / D5800 Project Administration and C
-oordination A posteriori Demande de prix Limited Single Stage - One E
-nvelope 45,281.67 Achevé 2021-03-30 2021-03-08 2021-06-16 2021-03-26 2021-07-16 2021-05-04
- NE-P-LIRE-246144-GO-RFQ /
-Acquisition de matériel infor
+
+NE-P-LIRE-246144-GO-RFQ / Project Administration and C Single Stage - One E En attente d'
+Acquisition de matériel infor IDA / D5800 oordination A posteriori Demande de prix Limited nvelope 0.00 exécution 2021-08-28 2021-10-23 2021-11-22
 matique pour les URAT et UC
 P
-IDA / D5800 Project Administration and C
-oordination A posteriori Demande de prix Limited Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2021-08-28 2021-10-23 2021-11-22
- NE-P-LIRE-246146-GO-RFQ /
-Acquisition des mobiliers pou
+
+NE-P-LIRE-246146-GO-RFQ / IDA / D5800 Project Administration and C A posteriori Demande de prix Limited Single Stage - One E 59,719.45 Achevé 2021-08-28 2021-07-29 2021-10-23 2021-08-12 2021-11-22 2021-08-26
+Acquisition des mobiliers pou oordination nvelope
 r les URAT
-IDA / D5800 Project Administration and C
-oordination A posteriori Demande de prix Limited Single Stage - One E
-nvelope 59,719.45 Achevé 2021-08-28 2021-07-29 2021-10-23 2021-08-12 2021-11-22 2021-08-26
- NE-P-LIRE-250098-GO-RFQ /
-Multiplication des livrets  pou
+
+NE-P-LIRE-250098-GO-RFQ / Improving Teaching Practice Single Stage - One E En attente d'
+Multiplication des livrets pou IDA / D5800 s A posteriori Demande de prix Limited nvelope 0.00 exécution 2021-10-06 2021-12-01 2022-05-30
 r 14612 élèves
-IDA / D5800 Improving Teaching Practice
-s A posteriori Demande de prix Limited Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2021-10-06 2021-12-01 2022-05-30
- NE-P-LIRE-250100-GO-RFQ /
-Reproduction des copies des
+
+NE-P-LIRE-250100-GO-RFQ / Improving Teaching Practice Single Stage - One E En attente d'
+Reproduction des copies des IDA / D5800 s A posteriori Demande de prix Limited nvelope 0.00 exécution 2021-10-06 2021-12-01 2022-05-30
 tests de niveau
-IDA / D5800 Improving Teaching Practice
-s A posteriori Demande de prix Limited Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2021-10-06 2021-12-01 2022-05-30
- NE-P-LIRE-250101-GO-RFB /
-Acquisition d'équipements de
-440 centres  en classes d'urg
+
+NE-P-LIRE-250101-GO-RFB / Strengthening Systems and Open - Internationa Single Stage - One E
+Acquisition d'équipements de IDA / D5800 Capacities for the Delivery o A posteriori Appel d'offres 0.00 Annulé 2021-11-30 2021-12-05 2022-01-19 2022-02-18 2022-03-25 2022-06-23
+440 centres en classes d'urg f Education Services l nvelope
 ence (Tentes)
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Appel d'offres Open - Internationa
-l
-Single Stage - One E
-nvelope 0.00 Annulé 2021-11-30 2021-12-05 2022-01-19 2022-02-18 2022-03-25 2022-06-23
- NE-P-LIRE-250102-GO-RFB /
-Acquisition des supports dida
+
+NE-P-LIRE-250102-GO-RFB / Improving Teaching Practice Single Stage - One E En attente d'
+Acquisition des supports dida IDA / D5800 s A posteriori Appel d'offres Open - National nvelope 0.00 exécution 2021-10-30 2021-11-04 2021-12-16 2022-01-15 2022-02-19 2022-08-18
 ctiques des centres
-IDA / D5800 Improving Teaching Practice
-s A posteriori Appel d'offres Open - National Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2021-10-30 2021-11-04 2021-12-16 2022-01-15 2022-02-19 2022-08-18
- NE-P-LIRE-250103-GO-RFB /
+
+NE-P-LIRE-250103-GO-RFB /
 Acquisition des équipement
-matériel des administrateurs
-et utilisateurs centraux et dé
+matériel des administrateurs Improving Teaching Practice Single Stage - One E
+et utilisateurs centraux et dé IDA / D5800 s A posteriori Appel d'offres Open - National nvelope 0.00 Annulé 2021-10-30 2021-11-04 2021-12-16 2022-01-15 2022-02-19 2022-08-18
 concentrés (ordinateurs port
 ables et de bureau, onduleur
 s, rétroprojecteurs, photocopi
 eurs, imprimantes et scanner
 s)
-IDA / D5800 Improving Teaching Practice
-s A posteriori Appel d'offres Open - National Single Stage - One E
-nvelope 0.00 Annulé 2021-10-30 2021-11-04 2021-12-16 2022-01-15 2022-02-19 2022-08-18
- NE-P-LIRE-250109-GO-RFQ /
-Acquisition de Motos coursier
+NE-P-LIRE-250109-GO-RFQ / Improving Teaching Practice Single Stage - One E En attente d'
+Acquisition de Motos coursier IDA / D5800 s A posteriori Demande de prix Limited nvelope 0.00 exécution 2021-10-25 2021-12-20 2022-02-18
 s UCP et URAT
-IDA / D5800 Improving Teaching Practice
-s A posteriori Demande de prix Limited Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2021-10-25 2021-12-20 2022-02-18
- NE-P-LIRE-252092-GO-RFQ /
-Acquisition des Groupes élect
+
+NE-P-LIRE-252092-GO-RFQ / Improving Teaching Practice Single Stage - One E En cours d'ex
+Acquisition des Groupes élect IDA / D5800 s A posteriori Demande de prix Limited nvelope 0.00 écution 2021-11-04 2022-02-05 2021-12-30 2022-03-30
 rogènes pour les 5 URAT
-IDA / D5800 Improving Teaching Practice
-s A posteriori Demande de prix Limited Single Stage - One E
-nvelope 0.00 En cours d'ex
-écution 2021-11-04 2022-02-05 2021-12-30 2022-03-30
- NE-P-LIRE-258219-GO-RFB /
-Acquisition d'équipements pé
+
+NE-P-LIRE-258219-GO-RFB / Improving Teaching Practice Single Stage - One E En attente d'
+Acquisition d'équipements pé IDA / D5800 s A posteriori Appel d'offres Open - National nvelope 0.00 exécution 2021-12-31 2022-01-15 2022-02-14 2022-03-16 2022-04-21 2022-10-18
 dagogiques pour Mini CAPED,
 CAPED et UP
-IDA / D5800 Improving Teaching Practice
-s A posteriori Appel d'offres Open - National Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2021-12-31 2022-01-15 2022-02-14 2022-03-16 2022-04-21 2022-10-18
- NE-P-LIRE-258229-GO-RFQ /
-Acquisition des ordinateurs p
-ortables pour les homologues
+
+NE-P-LIRE-258229-GO-RFQ /
+Acquisition des ordinateurs p IDA / D5800 Project Administration and C A posteriori Demande de prix Limited Single Stage - One E 15,645.80 Achevé 2021-11-28 2021-10-13 2022-01-23 2021-10-26 2022-02-22 2021-11-01
+ortables pour les homologues oordination nvelope
 du Projet NIGER LIRE
-IDA / D5800 Project Administration and C
-oordination A posteriori Demande de prix Limited Single Stage - One E
-nvelope 15,645.80 Achevé 2021-11-28 2021-10-13 2022-01-23 2021-10-26 2022-02-22 2021-11-01
- NE-P-LIRE-260564-GO-RFB /
+
+NE-P-LIRE-260564-GO-RFB /
 Acquisition et transport des é
 quipements matériels des ad
-ministrateurs et utilisateurs c
-entraux et déconcentrés (ord
+ministrateurs et utilisateurs c IDA / D5800 Improving Teaching Practice A posteriori Appel d'offres Open - National Single Stage - One E 197,818.92 Signé 2021-12-30 2022-07-17 2022-01-04 2022-02-03 2022-01-03 2022-03-05 2022-07-17 2022-04-09 2022-04-22 2022-07-08
+entraux et déconcentrés (ord s nvelope
 inateurs portables et de bure
 au, onduleurs, rétroprojecteu
 rs, photocopieurs, imprimant
 es et scanners)
-IDA / D5800 Improving Teaching Practice
-s A posteriori Appel d'offres Open - National Single Stage - One E
-nvelope 197,818.92 Signé 2021-12-30 2022-07-17 2022-01-04 2022-02-03 2022-01-03 2022-03-05 2022-07-17 2022-04-09 2022-04-22 2022-07-08
- NE-P-LIRE-260580-GO-RFB /
-Reproduction et distribution
+
+NE-P-LIRE-260580-GO-RFB / Improving Teaching Practice Open - Internationa Single Stage - One E En attente d'
+Reproduction et distribution IDA / D5800 s A posteriori Appel d'offres l nvelope 0.00 exécution 2021-12-30 2022-01-04 2022-02-15 2022-03-17 2022-04-21 2022-07-20
 des livres lecture au sahel (v
 olet REACH)
-IDA / D5800 Improving Teaching Practice
-s A posteriori Appel d'offres Open - Internationa
-l
-Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2021-12-30 2022-01-04 2022-02-15 2022-03-17 2022-04-21 2022-07-20
- NE-P-LIRE-260582-GO-RFB /
-Reproduction et distribution 
-des livres  à la maison (READ
+
+NE-P-LIRE-260582-GO-RFB / Improving Teaching Practice Open - Internationa Single Stage - One E
+Reproduction et distribution IDA / D5800 A posteriori Appel d'offres 185,300.29 Signé 2021-12-30 2022-04-11 2022-01-04 2022-04-12 2022-02-18 2022-05-31 2022-03-20 2022-09-29 2022-04-24 2022-09-16 2022-07-23
+des livres à la maison (READ s l nvelope
 @ home )
-IDA / D5800 Improving Teaching Practice
-s A posteriori Appel d'offres Open - Internationa
-l
-Single Stage - One E
-nvelope 185,300.29 Signé 2021-12-30 2022-04-11 2022-01-04 2022-04-12 2022-02-18 2022-05-31 2022-03-20 2022-09-29 2022-04-24 2022-09-16 2022-07-23
- NE-P-LIRE-260705-GO-RFB /
-Acquisition et installation de
-23 classes Digitales (DIGITRU
+
+NE-P-LIRE-260705-GO-RFB / Strengthening Systems and Open - Internationa Single Stage - One E En cours d'ex
+Acquisition et installation de IDA / D5800 Capacities for the Delivery o A priori Appel d'offres l nvelope 0.00 amen 2021-12-30 2022-01-04 2022-02-18 2022-03-20 2022-04-24 2022-10-21
+23 classes Digitales (DIGITRU f Education Services
 CKS)
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A priori Appel d'offres Open - Internationa
-l
-Single Stage - One E
-nvelope 0.00 En cours d'ex
-amen 2021-12-30 2022-01-04 2022-02-18 2022-03-20 2022-04-24 2022-10-21
- NE-P-LIRE-260849-GO-RFQ /
-Acquisition de 6 coffres-forts
+
+NE-P-LIRE-260849-GO-RFQ / Project Administration and C Single Stage - One E
+Acquisition de 6 coffres-forts IDA / D5800 oordination A posteriori Demande de prix Limited nvelope 9,641.75 Signé 2022-01-04 2022-02-05 2022-03-01 2021-12-28 2022-03-31
 pour l'UCP et les URAT
-IDA / D5800 Project Administration and C
-oordination A posteriori Demande de prix Limited Single Stage - One E
-nvelope 9,641.75 Signé 2022-01-04 2022-02-05 2022-03-01 2021-12-28 2022-03-31
- NE-P-LIRE-279631-GO-RFQ /
-Acquisition et installation de
-23 classes Digitales (DIGITRU
+
+NE-P-LIRE-279631-GO-RFQ / Strengthening Systems and Single Stage - One E
+Acquisition et installation de IDA / D5800 Capacities for the Delivery o A priori Demande de prix Limited nvelope 1,823,975.99 Signé 2022-06-05 2022-07-14 2022-07-31 2022-09-05 2023-01-27
+23 classes Digitales (DIGITRU f Education Services
 CKS)
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A priori Demande de prix Limited Single Stage - One E
-nvelope 1,823,975.99 Signé 2022-06-05 2022-07-14 2022-07-31 2022-09-05 2023-01-27
- NE-P-LIRE-279791-GO-DIR /
-Acquisition et l’installation de
-s classes d’urgence en tente
-Equipées  dans le cadre d'un
+
+NE-P-LIRE-279791-GO-DIR /
+Acquisition et l’installation de Strengthening Systems and Passation de marc
+s classes d’urgence en tente IDA / D5800 Capacities for the Delivery o A priori hé de gré à gré Direct 5,634,974.00 Signé 2022-05-31 2022-04-19 2022-06-05 2022-04-21 2022-07-20 2022-05-16 2022-10-18
+Equipées dans le cadre d'un f Education Services
 e convention d’assistance te
 chnique avec l’UNICEF
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A priori Passation de marc
-hé de gré à gré Direct 5,634,974.00 Signé 2022-05-31 2022-04-19 2022-06-05 2022-04-21 2022-07-20 2022-05-16 2022-10-18
- NE-P-LIRE-280050-GO-RFQ /
-Acquisition de livres destinés
+
+NE-P-LIRE-280050-GO-RFQ / Improving Teaching Practice Single Stage - One E
+Acquisition de livres destinés IDA / D5800 s A posteriori Demande de prix Limited nvelope 238,820.86 Signé 2022-06-05 2022-07-16 2022-07-31 2022-06-12 2023-01-27
 aux bibliothèques des EN et
 de l'ENS LOT3
-IDA / D5800 Improving Teaching Practice
-s A posteriori Demande de prix Limited Single Stage - One E
-nvelope 238,820.86 Signé 2022-06-05 2022-07-16 2022-07-31 2022-06-12 2023-01-27
- NE-P-LIRE-280052-GO-RFQ /
-Acquisition de livres destinés
-aux bibliothèques des EN et
+
+NE-P-LIRE-280052-GO-RFQ / Improving Teaching Practice Single Stage - One E
+Acquisition de livres destinés IDA / D5800 A posteriori Demande de prix Limited 98,391.07 Signé 2022-06-05 2022-07-16 2022-07-31 2022-05-05 2023-01-27
+aux bibliothèques des EN et s nvelope
 de l'ENS LOT 5
-IDA / D5800 Improving Teaching Practice
-s A posteriori Demande de prix Limited Single Stage - One E
-nvelope 98,391.07 Signé 2022-06-05 2022-07-16 2022-07-31 2022-05-05 2023-01-27
- NE-P-LIRE-280053-GO-RFQ /
-Acquisition de livres destinés
+
+NE-P-LIRE-280053-GO-RFQ / Improving Teaching Practice Single Stage - One E En cours d'ex
+Acquisition de livres destinés IDA / D5800 s A posteriori Demande de prix Limited nvelope 0.00 écution 2022-06-05 2022-07-31 2023-01-27
 aux bibliothèques des EN et
 de l'ENS LOT6
-IDA / D5800 Improving Teaching Practice
-s A posteriori Demande de prix Limited Single Stage - One E
-nvelope 0.00 En cours d'ex
-écution 2022-06-05 2022-07-31 2023-01-27
+
+Page 2
 
 
 --- Page 9 ---
-
-Page 3
- NE-P-LIRE-280046-GO-RFQ /
-Acquisition de livres destinés
+NE-P-LIRE-280046-GO-RFQ / Improving Teaching Practice Single Stage - One E
+Acquisition de livres destinés IDA / D5800 s A posteriori Demande de prix Limited nvelope 12,008.03 Signé 2022-06-05 2022-07-16 2022-07-31 2022-05-05 2023-01-27
 aux bibliothèques des EN et
 de l'ENS LOT1
-IDA / D5800 Improving Teaching Practice
-s A posteriori Demande de prix Limited Single Stage - One E
-nvelope 12,008.03 Signé 2022-06-05 2022-07-16 2022-07-31 2022-05-05 2023-01-27
- NE-P-LIRE-280051-GO-RFQ /
-Acquisition de livres destinés
+
+NE-P-LIRE-280051-GO-RFQ / Improving Teaching Practice Single Stage - One E
+Acquisition de livres destinés IDA / D5800 s A posteriori Demande de prix Limited nvelope 163,415.43 Signé 2022-06-05 2022-07-16 2022-07-31 2022-07-12 2023-01-27
 aux bibliothèques des EN et
 de l'ENS LOT4
-IDA / D5800 Improving Teaching Practice
-s A posteriori Demande de prix Limited Single Stage - One E
-nvelope 163,415.43 Signé 2022-06-05 2022-07-16 2022-07-31 2022-07-12 2023-01-27
- NE-P-LIRE-280049-GO-RFQ /
-Acquisition de livres destinés
+
+NE-P-LIRE-280049-GO-RFQ / Improving Teaching Practice Single Stage - One E En cours d'ex
+Acquisition de livres destinés IDA / D5800 s A posteriori Demande de prix Limited nvelope 0.00 écution 2022-06-05 2022-07-17 2022-07-31 2023-01-27
 aux bibliothèques des EN et
 de l'ENS LOT2
-IDA / D5800 Improving Teaching Practice
-s A posteriori Demande de prix Limited Single Stage - One E
-nvelope 0.00 En cours d'ex
-écution 2022-06-05 2022-07-17 2022-07-31 2023-01-27
- NE-P-LIRE-260572-GO-DIR /
-Acquisition d'équipements de
-440 centres en classes d'urg
+
+NE-P-LIRE-260572-GO-DIR / Strengthening Systems and
+Acquisition d'équipements de IDA / D5800 Capacities for the Delivery o A posteriori Passation de marc Direct 0.00 Annulé 2021-12-30 2022-01-04 2022-02-18 2022-05-19
+440 centres en classes d'urg f Education Services hé de gré à gré
 ence (Tentes) avec l'UNICEF
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Passation de marc
-hé de gré à gré Direct 0.00 Annulé 2021-12-30 2022-01-04 2022-02-18 2022-05-19
- NE-P-LIRE-293245-GO-RFB /
+
+NE-P-LIRE-293245-GO-RFB /
 Acquisition de tablettes Spéci
-fiques et paramétrées pour l
-es enseignants de section sp
+fiques et paramétrées pour l IDA / D5800 Improving Teaching Practice A posteriori Appel d'offres Open - Internationa Single Stage - One E 0.00 En attente d' 2022-09-30 2022-10-05 2022-11-16 2022-12-16 2023-01-20 2023-07-19
+es enseignants de section sp s l nvelope exécution
 éciale , chefs d'établissemen
 ts LIRE et promotionnaires E
 NI (Contrat Cadre)
-IDA / D5800 Improving Teaching Practice
-s A posteriori Appel d'offres Open - Internationa
-l
-Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2022-09-30 2022-10-05 2022-11-16 2022-12-16 2023-01-20 2023-07-19
- NE-P-LIRE-258216-GO-RFB /
-Achat de ressources docume
-ntaires et pédagogiques (Mal
+
+NE-P-LIRE-258216-GO-RFB /
+Achat de ressources docume Improving Teaching Practice Single Stage - One E
+ntaires et pédagogiques (Mal IDA / D5800 s A posteriori Appel d'offres Open - National nvelope 0.00 Annulé 2021-12-30 2022-01-04 2022-02-03 2022-03-05 2022-04-09 2022-10-06
 lettes pédagogiques) pour Mi
 ni CAPED, CAPED et UP
-IDA / D5800 Improving Teaching Practice
-s A posteriori Appel d'offres Open - National Single Stage - One E
-nvelope 0.00 Annulé 2021-12-30 2022-01-04 2022-02-03 2022-03-05 2022-04-09 2022-10-06
- NE-P-LIRE-251661-GO-RFB /
-Acquisition de tablettes pour
-les enseignants de section sp
+
+NE-P-LIRE-251661-GO-RFB /
+Acquisition de tablettes pour Improving Teaching Practice Single Stage - One E
+les enseignants de section sp IDA / D5800 s A posteriori Appel d'offres Open - National nvelope 0.00 Annulé 2021-10-30 2021-11-04 2021-12-16 2022-01-15 2022-02-19 2022-08-18
 éciale , chefs d'établissemen
-ts LIRE et  promotionnaires E
+ts LIRE et promotionnaires E
 NI
-IDA / D5800 Improving Teaching Practice
-s A posteriori Appel d'offres Open - National Single Stage - One E
-nvelope 0.00 Annulé 2021-10-30 2021-11-04 2021-12-16 2022-01-15 2022-02-19 2022-08-18
- NE-P-LIRE-250096-GO-RFQ /
-Reproduction et distribution
+
+NE-P-LIRE-250096-GO-RFQ / Improving Teaching Practice Single Stage - One E
+Reproduction et distribution IDA / D5800 s A posteriori Demande de prix Limited nvelope 0.00 Annulé 2021-10-06 2021-12-01 2022-05-30
 de livres à la maison
-IDA / D5800 Improving Teaching Practice
-s A posteriori Demande de prix Limited Single Stage - One E
-nvelope 0.00 Annulé 2021-10-06 2021-12-01 2022-05-30
- NE-P-LIRE-252089-GO-RFB /
-Acquisition des équipements
-(Table-bancs, Armoires métal
-liques, Bureaux enseignants,
+
+NE-P-LIRE-252089-GO-RFB /
+Acquisition des équipements Strengthening Systems and Single Stage - One E
+(Table-bancs, Armoires métal IDA / D5800 Capacities for the Delivery o A posteriori Appel d'offres Open - National nvelope 0.00 Annulé 2021-11-30 2021-12-05 2022-01-04 2022-02-03 2022-03-10 2022-06-08
+liques, Bureaux enseignants, f Education Services
 chaises enseignants)
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Appel d'offres Open - National Single Stage - One E
-nvelope 0.00 Annulé 2021-11-30 2021-12-05 2022-01-04 2022-02-03 2022-03-10 2022-06-08
- NE-LIRE-205348-GO-RFQ / A
-chat de ressources document
-aires et pédagogiques (Malle
+
+NE-LIRE-205348-GO-RFQ / A
+chat de ressources document IDA / D5800 Improving Teaching Practice A posteriori Demande de prix Limited Single Stage - One E 0.00 Annulé 2020-12-20 2021-02-14 2021-08-13
+aires et pédagogiques (Malle s nvelope
 ttes pédagogiques) pour Mini
 CAPED, CAPED et UP
-IDA / D5800 Improving Teaching Practice
-s A posteriori Demande de prix Limited Single Stage - One E
-nvelope 0.00 Annulé 2020-12-20 2021-02-14 2021-08-13
- NE-P-LIRE-309522-GO-RFB /
+
+NE-P-LIRE-309522-GO-RFB /
 Acquisition de tablettes Spéci
-fiques et paramétrées pour l
-es enseignants de section sp
+fiques et paramétrées pour l IDA / D5800 Improving Teaching Practice A posteriori Appel d'offres Limited Single Stage - One E 0.00 En attente d' 2022-11-30 2022-12-05 2023-01-16 2023-02-15 2023-03-22 2023-09-18
+es enseignants de section sp s nvelope exécution
 éciale , chefs d'établissemen
 ts LIRE et promotionnaires E
 NI (Contrat Cadre)
-IDA / D5800 Improving Teaching Practice
-s A posteriori Appel d'offres Limited Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2022-11-30 2022-12-05 2023-01-16 2023-02-15 2023-03-22 2023-09-18
- NE-P-LIRE-320880-GO-RFQ /
-IMPRESSION DU MANUEL DE
+
+NE-P-LIRE-320880-GO-RFQ / Improving Teaching Practice Single Stage - One E En attente d'
+IMPRESSION DU MANUEL DE IDA / D5800 s A posteriori Demande de prix Limited nvelope 0.00 exécution 2023-01-04 2023-03-01 2023-08-28
 PROCEDURES RENOVE DU M
 EN
-IDA / D5800 Improving Teaching Practice
-s A posteriori Demande de prix Limited Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2023-01-04 2023-03-01 2023-08-28
- NE-P-LIRE-326271-GO-DIR /
+
+NE-P-LIRE-326271-GO-DIR /
 Acquisition de tablettes Spéci
-fiques et paramétrées pour l
-es enseignants de section sp
+fiques et paramétrées pour l IDA / D5800 Improving Teaching Practice A priori Passation de marc Direct - Internation 0.00 En cours d'ex 2022-12-31 2023-01-05 2023-02-09 2023-08-08
+es enseignants de section sp s hé de gré à gré al amen
 éciale , chefs d'établissemen
 ts LIRE et promotionnaires E
 NI (Contrat Cadre)
-IDA / D5800 Improving Teaching Practice
-s A priori Passation de marc
-hé de gré à gré
-Direct - Internation
-al 0.00 En cours d'ex
-amen 2022-12-31 2023-01-05 2023-02-09 2023-08-08
- NE-P-LIRE-326270-GO-DIR /
-Reproduction et distribution
-des manuels complémentaire
+
+NE-P-LIRE-326270-GO-DIR /
+Reproduction et distribution Improving Teaching Practice Passation de marc Direct - Internation En attente d'
+des manuels complémentaire IDA / D5800 s A posteriori hé de gré à gré al 0.00 exécution 2022-12-31 2023-01-05 2023-02-09 2023-08-08
 s de l'initiative des livres pou
-r la lecture  à la maison (REA
+r la lecture à la maison (REA
 D @ home )
-IDA / D5800 Improving Teaching Practice
-s A posteriori Passation de marc
-hé de gré à gré
-Direct - Internation
-al 0.00 En attente d'
-exécution 2022-12-31 2023-01-05 2023-02-09 2023-08-08
- NE-P-LIRE-327539-GO-RFB /
-Acquisition et transport des
-matériels Informatique au Pr
+
+NE-P-LIRE-327539-GO-RFB /
+Acquisition et transport des IDA / D5800 Improving Teaching Practice A posteriori Appel d'offres Open - National Single Stage - One E 0.00 En attente d' 2022-12-31 2023-01-05 2023-02-04 2023-03-06 2023-04-10 2023-07-09
+matériels Informatique au Pr s nvelope exécution
 ofit de CAPED et UP
-IDA / D5800 Improving Teaching Practice
-s A posteriori Appel d'offres Open - National Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2022-12-31 2023-01-05 2023-02-04 2023-03-06 2023-04-10 2023-07-09
- NE-P-LIRE-327541-GO-DIR /
-Acquisition des ressources Pé
-dagogiques (Ouvrages) au Pr
+
+NE-P-LIRE-327541-GO-DIR /
+Acquisition des ressources Pé IDA / D5800 Improving Teaching Practice A posteriori Passation de marc Direct - National 0.00 En attente d' 2023-03-31 2023-04-05 2023-05-10 2023-11-06
+dagogiques (Ouvrages) au Pr s hé de gré à gré exécution
 ofit des CAPED et UP
-IDA / D5800 Improving Teaching Practice
-s A posteriori Passation de marc
-hé de gré à gré Direct - National 0.00 En attente d'
-exécution 2023-03-31 2023-04-05 2023-05-10 2023-11-06
- NE-P-LIRE-338374-GO-RFB /
-Acquisition et transport des 
-matériels didactiques au prof
+
+NE-P-LIRE-338374-GO-RFB /
+Acquisition et transport des IDA / D5800 Improving Teaching Practice A posteriori Appel d'offres Open - National Single Stage - One E 0.00 En attente d' 2023-04-30 2023-05-05 2023-06-04 2023-07-04 2023-08-08 2023-11-06
+matériels didactiques au prof s nvelope exécution
 it des écoles normales et éco
 le Normale supérieur
-IDA / D5800 Improving Teaching Practice
-s A posteriori Appel d'offres Open - National Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2023-04-30 2023-05-05 2023-06-04 2023-07-04 2023-08-08 2023-11-06
- NE-P-LIRE-338381-GO-RFQ /
-Equipements les salles de soi
-ns des Ecoles Normales et Ec
+
+NE-P-LIRE-338381-GO-RFQ /
+Equipements les salles de soi IDA / D5800 Improving Teaching Practice A posteriori Demande de prix Limited Single Stage - One E 0.00 En attente d' 2023-05-04 2023-06-29 2023-12-26
+ns des Ecoles Normales et Ec s nvelope exécution
 ole Normale supérieure
-IDA / D5800 Improving Teaching Practice
-s A posteriori Demande de prix Limited Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2023-05-04 2023-06-29 2023-12-26
- NE-P-LIRE-338382-GO-RFQ /
-Impression et transport des p
+
+NE-P-LIRE-338382-GO-RFQ / Improving Teaching Practice Single Stage - One E En attente d'
+Impression et transport des p IDA / D5800 s A posteriori Demande de prix Limited nvelope 0.00 exécution 2023-05-30 2023-07-25 2024-01-21
 rogrammes des Ecoles Norm
 ales
-IDA / D5800 Improving Teaching Practice
-s A posteriori Demande de prix Limited Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2023-05-30 2023-07-25 2024-01-21
- NE-P-LIRE-338400-GO-RFQ /
-Acquisition d'une berline au
+
+NE-P-LIRE-338400-GO-RFQ / Improving Teaching Practice Single Stage - One E En attente d'
+Acquisition d'une berline au IDA / D5800 s A posteriori Demande de prix Limited nvelope 0.00 exécution 2023-05-04 2023-06-29 2023-12-26
 projet Niger LIRE
-IDA / D5800 Improving Teaching Practice
-s A posteriori Demande de prix Limited Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2023-05-04 2023-06-29 2023-12-26
- NE-P-LIRE-338403-GO-RFB /
+
+NE-P-LIRE-338403-GO-RFB /
 Acquisition et transport des o
-utils didactiques pour handic
-apés auditifs, visuels, physiq
+utils didactiques pour handic IDA / D5800 Improving Teaching Practice A posteriori Appel d'offres Open - National Single Stage - One E 0.00 En attente d' 2023-06-30 2023-07-05 2023-08-04 2023-09-03 2023-10-08 2024-01-06
+apés auditifs, visuels, physiq s nvelope exécution
 ues et mental (Education incl
 usive) des établissements pri
 maire et secondaire
-IDA / D5800 Improving Teaching Practice
-s A posteriori Appel d'offres Open - National Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2023-06-30 2023-07-05 2023-08-04 2023-09-03 2023-10-08 2024-01-06
- NE-P-LIRE-338414-GO-RFB /
-Reproduire et transporter  de
-s documents ( fiches, livre de
+
+NE-P-LIRE-338414-GO-RFB /
+Reproduire et transporter de IDA / D5800 Improving Teaching Practice A posteriori Appel d'offres Open - National Single Stage - One E 0.00 En attente d' 2023-04-29 2023-05-04 2023-06-03 2023-07-03 2023-08-07 2023-11-05
+s documents ( fiches, livre de s nvelope exécution
 l'élève et guides des facilitat
 eurs)du primaire
-IDA / D5800 Improving Teaching Practice
-s A posteriori Appel d'offres Open - National Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2023-04-29 2023-05-04 2023-06-03 2023-07-03 2023-08-07 2023-11-05
+
+Page 3
 
 
 --- Page 10 ---
-
-Page 4
- NE-P-LIRE-338419-GO-RFQ /
-Reproduire et distribuer les
+NE-P-LIRE-338419-GO-RFQ / Improving Teaching Practice Single Stage - One E En attente d'
+Reproduire et distribuer les IDA / D5800 s A posteriori Demande de prix Limited nvelope 0.00 exécution 2023-06-05 2023-07-31 2024-01-27
 manuels et guides de la DEF
 A
-IDA / D5800 Improving Teaching Practice
-s A posteriori Demande de prix Limited Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2023-06-05 2023-07-31 2024-01-27
- NE-P-LIRE-338423-GO-RFQ /
-Acquérir 7 pico projecteurs a
-u profit du secrétariat généra
+
+NE-P-LIRE-338423-GO-RFQ /
+Acquérir 7 pico projecteurs a IDA / D5800 Improving Teaching Practice A posteriori Demande de prix Limited Single Stage - One E 0.00 En attente d' 2023-07-05 2023-08-30 2024-02-26
+u profit du secrétariat généra s nvelope exécution
 l, les responsables des progr
 ammes et la DEP PM
-IDA / D5800 Improving Teaching Practice
-s A posteriori Demande de prix Limited Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2023-07-05 2023-08-30 2024-02-26
+
 NON CONSULTING SERVICES
-Activity Reference No. /
-Description Loan / Credit N
-o. Component Review Type Method Market Approac
-h
-Procurement Pro
-cess
-Prequalification
-(Y/N)
-Actual Amount
-(US$)
-Process St
-atus
-Draft Pre-qualification
-Documents
-Prequalification Evalu
-ation Report
- Draft Bidding Docum
-ent / Justification
-Specific Procurement
-Notice / Invitation
-Bidding Documents a
-s Issued
-Proposal Submission /
-Opening / Minutes
-Bid Evaluation Report
-and Recommendation
+Activity Reference No. / Loan / Credit N Market Approac Procurement Pro Prequalification Actual Amount Process St Draft Pre-qualification Prequalification Evalu Draft Bidding Docum Specific Procurement Bidding Documents a Proposal Submission / Bid Evaluation Report
+Description o. Component Review Type Method h cess (Y/N) (US$) atus Documents ation Report ent / Justification Notice / Invitation s Issued Opening / Minutes and Recommendation Signed Contract Contract Completion
 for Award
-Signed Contract Contract Completion
 Planned Actual Planned Actual Planned Actual Planned Actual Planned Actual Planned Actual Planned Actual Planned Actual Planned Actual
- NE-LIRE-200745-NC-DIR / fo
+
+NE-LIRE-200745-NC-DIR / fo
 urniture du Logiciel de Gestio
-n Comptable et Financière «
-Tom²pro » en Multi-Projets, M
+n Comptable et Financière « IDA / V2910 Project Administration and C A posteriori Passation de marc Direct 59,581.84 Signé 2020-11-20 2020-11-18 2020-11-25 2020-12-21 2020-12-30 2021-01-15 2021-06-28
+Tom²pro » en Multi-Projets, M oordination hé de gré à gré
 ulti-sites et Multi-Bailleurs po
 ur la gestion du Projet NIGER
 -LIRE
-IDA / V2910 Project Administration and C
-oordination A posteriori Passation de marc
-hé de gré à gré Direct 59,581.84 Signé 2020-11-20 2020-11-18 2020-11-25 2020-12-21 2020-12-30 2021-01-15 2021-06-28
- NE-P-LIRE-284469-NC-RFB /
-Elaborer /éditer de livres de l
-ecture au Sahel (livre de lect
+
+NE-P-LIRE-284469-NC-RFB / Strengthening Systems and
+Elaborer /éditer de livres de l IDA / D5800 Capacities for the Delivery o A posteriori Appel d'offres Limited Single Stage - One E 0.00 En attente d' 2022-06-30 2022-07-05 2022-08-16 2022-09-15 2022-10-20 2023-04-18
+ecture au Sahel (livre de lect f Education Services nvelope exécution
 ure en langue nationales, vol
 et reach)
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Appel d'offres Limited Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2022-06-30 2022-07-05 2022-08-16 2022-09-15 2022-10-20 2023-04-18
- NE-P-LIRE-293253-NC-RFQ /
-Hébergement sous domaine
-sécurisé de la plate forme de
+
+NE-P-LIRE-293253-NC-RFQ /
+Hébergement sous domaine Project Administration and C Single Stage - One E En attente d'
+sécurisé de la plate forme de IDA / D5800 oordination A posteriori Demande de prix Limited nvelope 0.00 exécution 2022-10-05 2022-11-30 2023-05-29
 la Base des Données informa
 tisées du Personnel du MEN
-IDA / D5800 Project Administration and C
-oordination A posteriori Demande de prix Limited Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2022-10-05 2022-11-30 2023-05-29
- NE-P-LIRE-297658-NC-RFQ /
-Transport et Distribution des
-manuels restant dans le cadr
+
+NE-P-LIRE-297658-NC-RFQ /
+Transport et Distribution des IDA / D5800 Project Administration and C A posteriori Demande de prix Limited Single Stage - One E 0.00 En attente d' 2022-09-27 2022-11-22 2023-05-21
+manuels restant dans le cadr oordination nvelope exécution
 e du test Track & Trace
-IDA / D5800 Project Administration and C
-oordination A posteriori Demande de prix Limited Single Stage - One E
-nvelope 0.00 En attente d'
-exécution 2022-09-27 2022-11-22 2023-05-21
+
 CONSULTING FIRMS
-Activity Reference No. /
-Description Loan / Credit N
-o. Component Review Type  Method Market Approac
-h
-Contract Type Actual Amount
-(US$) Process Status Terms of Reference Expression of Interest
-Notice
-Short List and Draft R
-equest for Proposals
-Request for Proposals
-as Issued
-Opening of Technical
-Proposals / Minutes
- Evaluation of Technic
-al Proposal
-Combined Evaluation
-Report and Draft Neg
+Activity Reference No. / Loan / Credit N Market Approac Contract Type Actual Amount Expression of Interest Short List and Draft R Request for Proposals Opening of Technical Evaluation of Technic Combined Evaluation
+Description o. Component Review Type Method h (US$) Process Status Terms of Reference Notice equest for Proposals as Issued Proposals / Minutes al Proposal Report and Draft Neg Signed Contract Contract Completion
 otiated Contract
-Signed Contract Contract Completion
 Planned Actual Planned Actual Planned Actual Planned Actual Planned Actual Planned Actual Planned Actual Planned Actual Planned Actual
- NE-LIRE-150577-CS-QCBS /
+
+NE-LIRE-150577-CS-QCBS /
 Recrutement d'un Consultant
-(bureau d'études) pour forme
-r une équipe nationale en tec
-hnique d’élaboration de leço
+(bureau d'études) pour forme Sélection fondée s
+r une équipe nationale en tec IDA / V2910 Project advance A posteriori ur la qualité et le Open - Internationa 0.00 En attente d'exéc 2019-12-25 2020-01-15 2020-02-28 2020-03-27 2020-04-26 2020-05-31 2020-07-05 2021-07-05
+hnique d’élaboration de leço coût l ution
 ns, exercices et corrigés mod
 èles. (Modélisation dans la fo
 rmation des enseignants : Pri
 maire et secondaire)
-IDA / V2910 Project advance A posteriori
-Sélection fondée s
-ur la qualité et le
-coût
-Open - Internationa
-l 0.00 En attente d'exéc
-ution 2019-12-25 2020-01-15 2020-02-28 2020-03-27 2020-04-26 2020-05-31 2020-07-05 2021-07-05
- NE-LIRE-150581-CS-CQS / Re
-crutement d'un Consultant (b
-ureau d'études) pour réaliser
-la cartographie et l'évaluatio
+
+NE-LIRE-150581-CS-CQS / Re
+crutement d'un Consultant (b Sélection fondée s
+ureau d'études) pour réaliser IDA / V2910 Project advance A posteriori ur les qualification Open - National 61,835.29 Signé 2019-12-25 2020-07-17 2020-01-15 2020-07-20 2020-02-28 2020-09-18 2020-03-29 2021-01-18 2020-05-03 2020-11-19 2020-10-30
+la cartographie et l'évaluatio s des consultants
 n des dispositifs de l’éducatio
 n non formelle
-IDA / V2910 Project advance A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - National 61,835.29 Signé 2019-12-25 2020-07-17 2020-01-15 2020-07-20 2020-02-28 2020-09-18 2020-03-29 2021-01-18 2020-05-03 2020-11-19 2020-10-30
- NE-LIRE-150583-CS-QCBS /
-Recrutement d'un Consultant
-(cabinet) pour réaliser la Géo
-localisation des établissemen
+
+NE-LIRE-150583-CS-QCBS /
+Recrutement d'un Consultant Sélection fondée s Open - Internationa
+(cabinet) pour réaliser la Géo IDA / V2910 Project advance A priori ur la qualité et le l 1,025,257.03 Signé 2019-12-25 2020-04-23 2020-01-15 2020-04-23 2020-02-28 2020-08-07 2020-03-27 2020-10-20 2020-04-26 2020-11-26 2020-05-31 2021-03-08 2020-07-05 2021-04-08 2021-07-05
+localisation des établissemen coût
 ts (du Primaire et du Second
 aire)
-IDA / V2910 Project advance A priori
-Sélection fondée s
-ur la qualité et le
-coût
-Open - Internationa
-l 1,025,257.03 Signé 2019-12-25 2020-04-23 2020-01-15 2020-04-23 2020-02-28 2020-08-07 2020-03-27 2020-10-20 2020-04-26 2020-11-26 2020-05-31 2021-03-08 2020-07-05 2021-04-08 2021-07-05
- NE-LIRE-150576-CS-CQS / Re
-crutement d’un Cabinet/Firm
-e pour élaborer le manuel de
-s procédures administratives,
+
+NE-LIRE-150576-CS-CQS / Re
+crutement d’un Cabinet/Firm Sélection fondée s
+e pour élaborer le manuel de IDA / V2910 Project Administration and C A posteriori ur les qualification Open - National 0.00 En cours d'exécut 2020-03-24 2020-04-28 2020-04-14 2020-05-05 2020-05-28 2020-07-11 2020-06-27 2020-08-01 2021-01-28
+s procédures administratives, oordination s des consultants ion
 comptables, financières et de
 passation des marchés
-IDA / V2910 Project Administration and C
-oordination A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - National 0.00 En cours d'exécut
-ion 2020-03-24 2020-04-28 2020-04-14 2020-05-05 2020-05-28 2020-07-11 2020-06-27 2020-08-01 2021-01-28
- NE-LIRE-150571-CS-QCBS /
-Recrutement d'un Consultant
-(cabinet/firme) pour réaliser l
-'audit organisationnel et insti
+
+NE-LIRE-150571-CS-QCBS /
+Recrutement d'un Consultant Sélection fondée s
+(cabinet/firme) pour réaliser l IDA / V2910 Project advance A posteriori ur la qualité et le Open - Internationa 0.00 Annulé 2020-01-14 2020-02-04 2020-03-19 2020-04-16 2020-05-16 2020-06-20 2020-07-25 2021-07-25
+'audit organisationnel et insti coût l
 tutionnel des onze (11) École
 s Normales et de l’École Nor
 male Supérieure
-IDA / V2910 Project advance A posteriori
-Sélection fondée s
-ur la qualité et le
-coût
-Open - Internationa
-l 0.00 Annulé 2020-01-14 2020-02-04 2020-03-19 2020-04-16 2020-05-16 2020-06-20 2020-07-25 2021-07-25
- NE-LIRE-174297-CS-CQS / Re
+
+NE-LIRE-174297-CS-CQS / Re
 crutement d’un Cabinet/ Firm
-e chargé (e) de  l’élaboration
-du  manuel de mise en œuvr
-e et des modèles types de co
-ntrat de performance entre l
+e chargé (e) de l’élaboration Sélection fondée s
+du manuel de mise en œuvr IDA / V2910 Project Administration and C A posteriori ur les qualification Open - National 0.00 En cours d'exécut 2020-05-25 2020-06-03 2020-06-15 2020-06-03 2020-07-29 2020-07-11 2020-08-28 2020-10-02 2021-03-31
+e et des modèles types de co oordination ion
+ntrat de performance entre l s des consultants
 e projet et structures et les é
 tablissements ciblés dans le
 cadre du Projet LIRE
-IDA / V2910 Project Administration and C
-oordination A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - National 0.00 En cours d'exécut
-ion 2020-05-25 2020-06-03 2020-06-15 2020-06-03 2020-07-29 2020-07-11 2020-08-28 2020-10-02 2021-03-31
- NE-LIRE-204798-CS-CQS / Et
+
+NE-LIRE-204798-CS-CQS / Et
 at des lieux et identification
-des besoins en installations e
-t équipement pour eau, élect
-ricité et internet dans les ENI
+des besoins en installations e Strengthening Systems and Sélection fondée s En cours d'exécut
+t équipement pour eau, élect IDA / D5800 Capacities for the Delivery o A posteriori ur les qualification Open - National 0.00 ion 2020-11-30 2022-03-31 2020-12-21 2021-02-03 2022-07-17 2021-03-05 2021-04-09 2021-10-06
+ricité et internet dans les ENI f Education Services s des consultants
 , ENS, écoles, Directions, et i
 nspections bénéficiaires du p
 rojet - 2021
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - National 0.00 En cours d'exécut
-ion 2020-11-30 2022-03-31 2020-12-21 2021-02-03 2022-07-17 2021-03-05 2021-04-09 2021-10-06
- NE-LIRE-205510-CS-QCBS /
-Assistance Technique à la mi
-se en place de la Radio Scola
+
+NE-LIRE-205510-CS-QCBS / Strengthening Systems and Sélection fondée s Open - Internationa En cours d'exécut
+Assistance Technique à la mi IDA / D5800 Capacities for the Delivery o A priori ur la qualité et le l 0.00 ion 2020-12-30 2021-12-12 2021-01-20 2022-01-26 2021-03-05 2022-04-25 2021-04-02 2022-06-13 2021-05-02 2022-08-12 2021-06-06 2021-07-11 2022-07-11
+se en place de la Radio Scola f Education Services coût
 ire
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A priori
-Sélection fondée s
-ur la qualité et le
-coût
-Open - Internationa
-l 0.00 En cours d'exécut
-ion 2020-12-30 2021-12-12 2021-01-20 2022-01-26 2021-03-05 2022-04-25 2021-04-02 2022-06-13 2021-05-02 2022-08-12 2021-06-06 2021-07-11 2022-07-11
- NE-LIRE-204797-CS-CQS / Et
-udes des travaux de réhabilit
-ation et aménagement des é
-coles annexes et école de for
+
+NE-LIRE-204797-CS-CQS / Et
+udes des travaux de réhabilit Strengthening Systems and Sélection fondée s
+ation et aménagement des é IDA / D5800 Capacities for the Delivery o A posteriori ur les qualification Open - National 65,666.34 Signé 2021-01-15 2021-06-09 2021-02-05 2021-03-21 2021-09-07 2021-04-20 2021-10-21 2021-05-25 2021-11-22 2021-11-21
+coles annexes et école de for f Education Services s des consultants
 mation des enseignants exist
 antes
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - National 65,666.34 Signé 2021-01-15 2021-06-09 2021-02-05 2021-03-21 2021-09-07 2021-04-20 2021-10-21 2021-05-25 2021-11-22 2021-11-21
- NE-LIRE-204803-CS-CQS / Re
-crutement d'une Firme pour l
-a Formation en Gestion à la
+
+NE-LIRE-204803-CS-CQS / Re Strengthening Systems and Sélection fondée s
+crutement d'une Firme pour l IDA / D5800 Capacities for the Delivery o A posteriori ur les qualification Open - National 0.00 Annulé 2021-01-15 2021-02-17 2021-02-05 2021-03-25 2021-03-21 2021-04-20 2021-05-25 2021-11-21
+a Formation en Gestion à la f Education Services s des consultants
 Base
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - National 0.00 Annulé 2021-01-15 2021-02-17 2021-02-05 2021-03-25 2021-03-21 2021-04-20 2021-05-25 2021-11-21
- NE-LIRE-217756-CS-CQS / Re
-crutement d’un Auditeur Ext
-erne des comptes du Projet a
+
+NE-LIRE-217756-CS-CQS / Re Sélection fondée s
+crutement d’un Auditeur Ext IDA / D5800 Project Administration and C A posteriori ur les qualification Open - Internationa 0.00 Annulé 2021-03-30 2021-02-17 2021-04-20 2021-06-03 2021-07-03 2021-08-07 2022-02-03
+erne des comptes du Projet a oordination s des consultants l
 u titre du PPA et des Exercice
 s 2021-2022-2023
-IDA / D5800 Project Administration and C
-oordination A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - Internationa
-l 0.00 Annulé 2021-03-30 2021-02-17 2021-04-20 2021-06-03 2021-07-03 2021-08-07 2022-02-03
+
+Page 4
 
 
 --- Page 11 ---
-
-Page 5
- NE-LIRE-222402-CS-QCBS /
-Recrutement d'un auditeur e
-xterne au titre du PPA, des e
+NE-LIRE-222402-CS-QCBS / Sélection fondée s
+Recrutement d'un auditeur e IDA / D5800 Project Administration and C A posteriori ur la qualité et le Open - Internationa 0.00 En cours d'exécut 2021-03-30 2021-03-18 2021-04-20 2021-04-19 2021-06-03 2021-06-17 2021-07-01 2021-08-11 2021-07-31 2021-10-26 2021-09-04 2021-10-09 2022-10-09
+xterne au titre du PPA, des e oordination coût l ion
 xercices 2021,2022 et 2023.
-IDA / D5800 Project Administration and C
-oordination A posteriori
-Sélection fondée s
-ur la qualité et le
-coût
-Open - Internationa
-l 0.00 En cours d'exécut
-ion 2021-03-30 2021-03-18 2021-04-20 2021-04-19 2021-06-03 2021-06-17 2021-07-01 2021-08-11 2021-07-31 2021-10-26 2021-09-04 2021-10-09 2022-10-09
- NE-LIRE-150582-CS-CQS / Re
-crutement d'un Consultant (C
-abinet) pour réaliser l'audit o
+
+NE-LIRE-150582-CS-CQS / Re Sélection fondée s
+crutement d'un Consultant (C IDA / V2910 Project advance A posteriori ur les qualification Open - Internationa 0.00 Annulé 2019-12-25 2020-05-27 2020-01-15 2020-02-28 2020-03-29 2020-05-03 2020-10-30
+abinet) pour réaliser l'audit o s des consultants l
 rganisationnel et institutionn
 el du MES et du MEP
-IDA / V2910 Project advance A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - Internationa
-l 0.00 Annulé 2019-12-25 2020-05-27 2020-01-15 2020-02-28 2020-03-29 2020-05-03 2020-10-30
- NE-P-LIRE-250092-CS-CQS /
-Recrutement d'une agence d
-e communication dans le cad
+
+NE-P-LIRE-250092-CS-CQS / Sélection fondée s
+Recrutement d'une agence d IDA / D5800 Project Administration and C A posteriori ur les qualification Open - National 0.00 En cours d'exécut 2021-11-19 2021-09-22 2021-12-10 2022-01-23 2022-02-22 2022-03-29 2023-03-29
+e communication dans le cad oordination s des consultants ion
 re du Projet LIRE
-IDA / D5800 Project Administration and C
-oordination A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - National 0.00 En cours d'exécut
-ion 2021-11-19 2021-09-22 2021-12-10 2022-01-23 2022-02-22 2022-03-29 2023-03-29
- NE-P-LIRE-250094-CS-CQS /
-Recrutement d'une firme/exp
-ert en vue de l’élaboration d
-es outils et d’un module num
+
+NE-P-LIRE-250094-CS-CQS /
+Recrutement d'une firme/exp Strengthening Systems and Sélection fondée s
+ert en vue de l’élaboration d IDA / D5800 Capacities for the Delivery o A posteriori ur les qualification Open - Internationa 0.00 En attente d'exéc 2021-09-30 2021-10-21 2021-12-04 2022-01-03 2022-02-07 2022-08-06
+es outils et d’un module num f Education Services s des consultants l ution
 érique pour le suivi du CAPE
 D et UP (Séances de coachin
 g)
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - Internationa
-l 0.00 En attente d'exéc
-ution 2021-09-30 2021-10-21 2021-12-04 2022-01-03 2022-02-07 2022-08-06
- NE-P-LIRE-258227-CS-CQS /
-Recrutement d’un Cabinet ch
-argé de la conception, et de l
-’opérationnalisation du Portai
+
+NE-P-LIRE-258227-CS-CQS /
+Recrutement d’un Cabinet ch Sélection fondée s
+argé de la conception, et de l IDA / D5800 Project Administration and C A posteriori ur les qualification Open - National 171,300.82 Signé 2021-11-30 2021-10-28 2021-12-21 2022-02-03 2022-03-15 2022-03-05 2022-03-15 2022-04-09 2022-03-23 2022-10-06
+’opérationnalisation du Portai oordination s des consultants
+
 l National de l’Education au N
 iger
-IDA / D5800 Project Administration and C
-oordination A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - National 171,300.82 Signé 2021-11-30 2021-10-28 2021-12-21 2022-02-03 2022-03-15 2022-03-05 2022-03-15 2022-04-09 2022-03-23 2022-10-06
- NE-P-LIRE-258244-CS-CQS /
-Recrutement d'un cabinet po
-ur la formation en bureautiqu
-e (informatique) des Agents
+
+NE-P-LIRE-258244-CS-CQS /
+Recrutement d'un cabinet po Project Administration and C Sélection fondée s En attente d'exéc
+ur la formation en bureautiqu IDA / D5800 oordination A posteriori ur les qualification Open - National 0.00 ution 2021-12-15 2022-01-05 2022-02-18 2022-03-20 2022-04-24 2022-05-24
+e (informatique) des Agents s des consultants
 de la DRH du Ministère de l'E
 ducation Nationale
-IDA / D5800 Project Administration and C
-oordination A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - National 0.00 En attente d'exéc
-ution 2021-12-15 2022-01-05 2022-02-18 2022-03-20 2022-04-24 2022-05-24
- NE-P-LIRE-260025-CS-QCBS
+
+NE-P-LIRE-260025-CS-QCBS
 / Recrutement d’une ONG ch
-argée de la mise en œuvre d
-es activités de prévention et
-réponse à l’exploitation et les
+argée de la mise en œuvre d Project Administration and C Sélection fondée s Open - Internationa En cours d'exame
+es activités de prévention et IDA / D5800 oordination A priori ur la qualité et le l 0.00 n 2021-12-30 2022-01-20 2022-03-05 2022-04-04 2022-05-04 2022-06-08 2022-07-13 2023-07-13
+réponse à l’exploitation et les coût
 abus sexuels (EAS) et le harc
 èlement sexuel (HS), dans le
 cadre du Projet
-IDA / D5800 Project Administration and C
-oordination A priori
-Sélection fondée s
-ur la qualité et le
-coût
-Open - Internationa
-l 0.00 En cours d'exame
-n 2021-12-30 2022-01-20 2022-03-05 2022-04-04 2022-05-04 2022-06-08 2022-07-13 2023-07-13
- NE-P-LIRE-268209-CS-CQS /
-Recrutement d’un cabinet ch
-argé de l’opérationnalisation
-d’un dispositif de formation à
+
+NE-P-LIRE-268209-CS-CQS /
+Recrutement d’un cabinet ch Strengthening Systems and Sélection fondée s
+argé de l’opérationnalisation IDA / D5800 Capacities for the Delivery o A posteriori ur les qualification Open - National 0.00 En cours d'exécut 2021-12-31 2022-01-03 2022-01-21 2022-03-06 2022-04-05 2022-05-10 2023-05-10
+d’un dispositif de formation à f Education Services s des consultants ion
+
 distance dans le secteur édu
 catif au Niger
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - National 0.00 En cours d'exécut
-ion 2021-12-31 2022-01-03 2022-01-21 2022-03-06 2022-04-05 2022-05-10 2023-05-10
- NE-P-LIRE-279635-CS-CQS /
-Recrutement d’une ONG pou
-r la mise en œuvre du Progra
-mme sur l'éducation des fille
+
+NE-P-LIRE-279635-CS-CQS /
+Recrutement d’une ONG pou Sélection fondée s
+r la mise en œuvre du Progra IDA / D5800 Promoting Learning for Girls A priori ur les qualification Open - Internationa 0.00 En cours d'exécut 2022-05-31 2022-04-04 2022-06-21 2022-04-08 2022-08-04 2022-06-22 2022-09-03 2022-10-08 2023-04-06
+mme sur l'éducation des fille and Boys s des consultants l ion
 s : volet Espace sûr pour les f
 illes du projet LIRE au Niger
-IDA / D5800 Promoting Learning for Girls
-and Boys A priori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - Internationa
-l 0.00 En cours d'exécut
-ion 2022-05-31 2022-04-04 2022-06-21 2022-04-08 2022-08-04 2022-06-22 2022-09-03 2022-10-08 2023-04-06
- NE-P-LIRE-279637-CS-CQS /
+
+NE-P-LIRE-279637-CS-CQS /
 Recrutement d’une ONG char
-gée de la mise en œuvre des
-activités de prévention et rép
-onse à l’exploitation et les ab
+gée de la mise en œuvre des Sélection fondée s
+activités de prévention et rép IDA / D5800 Project Administration and C A posteriori ur les qualification Open - National 0.00 En cours d'exécut 2022-05-31 2022-03-06 2022-06-21 2022-08-04 2022-09-03 2022-10-08 2023-04-06
+onse à l’exploitation et les ab oordination s des consultants ion
 us sexuels (EAS) et le harcèle
 ment sexuel (HS), dans la Ré
 gion de Tillabéry dans le cadr
 e du Projet
-IDA / D5800 Project Administration and C
-oordination A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - National 0.00 En cours d'exécut
-ion 2022-05-31 2022-03-06 2022-06-21 2022-08-04 2022-09-03 2022-10-08 2023-04-06
- NE-P-LIRE-279638-CS-CQS /
+
+NE-P-LIRE-279638-CS-CQS /
 Recrutement d’une ONG char
 gée de la mise en œuvre des
-activités de prévention et rép
-onse à l’exploitation et les ab
-us sexuels (EAS) et le harcèle
+activités de prévention et rép Promoting Learning for Girls Sélection fondée s Open - Internationa En cours d'exécut
+onse à l’exploitation et les ab IDA / D5800 and Boys A posteriori ur les qualification l 0.00 ion 2022-05-31 2022-03-06 2022-06-21 2022-08-04 2022-09-03 2022-10-08 2023-04-06
+us sexuels (EAS) et le harcèle s des consultants
 ment sexuel (HS),dans la Rég
 ion de Tahoua dans le cadre
 du Projet
-IDA / D5800 Promoting Learning for Girls
-and Boys A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - Internationa
-l 0.00 En cours d'exécut
-ion 2022-05-31 2022-03-06 2022-06-21 2022-08-04 2022-09-03 2022-10-08 2023-04-06
- NE-P-LIRE-279640-CS-CQS /
+
+NE-P-LIRE-279640-CS-CQS /
 Recrutement d’une ONG char
-gée de la mise en œuvre des
-activités de prévention et rép
-onse à l’exploitation et les ab
+gée de la mise en œuvre des Sélection fondée s
+activités de prévention et rép IDA / D5800 Promoting Learning for Girls A posteriori ur les qualification Open - National 0.00 En cours d'exécut 2022-05-31 2022-03-06 2022-06-21 2022-08-04 2022-09-03 2022-10-08 2023-04-06
+onse à l’exploitation et les ab and Boys s des consultants ion
 us sexuels (EAS) et le harcèle
 ment sexuel (HS),dans la Rég
 ion de Maradi dans le cadre d
 u Projet
-IDA / D5800 Promoting Learning for Girls
-and Boys A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - National 0.00 En cours d'exécut
-ion 2022-05-31 2022-03-06 2022-06-21 2022-08-04 2022-09-03 2022-10-08 2023-04-06
- NE-P-LIRE-279641-CS-CQS /
+
+NE-P-LIRE-279641-CS-CQS /
 Recrutement d’une ONG char
-gée de la mise en œuvre des
-activités de prévention et rép
-onse à l’exploitation et les ab
-us sexuels (EAS) et le harcèle
+gée de la mise en œuvre des Sélection fondée s
+activités de prévention et rép Promoting Learning for Girls En cours d'exécut
+onse à l’exploitation et les ab IDA / D5800 and Boys A posteriori ur les qualification Open - National 0.00 ion 2022-05-31 2022-03-06 2022-06-21 2022-08-04 2022-09-03 2022-10-08 2023-04-06
+us sexuels (EAS) et le harcèle s des consultants
+
 ment sexuel (HS),dans la Rég
 ion de Zinder dans le cadre d
 u Projet
-IDA / D5800 Promoting Learning for Girls
-and Boys A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - National 0.00 En cours d'exécut
-ion 2022-05-31 2022-03-06 2022-06-21 2022-08-04 2022-09-03 2022-10-08 2023-04-06
- NE-P-LIRE-279643-CS-CQS /
+
+NE-P-LIRE-279643-CS-CQS /
 Recrutement d’une ONG char
-gée de la mise en œuvre des
-activités de prévention et rép
-onse à l’exploitation et les ab
+gée de la mise en œuvre des Sélection fondée s
+activités de prévention et rép IDA / D5800 Promoting Learning for Girls A posteriori ur les qualification Open - National 0.00 En cours d'exécut 2022-05-31 2022-03-06 2022-06-21 2022-03-11 2022-08-04 2022-09-03 2022-10-08 2023-04-06
+onse à l’exploitation et les ab and Boys s des consultants ion
 us sexuels (EAS) et le harcèle
 ment sexuel (HS),dans la Rég
 ion de Diffa dans le cadre du
 Projet
-IDA / D5800 Promoting Learning for Girls
-and Boys A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - National 0.00 En cours d'exécut
-ion 2022-05-31 2022-03-06 2022-06-21 2022-03-11 2022-08-04 2022-09-03 2022-10-08 2023-04-06
- NE-P-LIRE-279646-CS-CQS /
-Recrutement d’une ONG "vér
-ificateur tiers" pour les contr
+
+NE-P-LIRE-279646-CS-CQS / Sélection fondée s
+Recrutement d’une ONG "vér IDA / D5800 Project Administration and C A posteriori ur les qualification Open - Internationa 0.00 En cours d'exécut 2022-05-31 2022-03-07 2022-06-21 2022-08-04 2022-09-03 2022-10-08 2023-04-06
+ificateur tiers" pour les contr oordination s des consultants l ion
 ats de performances dans la
 Région de Tillabéry
-IDA / D5800 Project Administration and C
-oordination A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - Internationa
-l 0.00 En cours d'exécut
-ion 2022-05-31 2022-03-07 2022-06-21 2022-08-04 2022-09-03 2022-10-08 2023-04-06
- NE-P-LIRE-279647-CS-CQS /
-Recrutement d’une ONG "vér
-ificateur tiers" pour les contr
+
+NE-P-LIRE-279647-CS-CQS / Sélection fondée s
+Recrutement d’une ONG "vér IDA / D5800 Project Administration and C A posteriori ur les qualification Open - Internationa 0.00 En cours d'exécut 2022-05-31 2022-03-07 2022-06-21 2022-08-04 2022-09-03 2022-10-08 2023-04-06
+ificateur tiers" pour les contr oordination s des consultants l ion
 ats de performances dans la
 Région de Tahoua
-IDA / D5800 Project Administration and C
-oordination A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - Internationa
-l 0.00 En cours d'exécut
-ion 2022-05-31 2022-03-07 2022-06-21 2022-08-04 2022-09-03 2022-10-08 2023-04-06
- NE-P-LIRE-279649-CS-CQS /
-Recrutement d’une ONG  "vé
-rificateur tiers" pour les contr
+
+NE-P-LIRE-279649-CS-CQS / Sélection fondée s
+Recrutement d’une ONG "vé IDA / D5800 Project Administration and C A posteriori ur les qualification Open - Internationa 0.00 En cours d'exécut 2022-05-31 2022-03-07 2022-06-21 2022-03-11 2022-08-04 2022-09-03 2022-10-08 2023-04-06
+rificateur tiers" pour les contr oordination s des consultants l ion
 ats de performances dans la
 Région de Maradi
-IDA / D5800 Project Administration and C
-oordination A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - Internationa
-l 0.00 En cours d'exécut
-ion 2022-05-31 2022-03-07 2022-06-21 2022-03-11 2022-08-04 2022-09-03 2022-10-08 2023-04-06
+
+Page 5
 
 
 --- Page 12 ---
-
-Page 6
- NE-P-LIRE-279650-CS-CQS /
-Recrutement d’une ONG "vér
-ificateur tiers" pour les contr
+NE-P-LIRE-279650-CS-CQS / Sélection fondée s
+Recrutement d’une ONG "vér IDA / D5800 Project Administration and C A posteriori ur les qualification Open - Internationa 0.00 En cours d'exame 2022-05-31 2022-03-07 2022-06-21 2022-08-04 2022-09-03 2022-10-08 2023-04-06
+ificateur tiers" pour les contr oordination s des consultants l n
 ats de performances dans la
 Région de Zinder
-IDA / D5800 Project Administration and C
-oordination A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - Internationa
-l 0.00 En cours d'exame
-n 2022-05-31 2022-03-07 2022-06-21 2022-08-04 2022-09-03 2022-10-08 2023-04-06
- NE-P-LIRE-279651-CS-CQS /
-Recrutement d’une ONG "vér
-ificateur tiers" pour les contr
+
+NE-P-LIRE-279651-CS-CQS / Sélection fondée s
+Recrutement d’une ONG "vér IDA / D5800 Project Administration and C A posteriori ur les qualification Open - Internationa 0.00 En cours d'exécut 2022-05-31 2022-03-07 2022-06-21 2022-08-04 2022-09-03 2022-10-08 2023-04-06
+ificateur tiers" pour les contr oordination s des consultants l ion
 ats de performances dans la
 Région de Diffa
-IDA / D5800 Project Administration and C
-oordination A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - Internationa
-l 0.00 En cours d'exécut
-ion 2022-05-31 2022-03-07 2022-06-21 2022-08-04 2022-09-03 2022-10-08 2023-04-06
- NE-P-LIRE-268207-CS-QCBS
-/ Recrutement d’une ONG po
-ur la mise en œuvre du Progr
-amme sur l'éducation des fill
+
+NE-P-LIRE-268207-CS-QCBS
+/ Recrutement d’une ONG po Sélection fondée s
+ur la mise en œuvre du Progr IDA / D5800 Promoting Learning for Girls A priori ur la qualité et le Open - Internationa 0.00 Annulé 2021-12-31 2022-01-18 2022-01-21 2022-03-22 2022-04-19 2022-05-19 2022-06-23 2022-07-28 2023-07-28
+amme sur l'éducation des fill and Boys coût l
 es : volet Espace sûr pour les
 filles du projet LIRE au Niger
-IDA / D5800 Promoting Learning for Girls
-and Boys A priori
-Sélection fondée s
-ur la qualité et le
-coût
-Open - Internationa
-l 0.00 Annulé 2021-12-31 2022-01-18 2022-01-21 2022-03-22 2022-04-19 2022-05-19 2022-06-23 2022-07-28 2023-07-28
- NE-P-LIRE-288809-CS-CQS /
+
+NE-P-LIRE-288809-CS-CQS /
 Etude sur la mise en place d'
-un dispositif de digitalisation
-au sein des ENI, ENS, CAPED
-et écoles annexes, intégrant
+un dispositif de digitalisation Promoting Learning for Girls Sélection fondée s En cours d'exécut
+au sein des ENI, ENS, CAPED IDA / D5800 and Boys A posteriori ur les qualification Open - National 0.00 ion 2022-09-30 2022-04-22 2022-10-21 2022-12-04 2022-07-17 2023-01-03 2023-02-07 2023-08-06
+et écoles annexes, intégrant s des consultants
 le recensement des besoins
-en installation et  équipemen
+en installation et équipemen
 ts en connectivité
-IDA / D5800 Promoting Learning for Girls
-and Boys A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - National 0.00 En cours d'exécut
-ion 2022-09-30 2022-04-22 2022-10-21 2022-12-04 2022-07-17 2023-01-03 2023-02-07 2023-08-06
- NE-P-LIRE-293229-CS-CQS /
-Recrutement d’un cabinet po
-ur le renforcement des capac
+
+NE-P-LIRE-293229-CS-CQS / Strengthening Systems and Sélection fondée s
+Recrutement d’un cabinet po IDA / D5800 Capacities for the Delivery o A posteriori ur les qualification Open - National 0.00 En cours d'exécut 2022-09-30 2022-05-26 2022-10-21 2022-12-04 2023-01-03 2023-02-07 2023-08-06
+ur le renforcement des capac f Education Services s des consultants ion
 ités des encadreurs EN en inf
 ormatique
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - National 0.00 En cours d'exécut
-ion 2022-09-30 2022-05-26 2022-10-21 2022-12-04 2023-01-03 2023-02-07 2023-08-06
- NE-P-LIRE-300116-CS-QCBS
-/ Recrutement d'une ONG po
-ur l’appui à la mise en œuvre
-du Programme sur le Disposit
+
+NE-P-LIRE-300116-CS-QCBS
+/ Recrutement d'une ONG po Promoting Learning for Girls Sélection fondée s Open - Internationa En cours d'exécut
+ur l’appui à la mise en œuvre IDA / D5800 and Boys A priori ur la qualité et le l 0.00 ion 2022-10-30 2022-07-21 2022-11-20 2022-07-28 2023-01-03 2022-12-07 2023-01-31 2023-03-02 2023-04-06 2023-05-11 2024-05-10
+du Programme sur le Disposit coût
 if d’Education Alternative Har
 monisé : DEAH
-IDA / D5800 Promoting Learning for Girls
-and Boys A priori
-Sélection fondée s
-ur la qualité et le
-coût
-Open - Internationa
-l 0.00 En cours d'exécut
-ion 2022-10-30 2022-07-21 2022-11-20 2022-07-28 2023-01-03 2022-12-07 2023-01-31 2023-03-02 2023-04-06 2023-05-11 2024-05-10
- NE-P-LIRE-300113-CS-CQS /
-Recrutement d'une ONG pour
-la Gestion des 23 classes digi
+
+NE-P-LIRE-300113-CS-CQS / Sélection fondée s
+Recrutement d'une ONG pour IDA / D5800 Promoting Learning for Girls A posteriori ur les qualification Open - National 0.00 En cours d'exécut 2022-09-30 2022-06-30 2022-10-21 2022-12-04 2023-01-03 2023-02-07 2023-08-06
+la Gestion des 23 classes digi and Boys s des consultants ion
 tales (DIGITRUCKS)
-IDA / D5800 Promoting Learning for Girls
-and Boys A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - National 0.00 En cours d'exécut
-ion 2022-09-30 2022-06-30 2022-10-21 2022-12-04 2023-01-03 2023-02-07 2023-08-06
- NE-LIRE-217757-CS-CQS / Re
-crutement d’un bureau "vérif
-icateur tiers" pour les contrat
+
+NE-LIRE-217757-CS-CQS / Re Sélection fondée s
+crutement d’un bureau "vérif IDA / D5800 Project Administration and C A posteriori ur les qualification Open - National 0.00 Annulé 2021-03-30 2021-08-17 2021-04-20 2021-06-03 2021-07-03 2021-08-07 2022-08-07
+icateur tiers" pour les contrat oordination s des consultants
 s de performances
-IDA / D5800 Project Administration and C
-oordination A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - National 0.00 Annulé 2021-03-30 2021-08-17 2021-04-20 2021-06-03 2021-07-03 2021-08-07 2022-08-07
- NE-P-LIRE-314317-CS-CQS /
-recrutement d’un Cabinet , c
-hargé de réaliser un diagnost
-ic pour l’audit institutionnel e
+
+NE-P-LIRE-314317-CS-CQS /
+recrutement d’un Cabinet , c Improving Teaching Practice Sélection fondée s Open - Internationa En cours d'exécut
+hargé de réaliser un diagnost IDA / D5800 s A posteriori ur les qualification l 0.00 ion 2022-12-30 2022-10-25 2023-01-20 2023-03-05 2023-04-04 2023-05-09 2023-11-05
+ic pour l’audit institutionnel e s des consultants
 t technique de l’INDRAP
-IDA / D5800 Improving Teaching Practice
-s A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - Internationa
-l 0.00 En cours d'exécut
-ion 2022-12-30 2022-10-25 2023-01-20 2023-03-05 2023-04-04 2023-05-09 2023-11-05
- NE-P-LIRE-314298-CS-CQS /
+
+NE-P-LIRE-314298-CS-CQS /
 Recrutement d’un Opérateur
-de Mobile Money pour le tran
-sfert de fonds au profit des E
-coles Primaires, Collèges et
-Makaranta des régions ciblée
+de Mobile Money pour le tran Strengthening Systems and Sélection fondée s
+sfert de fonds au profit des E En attente d'exéc
+coles Primaires, Collèges et IDA / D5800 Capacities for the Delivery o A posteriori ur les qualification Limited 0.00 ution 2023-01-30 2023-02-13 2023-03-15 2023-04-19 2023-10-16
+Makaranta des régions ciblée f Education Services s des consultants
+
 s dans les zones d’interventi
 on du Projet NIGER-LIRE dans
 le cadre de la mise en œuvre
 du volet CBP
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Limited 0.00 En attente d'exéc
-ution 2023-01-30 2023-02-13 2023-03-15 2023-04-19 2023-10-16
- NE-P-LIRE-328758-CS-CQS /
-Recrutement d'un cabinet (In
-stitut de formation) pour la fo
-rmation des encadreurs des
+NE-P-LIRE-328758-CS-CQS /
+Recrutement d'un cabinet (In Strengthening Systems and Sélection fondée s En cours d'exame
+stitut de formation) pour la fo IDA / D5800 Capacities for the Delivery o A posteriori ur les qualification Limited 0.00 n 2022-12-31 2023-02-10 2023-01-14 2023-02-13 2023-03-20 2023-09-16
+rmation des encadreurs des f Education Services s des consultants
 Ecoles Normales du Niger
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Limited 0.00 En cours d'exame
-n 2022-12-31 2023-02-10 2023-01-14 2023-02-13 2023-03-20 2023-09-16
- NE-P-LIRE-338416-CS-CQS /
-Recrutement un cabinet pour
-conduire l'audit institutionnel
-et organisationnel de l' IFAEN
+
+NE-P-LIRE-338416-CS-CQS /
+Recrutement un cabinet pour Strengthening Systems and Sélection fondée s Open - Internationa En attente d'exéc
+conduire l'audit institutionnel IDA / D5800 Capacities for the Delivery o A posteriori ur les qualification l 0.00 ution 2023-05-31 2023-06-21 2023-08-04 2023-09-03 2023-10-08 2024-04-05
+et organisationnel de l' IFAEN f Education Services s des consultants
 F
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - Internationa
-l 0.00 En attente d'exéc
-ution 2023-05-31 2023-06-21 2023-08-04 2023-09-03 2023-10-08 2024-04-05
- NE-P-LIRE-338427-CS-CQS /
-Recrutement d'un Cabinet po
-ur la numérisation  du proces
+
+NE-P-LIRE-338427-CS-CQS / Strengthening Systems and Sélection fondée s
+Recrutement d'un Cabinet po IDA / D5800 Capacities for the Delivery o A posteriori ur les qualification Open - Internationa 0.00 En attente d'exéc 2023-04-29 2023-05-20 2023-07-03 2023-08-02 2023-09-06 2024-03-04
+ur la numérisation du proces f Education Services s des consultants l ution
 sus de remontée des informa
 tions du MEN
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - Internationa
-l 0.00 En attente d'exéc
-ution 2023-04-29 2023-05-20 2023-07-03 2023-08-02 2023-09-06 2024-03-04
- NE-P-LIRE-338388-CS-CQS /
-Recrutement d'un cabinet po
-ur la digitalisation des outils
+
+NE-P-LIRE-338388-CS-CQS / Strengthening Systems and Sélection fondée s
+Recrutement d'un cabinet po IDA / D5800 Capacities for the Delivery o A posteriori ur les qualification Open - Internationa 0.00 En attente d'exéc 2023-05-31 2023-06-21 2023-08-04 2023-09-03 2023-10-08 2024-04-05
+ur la digitalisation des outils f Education Services s des consultants l ution
 du système éducatif
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - Internationa
-l 0.00 En attente d'exéc
-ution 2023-05-31 2023-06-21 2023-08-04 2023-09-03 2023-10-08 2024-04-05
- NE-P-LIRE-338409-CS-CQS /
-Recrutement d'une ONG pour
-organiser des activités de se
-nsibilisation à l'utilisation des
+
+NE-P-LIRE-338409-CS-CQS /
+Recrutement d'une ONG pour Strengthening Systems and Sélection fondée s
+organiser des activités de se IDA / D5800 Capacities for the Delivery o A posteriori ur les qualification Open - Internationa 0.00 En attente d'exéc 2023-05-31 2023-06-21 2023-08-04 2023-09-03 2023-10-08 2024-04-05
+nsibilisation à l'utilisation des f Education Services s des consultants l ution
 livres complémentaires (Rea
 d @ Home) dans les régions
 de Diffa et Zinder
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - Internationa
-l 0.00 En attente d'exéc
-ution 2023-05-31 2023-06-21 2023-08-04 2023-09-03 2023-10-08 2024-04-05
- NE-P-LIRE-333909-CS-CQS /
-Recrutement d'un cabinet po
-ur les études techniques des
+
+NE-P-LIRE-333909-CS-CQS / Strengthening Systems and Sélection fondée s
+Recrutement d'un cabinet po IDA / D5800 Capacities for the Delivery o A posteriori ur les qualification Open - Internationa 0.00 En attente d'exéc 2023-04-30 2023-05-21 2023-07-04 2023-08-03 2023-09-07 2024-03-05
+ur les études techniques des f Education Services s des consultants l ution
 travaux des construction des
 internats
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - Internationa
-l 0.00 En attente d'exéc
-ution 2023-04-30 2023-05-21 2023-07-04 2023-08-03 2023-09-07 2024-03-05
- NE-P-LIRE-338081-CS-CQS /
-Recrutement d'un cabinet po
-ur les études techniques des
+
+NE-P-LIRE-338081-CS-CQS / Strengthening Systems and Sélection fondée s
+Recrutement d'un cabinet po IDA / D5800 Capacities for the Delivery o A posteriori ur les qualification Open - Internationa 0.00 En attente d'exéc 2023-05-31 2023-06-21 2023-08-04 2023-09-03 2023-10-08 2024-04-05
+ur les études techniques des f Education Services s des consultants l ution
 travaux des construction des
 classes
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - Internationa
-l 0.00 En attente d'exéc
-ution 2023-05-31 2023-06-21 2023-08-04 2023-09-03 2023-10-08 2024-04-05
- NE-P-LIRE-338386-CS-CQS /
-Renforcer les capacités des a
-cteurs du MEN sur l'exploitati
+
+NE-P-LIRE-338386-CS-CQS / Strengthening Systems and Sélection fondée s
+Renforcer les capacités des a IDA / D5800 Capacities for the Delivery o A posteriori ur les qualification Open - Internationa 0.00 En attente d'exéc 2023-04-29 2023-05-20 2023-07-03 2023-08-02 2023-09-06 2024-03-04
+cteurs du MEN sur l'exploitati f Education Services s des consultants l ution
 on des outils digitalisés
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - Internationa
-l 0.00 En attente d'exéc
-ution 2023-04-29 2023-05-20 2023-07-03 2023-08-02 2023-09-06 2024-03-04
- NE-P-LIRE-339502-CS-CQS /
-Recrutement d'une ONG pour
-organiser des activités de se
-nsibilisation à l'utilisation des
+
+NE-P-LIRE-339502-CS-CQS /
+Recrutement d'une ONG pour Strengthening Systems and Sélection fondée s
+organiser des activités de se IDA / D5800 Capacities for the Delivery o A posteriori ur les qualification Open - Internationa 0.00 En attente d'exéc 2023-05-26 2023-06-16 2023-07-30 2023-08-29 2023-10-03 2024-03-31
+nsibilisation à l'utilisation des f Education Services s des consultants l ution
 livres complémentaires (Rea
 d @ Home) dans les régions
 de Maradi et Tahoua
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - Internationa
-l 0.00 En attente d'exéc
-ution 2023-05-26 2023-06-16 2023-07-30 2023-08-29 2023-10-03 2024-03-31
+
+Page 6
 
 
 --- Page 13 ---
-
-Page 7
- NE-P-LIRE-339503-CS-CQS /
-Recrutement d'une ONG pour
-organiser des activités de se
-nsibilisation à l'utilisation des
+NE-P-LIRE-339503-CS-CQS /
+Recrutement d'une ONG pour Strengthening Systems and Sélection fondée s
+organiser des activités de se IDA / D5800 Capacities for the Delivery o A posteriori ur les qualification Open - Internationa 0.00 En attente d'exéc 2023-05-31 2023-06-21 2023-08-04 2023-09-03 2023-10-08 2024-04-05
+nsibilisation à l'utilisation des f Education Services s des consultants l ution
 livres complémentaires (Rea
 d @ Home) dans la région de
 Tillabéry
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori
-Sélection fondée s
-ur les qualification
-s des consultants
-Open - Internationa
-l 0.00 En attente d'exéc
-ution 2023-05-31 2023-06-21 2023-08-04 2023-09-03 2023-10-08 2024-04-05
+
 INDIVIDUAL CONSULTANTS
-Activity Reference No. /
-Description
-Loan / Credit N
-o. Component Review Type Method Market Approac
-h Contract Type Actual Amount
-(US$) Process Status Teams of Reference Invitation to Identifie
-d/Selected Consultant
-Draft Negotiated Cont
-ract Signed Contract Contract Completion
+Activity Reference No. / Loan / Credit N Component Review Type Method Market Approac Contract Type Actual Amount Process Status Teams of Reference Invitation to Identifie Draft Negotiated Cont Signed Contract Contract Completion
+Description o. h (US$) d/Selected Consultant ract
 Planned Actual Planned Actual Planned Actual Planned Actual Planned Actual
- NE-LIRE-150584-CS-INDV / R
-ecrutement d’un Consultant i
+
+NE-LIRE-150584-CS-INDV / R
+ecrutement d’un Consultant i IDA / V2910 Project advance A posteriori Individuel Limited 17,354.32 Achevé 2019-12-25 2020-03-31 2019-12-30 2020-07-17 2020-01-20 2020-07-17 2020-02-24 2020-01-20 2020-08-22 2020-02-27
 ndividuel pour la finalisation
 du CGES du Projet LIRE
-IDA / V2910 Project advance A posteriori Individuel Limited 17,354.32 Achevé 2019-12-25 2020-03-31 2019-12-30 2020-07-17 2020-01-20 2020-07-17 2020-02-24 2020-01-20 2020-08-22 2020-02-27
- NE-LIRE-151144-CS-INDV / R
-ecrutement d’un Consultant I
-ndividuel  pour élaborer le m
+
+NE-LIRE-151144-CS-INDV / R
+ecrutement d’un Consultant I IDA / V2910 Project advance A posteriori Individuel Open 0.00 En cours d'exécut 2019-12-25 2020-04-21 2020-02-12 2020-03-04 2020-04-08 2020-10-05
+ndividuel pour élaborer le m ion
 anuel de mise en œuvre du p
 rojet
-IDA / V2910 Project advance A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2019-12-25 2020-04-21 2020-02-12 2020-03-04 2020-04-08 2020-10-05
- NE-LIRE-151145-CS-INDV / R
-ecrutement d’un consultant i
-ndividuel pour proposer un m
+
+NE-LIRE-151145-CS-INDV / R
+ecrutement d’un consultant i En attente d'exéc
+ndividuel pour proposer un m IDA / V2910 Project advance A posteriori Individuel Open 0.00 ution 2019-12-25 2020-02-12 2020-03-04 2020-04-08 2020-10-05
 odèle de contrats de perform
 ance
-IDA / V2910 Project advance A posteriori Individuel Open 0.00 En attente d'exéc
-ution 2019-12-25 2020-02-12 2020-03-04 2020-04-08 2020-10-05
- NE-LIRE-163562-CS-CDS / Re
-crutement d'un Consultant p
-our finaliser le document de
+
+NE-LIRE-163562-CS-CDS / Re Sélection de cons
+crutement d'un Consultant p IDA / V2910 Project Administration and C A posteriori ultants par entent Direct 23,873.78 Signé 2020-03-23 2020-03-31 2020-04-02 2020-07-06 2020-06-06 2020-07-07 2020-12-03
+our finaliser le document de oordination e directe
 PPSD du Projet LIRE
-IDA / V2910 Project Administration and C
-oordination A posteriori
-Sélection de cons
-ultants par entent
-e directe
-Direct 23,873.78 Signé 2020-03-23 2020-03-31 2020-04-02 2020-07-06 2020-06-06 2020-07-07 2020-12-03
- NE-LIRE-150590-CS-INDV / R
-ecrutement d’un Consultant i
+
+NE-LIRE-150590-CS-INDV / R
+ecrutement d’un Consultant i IDA / V2910 Project advance A posteriori Individuel Limited 0.00 Annulé 2019-12-25 2019-12-30 2020-01-20 2020-02-24 2020-08-22
 ndividuel pour la finalisation
 du PEES du Projet LIRE
-IDA / V2910 Project advance A posteriori Individuel Limited 0.00 Annulé 2019-12-25 2019-12-30 2020-01-20 2020-02-24 2020-08-22
- NE-LIRE-150592-CS-INDV / R
-ecrutement d’un Consultant i
+
+NE-LIRE-150592-CS-INDV / R
+ecrutement d’un Consultant i IDA / V2910 Project advance A posteriori Individuel Limited 0.00 Annulé 2019-12-25 2019-12-30 2020-01-20 2020-02-24 2020-08-22
 ndividuel pour la finalisation
 du PEPP du Projet LIRE
-IDA / V2910 Project advance A posteriori Individuel Limited 0.00 Annulé 2019-12-25 2019-12-30 2020-01-20 2020-02-24 2020-08-22
- NE-LIRE-164101-CS-INDV / R
-ecrutement d’un Spécialiste
-des Questions Sociales (Genr
+
+NE-LIRE-164101-CS-INDV / R
+ecrutement d’un Spécialiste IDA / V2910 Project Administration and C A posteriori Individuel Open 31,009.50 En cours d'exame 2020-07-22 2020-08-13 2020-09-09 2020-12-14 2020-09-30 2020-12-14 2020-11-04 2021-01-02 2021-05-03
+des Questions Sociales (Genr oordination n
 e et VBG) de l’Unité de Gesti
 on du Projet
-IDA / V2910 Project Administration and C
-oordination A posteriori Individuel Open 31,009.50 En cours d'exame
-n 2020-07-22 2020-08-13 2020-09-09 2020-12-14 2020-09-30 2020-12-14 2020-11-04 2021-01-02 2021-05-03
- NE-LIRE-164096-CS-INDV / R
-ecrutement d’un Comptable
-de l’Unité de Gestion du Proj
+
+NE-LIRE-164096-CS-INDV / R Project Administration and C
+ecrutement d’un Comptable IDA / V2910 A priori Individuel Open 21,712.08 Signé 2020-04-24 2020-04-10 2020-06-12 2020-08-27 2020-07-03 2020-09-16 2020-08-07 2020-09-16 2021-02-03
+de l’Unité de Gestion du Proj oordination
 et
-IDA / V2910 Project Administration and C
-oordination A priori Individuel Open 21,712.08 Signé 2020-04-24 2020-04-10 2020-06-12 2020-08-27 2020-07-03 2020-09-16 2020-08-07 2020-09-16 2021-02-03
- NE-LIRE-164099-CS-INDV / R
-ecrutement d’un Spécialiste
-des Questions Environnemen
+
+NE-LIRE-164099-CS-INDV / R
+ecrutement d’un Spécialiste IDA / V2910 Project Administration and C A posteriori Individuel Open 0.00 En cours d'exécut 2020-07-20 2020-04-24 2020-09-07 2020-09-28 2020-11-02 2021-05-01
+des Questions Environnemen oordination ion
 tales de l’Unité de Gestion du
 Projet
-IDA / V2910 Project Administration and C
-oordination A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2020-07-20 2020-04-24 2020-09-07 2020-09-28 2020-11-02 2021-05-01
- NE-LIRE-164092-CS-INDV / R
-ecrutement du Coordonnateu
+
+NE-LIRE-164092-CS-INDV / R Project Administration and C
+ecrutement du Coordonnateu IDA / V2910 oordination A priori Individuel Open 60,207.60 Signé 2020-04-24 2020-03-31 2020-06-12 2020-08-26 2020-07-03 2020-09-16 2020-08-07 2020-09-16 2021-02-03
 r de l’Unité de Gestion du Pro
 jet
-IDA / V2910 Project Administration and C
-oordination A priori Individuel Open 60,207.60 Signé 2020-04-24 2020-03-31 2020-06-12 2020-08-26 2020-07-03 2020-09-16 2020-08-07 2020-09-16 2021-02-03
- NE-LIRE-164093-CS-INDV / R
-ecrutement du Spécialiste en
-Gestion Financière de l’Unité
+
+NE-LIRE-164093-CS-INDV / R
+ecrutement du Spécialiste en IDA / V2910 Project Administration and C A priori Individuel Open 43,771.55 Signé 2020-04-24 2020-04-10 2020-06-12 2020-08-26 2020-07-03 2020-09-16 2020-08-07 2020-09-16 2021-02-03
+Gestion Financière de l’Unité oordination
 de Gestion du Projet
-IDA / V2910 Project Administration and C
-oordination A priori Individuel Open 43,771.55 Signé 2020-04-24 2020-04-10 2020-06-12 2020-08-26 2020-07-03 2020-09-16 2020-08-07 2020-09-16 2021-02-03
- NE-LIRE-164094-CS-INDV / R
-ecrutement du Spécialiste en
-Passation des Marchés de l’U
+
+NE-LIRE-164094-CS-INDV / R
+ecrutement du Spécialiste en IDA / V2910 Project Administration and C A posteriori Individuel Open 32,568.12 Résilié 2020-04-24 2020-04-10 2020-06-12 2020-08-26 2020-07-03 2020-09-16 2020-08-07 2020-09-16 2021-02-03
+Passation des Marchés de l’U oordination
 nité de Gestion du Projet
-IDA / V2910 Project Administration and C
-oordination A posteriori Individuel Open 32,568.12 Résilié 2020-04-24 2020-04-10 2020-06-12 2020-08-26 2020-07-03 2020-09-16 2020-08-07 2020-09-16 2021-02-03
- NE-LIRE-164097-CS-INDV / R
-ecrutement d’un Auditeur Int
+
+NE-LIRE-164097-CS-INDV / R Project Administration and C En cours d'exame
+ecrutement d’un Auditeur Int IDA / V2910 oordination A posteriori Individuel Open 31,009.50 n 2020-07-20 2020-04-10 2020-09-07 2020-09-01 2020-09-28 2020-09-01 2020-11-02 2021-02-02 2021-05-01
 erne de l’Unité de Gestion du
 Projet
-IDA / V2910 Project Administration and C
-oordination A posteriori Individuel Open 31,009.50 En cours d'exame
-n 2020-07-20 2020-04-10 2020-09-07 2020-09-01 2020-09-28 2020-09-01 2020-11-02 2021-02-02 2021-05-01
- NE-LIRE-164087-CS-CDS / Re
-crutement d'un consultant ch
-argé de réaliser un diagnosti
-c de la gouvernance et du pil
+
+NE-LIRE-164087-CS-CDS / Re
+crutement d'un consultant ch Sélection de cons
+argé de réaliser un diagnosti IDA / V2910 Project Administration and C A posteriori ultants par entent Direct 103,922.41 Achevé 2020-03-24 2020-03-31 2020-04-03 2020-07-06 2020-06-07 2020-05-11 2020-12-04 2020-07-07
+c de la gouvernance et du pil oordination e directe
 otage des onze (11) Écoles N
 ormales d'Instituteurs et de l’
 École Normale Supérieure.
-IDA / V2910 Project Administration and C
-oordination A posteriori
-Sélection de cons
-ultants par entent
-e directe
-Direct 103,922.41 Achevé 2020-03-24 2020-03-31 2020-04-03 2020-07-06 2020-06-07 2020-05-11 2020-12-04 2020-07-07
- NE-LIRE-164088-CS-CDS / Re
+
+NE-LIRE-164088-CS-CDS / Re
 crutement d'un Spécialiste d
 e l’éducation expert dans les
-dispositifs de recrutement, d
-e formation initiale et continu
-e des enseignants, chargé de
+dispositifs de recrutement, d Project Administration and C Sélection de cons
+e formation initiale et continu IDA / V2910 oordination A posteriori ultants par entent Direct 182,201.30 Achevé 2020-03-24 2020-03-31 2020-04-03 2020-07-06 2020-06-07 2020-07-07 2020-12-04 2020-07-07
+e des enseignants, chargé de e directe
 réaliser un diagnostic pédago
 gique des onze (11) Écoles N
 ormales d’Instituteurs et de l’
 École Supérieure
-IDA / V2910 Project Administration and C
-oordination A posteriori
-Sélection de cons
-ultants par entent
-e directe
-Direct 182,201.30 Achevé 2020-03-24 2020-03-31 2020-04-03 2020-07-06 2020-06-07 2020-07-07 2020-12-04 2020-07-07
- NE-LIRE-164091-CS-CDS / Re
+
+NE-LIRE-164091-CS-CDS / Re
 crutement d'un Consultant e
-n politique éducative, chargé
-de réaliser un diagnostic péd
-agogique des onze (11) École
+n politique éducative, chargé Sélection de cons
+de réaliser un diagnostic péd IDA / V2910 Project Administration and C A posteriori ultants par entent Direct 165,909.56 Achevé 2020-03-24 2020-03-31 2020-04-03 2020-07-06 2020-06-07 2020-07-07 2020-12-04 2020-07-07
+agogique des onze (11) École oordination e directe
+
 s Normales d’Instituteurs et
 de l’École Normale Supérieur
 e
-IDA / V2910 Project Administration and C
-oordination A posteriori
-Sélection de cons
-ultants par entent
-e directe
-Direct 165,909.56 Achevé 2020-03-24 2020-03-31 2020-04-03 2020-07-06 2020-06-07 2020-07-07 2020-12-04 2020-07-07
- NE-LIRE-174331-CS-INDV / R
-ecrutement d’un Spécialiste
-en Suivi- Évaluation de l’Unit
+
+NE-LIRE-174331-CS-INDV / R
+ecrutement d’un Spécialiste IDA / D5800 Project Administration and C A posteriori Individuel Open 31,320.90 En cours d'exame 2020-07-20 2020-08-13 2020-09-07 2020-12-14 2020-09-28 2020-12-14 2020-11-02 2021-01-15 2021-05-01
+en Suivi- Évaluation de l’Unit oordination n
 é de Gestion du Projet
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 31,320.90 En cours d'exame
-n 2020-07-20 2020-08-13 2020-09-07 2020-12-14 2020-09-28 2020-12-14 2020-11-02 2021-01-15 2021-05-01
- NE-LIRE-177890-CS-CDS / Re
-crutement d’un Spécialiste e
-n GRH de la Task Force
-IDA / D5800 Project Administration and C
-oordination A posteriori
-Sélection de cons
-ultants par entent
-e directe
-Direct 84,633.23 Signé 2020-06-15 2020-06-26 2020-06-25 2020-07-17 2020-08-29 2020-11-19 2021-02-25
- NE-LIRE-177893-CS-CDS / Re
-crutement d’un Spécialiste G
-estion Financière de la Task
+
+NE-LIRE-177890-CS-CDS / Re Project Administration and C Sélection de cons
+crutement d’un Spécialiste e IDA / D5800 oordination A posteriori ultants par entent Direct 84,633.23 Signé 2020-06-15 2020-06-26 2020-06-25 2020-07-17 2020-08-29 2020-11-19 2021-02-25
+n GRH de la Task Force e directe
+
+NE-LIRE-177893-CS-CDS / Re Project Administration and C Sélection de cons
+crutement d’un Spécialiste G IDA / D5800 oordination A priori ultants par entent Direct 219,220.88 Signé 2020-06-15 2020-06-26 2020-06-25 2020-07-17 2020-08-29 2020-11-16 2021-02-25
+estion Financière de la Task e directe
 Force
-IDA / D5800 Project Administration and C
-oordination A priori
-Sélection de cons
-ultants par entent
-e directe
-Direct 219,220.88 Signé 2020-06-15 2020-06-26 2020-06-25 2020-07-17 2020-08-29 2020-11-16 2021-02-25
+
+Page 7
 
 
 --- Page 14 ---
-
-Page 8
- NE-LIRE-177894-CS-CDS / Re
-crutement d’un Spécialiste e
-n Passation des Marchés de l
+NE-LIRE-177894-CS-CDS / Re Project Administration and C Sélection de cons
+crutement d’un Spécialiste e IDA / D5800 oordination A posteriori ultants par entent Direct 321,512.47 Signé 2020-06-15 2020-06-26 2020-06-25 2020-07-17 2020-08-29 2020-11-23 2021-02-25
+n Passation des Marchés de l e directe
 a Task Force
-IDA / D5800 Project Administration and C
-oordination A posteriori
-Sélection de cons
-ultants par entent
-e directe
-Direct 321,512.47 Signé 2020-06-15 2020-06-26 2020-06-25 2020-07-17 2020-08-29 2020-11-23 2021-02-25
- NE-LIRE-180488-CS-INDV / R
-ecrutement d'un (e) Expert (
+
+NE-LIRE-180488-CS-INDV / R Project Administration and C
+ecrutement d'un (e) Expert ( IDA / D5800 oordination A posteriori Individuel Open 31,009.50 Signé 2020-06-22 2020-07-08 2020-08-10 2021-02-23 2020-08-31 2021-02-23 2020-10-05 2021-02-23 2021-04-03
 e) en Transformation Digitale
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 31,009.50 Signé 2020-06-22 2020-07-08 2020-08-10 2021-02-23 2020-08-31 2021-02-23 2020-10-05 2021-02-23 2021-04-03
- NE-LIRE-204802-CS-CDS / Es
-pace de sécurité pour les fille
-s  : Programme sur l'’éducati
-on des filles avec L'’ONG  : R
+
+NE-LIRE-204802-CS-CDS / Es
+pace de sécurité pour les fille Promoting Learning for Girls Sélection de cons
+s : Programme sur l'’éducati IDA / D5800 and Boys A priori ultants par entent Direct 0.00 Annulé 2020-11-30 2021-03-10 2020-12-10 2021-02-13 2021-08-12
+on des filles avec L'’ONG : R e directe
 oom to Read -– Contrat initial
 2021-2023
-IDA / D5800 Promoting Learning for Girls
-and Boys A priori
-Sélection de cons
-ultants par entent
-e directe
-Direct 0.00 Annulé 2020-11-30 2021-03-10 2020-12-10 2021-02-13 2021-08-12
- NE-LIRE-205353-CS-INDV / R
-ecrutement d'un contrôleur i
+
+NE-LIRE-205353-CS-INDV / R Project Administration and C
+ecrutement d'un contrôleur i IDA / D5800 oordination A posteriori Individuel Open 16,071.39 Signé 2021-01-15 2020-12-28 2021-03-05 2021-09-17 2021-03-26 2021-09-17 2021-04-30 2021-09-20 2021-10-27
 nterne pour l'URCP de Tillabe
 ri
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 16,071.39 Signé 2021-01-15 2020-12-28 2021-03-05 2021-09-17 2021-03-26 2021-09-17 2021-04-30 2021-09-20 2021-10-27
- NE-LIRE-205354-CS-INDV / R
-ecrutement d'un contrôleur i
+
+NE-LIRE-205354-CS-INDV / R Project Administration and C En cours d'exécut
+ecrutement d'un contrôleur i IDA / D5800 oordination A posteriori Individuel Open 0.00 ion 2021-01-15 2020-12-28 2021-03-05 2021-03-26 2021-04-30 2021-10-27
 nterne pour l'URCP de Diffa
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-01-15 2020-12-28 2021-03-05 2021-03-26 2021-04-30 2021-10-27
- NE-LIRE-205355-CS-INDV / R
-ecrutement d'un contrôleur i
+
+NE-LIRE-205355-CS-INDV / R Project Administration and C
+ecrutement d'un contrôleur i IDA / D5800 oordination A posteriori Individuel Open 15,541.83 Signé 2021-01-15 2020-12-28 2021-03-05 2021-11-09 2021-03-26 2021-11-09 2021-04-30 2021-11-09 2021-10-27
 nterne pour l'URCP de Zinder
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 15,541.83 Signé 2021-01-15 2020-12-28 2021-03-05 2021-11-09 2021-03-26 2021-11-09 2021-04-30 2021-11-09 2021-10-27
- NE-LIRE-205356-CS-INDV / R
-ecrutement d'un contrôleur i
+
+NE-LIRE-205356-CS-INDV / R Project Administration and C
+ecrutement d'un contrôleur i IDA / D5800 oordination A posteriori Individuel Open 16,071.39 Signé 2021-01-15 2020-12-28 2021-03-05 2021-09-17 2021-03-26 2021-09-17 2021-04-30 2021-09-20 2021-10-27
 nterne pour l'URCP de Maradi
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 16,071.39 Signé 2021-01-15 2020-12-28 2021-03-05 2021-09-17 2021-03-26 2021-09-17 2021-04-30 2021-09-20 2021-10-27
- NE-LIRE-205366-CS-INDV / R
-ecrutement d'un Coordonnat
+
+NE-LIRE-205366-CS-INDV / R Project Administration and C
+ecrutement d'un Coordonnat IDA / D5800 oordination A posteriori Individuel Open 34,758.34 Signé 2021-01-15 2020-12-28 2021-03-05 2021-07-16 2021-03-26 2021-07-19 2021-04-30 2021-07-26 2021-10-27
 eur régional pour l'URCP de T
 ahoua
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 34,758.34 Signé 2021-01-15 2020-12-28 2021-03-05 2021-07-16 2021-03-26 2021-07-19 2021-04-30 2021-07-26 2021-10-27
- NE-LIRE-205371-CS-INDV / R
-ecrutement d'un coordonnat
+
+NE-LIRE-205371-CS-INDV / R Project Administration and C
+ecrutement d'un coordonnat IDA / D5800 oordination A posteriori Individuel Open 34,758.34 Signé 2021-01-15 2020-12-28 2021-03-05 2021-07-16 2021-03-26 2021-07-19 2021-04-30 2021-07-26 2021-10-27
 eur régional pour l'URCP de Z
 inder
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 34,758.34 Signé 2021-01-15 2020-12-28 2021-03-05 2021-07-16 2021-03-26 2021-07-19 2021-04-30 2021-07-26 2021-10-27
- NE-LIRE-205360-CS-INDV / R
-ecrutement d'un assistant co
-mptable régional pour l'URCP
+
+NE-LIRE-205360-CS-INDV / R
+ecrutement d'un assistant co IDA / D5800 Project Administration and C A posteriori Individuel Open 16,071.39 Signé 2021-01-15 2020-12-28 2021-03-05 2021-09-17 2021-03-26 2021-09-17 2021-04-30 2021-09-20 2021-10-27
+mptable régional pour l'URCP oordination
+
 de Tillaberi
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 16,071.39 Signé 2021-01-15 2020-12-28 2021-03-05 2021-09-17 2021-03-26 2021-09-17 2021-04-30 2021-09-20 2021-10-27
- NE-LIRE-205362-CS-INDV / R
-ecrutement d'un assistant co
+
+NE-LIRE-205362-CS-INDV / R Project Administration and C
+ecrutement d'un assistant co IDA / D5800 oordination A posteriori Individuel Open 16,071.39 Signé 2021-01-15 2020-12-28 2021-03-05 2021-09-17 2021-03-26 2021-09-17 2021-04-30 2021-09-20 2021-10-27
 mptable régional pour l'URCP
 de Zinder
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 16,071.39 Signé 2021-01-15 2020-12-28 2021-03-05 2021-09-17 2021-03-26 2021-09-17 2021-04-30 2021-09-20 2021-10-27
- NE-LIRE-205363-CS-INDV / R
-ecrutement d'un assistant co
+
+NE-LIRE-205363-CS-INDV / R Project Administration and C
+ecrutement d'un assistant co IDA / D5800 oordination A posteriori Individuel Open 16,071.39 Signé 2021-01-15 2020-12-28 2021-03-05 2021-09-17 2021-03-26 2021-09-17 2021-04-30 2021-09-20 2021-10-27
 mptable régional pour l'URCP
 de Diffa
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 16,071.39 Signé 2021-01-15 2020-12-28 2021-03-05 2021-09-17 2021-03-26 2021-09-17 2021-04-30 2021-09-20 2021-10-27
- NE-LIRE-205364-CS-INDV / R
-ecrutement d'un assistant co
-mptable régional pour l'URCP
+
+NE-LIRE-205364-CS-INDV / R Project Administration and C
+ecrutement d'un assistant co IDA / D5800 A posteriori Individuel Open 15,864.93 Signé 2021-01-15 2021-01-14 2021-03-05 2021-09-17 2021-03-26 2021-09-17 2021-04-30 2021-09-20 2021-10-27
+mptable régional pour l'URCP oordination
 de Maradi
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 15,864.93 Signé 2021-01-15 2021-01-14 2021-03-05 2021-09-17 2021-03-26 2021-09-17 2021-04-30 2021-09-20 2021-10-27
- NE-LIRE-205368-CS-INDV / R
-ecrutement d'un coordonnat
+
+NE-LIRE-205368-CS-INDV / R Project Administration and C
+ecrutement d'un coordonnat IDA / D5800 oordination A posteriori Individuel Open 34,758.34 Signé 2021-01-15 2020-12-28 2021-03-05 2021-07-07 2021-03-26 2021-07-09 2021-04-30 2021-07-26 2021-10-27
 eur régional pour l'URCP de T
 illaberi
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 34,758.34 Signé 2021-01-15 2020-12-28 2021-03-05 2021-07-07 2021-03-26 2021-07-09 2021-04-30 2021-07-26 2021-10-27
- NE-LIRE-205370-CS-INDV / R
-ecrutement d'un coordonnat
+
+NE-LIRE-205370-CS-INDV / R Project Administration and C
+ecrutement d'un coordonnat IDA / D5800 oordination A posteriori Individuel Open 34,591.49 Signé 2021-01-15 2020-12-28 2021-03-05 2021-07-07 2021-03-26 2021-07-09 2021-04-30 2021-07-27 2021-10-27
 eur régional pour l'URCP de
 Diffa
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 34,591.49 Signé 2021-01-15 2020-12-28 2021-03-05 2021-07-07 2021-03-26 2021-07-09 2021-04-30 2021-07-27 2021-10-27
- NE-LIRE-205372-CS-INDV / R
-ecrutement d'un coordonnat
+
+NE-LIRE-205372-CS-INDV / R Project Administration and C
+ecrutement d'un coordonnat IDA / D5800 oordination A posteriori Individuel Open 34,758.34 Signé 2021-01-15 2020-12-28 2021-03-05 2021-07-07 2021-03-26 2021-07-09 2021-04-30 2021-07-26 2021-10-27
 eur régional pour l'URCP de
 Maradi
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 34,758.34 Signé 2021-01-15 2020-12-28 2021-03-05 2021-07-07 2021-03-26 2021-07-09 2021-04-30 2021-07-26 2021-10-27
- NE-LIRE-205352-CS-INDV / R
-ecrutement d'un contrôleur i
+
+NE-LIRE-205352-CS-INDV / R Project Administration and C
+ecrutement d'un contrôleur i IDA / D5800 oordination A posteriori Individuel Open 16,071.39 Signé 2021-01-15 2020-12-28 2021-03-05 2021-09-17 2021-03-26 2021-09-17 2021-04-30 2021-09-20 2021-10-27
 nterne pour l'URCP de Tahou
 a
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 16,071.39 Signé 2021-01-15 2020-12-28 2021-03-05 2021-09-17 2021-03-26 2021-09-17 2021-04-30 2021-09-20 2021-10-27
- NE-LIRE-205359-CS-INDV / R
-ecrutement d'un assistant co
+
+NE-LIRE-205359-CS-INDV / R Project Administration and C
+ecrutement d'un assistant co IDA / D5800 oordination A posteriori Individuel Open 15,483.51 Signé 2021-01-15 2020-12-28 2021-03-05 2021-11-11 2021-03-26 2021-10-26 2021-04-30 2021-12-01 2021-10-27
 mptable régional pour l'URCP
 de Tahoua
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 15,483.51 Signé 2021-01-15 2020-12-28 2021-03-05 2021-11-11 2021-03-26 2021-10-26 2021-04-30 2021-12-01 2021-10-27
- NE-LIRE-210630-CS-INDV / R
-ECRUTEMENT D'UN SPECIALI
-STE EN PASSATION DES MAR
+
+NE-LIRE-210630-CS-INDV / R
+ECRUTEMENT D'UN SPECIALI IDA / D5800 Project Administration and C A posteriori Individuel Direct 41,960.05 Signé 2021-01-01 2021-01-04 2021-01-11 2021-03-19 2021-02-01 2021-03-19 2021-03-08 2021-03-19 2021-09-04
+STE EN PASSATION DES MAR oordination
 CHES DU PROJET LIRE-NIGER
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Direct 41,960.05 Signé 2021-01-01 2021-01-04 2021-01-11 2021-03-19 2021-02-01 2021-03-19 2021-03-08 2021-03-19 2021-09-04
- NE-LIRE-210631-CS-INDV / R
-ECRUTEMENT D'UN EXPERT E
+
+NE-LIRE-210631-CS-INDV / R Project Administration and C
+ECRUTEMENT D'UN EXPERT E IDA / D5800 oordination A priori Individuel Direct 0.00 Annulé 2021-01-01 2021-01-11 2021-02-01 2021-03-08 2021-09-04
 N APPUI A LA COORDINATION
 SECTORIELLE
-IDA / D5800 Project Administration and C
-oordination A priori Individuel Direct 0.00 Annulé 2021-01-01 2021-01-11 2021-02-01 2021-03-08 2021-09-04
- NE-P-LIRE-227356-CS-CDS /
+
+NE-P-LIRE-227356-CS-CDS /
 Assistant Technique en appui
-à la composante 1 : Expert d
-ans le domaine du renforcem
-ent des capacités des établis
+à la composante 1 : Expert d Sélection de cons
+ans le domaine du renforcem IDA / D5800 Improving Teaching Practice A posteriori ultants par entent Direct 0.00 Annulé 2021-04-26 2021-04-19 2021-05-16 2021-05-05 2021-07-20 2022-07-20
+ent des capacités des établis s e directe
 sements de formation et dan
 s l'amélioration de la qualité
 de la formation initiale des e
 nseignants de l'éducation de
 base
-IDA / D5800 Improving Teaching Practice
-s A posteriori
-Sélection de cons
-ultants par entent
-e directe
-Direct 0.00 Annulé 2021-04-26 2021-04-19 2021-05-16 2021-05-05 2021-07-20 2022-07-20
- NE-P-LIRE-227357-CS-CDS /
-Assistant Technique : Expert
-en formation et accompagne
-ment des personnels d'encad
+NE-P-LIRE-227357-CS-CDS /
+Assistant Technique : Expert Sélection de cons
+en formation et accompagne IDA / D5800 Improving Teaching Practice A posteriori ultants par entent Direct 0.00 Annulé 2021-04-19 2021-04-19 2021-05-09 2021-07-13 2022-07-13
+ment des personnels d'encad s e directe
 rement et des enseignants d
 u cycle d'enseignement de b
 ase 1 et 2
-IDA / D5800 Improving Teaching Practice
-s A posteriori
-Sélection de cons
-ultants par entent
-e directe
-Direct 0.00 Annulé 2021-04-19 2021-04-19 2021-05-09 2021-07-13 2022-07-13
- NE-P-LIRE-230050-CS-CDS /
+
+NE-P-LIRE-230050-CS-CDS /
 Recrutement d’un Assistant e
 n Passation des marchés ave
-c focus sur le logiciel STEP et
-les procédures de la Banque
-Mondiale pour les projets NIG
+c focus sur le logiciel STEP et Project Administration and C Sélection de cons
+les procédures de la Banque IDA / 65720 oordination A posteriori ultants par entent Direct 21,253.07 Signé 2021-05-31 2021-06-14 2021-06-10 2021-06-14 2021-08-14 2021-06-14 2022-08-14
+Mondiale pour les projets NIG e directe
 ER-LIRE et PRODEC dans le c
 adre d’un Pôle Unique de Pas
 sation des Marchés pour les
 deux (2) projets
-IDA / 65720 Project Administration and C
-oordination A posteriori
-Sélection de cons
-ultants par entent
-e directe
-Direct 21,253.07 Signé 2021-05-31 2021-06-14 2021-06-10 2021-06-14 2021-08-14 2021-06-14 2022-08-14
+
+Page 8
 
 
 --- Page 15 ---
-
-Page 9
- NE-P-LIRE-230051-CS-CDS /
+NE-P-LIRE-230051-CS-CDS /
 Recrutement d’une d’une As
-sistante en Passation des ma
-rchés avec focus sur SIGMAP
-et les procédures nationales
+sistante en Passation des ma Sélection de cons
+rchés avec focus sur SIGMAP IDA / 65720 Project Administration and C A posteriori ultants par entent Direct 21,253.07 Signé 2021-05-31 2021-06-14 2021-06-10 2021-06-14 2021-08-14 2021-06-14 2022-08-14
+et les procédures nationales oordination e directe
 pour les projets NIGER-LIRE e
 t PRODEC dans le cadre d’un
 Pôle Unique de Passation des
 marchés pour les deux (2) pr
 ojets
-IDA / 65720 Project Administration and C
-oordination A posteriori
-Sélection de cons
-ultants par entent
-e directe
-Direct 21,253.07 Signé 2021-05-31 2021-06-14 2021-06-10 2021-06-14 2021-08-14 2021-06-14 2022-08-14
- NE-P-LIRE-229946-CS-CDS /
+NE-P-LIRE-229946-CS-CDS /
 Recrutement d'un consultant
-pour le développement d'un
-module d'extension de la bas
-e de données des personnels
+pour le développement d'un Project Administration and C Sélection de cons
+module d'extension de la bas IDA / D5800 oordination A posteriori ultants par entent Direct 62,465.78 Signé 2021-06-30 2021-06-14 2021-07-30 2021-06-17 2021-10-03 2021-07-09 2021-12-02
+e de données des personnels e directe
 de l'ex-MEP aux données de l
 'ex-MES et formation des age
 nts.
-IDA / D5800 Project Administration and C
-oordination A posteriori
-Sélection de cons
-ultants par entent
-e directe
-Direct 62,465.78 Signé 2021-06-30 2021-06-14 2021-07-30 2021-06-17 2021-10-03 2021-07-09 2021-12-02
- NE-P-LIRE-238617-CS-CDS /
-Recrutement d'un consultant
-(Expert International) pour la
+
+NE-P-LIRE-238617-CS-CDS / Sélection de cons
+Recrutement d'un consultant IDA / D5800 Project Administration and C A posteriori ultants par entent Direct 239,641.82 Signé 2021-06-30 2021-06-14 2021-07-30 2021-06-22 2021-10-03 2021-11-22 2024-10-02
+(Expert International) pour la oordination e directe
 coordination sectorielle de l'E
 ducation au Niger
-IDA / D5800 Project Administration and C
-oordination A posteriori
-Sélection de cons
-ultants par entent
-e directe
-Direct 239,641.82 Signé 2021-06-30 2021-06-14 2021-07-30 2021-06-22 2021-10-03 2021-11-22 2024-10-02
- NE-P-LIRE-238619-CS-INDV /
+
+NE-P-LIRE-238619-CS-INDV /
 Etude sur la cartographie des
-prestataires de services en vi
-olences basées sur le genre (
+prestataires de services en vi Project Administration and C
+olences basées sur le genre ( IDA / 65720 oordination A posteriori Individuel Limited 16,886.84 Signé 2021-06-30 2021-06-09 2021-07-15 2021-07-30 2021-08-05 2021-08-16 2021-09-09 2021-08-30 2021-11-08
 VBG), Exploitation et Abus Se
 xuel Harcèlement Sexuel (EA
 S/HS) dans la zone d'interven
 tion du projet LIRE NIGER
-IDA / 65720 Project Administration and C
-oordination A posteriori Individuel Limited 16,886.84 Signé 2021-06-30 2021-06-09 2021-07-15 2021-07-30 2021-08-05 2021-08-16 2021-09-09 2021-08-30 2021-11-08
- NE-P-LIRE-226255-CS-INDV /
-Recrutement d'un expert en
-appui à la coordination secto
+
+NE-P-LIRE-226255-CS-INDV /
+Recrutement d'un expert en IDA / D5800 Project Administration and C A priori Individuel Open 0.00 Annulé 2021-05-25 2021-07-04 2021-07-25 2021-08-29 2024-08-28
+appui à la coordination secto oordination
+
 rielle
-IDA / D5800 Project Administration and C
-oordination A priori Individuel Open 0.00 Annulé 2021-05-25 2021-07-04 2021-07-25 2021-08-29 2024-08-28
- NE-LIRE-204808-CS-INDV / A
-ssistant(e) de Direction (cont
+
+NE-LIRE-204808-CS-INDV / A Project Administration and C
+ssistant(e) de Direction (cont IDA / D5800 oordination A posteriori Individuel Open 0.00 Annulé 2021-01-15 2021-03-05 2021-03-26 2021-04-30 2021-10-27
 rat de 2 ans)
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 0.00 Annulé 2021-01-15 2021-03-05 2021-03-26 2021-04-30 2021-10-27
- NE-P-LIRE-250090-CS-INDV /
-Recrutement d'un Graphiste
-Secteur  Primaire dans le cad
+
+NE-P-LIRE-250090-CS-INDV / Strengthening Systems and
+Recrutement d'un Graphiste IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-11-30 2021-10-30 2022-01-18 2022-02-08 2022-03-15 2023-03-10
+Secteur Primaire dans le cad f Education Services ion
 re du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-11-30 2021-10-30 2022-01-18 2022-02-08 2022-03-15 2023-03-10
- NE-P-LIRE-250091-CS-INDV /
-Recrutement d'un Graphiste
-secteur Secondaire dans le c
+
+NE-P-LIRE-250091-CS-INDV / Strengthening Systems and
+Recrutement d'un Graphiste IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-11-30 2021-10-14 2022-01-18 2022-02-08 2022-03-15 2023-03-10
+secteur Secondaire dans le c f Education Services ion
 adre du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-11-30 2021-10-14 2022-01-18 2022-02-08 2022-03-15 2023-03-10
- NE-P-LIRE-250105-CS-INDV /
-Assistance technique au disp
+
+NE-P-LIRE-250105-CS-INDV / Project Administration and C
+Assistance technique au disp IDA / D5800 oordination A posteriori Individuel Open 125,561.89 Signé 2021-11-01 2021-10-06 2021-12-20 2022-07-17 2022-01-10 2022-07-17 2022-02-14 2022-04-08 2023-02-09
 ositif global de suivi-évaluati
 on du Projet
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 125,561.89 Signé 2021-11-01 2021-10-06 2021-12-20 2022-07-17 2022-01-10 2022-07-17 2022-02-14 2022-04-08 2023-02-09
- NE-P-LIRE-250106-CS-INDV /
-Recrutement d'un consultant
-pour la Formation des comité
+
+NE-P-LIRE-250106-CS-INDV /
+Recrutement d'un consultant IDA / D5800 Project Administration and C A posteriori Individuel Open 0.00 En attente d'exéc 2021-10-30 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+pour la Formation des comité oordination ution
 s de gestion des plaintes
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 0.00 En attente d'exéc
-ution 2021-10-30 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251623-CS-INDV /
-Recrutement d'un Formateur
-N°2 FGB Primaire de Zinder d
+
+NE-P-LIRE-251623-CS-INDV / Strengthening Systems and
+Recrutement d'un Formateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+N°2 FGB Primaire de Zinder d f Education Services ion
 ans le cadre du Projet Niger L
 IRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251647-CS-INDV /
-Recrutement d'un Animateur
-en Gestion Communautaire P
-rimaire N°3 de Tillaberi dans
+
+NE-P-LIRE-251647-CS-INDV /
+Recrutement d'un Animateur Strengthening Systems and En cours d'exécut
+en Gestion Communautaire P IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+rimaire N°3 de Tillaberi dans f Education Services
 le cadre du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251653-CS-INDV /
-Recrutement d'un Animateur
-en Gestion Communautaire P
-rimaire N°3 de Diffa dans le c
+
+NE-P-LIRE-251653-CS-INDV /
+Recrutement d'un Animateur Strengthening Systems and En cours d'exécut
+en Gestion Communautaire P IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+rimaire N°3 de Diffa dans le c f Education Services
 adre du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251637-CS-INDV /
-Recrutement d'un Animateur
-en Gestion Communautaire P
-rimaire N°3  de Zinder dans l
+
+NE-P-LIRE-251637-CS-INDV /
+Recrutement d'un Animateur Strengthening Systems and En cours d'exécut
+en Gestion Communautaire P IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+rimaire N°3 de Zinder dans l f Education Services
 e cadre du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251644-CS-INDV /
-Recrutement d'un Animateur
-en Gestion Communautaire P
-rimaire N°3 de Tahoua dans l
+
+NE-P-LIRE-251644-CS-INDV /
+Recrutement d'un Animateur Strengthening Systems and En cours d'exécut
+en Gestion Communautaire P IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+rimaire N°3 de Tahoua dans l f Education Services
 e cadre du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251646-CS-INDV /
-Recrutement d'un Animateur
-en Gestion Communautaire P
-rimaire N°2 de Tillaberi dans
+
+NE-P-LIRE-251646-CS-INDV /
+Recrutement d'un Animateur Strengthening Systems and En cours d'exécut
+en Gestion Communautaire P IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+rimaire N°2 de Tillaberi dans f Education Services
 le cadre du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251649-CS-INDV /
-Recrutement d'un Animateur
-en Gestion Communautaire P
-rimaire N°2  de Maradi dans l
+
+NE-P-LIRE-251649-CS-INDV /
+Recrutement d'un Animateur Strengthening Systems and En cours d'exécut
+en Gestion Communautaire P IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+rimaire N°2 de Maradi dans l f Education Services
 e cadre du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251654-CS-INDV /
-Recrutement d'un Formateur
-FGB MAKARANTA N°2 dans le
+
+NE-P-LIRE-251654-CS-INDV / Strengthening Systems and
+Recrutement d'un Formateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+FGB MAKARANTA N°2 dans le f Education Services ion
 cadre du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251656-CS-INDV /
-Recrutement d'un Formateur
-FGB MAKARANTA N°3 dans le
+
+NE-P-LIRE-251656-CS-INDV / Strengthening Systems and
+Recrutement d'un Formateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+FGB MAKARANTA N°3 dans le f Education Services ion
 cadre du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251013-CS-INDV /
-Recrutement d'un animateur
-Communautaire N°1 Second
+
+NE-P-LIRE-251013-CS-INDV / Strengthening Systems and
+Recrutement d'un animateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+Communautaire N°1 Second f Education Services ion
 aire de Maradi dans le cadre
 du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+
+Page 9
 
 
 --- Page 16 ---
-
-Page 10
- NE-P-LIRE-251014-CS-INDV /
-Recrutement d'un animateur
-Communautaire N°1 Second
+NE-P-LIRE-251014-CS-INDV / Strengthening Systems and
+Recrutement d'un animateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+Communautaire N°1 Second f Education Services ion
 aire de Tillaberi dans le cadre
 du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251017-CS-INDV /
-Recrutement d'un Animateur
-en Gestion Communautaire P
-rimaire N°1  de Maradi dans l
+
+NE-P-LIRE-251017-CS-INDV /
+Recrutement d'un Animateur Strengthening Systems and En cours d'exécut
+en Gestion Communautaire P IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+rimaire N°1 de Maradi dans l f Education Services
 e cadre du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251019-CS-INDV /
-Recrutement d'un Animateur
-en Gestion Communautaire P
-rimaire N°1  de Tahoua dans
+
+NE-P-LIRE-251019-CS-INDV /
+Recrutement d'un Animateur Strengthening Systems and En cours d'exécut
+en Gestion Communautaire P IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+rimaire N°1 de Tahoua dans f Education Services
 le cadre du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251020-CS-INDV /
-Recrutement d'un Animateur
-en Gestion Communautaire P
-rimaire N°1  de Zinder dans l
+
+NE-P-LIRE-251020-CS-INDV /
+Recrutement d'un Animateur Strengthening Systems and En cours d'exécut
+en Gestion Communautaire P IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+rimaire N°1 de Zinder dans l f Education Services
 e cadre du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251021-CS-INDV /
-Recrutement d'un Formateur
-FGB Secondaire de Maradi da
-ns le cadre du Projet Niger LI
+
+NE-P-LIRE-251021-CS-INDV /
+Recrutement d'un Formateur Strengthening Systems and En cours d'exécut
+FGB Secondaire de Maradi da IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+ns le cadre du Projet Niger LI f Education Services
 RE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251023-CS-INDV /
-Recrutement d'un Formateur
-FGB Secondaire de Tahoua d
+
+NE-P-LIRE-251023-CS-INDV / Strengthening Systems and
+Recrutement d'un Formateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exame 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+FGB Secondaire de Tahoua d f Education Services n
 ans le cadre du Projet Niger L
 IRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exame
-n 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251024-CS-INDV /
-Recrutement d'un Formateur
-FGB Secondaire de Zinder da
+
+NE-P-LIRE-251024-CS-INDV / Strengthening Systems and
+Recrutement d'un Formateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+FGB Secondaire de Zinder da f Education Services ion
 ns le cadre du Projet Niger LI
 RE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251026-CS-INDV /
-Recrutement d'un Formateur
-FGB N°1 Primaire de Tillaberi
- dans le cadre du Projet Nige
+
+NE-P-LIRE-251026-CS-INDV / Strengthening Systems and
+Recrutement d'un Formateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+FGB N°1 Primaire de Tillaberi f Education Services ion
+dans le cadre du Projet Nige
 r LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251028-CS-INDV /
-Recrutement d'un Formateur
- FGB  N° 1 Primaire de Tahou
+
+NE-P-LIRE-251028-CS-INDV / Strengthening Systems and
+Recrutement d'un Formateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+FGB N° 1 Primaire de Tahou f Education Services ion
 a dans le cadre du Projet Nig
 er LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251029-CS-INDV /
-Recrutement d'un Formateur
-N°1  FGB Primaire de Zinder
+
+NE-P-LIRE-251029-CS-INDV / Strengthening Systems and
+Recrutement d'un Formateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+N°1 FGB Primaire de Zinder f Education Services ion
 dans le cadre du Projet Niger
 LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251635-CS-INDV /
-Recrutement d' un animateur
-Communautaire Secondaire
-N°2  de Diffa dans le cadre d
+
+NE-P-LIRE-251635-CS-INDV / Strengthening Systems and
+Recrutement d' un animateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+Communautaire Secondaire f Education Services ion
+N°2 de Diffa dans le cadre d
 u Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-250088-CS-INDV /
-Recrutement d' un animateur
-Communautaire Secondaire
-N°1  de Diffa dans le cadre d
+
+NE-P-LIRE-250088-CS-INDV / Strengthening Systems and
+Recrutement d' un animateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+Communautaire Secondaire f Education Services ion
+N°1 de Diffa dans le cadre d
 u Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-250089-CS-INDV /
-Recrutement d'un  animateur
-Communautaire MAKARANTA
- N°1 dans le cadre du Projet
+
+NE-P-LIRE-250089-CS-INDV / Strengthening Systems and
+Recrutement d'un animateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+Communautaire MAKARANTA f Education Services ion
+N°1 dans le cadre du Projet
 Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251628-CS-INDV /
-Recrutement d'un Formateur
-FGB N°2 Primaire de Diffa da
-ns le cadre du Projet Niger LI
+
+NE-P-LIRE-251628-CS-INDV / Strengthening Systems and
+Recrutement d'un Formateur En cours d'exécut
+FGB N°2 Primaire de Diffa da IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+ns le cadre du Projet Niger LI f Education Services
+
 RE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251633-CS-INDV /
-Recrutement d'un animateur
-Communautaire N°2 Second
+
+NE-P-LIRE-251633-CS-INDV / Strengthening Systems and
+Recrutement d'un animateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+Communautaire N°2 Second f Education Services ion
 aire de Maradi dans le cadre
 du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251636-CS-INDV /
-Recrutement d'un Animateur
-en Gestion Communautaire P
-rimaire N°2  de Zinder dans l
+
+NE-P-LIRE-251636-CS-INDV /
+Recrutement d'un Animateur Strengthening Systems and En cours d'exécut
+en Gestion Communautaire P IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+rimaire N°2 de Zinder dans l f Education Services
 e cadre du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251643-CS-INDV /
-Recrutement d'un Animateur
-en Gestion Communautaire P
-rimaire N°2  de Tahoua dans
+
+NE-P-LIRE-251643-CS-INDV /
+Recrutement d'un Animateur Strengthening Systems and En cours d'exécut
+en Gestion Communautaire P IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+rimaire N°2 de Tahoua dans f Education Services
 le cadre du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251651-CS-INDV /
-Recrutement d'un Animateur
-en Gestion Communautaire P
-rimaire N°3  de Maradi dans l
+
+NE-P-LIRE-251651-CS-INDV /
+Recrutement d'un Animateur Strengthening Systems and En cours d'exécut
+en Gestion Communautaire P IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+rimaire N°3 de Maradi dans l f Education Services
 e cadre du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251652-CS-INDV /
-Recrutement d'un Animateur
-en Gestion Communautaire P
-rimaire N°2 de Diffa dans le c
+
+NE-P-LIRE-251652-CS-INDV /
+Recrutement d'un Animateur Strengthening Systems and En cours d'exécut
+en Gestion Communautaire P IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+rimaire N°2 de Diffa dans le c f Education Services
 adre du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-252086-CS-INDV /
-Recrutement d'un  animateur
-Communautaire MAKARANTA
- N°2 dans le cadre du Projet
+
+NE-P-LIRE-252086-CS-INDV / Strengthening Systems and
+Recrutement d'un animateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+Communautaire MAKARANTA f Education Services ion
+N°2 dans le cadre du Projet
 Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251624-CS-INDV /
-Recrutement d'un Formateur
- FGB  N° 2 Primaire de Tahou
+
+NE-P-LIRE-251624-CS-INDV / Strengthening Systems and
+Recrutement d'un Formateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+FGB N° 2 Primaire de Tahou f Education Services ion
 a dans le cadre du Projet Nig
 er LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+
+Page 10
 
 
 --- Page 17 ---
-
-Page 11
- NE-P-LIRE-251625-CS-INDV /
-Recrutement d'un Formateur
-FGB N°2 Primaire de Tillaberi
- dans le cadre du Projet Nige
+NE-P-LIRE-251625-CS-INDV / Strengthening Systems and
+Recrutement d'un Formateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+FGB N°2 Primaire de Tillaberi f Education Services ion
+dans le cadre du Projet Nige
 r LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251626-CS-INDV /
-Recrutement d'un Formateur
-FGB N°2 Primaire de Maradi
+
+NE-P-LIRE-251626-CS-INDV / Strengthening Systems and
+Recrutement d'un Formateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+FGB N°2 Primaire de Maradi f Education Services ion
 dans le cadre du Projet Niger
 LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251629-CS-INDV /
-Recrutement d'un animateur
-Communautaire N°2 Second
-aire de Zinder dans le cadre
+
+NE-P-LIRE-251629-CS-INDV / Strengthening Systems and
+Recrutement d'un animateur En cours d'exécut
+Communautaire N°2 Second IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+aire de Zinder dans le cadre f Education Services
+
 du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251631-CS-INDV /
-Recrutement d'un  animateur
-Communautaire N°2 Second
+
+NE-P-LIRE-251631-CS-INDV / Strengthening Systems and
+Recrutement d'un animateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+Communautaire N°2 Second f Education Services ion
 aire de Tahoua dans le cadre
 du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251632-CS-INDV /
-Recrutement d'un animateur
-Communautaire N°2 Second
+
+NE-P-LIRE-251632-CS-INDV / Strengthening Systems and
+Recrutement d'un animateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+Communautaire N°2 Second f Education Services ion
 aire de Tillaberi dans le cadre
 du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251016-CS-INDV /
-Recrutement d'un animateur
-Communautaire N°1 Second
+
+NE-P-LIRE-251016-CS-INDV / Strengthening Systems and
+Recrutement d'un animateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+Communautaire N°1 Second f Education Services ion
 aire de Zinder dans le cadre
 du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251015-CS-INDV /
-Recrutement d'un  animateur
-Communautaire N°1 Second
+
+NE-P-LIRE-251015-CS-INDV / Strengthening Systems and
+Recrutement d'un animateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+Communautaire N°1 Second f Education Services ion
 aire de Tahoua dans le cadre
 du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251018-CS-INDV /
-Recrutement d'un Animateur
-en Gestion Communautaire P
-rimaire N°1 de Tillaberi dans
+
+NE-P-LIRE-251018-CS-INDV /
+Recrutement d'un Animateur Strengthening Systems and En cours d'exécut
+en Gestion Communautaire P IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+rimaire N°1 de Tillaberi dans f Education Services
 le cadre du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-LIRE-204808-CS-INDV-2 /
-Recrutement d'un (e) assista
+
+NE-LIRE-204808-CS-INDV-2 / Project Administration and C En attente d'exéc
+Recrutement d'un (e) assista IDA / D5800 oordination A posteriori Individuel Open 0.00 ution 2021-10-30 2021-12-18 2022-01-08 2022-02-12 2022-08-11
 nt (e) de direction pour le pro
 jet LIRE NIGER
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 0.00 En attente d'exéc
-ution 2021-10-30 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-247154-CS-INDV /
-Recrutement d'un consultant
-international chargé de la mi
+
+NE-P-LIRE-247154-CS-INDV /
+Recrutement d'un consultant IDA / D5800 Project Administration and C A posteriori Individuel Open 0.00 Annulé 2021-10-30 2021-09-22 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+international chargé de la mi oordination
 se en œuvre de l'approche F
 GB
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 0.00 Annulé 2021-10-30 2021-09-22 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-250083-CS-INDV /
-Recrutement d'un Formateur
-FGB N°1 Primaire de Diffa da
+
+NE-P-LIRE-250083-CS-INDV / Strengthening Systems and
+Recrutement d'un Formateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+FGB N°1 Primaire de Diffa da f Education Services ion
 ns le cadre du Projet Niger LI
 RE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-250085-CS-INDV /
-Recrutement d'un Formateur
-FGB MAKARANTA N°1 dans le
+
+NE-P-LIRE-250085-CS-INDV / Strengthening Systems and
+Recrutement d'un Formateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+FGB MAKARANTA N°1 dans le f Education Services ion
 cadre du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-250086-CS-INDV /
-Recrutement d'un Animateur
-en Gestion Communautaire P
-rimaire N°1 de Diffa dans le c
+
+NE-P-LIRE-250086-CS-INDV /
+Recrutement d'un Animateur Strengthening Systems and En cours d'exécut
+en Gestion Communautaire P IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+rimaire N°1 de Diffa dans le c f Education Services
 adre du Projet Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-14 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-250084-CS-INDV /
-Recrutement d'un Formateur
-FGB Secondaire de Diffa dan
+
+NE-P-LIRE-250084-CS-INDV / Strengthening Systems and
+Recrutement d'un Formateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+FGB Secondaire de Diffa dan f Education Services ion
 s le cadre du Projet Niger LIR
 E
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251025-CS-INDV /
-Recrutement d'un Formateur
-FGB N°1 Primaire de Maradi
+
+NE-P-LIRE-251025-CS-INDV / Strengthening Systems and
+Recrutement d'un Formateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exécut 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+FGB N°1 Primaire de Maradi f Education Services ion
 dans le cadre du Projet Niger
 LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-251022-CS-INDV /
-Recrutement d'un Formateur
-FGB Secondaire de Tillaberi d
+
+NE-P-LIRE-251022-CS-INDV / Strengthening Systems and
+Recrutement d'un Formateur IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 En cours d'exame 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+FGB Secondaire de Tillaberi d f Education Services n
 ans le cadre du Projet Niger L
 IRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exame
-n 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-252087-CS-INDV /
-Recrutement d'un  animateur
-Communautaire MAKARANTA
- N°3 dans le cadre du Projet
+
+NE-P-LIRE-252087-CS-INDV / Strengthening Systems and
+Recrutement d'un animateur En cours d'exécut
+Communautaire MAKARANTA IDA / D5800 Capacities for the Delivery o A posteriori Individuel Open 0.00 ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
+N°3 dans le cadre du Projet f Education Services
+
 Niger LIRE
-IDA / D5800
-Strengthening Systems and
-Capacities for the Delivery o
-f Education Services
-A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2021-10-30 2021-10-13 2021-12-18 2022-01-08 2022-02-12 2022-08-11
- NE-P-LIRE-243689-CS-INDV /
-Recrutement d'un consultant
-charger d'appuyer les DFIC 
-pour la rédaction des TDR  d
+
+NE-P-LIRE-243689-CS-INDV /
+Recrutement d'un consultant IDA / V2910 Project Administration and C A posteriori Individuel Limited 1,249.47 Signé 2021-12-15 2021-11-16 2021-12-20 2022-02-05 2022-01-10 2022-02-05 2022-02-14 2022-01-13 2022-03-16
+charger d'appuyer les DFIC oordination
+pour la rédaction des TDR d
 es ENI, ENS
-IDA / V2910 Project Administration and C
-oordination A posteriori Individuel Limited 1,249.47 Signé 2021-12-15 2021-11-16 2021-12-20 2022-02-05 2022-01-10 2022-02-05 2022-02-14 2022-01-13 2022-03-16
- NE-P-LIRE-278142-CS-CDS /
-Assistance technique en Gest
-ion de Ressources Humaines
+
+NE-P-LIRE-278142-CS-CDS / Sélection de cons
+Assistance technique en Gest IDA / D5800 Project Administration and C A posteriori ultants par entent Direct 0.00 En cours d'exécut 2022-05-10 2022-02-17 2022-05-20 2022-07-24 2023-01-20
+ion de Ressources Humaines oordination e directe ion
 au Projet NIGER- LIRE
-IDA / D5800 Project Administration and C
-oordination A posteriori
-Sélection de cons
-ultants par entent
-e directe
-Direct 0.00 En cours d'exécut
-ion 2022-05-10 2022-02-17 2022-05-20 2022-07-24 2023-01-20
- NE-P-LIRE-279633-CS-CDS /
-Recrutement par entente dir
-ecte  du cabinet SECOD pour
+
+NE-P-LIRE-279633-CS-CDS / Sélection de cons
+Recrutement par entente dir IDA / D5800 Project Administration and C A posteriori ultants par entent Direct 702,575.36 Signé 2022-05-31 2022-03-06 2022-06-10 2022-07-17 2022-08-14 2022-05-05 2023-08-14
+ecte du cabinet SECOD pour oordination e directe
 la mise en œuvre de l'approc
 he FGB
-IDA / D5800 Project Administration and C
-oordination A posteriori
-Sélection de cons
-ultants par entent
-e directe
-Direct 702,575.36 Signé 2022-05-31 2022-03-06 2022-06-10 2022-07-17 2022-08-14 2022-05-05 2023-08-14
- NE-P-LIRE-267561-CS-CDS /
-Recrutement d'un consultant
-international chargé de la mi
+
+NE-P-LIRE-267561-CS-CDS / Sélection de cons
+Recrutement d'un consultant IDA / D5800 Project Administration and C A posteriori ultants par entent Direct 0.00 Annulé 2022-01-10 2021-12-20 2022-01-20 2022-02-05 2022-03-26 2023-03-26
+international chargé de la mi oordination e directe
 se en œuvre de l'approche F
 GB
-IDA / D5800 Project Administration and C
-oordination A posteriori
-Sélection de cons
-ultants par entent
-e directe
-Direct 0.00 Annulé 2022-01-10 2021-12-20 2022-01-20 2022-02-05 2022-03-26 2023-03-26
- NE-P-LIRE-284035-CS-CDS /
-Recrutement d'un Specialiste
-en Passation des Marchés du
+
+NE-P-LIRE-284035-CS-CDS / Sélection de cons
+Recrutement d'un Specialiste IDA / V2910 Project Administration and C A posteriori ultants par entent Direct 0.00 En cours d'exécut 2022-07-30 2022-03-29 2022-08-09 2022-10-13 2023-04-11
+en Passation des Marchés du oordination e directe ion
 Projet Niger LIRE 2022
-IDA / V2910 Project Administration and C
-oordination A posteriori
-Sélection de cons
-ultants par entent
-e directe
-Direct 0.00 En cours d'exécut
-ion 2022-07-30 2022-03-29 2022-08-09 2022-10-13 2023-04-11
+
+Page 11
 
 
 --- Page 18 ---
-
-Page 12
- NE-P-LIRE-284450-CS-INDV /
-Recrutement d'un Consultant
-Indépendant  pour la récepti
+NE-P-LIRE-284450-CS-INDV /
+Recrutement d'un Consultant Project Administration and C
+Indépendant pour la récepti IDA / V2910 oordination A posteriori Individuel Limited 12,573.16 Signé 2022-07-29 2022-05-27 2022-08-03 2022-07-17 2022-08-24 2022-07-16 2022-09-28 2022-06-20 2023-03-27
 on des Equipements Informat
 ique de la DRH/MEN
-IDA / V2910 Project Administration and C
-oordination A posteriori Individuel Limited 12,573.16 Signé 2022-07-29 2022-05-27 2022-08-03 2022-07-17 2022-08-24 2022-07-16 2022-09-28 2022-06-20 2023-03-27
- NE-P-LIRE-288806-CS-INDV /
+
+NE-P-LIRE-288806-CS-INDV /
 Consultant Individuel pour él
 aborer une Notice d’impact e
-nvironnemental et social (NIE
-S) relative aux travaux de de
-réhabilitation et d'aménage
+nvironnemental et social (NIE Project Administration and C En attente d'exéc
+S) relative aux travaux de de IDA / D5800 A posteriori Individuel Limited 0.00 2022-08-31 2022-09-05 2022-09-26 2022-10-31 2023-04-29
+réhabilitation et d'aménage oordination ution
 ment des écoles normales d'i
 nstituteurs (ENI), des écoles
 annexes et de l'école normal
 e supérieure de l'UAM
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Limited 0.00 En attente d'exéc
-ution 2022-08-31 2022-09-05 2022-09-26 2022-10-31 2023-04-29
- NE-P-LIRE-288807-CS-CDS /
-Recrutement d’un consultant
-individuel pour la réalisation
-d’une cartographie complém
+
+NE-P-LIRE-288807-CS-CDS /
+Recrutement d’un consultant Project Administration and C Sélection de cons
+individuel pour la réalisation IDA / 65720 oordination A posteriori ultants par entent Direct 42,998.25 Signé 2022-08-31 2022-04-22 2022-09-10 2022-09-29 2022-11-14 2022-07-02 2023-05-13
+d’une cartographie complém e directe
 entaire des prestataires de s
 ervice VBG
-IDA / 65720 Project Administration and C
-oordination A posteriori
-Sélection de cons
-ultants par entent
-e directe
-Direct 42,998.25 Signé 2022-08-31 2022-04-22 2022-09-10 2022-09-29 2022-11-14 2022-07-02 2023-05-13
- NE-P-LIRE-289783-CS-INDV /
-Recrutement d’un consultant
-individuel pour la formation d
+
+NE-P-LIRE-289783-CS-INDV /
+Recrutement d’un consultant Project Administration and C En cours d'exécut
+individuel pour la formation d IDA / 65720 oordination A posteriori Individuel Limited 0.00 ion 2022-08-31 2022-05-17 2022-09-05 2022-09-26 2022-10-31 2023-04-29
 es acteurs centraux et décon
 centrés du MEN sur le genre
 et les VBG
-IDA / 65720 Project Administration and C
-oordination A posteriori Individuel Limited 0.00 En cours d'exécut
-ion 2022-08-31 2022-05-17 2022-09-05 2022-09-26 2022-10-31 2023-04-29
- NE-P-LIRE-288808-CS-INDV /
+
+NE-P-LIRE-288808-CS-INDV /
 Recrutement d'un consultant
 Individuel chargé de la réalis
-ation d' une étude de faisabil
-ité  pour la mise en place du
+ation d' une étude de faisabil IDA / D5800 Project Administration and C A posteriori Individuel Open 0.00 En cours d'exécut 2022-09-30 2022-05-26 2022-11-18 2022-12-09 2023-01-13 2023-07-12
+ité pour la mise en place du oordination ion
+
 Système d’Information et de
 Gestion de l’Education (SIGE)
 au Niger
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2022-09-30 2022-05-26 2022-11-18 2022-12-09 2023-01-13 2023-07-12
- NE-P-LIRE-297615-CS-INDV /
+
+NE-P-LIRE-297615-CS-INDV /
 Recrutement d’un Assistant t
-echnique Expert en carte sco
-laire et planification de l’édu
-cation pour l’accompagneme
+echnique Expert en carte sco Sélection de cons
+laire et planification de l’édu IDA / D5800 Project Administration and C A posteriori ultants par entent Direct 5,531,362.22 Signé 2022-08-31 2022-06-16 2022-09-10 2022-09-29 2022-11-14 2022-09-01 2023-05-13
+cation pour l’accompagneme oordination e directe
 nt de la DEP/MEN dans la pou
 rsuite de la mise en place du
 dispositif institutionnalisé de
 la carte scolaire
-IDA / D5800 Project Administration and C
-oordination A posteriori
-Sélection de cons
-ultants par entent
-e directe
-Direct 5,531,362.22 Signé 2022-08-31 2022-06-16 2022-09-10 2022-09-29 2022-11-14 2022-09-01 2023-05-13
- NE-P-LIRE-297618-CS-INDV /
+
+NE-P-LIRE-297618-CS-INDV /
 Recrutement d’un consultant
-international en vue d’appuy
-er la validation des program
+international en vue d’appuy IDA / D5800 Project Administration and C A posteriori Individuel Limited 0.00 En cours d'exécut 2022-10-30 2022-07-07 2022-11-04 2022-11-25 2022-12-30 2023-06-28
+er la validation des program oordination ion
 mes et des méthodes de for
 mation des écoles normales
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Limited 0.00 En cours d'exécut
-ion 2022-10-30 2022-07-07 2022-11-04 2022-11-25 2022-12-30 2023-06-28
- NE-P-LIRE-297798-CS-INDV /
-Recrutement d'un expert  en
+
+NE-P-LIRE-297798-CS-INDV /
+Recrutement d'un expert en
 appui perlé dans le domaine
-du renforcement des capacit
-és des établissements de for
+du renforcement des capacit IDA / D5800 Improving Teaching Practice A priori Individuel Open 0.00 En cours d'exécut 2022-08-31 2022-06-20 2022-10-20 2023-01-19 2022-11-10 2023-02-09 2022-12-15 2023-12-15
+és des établissements de for s ion
 mation et dans l'enseigneme
 nt de la qualité de la formati
 on initiale des enseignants d
 e l'éducation de base
-IDA / D5800 Improving Teaching Practice
-s A priori Individuel Open 0.00 En cours d'exécut
-ion 2022-08-31 2022-06-20 2022-10-20 2023-01-19 2022-11-10 2023-02-09 2022-12-15 2023-12-15
- NE-P-LIRE-297800-CS-INDV /
+
+NE-P-LIRE-297800-CS-INDV /
 Recrutement d'un expert en
-appui perlé  pour la  formatio
-n et l'accompagnement des
+appui perlé pour la formatio IDA / D5800 Improving Teaching Practice A priori Individuel Open 0.00 En cours d'exécut 2022-08-31 2022-06-20 2022-10-20 2022-11-10 2022-12-15 2023-12-15
+n et l'accompagnement des s ion
 personnels d'encadrement et
 des enseignants du cycle d'e
 nseignement de base 1 et 2
-IDA / D5800 Improving Teaching Practice
-s A priori Individuel Open 0.00 En cours d'exécut
-ion 2022-08-31 2022-06-20 2022-10-20 2022-11-10 2022-12-15 2023-12-15
- NE-P-LIRE-300101-CS-INDV /
-Recrutement d’un Spécialiste
-International  en Passation d
+
+NE-P-LIRE-300101-CS-INDV /
+Recrutement d’un Spécialiste IDA / D5800 Project Administration and C A posteriori Individuel Open 0.00 En cours d'exécut 2022-09-30 2022-09-15 2022-11-18 2022-12-09 2023-01-13 2023-07-12
+International en Passation d oordination ion
 es Marchés de la Task Force
 du Projet NIGER LIRE
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Open 0.00 En cours d'exécut
-ion 2022-09-30 2022-09-15 2022-11-18 2022-12-09 2023-01-13 2023-07-12
- NE-P-LIRE-303779-CS-CDS /
-Recrutement d' un Cabinet p
-ar Entente Directe pour l’opé
-rationnalisation d’un systèm
+
+NE-P-LIRE-303779-CS-CDS /
+Recrutement d' un Cabinet p Sélection de cons
+ar Entente Directe pour l’opé IDA / D5800 Promoting Learning for Girls A posteriori ultants par entent Direct - Internation 0.00 En cours d'exécut 2022-11-30 2022-09-20 2022-12-10 2023-02-13 2023-08-12
+rationnalisation d’un systèm and Boys e directe al ion
 e de Track and Trace (TnT) p
 our le Ministère de l’Educatio
 n Nationale au Niger
-IDA / D5800 Promoting Learning for Girls
-and Boys A posteriori
-Sélection de cons
-ultants par entent
-e directe
-Direct - Internation
-al 0.00 En cours d'exécut
-ion 2022-11-30 2022-09-20 2022-12-10 2023-02-13 2023-08-12
- NE-P-LIRE-303780-CS-CDS /
-Recrutement d’un cabinet pa
-r Entente Directe chargé d’él
-aboration d’une stratégie de
+
+NE-P-LIRE-303780-CS-CDS /
+Recrutement d’un cabinet pa Promoting Learning for Girls Sélection de cons Direct - Internation
+r Entente Directe chargé d’él IDA / D5800 and Boys A posteriori ultants par entent al 79,666.21 Signé 2022-11-30 2022-07-23 2022-12-10 2022-09-29 2023-02-13 2022-09-02 2023-08-12
+aboration d’une stratégie de e directe
 mise œuvre des construction
 s scolaire
-IDA / D5800 Promoting Learning for Girls
-and Boys A posteriori
-Sélection de cons
-ultants par entent
-e directe
-Direct - Internation
-al 79,666.21 Signé 2022-11-30 2022-07-23 2022-12-10 2022-09-29 2023-02-13 2022-09-02 2023-08-12
- NE-P-LIRE-260085-CS-INDV /
+
+NE-P-LIRE-260085-CS-INDV /
 Assistance Technique à la co
-mposante 1 : Expert en form
-ation et accompagnement de
+mposante 1 : Expert en form IDA / D5800 Improving Teaching Practice A priori Individuel Open 0.00 Annulé 2021-12-15 2022-01-20 2022-02-03 2022-02-24 2022-03-31 2023-03-31
+ation et accompagnement de s
 s personnels d'encadrement
 et des enseignants du cycle
 d'enseignement de base 1 et
 2
-IDA / D5800 Improving Teaching Practice
-s A priori Individuel Open 0.00 Annulé 2021-12-15 2022-01-20 2022-02-03 2022-02-24 2022-03-31 2023-03-31
- NE-P-LIRE-260083-CS-INDV /
+NE-P-LIRE-260083-CS-INDV /
 Assistance Technique en app
 ui à la composante 1: Expert
-dans le domaine du renforce
-ment des capacités des établ
+dans le domaine du renforce IDA / D5800 Improving Teaching Practice A priori Individuel Open 0.00 Annulé 2021-12-15 2022-01-30 2022-02-03 2022-02-24 2022-03-31 2023-03-31
+ment des capacités des établ s
 issements de formation et da
 ns l'enseignement de la quali
 té de la formation initiale des
 enseignants de l'éducation d
 e base
-IDA / D5800 Improving Teaching Practice
-s A priori Individuel Open 0.00 Annulé 2021-12-15 2022-01-30 2022-02-03 2022-02-24 2022-03-31 2023-03-31
- NE-P-LIRE-303781-CS-INDV /
-Recrutement d'un consultant
-chargé de l’élaboration du do
-cument de Stratégie National
+NE-P-LIRE-303781-CS-INDV /
+Recrutement d'un consultant Project Administration and C En cours d'exécut
+chargé de l’élaboration du do IDA / D5800 A posteriori Individuel Limited 0.00 2022-09-30 2022-09-05 2022-10-05 2022-10-26 2022-11-30 2023-05-29
+cument de Stratégie National oordination ion
 e en Education Environneme
 ntale (SN/EE)
-IDA / D5800 Project Administration and C
-oordination A posteriori Individuel Limited 0.00 En cours d'exécut
-ion 2022-09-30 2022-09-05 2022-10-05 2022-10-26 2022-11-30 2023-05-29
- NE-P-LIRE-309521-CS-CDS /
+
+NE-P-LIRE-309521-CS-CDS /
 recrutement en attente direc
-te du consultant Internationa
-l en Suivi-Evaluation pour de
-s appuis perlés au Projet Nig
+te du consultant Internationa Improving Teaching Practice Sélection de cons Direct - Internation En cours d'exécut
+l en Suivi-Evaluation pour de IDA / D5800 s A posteriori ultants par entent al 0.00 ion 2022-11-30 2022-09-05 2022-12-10 2023-02-13 2023-08-12
+s appuis perlés au Projet Nig e directe
 er LIRE et du DEP/MEN dans l
 e processus de suivi-évaluati
 on et du SIGE
-IDA / D5800 Improving Teaching Practice
-s A posteriori
-Sélection de cons
-ultants par entent
-e directe
-Direct - Internation
-al 0.00 En cours d'exécut
-ion 2022-11-30 2022-09-05 2022-12-10 2023-02-13 2023-08-12
+
+Page 12
 
 
 --- Page 19 ---
-
-Page 13
- NE-P-LIRE-309519-CS-INDV /
-Recrutement un consultant c
-hargé de l’appui à l’élaborati
+NE-P-LIRE-309519-CS-INDV /
+Recrutement un consultant c IDA / D5800 Improving Teaching Practice A posteriori Individuel Open - Internationa 0.00 En cours d'exécut 2022-11-30 2022-10-17 2023-01-18 2023-02-08 2023-03-15 2023-09-11
+hargé de l’appui à l’élaborati s l ion
 on/finalisation de la politique
 du livre au Niger
-IDA / D5800 Improving Teaching Practice
-s A posteriori Individuel Open - Internationa
-l 0.00 En cours d'exécut
-ion 2022-11-30 2022-10-17 2023-01-18 2023-02-08 2023-03-15 2023-09-11
- NE-P-LIRE-314323-CS-INDV /
-Recrutement d’un consultant
-individuel chargé de l’Elabor
+
+NE-P-LIRE-314323-CS-INDV /
+Recrutement d’un consultant Improving Teaching Practice En cours d'exécut
+individuel chargé de l’Elabor IDA / D5800 s A posteriori Individuel Limited 0.00 ion 2022-12-31 2022-10-17 2023-01-05 2023-01-26 2023-03-02 2023-08-29
 ation d’un Plan de Gestion de
 s Déchets en milieux scolaire
 s
-IDA / D5800 Improving Teaching Practice
-s A posteriori Individuel Limited 0.00 En cours d'exécut
-ion 2022-12-31 2022-10-17 2023-01-05 2023-01-26 2023-03-02 2023-08-29
- NE-P-LIRE-320866-CS-INDV /
+
+NE-P-LIRE-320866-CS-INDV /
 Recrutement d’un (e) Consult
 ante) individuelle national (e)
-pour la préparation des instr
-uments de sauvegarde envir
+pour la préparation des instr Improving Teaching Practice En cours d'exécut
+uments de sauvegarde envir IDA / D5800 s A posteriori Individuel Open - National 0.00 ion 2022-12-30 2022-11-03 2023-02-17 2023-03-10 2023-04-14 2023-10-11
 onnementale et sociale dans
 le cadre de la préparation du
 fond additionnel pour le proje
 t NIGER-LIRE : CGES, CPRP, P
 MPP, PGMO, MGP et PEES
-IDA / D5800 Improving Teaching Practice
-s A posteriori Individuel Open - National 0.00 En cours d'exécut
-ion 2022-12-30 2022-11-03 2023-02-17 2023-03-10 2023-04-14 2023-10-11
- NE-P-LIRE-320872-CS-CDS /
+
+NE-P-LIRE-320872-CS-CDS /
 Recrutement de la Firme SN
-MI par Entente Directe pour l
-a Digitalisation du MP-MEN ,l
-a Création d’un Module Com
+MI par Entente Directe pour l Sélection de cons
+a Digitalisation du MP-MEN ,l IDA / D5800 Project Administration and C A posteriori ultants par entent Direct - National 0.00 En cours d'exécut 2023-02-28 2022-11-03 2023-03-30 2023-06-03 2023-08-02
+a Création d’un Module Com oordination e directe ion
 plémentaire , la Conception,
 Développement, Recette et
 Déploiement de l’interface d
 e Gestion en Ligne de la Mobi
 lité
-IDA / D5800 Project Administration and C
-oordination A posteriori
-Sélection de cons
-ultants par entent
-e directe
-Direct - National 0.00 En cours d'exécut
-ion 2023-02-28 2022-11-03 2023-03-30 2023-06-03 2023-08-02
- NE-P-LIRE-333917-CS-CDS /
-Assistance de l'ONG SIL pour
-la formation des éditeurs cha
-rgés de la conception des Liv
+NE-P-LIRE-333917-CS-CDS /
+Assistance de l'ONG SIL pour Project Administration and C Sélection de cons Direct - Internation En cours d'exécut
+la formation des éditeurs cha IDA / D5800 oordination A posteriori ultants par entent al 0.00 ion 2023-03-31 2023-01-24 2023-04-30 2023-07-04 2023-09-02
+rgés de la conception des Liv e directe
 res de lectures au Sahel
-IDA / D5800 Project Administration and C
-oordination A posteriori
-Sélection de cons
-ultants par entent
-e directe
-Direct - Internation
-al 0.00 En cours d'exécut
-ion 2023-03-31 2023-01-24 2023-04-30 2023-07-04 2023-09-02
- NE-P-LIRE-338411-CS-INDV /
+
+NE-P-LIRE-338411-CS-INDV /
 Recrutement d'un consultant
-pour appuyer le processus de
-conception des leçons struct
-urées et  des exercices modè
+pour appuyer le processus de IDA / D5800 Improving Teaching Practice A posteriori Individuel Open - Internationa 0.00 En attente d'exéc 2023-05-27 2023-07-15 2023-08-05 2023-09-09 2024-03-07
+conception des leçons struct s l ution
+urées et des exercices modè
 les pour les élèves des classe
 s de 6e et 5e
-IDA / D5800 Improving Teaching Practice
-s A posteriori Individuel Open - Internationa
-l 0.00 En attente d'exéc
-ution 2023-05-27 2023-07-15 2023-08-05 2023-09-09 2024-03-07
- NE-P-LIRE-338422-CS-INDV /
+
+NE-P-LIRE-338422-CS-INDV /
 Recrutement d'un consultant
-pour élaborer un plan d'acco
-mpagnement des enseignant
+pour élaborer un plan d'acco Improving Teaching Practice En attente d'exéc
+mpagnement des enseignant IDA / D5800 s A posteriori Individuel Open - National 0.00 ution 2023-06-29 2023-08-17 2023-09-07 2023-10-12 2024-04-09
 s déployés en zones d'insécu
 rité incluant les mesures spé
 cifiques en faveur des enseig
 nantes
-IDA / D5800 Improving Teaching Practice
-s A posteriori Individuel Open - National 0.00 En attente d'exéc
-ution 2023-06-29 2023-08-17 2023-09-07 2023-10-12 2024-04-09
- NE-P-LIRE-339515-CS-INDV /
-Recrutement d'un consultant
-pour la réception des classes
-digitales et kits poulsat acqui
+
+NE-P-LIRE-339515-CS-INDV /
+Recrutement d'un consultant Improving Teaching Practice En attente d'exéc
+pour la réception des classes IDA / D5800 A posteriori Individuel Open - National 0.00 2023-05-31 2023-07-19 2023-08-09 2023-09-13 2024-03-11
+digitales et kits poulsat acqui s ution
 s dans le cadre du Projet Nig
 er LIRE
-IDA / D5800 Improving Teaching Practice
-s A posteriori Individuel Open - National 0.00 En attente d'exéc
-ution 2023-05-31 2023-07-19 2023-08-09 2023-09-13 2024-03-11
- NE-P-LIRE-339516-CS-INDV /
-Recrutement d'un consultant
-rédacteur des contenus et an
-imateur  des plateformes nu
+
+NE-P-LIRE-339516-CS-INDV /
+Recrutement d'un consultant Improving Teaching Practice En attente d'exéc
+rédacteur des contenus et an IDA / D5800 s A posteriori Individuel Open - National 0.00 ution 2023-08-31 2023-10-19 2023-11-09 2023-12-14 2024-06-11
+imateur des plateformes nu
 mérique du Ministère de l'Ed
 ucation Nationale
-IDA / D5800 Improving Teaching Practice
-s A posteriori Individuel Open - National 0.00 En attente d'exéc
-ution 2023-08-31 2023-10-19 2023-11-09 2023-12-14 2024-06-11
+
+Page 13

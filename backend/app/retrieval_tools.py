@@ -25,7 +25,13 @@ def get_embeddings() -> HuggingFaceEmbeddings:
     )
 
 
+import os
+
+
 def get_qdrant_client() -> QdrantClient:
+    qdrant_url = os.getenv("QDRANT_URL")
+    if qdrant_url:
+        return QdrantClient(url=qdrant_url)
     # Local Qdrant is stored on disk inside data/qdrant.
     return QdrantClient(path=str(QDRANT_PATH))
 

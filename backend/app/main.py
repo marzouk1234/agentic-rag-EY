@@ -1,5 +1,7 @@
+import os
 from pydantic import BaseModel, Field
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 
 from backend.app.agent_graph import run_agent
 from backend.app.llm_service import generate_answer
@@ -8,6 +10,16 @@ from backend.app.retrieval_tools import search_with_context
 app = FastAPI(
     title="Agentic RAG TdR",
     version="1.0"
+)
+
+# CORS configuration
+allowed_origins = os.getenv("ALLOWED_ORIGINS", "*").split(",")
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=allowed_origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 

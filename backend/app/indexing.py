@@ -61,7 +61,13 @@ def get_embeddings() -> HuggingFaceEmbeddings:
     return HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME)
 
 
+import os
+
+
 def get_qdrant_client() -> QdrantClient:
+    qdrant_url = os.getenv("QDRANT_URL")
+    if qdrant_url:
+        return QdrantClient(url=qdrant_url)
     # Local Qdrant is stored on disk inside data/qdrant.
     return QdrantClient(path=str(QDRANT_PATH))
 
@@ -83,6 +89,14 @@ def ensure_collection_exists(client: QdrantClient, reset: bool) -> None:
     if reset:
         print("Reset de la collection Qdrant...")
         recreate_collection(client)
+        
+        # Nettoyage physique du stockage local des chunks parents
+        print("Nettoyage du dossier parent_store...")
+        for json_file in PARENT_STORE_PATH.glob("*.json"):
+            try:
+                json_file.unlink()
+            except Exception as e:
+                print(f"Impossible de supprimer {json_file.name} : {e}")
         return
 
     if not client.collection_exists(COLLECTION_NAME):

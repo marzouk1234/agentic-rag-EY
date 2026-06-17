@@ -3,8 +3,9 @@ import sys
 from functools import lru_cache
 from pathlib import Path
 from typing import Any
+import os
 
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_community.embeddings import OllamaEmbeddings
 from qdrant_client import QdrantClient
 
 BASE_DIR = Path(__file__).resolve().parents[2]
@@ -13,26 +14,21 @@ PARENT_STORE_PATH = BASE_DIR / "data" / "parent_store"
 QDRANT_PATH = BASE_DIR / "data" / "qdrant"
 
 COLLECTION_NAME = "document_child_chunks"
-EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 
 
 @lru_cache(maxsize=1)
-def get_embeddings() -> HuggingFaceEmbeddings:
-    # Same embedding model as indexing.py.
-    return HuggingFaceEmbeddings(
-        model_name=EMBEDDING_MODEL_NAME,
-        model_kwargs={"local_files_only": True},
+def get_embeddings() -> OllamaEmbeddings:
+    # CORRECTION ICI : Alignement sur le modèle utilisé pour l'indexation
+    return OllamaEmbeddings(
+        base_url="http://host.docker.internal:11434",
+        model="nomic-embed-text"
     )
-
-
-import os
 
 
 def get_qdrant_client() -> QdrantClient:
     qdrant_url = os.getenv("QDRANT_URL")
     if qdrant_url:
         return QdrantClient(url=qdrant_url)
-    # Local Qdrant is stored on disk inside data/qdrant.
     return QdrantClient(path=str(QDRANT_PATH))
 
 

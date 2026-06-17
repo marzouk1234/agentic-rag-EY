@@ -4,11 +4,12 @@ from pathlib import Path
 from uuid import NAMESPACE_URL, uuid5
 
 from langchain_core.documents import Document
-from langchain_huggingface import HuggingFaceEmbeddings
-from langchain_qdrant import QdrantVectorStore
+from langchain_community.embeddings import OllamaEmbeddings
+from langchain_qdrant import Qdrant
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from qdrant_client import QdrantClient
 from qdrant_client.models import Distance, VectorParams
+import os
 
 BASE_DIR = Path(__file__).resolve().parents[2]
 
@@ -18,8 +19,9 @@ PARENT_STORE_PATH = BASE_DIR / "data" / "parent_store"
 QDRANT_PATH = BASE_DIR / "data" / "qdrant"
 
 COLLECTION_NAME = "document_child_chunks"
-EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
-EMBEDDING_DIMENSION = 384
+# MISE À JOUR DU NOM ET DE LA DIMENSION DE RECONNAISSANCE POUR OLLAMA
+EMBEDDING_MODEL_NAME = "nomic-embed-text"
+EMBEDDING_DIMENSION = 768  # nomic-embed-text génère des vecteurs en 768D
 
 PARENT_STORE_PATH.mkdir(parents=True, exist_ok=True)
 QDRANT_PATH.mkdir(parents=True, exist_ok=True)
@@ -56,19 +58,17 @@ def write_parent_document(parent_file: Path, parent_doc: Document) -> None:
         )
 
 
-def get_embeddings() -> HuggingFaceEmbeddings:
-    # This model creates 384-dimension dense vectors for each child chunk.
-    return HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME)
-
-
-import os
+def get_embeddings() -> OllamaEmbeddings:
+    return OllamaEmbeddings(
+        base_url="http://host.docker.internal:11434",
+        model="nomic-embed-text"
+    )
 
 
 def get_qdrant_client() -> QdrantClient:
     qdrant_url = os.getenv("QDRANT_URL")
     if qdrant_url:
         return QdrantClient(url=qdrant_url)
-    # Local Qdrant is stored on disk inside data/qdrant.
     return QdrantClient(path=str(QDRANT_PATH))
 
 
@@ -90,7 +90,6 @@ def ensure_collection_exists(client: QdrantClient, reset: bool) -> None:
         print("Reset de la collection Qdrant...")
         recreate_collection(client)
         
-        # Nettoyage physique du stockage local des chunks parents
         print("Nettoyage du dossier parent_store...")
         for json_file in PARENT_STORE_PATH.glob("*.json"):
             try:
@@ -106,18 +105,16 @@ def ensure_collection_exists(client: QdrantClient, reset: bool) -> None:
 
 def get_vector_store(
     client: QdrantClient,
-    embeddings: HuggingFaceEmbeddings,
-) -> QdrantVectorStore:
-    return QdrantVectorStore(
+    embeddings: OllamaEmbeddings,
+) -> Qdrant:
+    return Qdrant(
         client=client,
         collection_name=COLLECTION_NAME,
-        embedding=embeddings,
+        embeddings=embeddings,
     )
 
 
 def build_qdrant_point_id(child_id: str) -> str:
-    # Qdrant expects a valid UUID for string point ids.
-    # uuid5 keeps the id deterministic for the same child chunk across re-indexing.
     return str(uuid5(NAMESPACE_URL, child_id))
 
 
@@ -211,7 +208,6 @@ def index_documents(reset: bool = False) -> None:
                 total_children += len(child_documents)
 
             if file_child_documents:
-                # Deterministic UUIDs let us re-run indexing without duplicating chunks.
                 vector_store.add_documents(
                     documents=file_child_documents,
                     ids=file_point_ids,
@@ -248,3 +244,4 @@ def parse_args() -> argparse.Namespace:
 if __name__ == "__main__":
     args = parse_args()
     index_documents(reset=args.reset)
+    

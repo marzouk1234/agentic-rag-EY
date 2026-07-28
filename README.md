@@ -1,6 +1,6 @@
 # 🌟 Plateforme Agentic RAG pour l'Analyse Automatisée de Termes de Référence (TdR)
 
-> **Projet de Fin d'Études / Stage – Architecture IA Souveraine et Confidentielle**
+> **Projet de Stage – Architecture IA Souveraine et Confidentielle**
 > *Conçu pour EY Global Government & Public Sector Services*
 
 ---
